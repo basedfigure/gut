@@ -1,0 +1,140 @@
+https://en.wikipedia.org/
+
+Techniques used:  Hard to soft analysis, accessibility, preservation, creativity
+TODO: 		  historic japanese art
+
+
+Categories:	- Search by: ctrl-f,
+card:		card game,
+pawn:		board game,
+sim:		simulation (skirmish),
+rpg:		roleplaying game,
+ip:		intellectual property (brand),
+tcg:		trading card game
+.
+
+Language, universal:
+https://en.wikipedia.org/wiki/Acronym
+
+Disciplines:
+https://en.wikipedia.org/wiki/Historian
+https://en.wikipedia.org/wiki/Librarian
+https://en.wikipedia.org/wiki/Quartermaster
+https://en.wikipedia.org/wiki/Research_and_development
+https://en.wikipedia.org/wiki/Not_invented_here
+https://en.wikipedia.org/wiki/Hacker
+
+Books, figures (author):
+rpg:  https://en.wikipedia.org/wiki/Gary_Gygax
+
+Games - board game, miniature sim, cards & trading:
+ - sorted by year
+card: https://en.wikipedia.org/wiki/Blackjack
+pawn: https://en.wikipedia.org/wiki/Risk_(game)
+sim:  https://en.wikipedia.org/wiki/Chainmail_(game)
+brd:  https://en.wikipedia.org/wiki/Talisman_(board_game)
+sim:  https://en.wikipedia.org/wiki/Warhammer_(game)
+ip:   https://en.wikipedia.org/wiki/Warhammer_Fantasy_(setting)
+tcg:  https://en.wikipedia.org/wiki/Magic:_The_Gathering
+
+Games - role-playing: rpg
+https://en.wikipedia.org/wiki/Rolemaster
+https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
+
+Hardware disciplines:
+https://en.wikipedia.org/wiki/Hardware_architect
+
+Software disciplines:
+https://simple.wikipedia.org/wiki/Software_developer
+https://en.wikipedia.org/wiki/Programmer
+https://en.wikipedia.org/wiki/Computer_engineering
+https://en.wikipedia.org/wiki/System_administrator
+
+Technology, universal:
+https://en.wikipedia.org/wiki/Low_technology
+https://en.wikipedia.org/wiki/Open-source_hardware
+
+Software, universal:
+https://en.wikipedia.org/wiki/Open_source
+https://en.wikipedia.org/wiki/Software_engineering
+https://en.wikipedia.org/wiki/Software_development
+https://en.wikipedia.org/wiki/Software_industry
+
+Software applications:
+https://en.wikipedia.org/wiki/Blender_(software)
+https://en.wikipedia.org/wiki/Modo_(software)
+https://en.wikipedia.org/wiki/Autodesk_Softimage
+
+Software technologies (legacy):
+https://en.wikipedia.org/wiki/Gopher_(protocol)
+
+Software technologies (modern):
+https://en.wikipedia.org/wiki/HTTP
+
+Historical eras, by country:
+https://en.wikipedia.org/wiki/History_of_Japan
+
+Cultures, sub-cultures:
+https://en.wikipedia.org/wiki/Parallel_society
+
+Statecraft: usa
+https://en.wikipedia.org/wiki/Statecraft
+https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population
+https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States
+https://en.wikipedia.org/wiki/Joint_Special_Operations_Command
+en.wikipedia.org/wiki/Director_of_the_Central_Intelligence_Agency
+https://en.wikipedia.org/wiki/Central_Intelligence_Agency
+https://en.wikipedia.org/wiki/Special_Activities_Center
+
+Statecraft (Finnish, en): fin
+https://en.wikipedia.org/wiki/List_of_presidents_of_Finland
+https://en.wikipedia.org/wiki/Utti_Jaeger_Regiment
+https://en.wikipedia.org/wiki/Finnish_Security_and_Intelligence_Service
+https://en.wikipedia.org/wiki/Finnish_Defence_Intelligence_Agency
+https://en.wikipedia.org/wiki/Police_Rapid_Response_Unit_(Finland)
+
+Statecraft (Russian, en): rus
+https://en.wikipedia.org/wiki/List_of_leaders_of_Russia
+https://en.wikipedia.org/wiki/List_of_heads_of_government_of_Russia
+https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Russia
+https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union
+https://en.wikipedia.org/wiki/List_of_presidents_of_Russia
+https://en.wikipedia.org/wiki/List_of_Russian_monarchs
+https://en.wikipedia.org/wiki/Premier_of_the_Soviet_Union
+https://en.wikipedia.org/wiki/Spetsnaz_GRU
+https://en.wikipedia.org/wiki/Federal_Security_Service
+
+Tools & wares: -
+
+Arms & armory, martial weapons:
+https://en.wikipedia.org/wiki/Batarang
+
+Artists, painters (historic, masters):
+https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+https://en.wikipedia.org/wiki/Michelangelo
+https://en.wikipedia.org/wiki/Egon_Schiele
+
+Musicians, composers (historic, masters):
+https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
+
+Musicians, composers (modern):
+https://en.wikipedia.org/wiki/David_Wilde
+
+Art styles & design:
+https://en.wikipedia.org/wiki/Expressionism
+https://en.wikipedia.org/wiki/Skeuomorph
+
+Art films, sub-genres:
+https://en.wikipedia.org/wiki/Art_film
+https://en.wikipedia.org/wiki/Ninja_Scroll
+https://en.wikipedia.org/wiki/Berserk_(1997_TV_series)
+
+Psychology:
+https://en.wikipedia.org/wiki/Id,_ego_and_superego
+https://en.wikipedia.org/wiki/Love
+
+Philoshopy, figures:
+https://en.wikipedia.org/wiki/Martin_Heidegger
+
+Metaphysics:
+https://en.wikipedia.org/wiki/Metaphysics

@@ -1,0 +1,5 @@
+Q4OS, USB install instructions:
+https://www.q4os.org/dqa018.html 
+
+Rufus USB bootables utility:
+https://rufus.ie/en/
