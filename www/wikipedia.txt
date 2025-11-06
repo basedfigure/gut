@@ -1,99 +1,367 @@
-https://en.wikipedia.org/
+Git: https://github.com/basedfigure/gut
+By: zlib (c) 2025 Aleksi 'bf' Koivisto
 
-Techniques used:  Hard to soft analysis, accessibility, preservation, creativity
-TODO: 		  historic japanese art
+Web portal to:	  https://en.wikipedia.org/
 
+Techniques used:  Hard to soft analysis, accessibility, preservation, creativity, randomness by occurrence
+TODO: 		  historic japanese art, web portals, technological marvels, medicine, nutrition, social studies, biology, ecology, neuroscience, magic & aliens
+Continued list:   people lists are better expanded into separate files, when parser hits ... under list, prompted by dialog box
 
-Categories:	- Search by: ctrl-f,
-card:		card game,
-pawn:		board game,
-sim:		simulation (skirmish),
-rpg:		roleplaying game,
-ip:		intellectual property (brand),
-tcg:		trading card game
+Say:		  "Word 4 hire", "Naked thought"
+
+Categories:	  - Search by: ctrl-f,
+lang:		  language (natural, code, slang),
+bark:		  bark!
+card:		  card game,
+pawn:		  board game,
+sim:		  simulation (skirmish),
+rpg:		  roleplaying game,
+ip:		  intellectual property (brand),
+tcg:		  trading card game,
+foss:		  free software; ip
+cpu:		  central processing unit,
+ram:		  random-access memory,
+gpu:		  graphics processing unit,
+fig:		  brain & matter,
+corp:		  incorporated,
+math:		  mathematics, intrinsics,
+rare:		  zzz,
+hard:		  hard science, empirical,
+soft:		  soft, pseudoscience,
+magi:		  for magi,
+al:		  alien
+
+Sub-categories:   -
 .
 
-Language, universal:
-https://en.wikipedia.org/wiki/Acronym
+Language & communication (universal):
+https://en.wikipedia.org/wiki/Expression
+https://en.wikipedia.org/wiki/Body_language
+https://en.wikipedia.org/wiki/Network
+https://en.wikipedia.org/wiki/Art
+https://en.wikipedia.org/wiki/Disinformation
 
-Disciplines:
+
+Language & communication (dictionary):
+https://en.wikipedia.org/wiki/Abstract_and_concrete
+https://en.wikipedia.org/wiki/Acronym
+https://en.wikipedia.org/wiki/Corporeal
+https://en.wikipedia.org/wiki/Appearance
+
+Related shortcuts:  bark
+...
+
+
+Disciplines & professions (universal):
+https://en.wikipedia.org/wiki/Hacker
 https://en.wikipedia.org/wiki/Historian
 https://en.wikipedia.org/wiki/Librarian
+https://en.wikipedia.org/wiki/Bureaucrat
 https://en.wikipedia.org/wiki/Quartermaster
-https://en.wikipedia.org/wiki/Research_and_development
+
+
+Disciplines, professions & techniques (universal):
 https://en.wikipedia.org/wiki/Not_invented_here
-https://en.wikipedia.org/wiki/Hacker
+https://en.wikipedia.org/wiki/Research_and_development
+https://en.wikipedia.org/wiki/Hacking
+https://en.wikipedia.org/wiki/Heuristic
+https://en.wikipedia.org/wiki/Mnemonic
+https://en.wikipedia.org/wiki/Mastery_learning
+https://en.wikipedia.org/wiki/Information_warfare
 
-Books, figures (author):
-rpg:  https://en.wikipedia.org/wiki/Gary_Gygax
 
-Games - board game, miniature sim, cards & trading:
- - sorted by year
-card: https://en.wikipedia.org/wiki/Blackjack
-pawn: https://en.wikipedia.org/wiki/Risk_(game)
-sim:  https://en.wikipedia.org/wiki/Chainmail_(game)
-brd:  https://en.wikipedia.org/wiki/Talisman_(board_game)
-sim:  https://en.wikipedia.org/wiki/Warhammer_(game)
-ip:   https://en.wikipedia.org/wiki/Warhammer_Fantasy_(setting)
-tcg:  https://en.wikipedia.org/wiki/Magic:_The_Gathering
+Disciplines & professions (historic):
+https://en.wikipedia.org/wiki/Hunter-gatherer
 
-Games - role-playing: rpg
-https://en.wikipedia.org/wiki/Rolemaster
-https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
 
-Hardware disciplines:
+Electronics & hardware technologies (universal): hw
+https://en.wikipedia.org/wiki/Low_technology
+https://en.wikipedia.org/wiki/High-_and_low-level
+https://en.wikipedia.org/wiki/Electronic_circuit
+https://en.wikipedia.org/wiki/Computer
+https://en.wikipedia.org/wiki/Information_technology
+foss:  https://en.wikipedia.org/wiki/Open-source_hardware
+https://en.wikipedia.org/wiki/Proprietary_hardware
+cpu:   https://en.wikipedia.org/wiki/Central_processing_unit
+ram:   https://en.wikipedia.org/wiki/Random-access_memory
+gpu:   https://en.wikipedia.org/wiki/Graphics_processing_unit
+https://en.wikipedia.org/wiki/Microprocessor
+https://en.wikipedia.org/wiki/Networking_hardware
+https://en.wikipedia.org/wiki/Server_(computing)
+https://en.wikipedia.org/wiki/Client-server_model
+https://en.wikipedia.org/wiki/Computer_architecture
+https://en.wikipedia.org/wiki/Embedded_system
+https://en.wikipedia.org/wiki/Legacy_system
+https://en.wikipedia.org/wiki/Formal_specification
+https://en.wikipedia.org/wiki/Proof_of_work
+foss:  -
+https://en.wikipedia.org/wiki/RISC-V
+https://en.wikipedia.org/wiki/RISC-V_ecosystem
+corp:  -
+https://en.wikipedia.org/wiki/3dfx
+
+
+Electronics & hardware technologies (legacy): hw...
+
+
+Electronics & hardware disciplines:
 https://en.wikipedia.org/wiki/Hardware_architect
 
-Software disciplines:
+
+Software & programming techniques & disciplines:
 https://simple.wikipedia.org/wiki/Software_developer
 https://en.wikipedia.org/wiki/Programmer
 https://en.wikipedia.org/wiki/Computer_engineering
 https://en.wikipedia.org/wiki/System_administrator
+https://en.wikipedia.org/wiki/Software_architect
 
-Technology, universal:
-https://en.wikipedia.org/wiki/Low_technology
-https://en.wikipedia.org/wiki/Open-source_hardware
 
-Software, universal:
+Software & programming techniques & technologies (universal):
+Related shortcuts:  cpu, ram, gpu
+-
+foss:
+https://en.wikipedia.org/wiki/Linux
+https://en.wikipedia.org/wiki/Linux_adoption
+-
+https://en.wikipedia.org/wiki/Source_code
+https://en.wikipedia.org/wiki/Software_portability
+https://en.wikipedia.org/wiki/Cross-platform_software
+https://en.wikipedia.org/wiki/Utility_software
+https://en.wikipedia.org/wiki/Middleware
+https://en.wikipedia.org/wiki/Compiler
+https://en.wikipedia.org/wiki/Linker_(computing)
+https://en.wikipedia.org/wiki/Emulator
+https://en.wikipedia.org/wiki/Programming_complexity
+math:
+https://en.wikipedia.org/wiki/Abstract_data_type
+https://en.wikipedia.org/wiki/Heap_(data_structure)
+https://en.wikipedia.org/wiki/Data_type
+lang:
+https://en.wikipedia.org/wiki/Function_(computer_programming)
+https://en.wikipedia.org/wiki/Programming_paradigm
+https://en.wikipedia.org/wiki/Procedural_programming
+https://en.wikipedia.org/wiki/Functional_programming
+https://en.wikipedia.org/wiki/Object-oriented_programming
+-
+https://en.wikipedia.org/wiki/Library_(computing)
+https://en.wikipedia.org/wiki/WYSIWYG
+https://en.wikipedia.org/wiki/Rapid_application_development
+https://en.wikipedia.org/wiki/Visual_programming_language
+foss:  -
 https://en.wikipedia.org/wiki/Open_source
+https://en.wikipedia.org/wiki/Free_software
+https://en.wikipedia.org/wiki/Free_Software_Foundation
+-
 https://en.wikipedia.org/wiki/Software_engineering
 https://en.wikipedia.org/wiki/Software_development
 https://en.wikipedia.org/wiki/Software_industry
+https://en.wikipedia.org/wiki/Software_architecture
+ip:   https://en.wikipedia.org/wiki/Proprietary_software
 
-Software applications:
-https://en.wikipedia.org/wiki/Blender_(software)
-https://en.wikipedia.org/wiki/Modo_(software)
+
+Software applications & technologies, by purpose:
+3d:   -
+https://en.wikipedia.org/wiki/PowerAnimator
+https://en.wikipedia.org/wiki/Electric_Image_Animation_System
+https://en.wikipedia.org/wiki/Bryce_(software)
 https://en.wikipedia.org/wiki/Autodesk_Softimage
+https://en.wikipedia.org/wiki/Blender_(software)
+https://en.wikipedia.org/wiki/Autodesk_Maya
+https://en.wikipedia.org/wiki/ZBrush
+https://en.wikipedia.org/wiki/Modo_(software)
+os:   -
+https://en.wikipedia.org/wiki/Workbench_(AmigaOS)
+https://en.wikipedia.org/wiki/MS-DOS
+https://en.wikipedia.org/wiki/Windows_95
+https://en.wikipedia.org/wiki/Windows_2000
+https://en.wikipedia.org/wiki/Windows_XP
+lic:  -
+https://en.wikipedia.org/wiki/Zlib_License
+lib:  -
+https://en.wikipedia.org/wiki/Zlib
+corp: -
+https://en.wikipedia.org/wiki/Microsoft_Windows
+https://en.wikipedia.org/wiki/Apple_Inc.
+https://en.wikipedia.org/wiki/Software_as_a_service
 
-Software technologies (legacy):
+
+Software technologies (legacy): -
 https://en.wikipedia.org/wiki/Gopher_(protocol)
 
 Software technologies (modern):
+https://en.wikipedia.org/wiki/Machine_code
+https://en.wikipedia.org/wiki/Assembly_language
+https://en.wikipedia.org/wiki/Pascal_(programming_language)
+https://en.wikipedia.org/wiki/Object_Pascal
+https://en.wikipedia.org/wiki/Free_Pascal
+https://en.wikipedia.org/wiki/C_(programming_language)
 https://en.wikipedia.org/wiki/HTTP
+https://en.wikipedia.org/wiki/RSS
 
-Historical eras, by country:
+Software, game development & design:
+https://en.wikipedia.org/wiki/Game_design
+https://en.wikipedia.org/wiki/Game_studies
+https://en.wikipedia.org/wiki/Game_art_design
+https://en.wikipedia.org/wiki/Game_design_document
+https://en.wikipedia.org/wiki/Asset_flip
+
+
+Robotics & automation technologies (universal):
+https://en.wikipedia.org/wiki/Robotics
+https://en.wikipedia.org/wiki/Robotics_middleware
+https://en.wikipedia.org/wiki/Boston_Dynamics
+
+
+Vehicles, transportation & logistics (universal):
+https://en.wikipedia.org/wiki/Logistics
+
+
+Machines & mechanical devices (universal):
+https://en.wikipedia.org/wiki/Machine
+https://en.wikipedia.org/wiki/Mechanical_engineering
+
+
+Entertainment productions (games): -
+
+
+Games & simulations design & literature:
+bet:   https://en.wikipedia.org/wiki/Gambling
+bet:   https://en.wikipedia.org/wiki/Online_gambling
+
+Games - cards & trading, board game, miniature sim, gambling: - card,tcg,pawn,sim,bet
+ - sorted by year
+card:  https://en.wikipedia.org/wiki/Blackjack
+pawn:  https://en.wikipedia.org/wiki/Risk_(game)
+sim:   https://en.wikipedia.org/wiki/Chainmail_(game)
+pawn:  https://en.wikipedia.org/wiki/Talisman_(board_game)
+sim:   https://en.wikipedia.org/wiki/Warhammer_(game)
+ip:    https://en.wikipedia.org/wiki/Warhammer_Fantasy_(setting)
+pawn:  https://en.wikipedia.org/wiki/HeroQuest
+tcg:   https://en.wikipedia.org/wiki/Magic:_The_Gathering
+
+Games - role-playing:  rpg
+https://en.wikipedia.org/wiki/Dungeons_&_Dragons
+https://en.wikipedia.org/wiki/Rolemaster
+https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
+
+
+Entertainment productions (films):
+https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
+
+Entertainment & art house productions (films):
+https://en.wikipedia.org/wiki/Art_film
+https://en.wikipedia.org/wiki/Ninja_Scroll
+https://en.wikipedia.org/wiki/Berserk_(1997_TV_series)
+
+
+Tools, wares & compounds (universal):
+nvg:  -
+https://en.wikipedia.org/wiki/Night_vision
+https://en.wikipedia.org/wiki/Night-vision_device
+
+
+Areas, sites & monuments, by country (modern): -
+https://en.wikipedia.org/wiki/Spain
+https://en.wikipedia.org/wiki/Cuba
+https://en.wikipedia.org/wiki/Havana
+
+Areas, sites & monuments, by country (historic):
+https://en.wikipedia.org/wiki/Spanish_Empire
+https://en.wikipedia.org/wiki/Library_of_Alexandria
+
+
+Building, construction industry & zoning (universal):
+https://en.wikipedia.org/wiki/Construction
+https://en.wikipedia.org/wiki/Zoning
+
+
+Economics, banking & trade (universal):
+https://en.wikipedia.org/wiki/Bank
+https://en.wikipedia.org/wiki/Economy
+https://en.wikipedia.org/wiki/Business
+https://en.wikipedia.org/wiki/Macroeconomics
+https://en.wikipedia.org/wiki/Gross_domestic_product
+https://en.wikipedia.org/wiki/Cryptocurrency
+usa:
+https://en.wikipedia.org/wiki/Banking_in_the_United_States
+
+
+Law, order & bureaucracy (universal):
+https://en.wikipedia.org/wiki/Law
+https://en.wikipedia.org/wiki/Bureaucrat
+https://en.wikipedia.org/wiki/Bureaucracy
+
+Law, order & criminal justice:
+https://en.wikipedia.org/wiki/Attorney_at_law
+https://en.wikipedia.org/wiki/Lawyer
+https://en.wikipedia.org/wiki/Jury
+https://en.wikipedia.org/wiki/Intention_(criminal_law)
+https://en.wikipedia.org/wiki/Corruption
+https://en.wikipedia.org/wiki/Embezzlement
+
+
+Historical eras, by country, faction:
 https://en.wikipedia.org/wiki/History_of_Japan
+https://en.wikipedia.org/wiki/Rōnin
+https://en.wikipedia.org/wiki/Ninjutsu
 
-Cultures, sub-cultures:
+Populations & culture (universal):
 https://en.wikipedia.org/wiki/Parallel_society
 
-Statecraft: usa
+
+Statecraft (universal):
 https://en.wikipedia.org/wiki/Statecraft
+https://en.wikipedia.org/wiki/Independence
+https://en.wikipedia.org/wiki/Politician
+https://en.wikipedia.org/wiki/Independent_politician
+https://en.wikipedia.org/wiki/Political_correctness
+https://en.wikipedia.org/wiki/Diplomat
+https://en.wikipedia.org/wiki/Diplomacy
+https://en.wikipedia.org/wiki/Diplomatics
+https://en.wikipedia.org/wiki/Diplomatic_immunity
+https://en.wikipedia.org/wiki/Censorship
+https://en.wikipedia.org/wiki/Intellectual_property
+https://en.wikipedia.org/wiki/Foreign_policy
+https://en.wikipedia.org/wiki/Patriotism
+https://en.wikipedia.org/wiki/Neutral_country
+https://en.wikipedia.org/wiki/Statelessness
+https://en.wikipedia.org/wiki/Stateless_nation
+
+Statecraft, political systems:
+https://en.wikipedia.org/wiki/Democracy
+https://en.wikipedia.org/wiki/Election_law
+https://en.wikipedia.org/wiki/Meritocracy
+https://en.wikipedia.org/wiki/Anarchism
+https://en.wikipedia.org/wiki/Pirate_Party
+https://en.wikipedia.org/wiki/Communism
+https://en.wikipedia.org/wiki/Authoritarian_socialism
+...
+https://en.wikipedia.org/wiki/Red_Scare
+https://en.wikipedia.org/wiki/Decommunization
+
+
+Statecraft (American): usa
 https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population
 https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States
-https://en.wikipedia.org/wiki/Joint_Special_Operations_Command
-en.wikipedia.org/wiki/Director_of_the_Central_Intelligence_Agency
-https://en.wikipedia.org/wiki/Central_Intelligence_Agency
-https://en.wikipedia.org/wiki/Special_Activities_Center
+https://en.wikipedia.org/wiki/United_States_Armed_Forces
+usmc:  https://en.wikipedia.org/wiki/United_States_Marine_Corps
+jsoc:  https://en.wikipedia.org/wiki/Joint_Special_Operations_Command
+cia:   https://en.wikipedia.org/wiki/Central_Intelligence_Agency
+https://en.wikipedia.org/wiki/Director_of_the_Central_Intelligence_Agency
+sac:   https://en.wikipedia.org/wiki/Special_Activities_Center
+https://en.wikipedia.org/wiki/American_Finnish
+https://en.wikipedia.org/wiki/American_imperialism
 
-Statecraft (Finnish, en): fin
+Statecraft (Finnish): fin
 https://en.wikipedia.org/wiki/List_of_presidents_of_Finland
-https://en.wikipedia.org/wiki/Utti_Jaeger_Regiment
-https://en.wikipedia.org/wiki/Finnish_Security_and_Intelligence_Service
+https://en.wikipedia.org/wiki/Finnish_Defence_Forces
+utjr:  https://en.wikipedia.org/wiki/Utti_Jaeger_Regiment
+supo:  https://en.wikipedia.org/wiki/Finnish_Security_and_Intelligence_Service
 https://en.wikipedia.org/wiki/Finnish_Defence_Intelligence_Agency
 https://en.wikipedia.org/wiki/Police_Rapid_Response_Unit_(Finland)
+https://en.wikipedia.org/wiki/Finnish_Americans
 
-Statecraft (Russian, en): rus
+Statecraft (Russian): rus
 https://en.wikipedia.org/wiki/List_of_leaders_of_Russia
 https://en.wikipedia.org/wiki/List_of_heads_of_government_of_Russia
 https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Russia
@@ -101,40 +369,123 @@ https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union
 https://en.wikipedia.org/wiki/List_of_presidents_of_Russia
 https://en.wikipedia.org/wiki/List_of_Russian_monarchs
 https://en.wikipedia.org/wiki/Premier_of_the_Soviet_Union
-https://en.wikipedia.org/wiki/Spetsnaz_GRU
-https://en.wikipedia.org/wiki/Federal_Security_Service
+https://en.wikipedia.org/wiki/Russian_Armed_Forces
+gru:  https://en.wikipedia.org/wiki/Spetsnaz_GRU
+fsb:  https://en.wikipedia.org/wiki/Federal_Security_Service
+https://en.wikipedia.org/wiki/Russians_in_Finland
+https://en.wikipedia.org/wiki/Karelia
+https://en.wikipedia.org/wiki/Russian_imperialism
 
-Tools & wares: -
+Statecraft, figures (Cuban): cuba
+https://en.wikipedia.org/wiki/Fidel_Castro
+https://en.wikipedia.org/wiki/Che_Guevara
 
-Arms & armory, martial weapons:
+
+Arms & armory, heavy weapons (platforms):
+https://en.wikipedia.org/wiki/Mutual_assured_destruction
+https://en.wikipedia.org/wiki/Weapon_of_mass_destruction
+
+Arms & armory, guns (small arms):
+https://en.wikipedia.org/wiki/Small_arms_and_light_weapons
+https://en.wikipedia.org/wiki/Firearm
+https://en.wikipedia.org/wiki/Small_arms_trade
+https://en.wikipedia.org/wiki/Estimated_number_of_civilian_guns_per_capita_by_country
+https://en.wikipedia.org/wiki/AK-47
+
+Arms & armory, martial weapons (legacy):
+https://en.wikipedia.org/wiki/Katana
 https://en.wikipedia.org/wiki/Batarang
+
+
+Scientific fields & knowledge:  hard
+https://en.wikipedia.org/wiki/Empirical_evidence
+https://en.wikipedia.org/wiki/Evolutionary_biology
+https://en.wikipedia.org/wiki/Physics
+https://en.wikipedia.org/wiki/Linguistics
+
+Mathematical fields & knowledge:  hard
+https://en.wikipedia.org/wiki/Mathematical_proof
+https://en.wikipedia.org/wiki/Mathematics
+
+Books & literature, by figure(s) (author):
+rpg:   https://en.wikipedia.org/wiki/Gary_Gygax
+
 
 Artists, painters (historic, masters):
 https://en.wikipedia.org/wiki/Leonardo_da_Vinci
 https://en.wikipedia.org/wiki/Michelangelo
 https://en.wikipedia.org/wiki/Egon_Schiele
 
+Art styles & visual design:
+https://en.wikipedia.org/wiki/Expressionism
+https://en.wikipedia.org/wiki/Skeuomorph
+
+
 Musicians, composers (historic, masters):
 https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
 
 Musicians, composers (modern):
+https://en.wikipedia.org/wiki/Jean_Sibelius
 https://en.wikipedia.org/wiki/David_Wilde
 
-Art styles & design:
-https://en.wikipedia.org/wiki/Expressionism
-https://en.wikipedia.org/wiki/Skeuomorph
 
-Art films, sub-genres:
-https://en.wikipedia.org/wiki/Art_film
-https://en.wikipedia.org/wiki/Ninja_Scroll
-https://en.wikipedia.org/wiki/Berserk_(1997_TV_series)
+Martial arts & combat sports, by system, arm:
+https://en.wikipedia.org/wiki/Judo
+https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu
+https://en.wikipedia.org/wiki/Boxing
+- arm
+https://en.wikipedia.org/wiki/Tantojutsu
+https://en.wikipedia.org/wiki/Historical_European_martial_arts
 
-Psychology:
+
+Psychology & human behavior (universal): soft
 https://en.wikipedia.org/wiki/Id,_ego_and_superego
+https://en.wikipedia.org/wiki/Subconscious
+https://en.wikipedia.org/wiki/Cognition
+https://en.wikipedia.org/wiki/Learning_disability
 https://en.wikipedia.org/wiki/Love
+https://en.wikipedia.org/wiki/Cognitive_dissonance
 
-Philoshopy, figures:
+
+Religious schools & theology (universal):
+https://en.wikipedia.org/wiki/Religion
+https://en.wikipedia.org/wiki/Theology
+
+Religious schools & theology, by figure(s):
+https://en.wikipedia.org/wiki/Jesus
+https://en.wikipedia.org/wiki/Pope
+
+
+Philosophical fields & wisdom (universal):
+https://en.wikipedia.org/wiki/Philosophy
+https://en.wikipedia.org/wiki/Empiricism
+
+Philosophical fields & wisdom, by figure(s):
 https://en.wikipedia.org/wiki/Martin_Heidegger
 
-Metaphysics:
+Metaphysical fields & theology (universal):
 https://en.wikipedia.org/wiki/Metaphysics
+.
+
+
+Temporarily unsorted:
+https://en.wikipedia.org/wiki/Piracy
+https://en.wikipedia.org/wiki/Underdog
+https://en.wikipedia.org/wiki/Peaceful_Revolution
+https://en.wikipedia.org/wiki/Peaceful_Evolution_theory
+https://en.wikipedia.org/wiki/Assassination
+https://en.wikipedia.org/wiki/List_of_assassinations_of_the_Sri_Lankan_civil_war
+https://en.wikipedia.org/wiki/Intrinsics
+https://en.wikipedia.org/wiki/Population
+https://en.wikipedia.org/wiki/Metapopulation
+https://en.wikipedia.org/wiki/Overpopulation
+https://en.wikipedia.org/wiki/Ecology
+https://en.wikipedia.org/wiki/Magi
+
+
+bark:
+https://en.wikipedia.org/wiki/Finnish_profanity#Paska
+https://en.wikipedia.org/wiki/Finnish_profanity#vittu
+https://en.wikipedia.org/wiki/Finnish_profanity#Runkata
+https://en.wikipedia.org/wiki/Finnish_profanity#Saatana
+https://en.wikipedia.org/wiki/Finnish_profanity#Perkele
