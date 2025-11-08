@@ -4,13 +4,13 @@ By: zlib (c) 2025 Aleksi 'bf' Koivisto
 Web portal to:	  https://en.wikipedia.org/
 
 Techniques used:  Hard to soft analysis, accessibility, preservation, creativity, randomness by occurrence
-TODO: 		  historic japanese art, web portals, technological marvels, medicine, nutrition, social studies, biology, ecology, neuroscience, magic & aliens
-Continued list:   people lists are better expanded into separate files, when parser hits ... under list, prompted by dialog box
+TODO: 		  historic japanese art, web portals, technological marvels, medicine, nutrition, social studies, biology, ecology, neuroscience, mysteries, mythology, magic & aliens
+Continued list:   compounding lists are better expanded into separate files, when parser hits ... under list, prompted by dialog box
 
-Say:		  "Word 4 hire", "Naked thought"
+Say:		  "Word 4 hire", "Naked thought", "Stay awhile and read"
 
 Categories:	  - Search by: ctrl-f,
-lang:		  language (natural, code, slang),
+lang:		  language (natural, code, slang, encoded),
 bark:		  bark!
 card:		  card game,
 pawn:		  board game,
@@ -25,11 +25,15 @@ gpu:		  graphics processing unit,
 fig:		  brain & matter,
 corp:		  incorporated,
 math:		  mathematics, intrinsics,
-rare:		  zzz,
+stat:		  statistics,
+rare:		  statz,
 hard:		  hard science, empirical,
 soft:		  soft, pseudoscience,
 magi:		  for magi,
-al:		  alien
+al:		  alien,
+vis:		  vision, imaging,
+myst:		  mystery,
+beef:		  philosophy, tribalism, flesh & bones
 
 Sub-categories:   -
 .
@@ -60,13 +64,14 @@ https://en.wikipedia.org/wiki/Bureaucrat
 https://en.wikipedia.org/wiki/Quartermaster
 
 
-Disciplines, professions & techniques (universal):
+Disciplines & techniques (universal):
 https://en.wikipedia.org/wiki/Not_invented_here
-https://en.wikipedia.org/wiki/Research_and_development
 https://en.wikipedia.org/wiki/Hacking
 https://en.wikipedia.org/wiki/Heuristic
 https://en.wikipedia.org/wiki/Mnemonic
+https://en.wikipedia.org/wiki/Research_and_development
 https://en.wikipedia.org/wiki/Mastery_learning
+https://en.wikipedia.org/wiki/Creative_problem-solving
 https://en.wikipedia.org/wiki/Information_warfare
 
 
@@ -108,7 +113,7 @@ Electronics & hardware disciplines:
 https://en.wikipedia.org/wiki/Hardware_architect
 
 
-Software & programming techniques & disciplines:
+Software - programming techniques & disciplines:
 https://simple.wikipedia.org/wiki/Software_developer
 https://en.wikipedia.org/wiki/Programmer
 https://en.wikipedia.org/wiki/Computer_engineering
@@ -116,7 +121,7 @@ https://en.wikipedia.org/wiki/System_administrator
 https://en.wikipedia.org/wiki/Software_architect
 
 
-Software & programming techniques & technologies (universal):
+Software - programming techniques & technologies (universal):
 Related shortcuts:  cpu, ram, gpu
 -
 foss:
@@ -157,9 +162,17 @@ https://en.wikipedia.org/wiki/Software_development
 https://en.wikipedia.org/wiki/Software_industry
 https://en.wikipedia.org/wiki/Software_architecture
 ip:   https://en.wikipedia.org/wiki/Proprietary_software
+beef: https://en.wikipedia.org/wiki/Editor_war
 
 
-Software applications & technologies, by purpose:
+Software applications & technologies, by purpose (legacy, modern):
+os:   -
+https://en.wikipedia.org/wiki/Workbench_(AmigaOS)
+https://en.wikipedia.org/wiki/MS-DOS
+https://en.wikipedia.org/wiki/Linux
+https://en.wikipedia.org/wiki/Windows_95
+https://en.wikipedia.org/wiki/Windows_2000
+https://en.wikipedia.org/wiki/Windows_XP
 3d:   -
 https://en.wikipedia.org/wiki/PowerAnimator
 https://en.wikipedia.org/wiki/Electric_Image_Animation_System
@@ -169,12 +182,6 @@ https://en.wikipedia.org/wiki/Blender_(software)
 https://en.wikipedia.org/wiki/Autodesk_Maya
 https://en.wikipedia.org/wiki/ZBrush
 https://en.wikipedia.org/wiki/Modo_(software)
-os:   -
-https://en.wikipedia.org/wiki/Workbench_(AmigaOS)
-https://en.wikipedia.org/wiki/MS-DOS
-https://en.wikipedia.org/wiki/Windows_95
-https://en.wikipedia.org/wiki/Windows_2000
-https://en.wikipedia.org/wiki/Windows_XP
 lic:  -
 https://en.wikipedia.org/wiki/Zlib_License
 lib:  -
@@ -219,12 +226,13 @@ https://en.wikipedia.org/wiki/Logistics
 Machines & mechanical devices (universal):
 https://en.wikipedia.org/wiki/Machine
 https://en.wikipedia.org/wiki/Mechanical_engineering
+https://en.wikipedia.org/wiki/Clockwork
 
 
 Entertainment productions (games): -
 
 
-Games & simulations design & literature:
+Games - simulations design & literature:
 bet:   https://en.wikipedia.org/wiki/Gambling
 bet:   https://en.wikipedia.org/wiki/Online_gambling
 
@@ -238,6 +246,7 @@ sim:   https://en.wikipedia.org/wiki/Warhammer_(game)
 ip:    https://en.wikipedia.org/wiki/Warhammer_Fantasy_(setting)
 pawn:  https://en.wikipedia.org/wiki/HeroQuest
 tcg:   https://en.wikipedia.org/wiki/Magic:_The_Gathering
+bet:   https://en.wikipedia.org/wiki/Roulette
 
 Games - role-playing:  rpg
 https://en.wikipedia.org/wiki/Dungeons_&_Dragons
@@ -248,24 +257,27 @@ https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
 Entertainment productions (films):
 https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
 
-Entertainment & art house productions (films):
+Entertainment & art house productions (films ...):
 https://en.wikipedia.org/wiki/Art_film
 https://en.wikipedia.org/wiki/Ninja_Scroll
 https://en.wikipedia.org/wiki/Berserk_(1997_TV_series)
+https://en.wikipedia.org/wiki/Digimon
 
 
 Tools, wares & compounds (universal):
+vis:
+https://en.wikipedia.org/wiki/Binoculars
 nvg:  -
 https://en.wikipedia.org/wiki/Night_vision
 https://en.wikipedia.org/wiki/Night-vision_device
 
 
-Areas, sites & monuments, by country (modern): -
+Geographical areas, sites & monuments, by country (modern): -
 https://en.wikipedia.org/wiki/Spain
 https://en.wikipedia.org/wiki/Cuba
 https://en.wikipedia.org/wiki/Havana
 
-Areas, sites & monuments, by country (historic):
+Geographical areas, sites & monuments, by country (historic):
 https://en.wikipedia.org/wiki/Spanish_Empire
 https://en.wikipedia.org/wiki/Library_of_Alexandria
 
@@ -281,6 +293,8 @@ https://en.wikipedia.org/wiki/Economy
 https://en.wikipedia.org/wiki/Business
 https://en.wikipedia.org/wiki/Macroeconomics
 https://en.wikipedia.org/wiki/Gross_domestic_product
+https://en.wikipedia.org/wiki/Online_banking
+https://en.wikipedia.org/wiki/Payment_card
 https://en.wikipedia.org/wiki/Cryptocurrency
 usa:
 https://en.wikipedia.org/wiki/Banking_in_the_United_States
@@ -305,7 +319,7 @@ https://en.wikipedia.org/wiki/History_of_Japan
 https://en.wikipedia.org/wiki/Rōnin
 https://en.wikipedia.org/wiki/Ninjutsu
 
-Populations & culture (universal):
+Populations, culture & society (universal):
 https://en.wikipedia.org/wiki/Parallel_society
 
 
@@ -401,25 +415,23 @@ Scientific fields & knowledge:  hard
 https://en.wikipedia.org/wiki/Empirical_evidence
 https://en.wikipedia.org/wiki/Evolutionary_biology
 https://en.wikipedia.org/wiki/Physics
-https://en.wikipedia.org/wiki/Linguistics
 
 Mathematical fields & knowledge:  hard
 https://en.wikipedia.org/wiki/Mathematical_proof
 https://en.wikipedia.org/wiki/Mathematics
 
+
 Books & literature, by figure(s) (author):
 rpg:   https://en.wikipedia.org/wiki/Gary_Gygax
-
-
-Artists, painters (historic, masters):
-https://en.wikipedia.org/wiki/Leonardo_da_Vinci
-https://en.wikipedia.org/wiki/Michelangelo
-https://en.wikipedia.org/wiki/Egon_Schiele
 
 Art styles & visual design:
 https://en.wikipedia.org/wiki/Expressionism
 https://en.wikipedia.org/wiki/Skeuomorph
 
+Artists, painters (historic, masters):
+https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+https://en.wikipedia.org/wiki/Michelangelo
+https://en.wikipedia.org/wiki/Egon_Schiele
 
 Musicians, composers (historic, masters):
 https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
@@ -438,7 +450,9 @@ https://en.wikipedia.org/wiki/Tantojutsu
 https://en.wikipedia.org/wiki/Historical_European_martial_arts
 
 
-Psychology & human behavior (universal): soft
+Psychology, human behavior & conditions (universal):  soft
+https://en.wikipedia.org/wiki/Psychology
+https://en.wikipedia.org/wiki/Mind
 https://en.wikipedia.org/wiki/Id,_ego_and_superego
 https://en.wikipedia.org/wiki/Subconscious
 https://en.wikipedia.org/wiki/Cognition
@@ -446,10 +460,19 @@ https://en.wikipedia.org/wiki/Learning_disability
 https://en.wikipedia.org/wiki/Love
 https://en.wikipedia.org/wiki/Cognitive_dissonance
 
+Psychology, mental conditions & characterization:
+https://en.wikipedia.org/wiki/Autism
+https://en.wikipedia.org/wiki/Misophonia
+
+Linquistics & language studies:  soft
+https://en.wikipedia.org/wiki/Linguistics
 
 Religious schools & theology (universal):
 https://en.wikipedia.org/wiki/Religion
 https://en.wikipedia.org/wiki/Theology
+https://en.wikipedia.org/wiki/Daimon
+https://en.wikipedia.org/wiki/Demon
+https://en.wikipedia.org/wiki/Satanic_panic
 
 Religious schools & theology, by figure(s):
 https://en.wikipedia.org/wiki/Jesus
@@ -481,7 +504,12 @@ https://en.wikipedia.org/wiki/Metapopulation
 https://en.wikipedia.org/wiki/Overpopulation
 https://en.wikipedia.org/wiki/Ecology
 https://en.wikipedia.org/wiki/Magi
-
+https://en.wikipedia.org/wiki/Karen
+https://en.wikipedia.org/wiki/Dyslexia_in_popular_culture
+https://en.wikipedia.org/wiki/Autism_and_LGBTQ_identities
+https://en.wikipedia.org/wiki/Spaceflight
+https://en.wikipedia.org/wiki/Russian_roulette
+https://en.wikipedia.org/wiki/Hypersensitivity
 
 bark:
 https://en.wikipedia.org/wiki/Finnish_profanity#Paska
