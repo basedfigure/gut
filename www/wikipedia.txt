@@ -254,10 +254,13 @@ https://en.wikipedia.org/wiki/Rolemaster
 https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
 
 
-Entertainment productions (films):
+Entertainment productions & films:
+usa:
 https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
+jap:
+https://en.wikipedia.org/wiki/Harakiri_(1962_film)
 
-Entertainment & art house productions (films ...):
+Entertainment, media & art house productions:
 https://en.wikipedia.org/wiki/Art_film
 https://en.wikipedia.org/wiki/Ninja_Scroll
 https://en.wikipedia.org/wiki/Berserk_(1997_TV_series)
@@ -265,12 +268,12 @@ https://en.wikipedia.org/wiki/Digimon
 
 
 Tools, wares & compounds (universal):
-vis:
+vis:  -
 https://en.wikipedia.org/wiki/Binoculars
 nvg:  -
 https://en.wikipedia.org/wiki/Night_vision
 https://en.wikipedia.org/wiki/Night-vision_device
-
+https://en.wikipedia.org/wiki/Cuban_cigar
 
 Geographical areas, sites & monuments, by country (modern): -
 https://en.wikipedia.org/wiki/Spain
@@ -293,11 +296,17 @@ https://en.wikipedia.org/wiki/Economy
 https://en.wikipedia.org/wiki/Business
 https://en.wikipedia.org/wiki/Macroeconomics
 https://en.wikipedia.org/wiki/Gross_domestic_product
+https://en.wikipedia.org/wiki/Euro
+https://en.wikipedia.org/wiki/Dollar
+https://en.wikipedia.org/wiki/Israeli_new_shekel
 https://en.wikipedia.org/wiki/Online_banking
 https://en.wikipedia.org/wiki/Payment_card
 https://en.wikipedia.org/wiki/Cryptocurrency
 usa:
 https://en.wikipedia.org/wiki/Banking_in_the_United_States
+
+Economics, banking & trade (historic):
+https://en.wikipedia.org/wiki/Finnish_markka
 
 
 Law, order & bureaucracy (universal):
@@ -320,8 +329,9 @@ https://en.wikipedia.org/wiki/Rōnin
 https://en.wikipedia.org/wiki/Ninjutsu
 
 Populations, culture & society (universal):
+https://en.wikipedia.org/wiki/Sociology_of_religion
 https://en.wikipedia.org/wiki/Parallel_society
-
+https://en.wikipedia.org/wiki/Satanic_panic
 
 Statecraft (universal):
 https://en.wikipedia.org/wiki/Statecraft
@@ -341,20 +351,23 @@ https://en.wikipedia.org/wiki/Neutral_country
 https://en.wikipedia.org/wiki/Statelessness
 https://en.wikipedia.org/wiki/Stateless_nation
 
-Statecraft, political systems:
+Statecraft, political systems & ideologies:
 https://en.wikipedia.org/wiki/Democracy
 https://en.wikipedia.org/wiki/Election_law
 https://en.wikipedia.org/wiki/Meritocracy
-https://en.wikipedia.org/wiki/Anarchism
-https://en.wikipedia.org/wiki/Pirate_Party
 https://en.wikipedia.org/wiki/Communism
 https://en.wikipedia.org/wiki/Authoritarian_socialism
+https://en.wikipedia.org/wiki/Pirate_Party
+https://en.wikipedia.org/wiki/Anarchism
 ...
-https://en.wikipedia.org/wiki/Red_Scare
 https://en.wikipedia.org/wiki/Decommunization
+https://en.wikipedia.org/wiki/Red_Scare
 
+Statecraft, security & intelligence (civilian, militaristic):
+https://en.wikipedia.org/wiki/Tradecraft
 
 Statecraft (American): usa
+https://en.wikipedia.org/wiki/United_States
 https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population
 https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States
 https://en.wikipedia.org/wiki/United_States_Armed_Forces
@@ -366,7 +379,13 @@ sac:   https://en.wikipedia.org/wiki/Special_Activities_Center
 https://en.wikipedia.org/wiki/American_Finnish
 https://en.wikipedia.org/wiki/American_imperialism
 
+Statecraft, figures (Cuban): cub
+https://en.wikipedia.org/wiki/Cuba
+https://en.wikipedia.org/wiki/Fidel_Castro
+https://en.wikipedia.org/wiki/Che_Guevara
+
 Statecraft (Finnish): fin
+https://en.wikipedia.org/wiki/Finland
 https://en.wikipedia.org/wiki/List_of_presidents_of_Finland
 https://en.wikipedia.org/wiki/Finnish_Defence_Forces
 utjr:  https://en.wikipedia.org/wiki/Utti_Jaeger_Regiment
@@ -375,7 +394,13 @@ https://en.wikipedia.org/wiki/Finnish_Defence_Intelligence_Agency
 https://en.wikipedia.org/wiki/Police_Rapid_Response_Unit_(Finland)
 https://en.wikipedia.org/wiki/Finnish_Americans
 
+Statecraft (Israeli): isr
+https://en.wikipedia.org/wiki/Israel
+moss:  https://en.wikipedia.org/wiki/Mossad
+shin:  https://en.wikipedia.org/wiki/Shin_Bet
+
 Statecraft (Russian): rus
+https://en.wikipedia.org/wiki/Russia
 https://en.wikipedia.org/wiki/List_of_leaders_of_Russia
 https://en.wikipedia.org/wiki/List_of_heads_of_government_of_Russia
 https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Russia
@@ -389,10 +414,6 @@ fsb:  https://en.wikipedia.org/wiki/Federal_Security_Service
 https://en.wikipedia.org/wiki/Russians_in_Finland
 https://en.wikipedia.org/wiki/Karelia
 https://en.wikipedia.org/wiki/Russian_imperialism
-
-Statecraft, figures (Cuban): cuba
-https://en.wikipedia.org/wiki/Fidel_Castro
-https://en.wikipedia.org/wiki/Che_Guevara
 
 
 Arms & armory, heavy weapons (platforms):
@@ -458,30 +479,39 @@ https://en.wikipedia.org/wiki/Subconscious
 https://en.wikipedia.org/wiki/Cognition
 https://en.wikipedia.org/wiki/Learning_disability
 https://en.wikipedia.org/wiki/Love
-https://en.wikipedia.org/wiki/Cognitive_dissonance
 
 Psychology, mental conditions & characterization:
+https://en.wikipedia.org/wiki/Intelligence_quotient
+https://en.wikipedia.org/wiki/Empathy_quotient
+https://en.wikipedia.org/wiki/Cognitive_dissonance
+https://en.wikipedia.org/wiki/Dyslexia
 https://en.wikipedia.org/wiki/Autism
 https://en.wikipedia.org/wiki/Misophonia
 
 Linquistics & language studies:  soft
 https://en.wikipedia.org/wiki/Linguistics
 
+
 Religious schools & theology (universal):
 https://en.wikipedia.org/wiki/Religion
 https://en.wikipedia.org/wiki/Theology
 https://en.wikipedia.org/wiki/Daimon
 https://en.wikipedia.org/wiki/Demon
-https://en.wikipedia.org/wiki/Satanic_panic
 
-Religious schools & theology, by figure(s):
+Religious schools & theology, by group, figure(s):
+https://en.wikipedia.org/wiki/Ethnic_religion
+https://en.wikipedia.org/wiki/Folk_religion
+https://en.wikipedia.org/wiki/Major_religious_groups
 https://en.wikipedia.org/wiki/Jesus
 https://en.wikipedia.org/wiki/Pope
+https://en.wikipedia.org/wiki/Magi
 
 
 Philosophical fields & wisdom (universal):
 https://en.wikipedia.org/wiki/Philosophy
+https://en.wikipedia.org/wiki/Atheism
 https://en.wikipedia.org/wiki/Empiricism
+https://en.wikipedia.org/wiki/Positivism
 
 Philosophical fields & wisdom, by figure(s):
 https://en.wikipedia.org/wiki/Martin_Heidegger
@@ -510,6 +540,12 @@ https://en.wikipedia.org/wiki/Autism_and_LGBTQ_identities
 https://en.wikipedia.org/wiki/Spaceflight
 https://en.wikipedia.org/wiki/Russian_roulette
 https://en.wikipedia.org/wiki/Hypersensitivity
+https://en.wikipedia.org/wiki/Poverty
+https://en.wikipedia.org/wiki/Suicide
+https://en.wikipedia.org/wiki/Advocacy_of_suicide
+https://en.wikipedia.org/wiki/Suicide_attempt
+https://en.wikipedia.org/wiki/Seppuku
+.
 
 bark:
 https://en.wikipedia.org/wiki/Finnish_profanity#Paska
