@@ -7,11 +7,22 @@ Techniques used:  Hard to soft analysis, accessibility, preservation, creativity
 TODO: 		  historic japanese art, web portals, technological marvels, medicine, nutrition, social studies, biology, ecology, neuroscience, mysteries, mythology, magic & aliens
 Continued list:   compounding lists are better expanded into separate files, when parser hits ... under list, prompted by dialog box
 
-Say:		  "Word 4 hire", "Naked thought", "Stay awhile and read"
+Say:		  "Word 4 hire", "Naked thought", "Stay a while and read"
 
 Categories:	  - Search by: ctrl-f,
+data:		  -
+list:		  -
+
+Sub-categories:   - Search by: ctrl-f,
 lang:		  language (natural, code, slang, encoded),
 bark:		  bark!
+proj:		  project,
+hw:		  hardware, electronics,
+cpu:		  central processing unit,
+ram:		  random-access memory,
+gpu:		  graphics processing unit,
+plug:		  plug-in,
+mw:		  middleware,
 card:		  card game,
 pawn:		  board game,
 sim:		  simulation (skirmish),
@@ -19,9 +30,6 @@ rpg:		  roleplaying game,
 ip:		  intellectual property (brand),
 tcg:		  trading card game,
 foss:		  free software; ip
-cpu:		  central processing unit,
-ram:		  random-access memory,
-gpu:		  graphics processing unit,
 fig:		  brain & matter,
 corp:		  incorporated,
 math:		  mathematics, intrinsics,
@@ -33,24 +41,31 @@ magi:		  for magi,
 al:		  alien,
 vis:		  vision, imaging,
 myst:		  mystery,
-beef:		  philosophy, tribalism, flesh & bones
-
-Sub-categories:   -
+beef:		  philosophy, tribalism, flesh & bones,
+curr:  		  currency,
 .
 
+
 Language & communication (universal):
+https://en.wikipedia.org/wiki/Word
 https://en.wikipedia.org/wiki/Expression
 https://en.wikipedia.org/wiki/Body_language
 https://en.wikipedia.org/wiki/Network
 https://en.wikipedia.org/wiki/Art
 https://en.wikipedia.org/wiki/Disinformation
 
-
-Language & communication (dictionary):
+Language & communication (data, transient):
 https://en.wikipedia.org/wiki/Abstract_and_concrete
-https://en.wikipedia.org/wiki/Acronym
+https://en.wikipedia.org/wiki/Girl
+https://en.wikipedia.org/wiki/Woman
+https://en.wikipedia.org/wiki/Boy
+https://en.wikipedia.org/wiki/Man
 https://en.wikipedia.org/wiki/Corporeal
 https://en.wikipedia.org/wiki/Appearance
+
+Language & communication formats (writing):
+https://en.wikipedia.org/wiki/Format
+https://en.wikipedia.org/wiki/Acronym
 
 Related shortcuts:  bark
 ...
@@ -79,7 +94,7 @@ Disciplines & professions (historic):
 https://en.wikipedia.org/wiki/Hunter-gatherer
 
 
-Electronics & hardware technologies (universal): hw
+Electronics & hardware technologies (universal):  hw
 https://en.wikipedia.org/wiki/Low_technology
 https://en.wikipedia.org/wiki/High-_and_low-level
 https://en.wikipedia.org/wiki/Electronic_circuit
@@ -106,7 +121,7 @@ corp:  -
 https://en.wikipedia.org/wiki/3dfx
 
 
-Electronics & hardware technologies (legacy): hw...
+Electronics & hardware technologies (legacy):  hw...
 
 
 Electronics & hardware disciplines:
@@ -120,7 +135,6 @@ https://en.wikipedia.org/wiki/Computer_engineering
 https://en.wikipedia.org/wiki/System_administrator
 https://en.wikipedia.org/wiki/Software_architect
 
-
 Software - programming techniques & technologies (universal):
 Related shortcuts:  cpu, ram, gpu
 -
@@ -133,15 +147,16 @@ https://en.wikipedia.org/wiki/Software_portability
 https://en.wikipedia.org/wiki/Cross-platform_software
 https://en.wikipedia.org/wiki/Utility_software
 https://en.wikipedia.org/wiki/Middleware
+https://en.wikipedia.org/wiki/Middleware_(distributed_applications)
 https://en.wikipedia.org/wiki/Compiler
 https://en.wikipedia.org/wiki/Linker_(computing)
 https://en.wikipedia.org/wiki/Emulator
 https://en.wikipedia.org/wiki/Programming_complexity
-math:
-https://en.wikipedia.org/wiki/Abstract_data_type
+data:
 https://en.wikipedia.org/wiki/Heap_(data_structure)
 https://en.wikipedia.org/wiki/Data_type
 lang:
+https://en.wikipedia.org/wiki/Abstract_data_type
 https://en.wikipedia.org/wiki/Function_(computer_programming)
 https://en.wikipedia.org/wiki/Programming_paradigm
 https://en.wikipedia.org/wiki/Procedural_programming
@@ -174,6 +189,8 @@ https://en.wikipedia.org/wiki/Windows_95
 https://en.wikipedia.org/wiki/Windows_2000
 https://en.wikipedia.org/wiki/Windows_XP
 3d:   -
+list:  https://en.wikipedia.org/wiki/List_of_3D_modeling_software
+https://en.wikipedia.org/wiki/3D_modeling
 https://en.wikipedia.org/wiki/PowerAnimator
 https://en.wikipedia.org/wiki/Electric_Image_Animation_System
 https://en.wikipedia.org/wiki/Bryce_(software)
@@ -182,11 +199,15 @@ https://en.wikipedia.org/wiki/Blender_(software)
 https://en.wikipedia.org/wiki/Autodesk_Maya
 https://en.wikipedia.org/wiki/ZBrush
 https://en.wikipedia.org/wiki/Modo_(software)
-lic:  -
+proj:  -
+https://en.wikipedia.org/wiki/FFmpeg
+plug:  -
+https://en.wikipedia.org/wiki/SyFlex
+lic:   -
 https://en.wikipedia.org/wiki/Zlib_License
-lib:  -
+lib:   -
 https://en.wikipedia.org/wiki/Zlib
-corp: -
+corp:  -
 https://en.wikipedia.org/wiki/Microsoft_Windows
 https://en.wikipedia.org/wiki/Apple_Inc.
 https://en.wikipedia.org/wiki/Software_as_a_service
@@ -195,7 +216,7 @@ https://en.wikipedia.org/wiki/Software_as_a_service
 Software technologies (legacy): -
 https://en.wikipedia.org/wiki/Gopher_(protocol)
 
-Software technologies (modern):
+Software technologies & tools (modern):
 https://en.wikipedia.org/wiki/Machine_code
 https://en.wikipedia.org/wiki/Assembly_language
 https://en.wikipedia.org/wiki/Pascal_(programming_language)
@@ -205,19 +226,10 @@ https://en.wikipedia.org/wiki/C_(programming_language)
 https://en.wikipedia.org/wiki/HTTP
 https://en.wikipedia.org/wiki/RSS
 
-Software, game development & design:
-https://en.wikipedia.org/wiki/Game_design
-https://en.wikipedia.org/wiki/Game_studies
-https://en.wikipedia.org/wiki/Game_art_design
-https://en.wikipedia.org/wiki/Game_design_document
-https://en.wikipedia.org/wiki/Asset_flip
-
-
 Robotics & automation technologies (universal):
 https://en.wikipedia.org/wiki/Robotics
 https://en.wikipedia.org/wiki/Robotics_middleware
 https://en.wikipedia.org/wiki/Boston_Dynamics
-
 
 Vehicles, transportation & logistics (universal):
 https://en.wikipedia.org/wiki/Logistics
@@ -229,29 +241,8 @@ https://en.wikipedia.org/wiki/Mechanical_engineering
 https://en.wikipedia.org/wiki/Clockwork
 
 
-Entertainment productions (games): -
-
-
-Games - simulations design & literature:
-bet:   https://en.wikipedia.org/wiki/Gambling
-bet:   https://en.wikipedia.org/wiki/Online_gambling
-
-Games - cards & trading, board game, miniature sim, gambling: - card,tcg,pawn,sim,bet
- - sorted by year
-card:  https://en.wikipedia.org/wiki/Blackjack
-pawn:  https://en.wikipedia.org/wiki/Risk_(game)
-sim:   https://en.wikipedia.org/wiki/Chainmail_(game)
-pawn:  https://en.wikipedia.org/wiki/Talisman_(board_game)
-sim:   https://en.wikipedia.org/wiki/Warhammer_(game)
-ip:    https://en.wikipedia.org/wiki/Warhammer_Fantasy_(setting)
-pawn:  https://en.wikipedia.org/wiki/HeroQuest
-tcg:   https://en.wikipedia.org/wiki/Magic:_The_Gathering
-bet:   https://en.wikipedia.org/wiki/Roulette
-
-Games - role-playing:  rpg
-https://en.wikipedia.org/wiki/Dungeons_&_Dragons
-https://en.wikipedia.org/wiki/Rolemaster
-https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
+Entertainment productions, games & interactive media:  aaa, saas, vr
+https://en.wikipedia.org/wiki/Asset_flip
 
 
 Entertainment productions & films:
@@ -291,36 +282,39 @@ https://en.wikipedia.org/wiki/Zoning
 
 
 Economics, banking & trade (universal):
+https://en.wikipedia.org/wiki/Currency
 https://en.wikipedia.org/wiki/Bank
 https://en.wikipedia.org/wiki/Economy
 https://en.wikipedia.org/wiki/Business
 https://en.wikipedia.org/wiki/Macroeconomics
 https://en.wikipedia.org/wiki/Gross_domestic_product
-https://en.wikipedia.org/wiki/Euro
-https://en.wikipedia.org/wiki/Dollar
-https://en.wikipedia.org/wiki/Israeli_new_shekel
 https://en.wikipedia.org/wiki/Online_banking
 https://en.wikipedia.org/wiki/Payment_card
 https://en.wikipedia.org/wiki/Cryptocurrency
+curr:
+https://en.wikipedia.org/wiki/Euro
+https://en.wikipedia.org/wiki/Dollar
+https://en.wikipedia.org/wiki/Israeli_new_shekel
 usa:
 https://en.wikipedia.org/wiki/Banking_in_the_United_States
 
 Economics, banking & trade (historic):
-https://en.wikipedia.org/wiki/Finnish_markka
+curr:  https://en.wikipedia.org/wiki/Finnish_markka
 
 
 Law, order & bureaucracy (universal):
 https://en.wikipedia.org/wiki/Law
 https://en.wikipedia.org/wiki/Bureaucrat
 https://en.wikipedia.org/wiki/Bureaucracy
+https://en.wikipedia.org/wiki/Corruption
+https://en.wikipedia.org/wiki/Bribery
+https://en.wikipedia.org/wiki/Embezzlement
 
 Law, order & criminal justice:
 https://en.wikipedia.org/wiki/Attorney_at_law
 https://en.wikipedia.org/wiki/Lawyer
 https://en.wikipedia.org/wiki/Jury
 https://en.wikipedia.org/wiki/Intention_(criminal_law)
-https://en.wikipedia.org/wiki/Corruption
-https://en.wikipedia.org/wiki/Embezzlement
 
 
 Historical eras, by country, faction:
@@ -350,6 +344,7 @@ https://en.wikipedia.org/wiki/Patriotism
 https://en.wikipedia.org/wiki/Neutral_country
 https://en.wikipedia.org/wiki/Statelessness
 https://en.wikipedia.org/wiki/Stateless_nation
+https://en.wikipedia.org/wiki/Universal_basic_income
 
 Statecraft, political systems & ideologies:
 https://en.wikipedia.org/wiki/Democracy
@@ -363,8 +358,13 @@ https://en.wikipedia.org/wiki/Anarchism
 https://en.wikipedia.org/wiki/Decommunization
 https://en.wikipedia.org/wiki/Red_Scare
 
-Statecraft, security & intelligence (civilian, militaristic):
+
+Statecraft, security & intelligence (universal):
 https://en.wikipedia.org/wiki/Tradecraft
+
+
+Statecraft, government institutions (common): -
+
 
 Statecraft (American): usa
 https://en.wikipedia.org/wiki/United_States
@@ -373,7 +373,8 @@ https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States
 https://en.wikipedia.org/wiki/United_States_Armed_Forces
 usmc:  https://en.wikipedia.org/wiki/United_States_Marine_Corps
 jsoc:  https://en.wikipedia.org/wiki/Joint_Special_Operations_Command
-cia:   https://en.wikipedia.org/wiki/Central_Intelligence_Agency
+cia:   
+https://en.wikipedia.org/wiki/Central_Intelligence_Agency
 https://en.wikipedia.org/wiki/Director_of_the_Central_Intelligence_Agency
 sac:   https://en.wikipedia.org/wiki/Special_Activities_Center
 https://en.wikipedia.org/wiki/American_Finnish
@@ -387,6 +388,7 @@ https://en.wikipedia.org/wiki/Che_Guevara
 Statecraft (Finnish): fin
 https://en.wikipedia.org/wiki/Finland
 https://en.wikipedia.org/wiki/List_of_presidents_of_Finland
+kela:  https://en.wikipedia.org/wiki/Kela_(institution)
 https://en.wikipedia.org/wiki/Finnish_Defence_Forces
 utjr:  https://en.wikipedia.org/wiki/Utti_Jaeger_Regiment
 supo:  https://en.wikipedia.org/wiki/Finnish_Security_and_Intelligence_Service
@@ -396,8 +398,8 @@ https://en.wikipedia.org/wiki/Finnish_Americans
 
 Statecraft (Israeli): isr
 https://en.wikipedia.org/wiki/Israel
-moss:  https://en.wikipedia.org/wiki/Mossad
 shin:  https://en.wikipedia.org/wiki/Shin_Bet
+moss:  https://en.wikipedia.org/wiki/Mossad
 
 Statecraft (Russian): rus
 https://en.wikipedia.org/wiki/Russia
@@ -424,26 +426,58 @@ Arms & armory, guns (small arms):
 https://en.wikipedia.org/wiki/Small_arms_and_light_weapons
 https://en.wikipedia.org/wiki/Firearm
 https://en.wikipedia.org/wiki/Small_arms_trade
-https://en.wikipedia.org/wiki/Estimated_number_of_civilian_guns_per_capita_by_country
 https://en.wikipedia.org/wiki/AK-47
+...
+https://en.wikipedia.org/wiki/Estimated_number_of_civilian_guns_per_capita_by_country
 
 Arms & armory, martial weapons (legacy):
 https://en.wikipedia.org/wiki/Katana
 https://en.wikipedia.org/wiki/Batarang
 
 
-Scientific fields & knowledge:  hard
+Scientific fields, techniques & knowledge:  hard
 https://en.wikipedia.org/wiki/Empirical_evidence
+https://en.wikipedia.org/wiki/Biology
 https://en.wikipedia.org/wiki/Evolutionary_biology
+https://en.wikipedia.org/wiki/Medicine
 https://en.wikipedia.org/wiki/Physics
+https://en.wikipedia.org/wiki/Computer_science
 
-Mathematical fields & knowledge:  hard
+Mathematical fields, techniques & knowledge:  hard
 https://en.wikipedia.org/wiki/Mathematical_proof
 https://en.wikipedia.org/wiki/Mathematics
 
+Software research & institutions, by figure:
+https://en.wikipedia.org/wiki/Niklaus_Wirth
+
+Games - cards & trading, board game, miniature sim, gambling: - card,tcg,pawn,sim,bet
+ - sorted by year
+card:  https://en.wikipedia.org/wiki/Blackjack
+pawn:  https://en.wikipedia.org/wiki/Risk_(game)
+sim:   https://en.wikipedia.org/wiki/Chainmail_(game)
+pawn:  https://en.wikipedia.org/wiki/Talisman_(board_game)
+sim:   https://en.wikipedia.org/wiki/Warhammer_(game)
+ip:    https://en.wikipedia.org/wiki/Warhammer_Fantasy_(setting)
+pawn:  https://en.wikipedia.org/wiki/HeroQuest
+tcg:   https://en.wikipedia.org/wiki/Magic:_The_Gathering
+bet:   https://en.wikipedia.org/wiki/Roulette
 
 Books & literature, by figure(s) (author):
 rpg:   https://en.wikipedia.org/wiki/Gary_Gygax
+
+Games, role-playing design & literature:  rpg
+https://en.wikipedia.org/wiki/Dungeons_&_Dragons
+https://en.wikipedia.org/wiki/Rolemaster
+https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
+
+Games, simulations design & literature:  
+https://en.wikipedia.org/wiki/Game_theory
+https://en.wikipedia.org/wiki/Game_design
+https://en.wikipedia.org/wiki/Game_studies
+https://en.wikipedia.org/wiki/Game_art_design
+https://en.wikipedia.org/wiki/Game_design_document
+bet:   https://en.wikipedia.org/wiki/Gambling
+bet:   https://en.wikipedia.org/wiki/Online_gambling
 
 Art styles & visual design:
 https://en.wikipedia.org/wiki/Expressionism
@@ -463,6 +497,7 @@ https://en.wikipedia.org/wiki/David_Wilde
 
 
 Martial arts & combat sports, by system, arm:
+https://en.wikipedia.org/wiki/Karate
 https://en.wikipedia.org/wiki/Judo
 https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu
 https://en.wikipedia.org/wiki/Boxing
@@ -480,7 +515,7 @@ https://en.wikipedia.org/wiki/Cognition
 https://en.wikipedia.org/wiki/Learning_disability
 https://en.wikipedia.org/wiki/Love
 
-Psychology, mental conditions & characterization:
+Psychology, mental conditions & characterization:  soft
 https://en.wikipedia.org/wiki/Intelligence_quotient
 https://en.wikipedia.org/wiki/Empathy_quotient
 https://en.wikipedia.org/wiki/Cognitive_dissonance
@@ -545,6 +580,8 @@ https://en.wikipedia.org/wiki/Suicide
 https://en.wikipedia.org/wiki/Advocacy_of_suicide
 https://en.wikipedia.org/wiki/Suicide_attempt
 https://en.wikipedia.org/wiki/Seppuku
+https://en.wikipedia.org/wiki/Metatheory
+https://en.wikipedia.org/wiki/Acquired_characteristic
 .
 
 bark:
