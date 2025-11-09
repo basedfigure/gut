@@ -5,13 +5,21 @@ Web portal to:	  https://en.wikipedia.org/
 
 Techniques used:  Hard to soft analysis, accessibility, preservation, creativity, randomness by occurrence
 TODO: 		  historic japanese art, web portals, technological marvels, medicine, nutrition, social studies, biology, ecology, neuroscience, mysteries, mythology, magic & aliens
+TODO:		  url toggling
 Continued list:   compounding lists are better expanded into separate files, when parser hits ... under list, prompted by dialog box
 
-Say:		  "Word 4 hire", "Naked thought", "Stay a while and read"
+Say:		  "Word 4 hire", "Naked thought", "Stay a while and read", "Split into pieces", "Scatter"
 
 Categories:	  - Search by: ctrl-f,
 data:		  -
 list:		  -
+
+Countries:	  -
+usa:		  United States of America,
+cub:		  Cuba,
+fin:		  Finland,
+jap:		  Japan,
+rus:		  Russia
 
 Sub-categories:   - Search by: ctrl-f,
 lang:		  language (natural, code, slang, encoded),
@@ -43,6 +51,8 @@ vis:		  vision, imaging,
 myst:		  mystery,
 beef:		  philosophy, tribalism, flesh & bones,
 curr:  		  currency,
+cult:		  cultist, occultist, philosophic/religious/spiritual
+exo:		  culture (arts, history), training, exoticism
 .
 
 
@@ -50,11 +60,10 @@ Language & communication (universal):
 https://en.wikipedia.org/wiki/Word
 https://en.wikipedia.org/wiki/Expression
 https://en.wikipedia.org/wiki/Body_language
-https://en.wikipedia.org/wiki/Network
 https://en.wikipedia.org/wiki/Art
-https://en.wikipedia.org/wiki/Disinformation
 
 Language & communication (data, transient):
+https://en.wikipedia.org/wiki/Knowledge
 https://en.wikipedia.org/wiki/Abstract_and_concrete
 https://en.wikipedia.org/wiki/Girl
 https://en.wikipedia.org/wiki/Woman
@@ -63,9 +72,10 @@ https://en.wikipedia.org/wiki/Man
 https://en.wikipedia.org/wiki/Corporeal
 https://en.wikipedia.org/wiki/Appearance
 
-Language & communication formats (writing):
+Language & communication formats, by system (writing):
 https://en.wikipedia.org/wiki/Format
 https://en.wikipedia.org/wiki/Acronym
+https://en.wikipedia.org/wiki/Network
 
 Related shortcuts:  bark
 ...
@@ -73,11 +83,11 @@ Related shortcuts:  bark
 
 Disciplines & professions (universal):
 https://en.wikipedia.org/wiki/Hacker
+https://en.wikipedia.org/wiki/Woodcutter
 https://en.wikipedia.org/wiki/Historian
 https://en.wikipedia.org/wiki/Librarian
 https://en.wikipedia.org/wiki/Bureaucrat
 https://en.wikipedia.org/wiki/Quartermaster
-
 
 Disciplines & techniques (universal):
 https://en.wikipedia.org/wiki/Not_invented_here
@@ -86,12 +96,15 @@ https://en.wikipedia.org/wiki/Heuristic
 https://en.wikipedia.org/wiki/Mnemonic
 https://en.wikipedia.org/wiki/Research_and_development
 https://en.wikipedia.org/wiki/Mastery_learning
+https://en.wikipedia.org/wiki/Subject-matter_expert
 https://en.wikipedia.org/wiki/Creative_problem-solving
+https://en.wikipedia.org/wiki/Misinformation
+https://en.wikipedia.org/wiki/Disinformation
 https://en.wikipedia.org/wiki/Information_warfare
-
 
 Disciplines & professions (historic):
 https://en.wikipedia.org/wiki/Hunter-gatherer
+https://en.wikipedia.org/wiki/Peasant
 
 
 Electronics & hardware technologies (universal):  hw
@@ -145,11 +158,12 @@ https://en.wikipedia.org/wiki/Linux_adoption
 https://en.wikipedia.org/wiki/Source_code
 https://en.wikipedia.org/wiki/Software_portability
 https://en.wikipedia.org/wiki/Cross-platform_software
+https://en.wikipedia.org/wiki/Compiler
+https://en.wikipedia.org/wiki/Linker_(computing)
+https://en.wikipedia.org/wiki/Parsing
 https://en.wikipedia.org/wiki/Utility_software
 https://en.wikipedia.org/wiki/Middleware
 https://en.wikipedia.org/wiki/Middleware_(distributed_applications)
-https://en.wikipedia.org/wiki/Compiler
-https://en.wikipedia.org/wiki/Linker_(computing)
 https://en.wikipedia.org/wiki/Emulator
 https://en.wikipedia.org/wiki/Programming_complexity
 data:
@@ -181,14 +195,15 @@ beef: https://en.wikipedia.org/wiki/Editor_war
 
 
 Software applications & technologies, by purpose (legacy, modern):
-os:   -
+os:    -
 https://en.wikipedia.org/wiki/Workbench_(AmigaOS)
 https://en.wikipedia.org/wiki/MS-DOS
 https://en.wikipedia.org/wiki/Linux
 https://en.wikipedia.org/wiki/Windows_95
 https://en.wikipedia.org/wiki/Windows_2000
 https://en.wikipedia.org/wiki/Windows_XP
-3d:   -
+https://en.wikipedia.org/wiki/MacOS
+3d:    -
 list:  https://en.wikipedia.org/wiki/List_of_3D_modeling_software
 https://en.wikipedia.org/wiki/3D_modeling
 https://en.wikipedia.org/wiki/PowerAnimator
@@ -201,12 +216,16 @@ https://en.wikipedia.org/wiki/ZBrush
 https://en.wikipedia.org/wiki/Modo_(software)
 proj:  -
 https://en.wikipedia.org/wiki/FFmpeg
+https://en.wikipedia.org/wiki/Git
+https://en.wikipedia.org/wiki/Fossil_(software)
 plug:  -
 https://en.wikipedia.org/wiki/SyFlex
-lic:   -
-https://en.wikipedia.org/wiki/Zlib_License
 lib:   -
 https://en.wikipedia.org/wiki/Zlib
+lic:   -
+https://en.wikipedia.org/wiki/Zlib_License
+plat:  -
+https://en.wikipedia.org/wiki/GitHub
 corp:  -
 https://en.wikipedia.org/wiki/Microsoft_Windows
 https://en.wikipedia.org/wiki/Apple_Inc.
@@ -234,6 +253,7 @@ https://en.wikipedia.org/wiki/Boston_Dynamics
 Vehicles, transportation & logistics (universal):
 https://en.wikipedia.org/wiki/Logistics
 
+To-do: automotive...
 
 Machines & mechanical devices (universal):
 https://en.wikipedia.org/wiki/Machine
@@ -241,21 +261,23 @@ https://en.wikipedia.org/wiki/Mechanical_engineering
 https://en.wikipedia.org/wiki/Clockwork
 
 
-Entertainment productions, games & interactive media:  aaa, saas, vr
+Entertainment, games & interactive media productions:  aaa, saas, vr
 https://en.wikipedia.org/wiki/Asset_flip
 
-
-Entertainment productions & films:
+Entertainment, multimedia & film productions:
 usa:
+https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)
 https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
 jap:
 https://en.wikipedia.org/wiki/Harakiri_(1962_film)
 
-Entertainment, media & art house productions:
-https://en.wikipedia.org/wiki/Art_film
+Entertainment, multimedia & art house productions:
 https://en.wikipedia.org/wiki/Ninja_Scroll
 https://en.wikipedia.org/wiki/Berserk_(1997_TV_series)
 https://en.wikipedia.org/wiki/Digimon
+
+Entertainment, audio & music productions:
+https://en.wikipedia.org/wiki/Fuck_tha_Police
 
 
 Tools, wares & compounds (universal):
@@ -264,7 +286,9 @@ https://en.wikipedia.org/wiki/Binoculars
 nvg:  -
 https://en.wikipedia.org/wiki/Night_vision
 https://en.wikipedia.org/wiki/Night-vision_device
+.
 https://en.wikipedia.org/wiki/Cuban_cigar
+
 
 Geographical areas, sites & monuments, by country (modern): -
 https://en.wikipedia.org/wiki/Spain
@@ -274,7 +298,6 @@ https://en.wikipedia.org/wiki/Havana
 Geographical areas, sites & monuments, by country (historic):
 https://en.wikipedia.org/wiki/Spanish_Empire
 https://en.wikipedia.org/wiki/Library_of_Alexandria
-
 
 Building, construction industry & zoning (universal):
 https://en.wikipedia.org/wiki/Construction
@@ -302,13 +325,15 @@ Economics, banking & trade (historic):
 curr:  https://en.wikipedia.org/wiki/Finnish_markka
 
 
-Law, order & bureaucracy (universal):
+Law, order & legislation (universal):
 https://en.wikipedia.org/wiki/Law
 https://en.wikipedia.org/wiki/Bureaucrat
 https://en.wikipedia.org/wiki/Bureaucracy
 https://en.wikipedia.org/wiki/Corruption
 https://en.wikipedia.org/wiki/Bribery
 https://en.wikipedia.org/wiki/Embezzlement
+...
+https://en.wikipedia.org/wiki/Overview_of_gun_laws_by_nation
 
 Law, order & criminal justice:
 https://en.wikipedia.org/wiki/Attorney_at_law
@@ -318,13 +343,19 @@ https://en.wikipedia.org/wiki/Intention_(criminal_law)
 
 
 Historical eras, by country, faction:
+usa:
+https://en.wikipedia.org/wiki/European_colonization_of_the_Americas
+https://en.wikipedia.org/wiki/Colonial_history_of_the_United_States
+jap:
 https://en.wikipedia.org/wiki/History_of_Japan
 https://en.wikipedia.org/wiki/Rōnin
 https://en.wikipedia.org/wiki/Ninjutsu
 
 Populations, culture & society (universal):
-https://en.wikipedia.org/wiki/Sociology_of_religion
+https://en.wikipedia.org/wiki/Counterculture
 https://en.wikipedia.org/wiki/Parallel_society
+...
+https://en.wikipedia.org/wiki/Sociology_of_religion
 https://en.wikipedia.org/wiki/Satanic_panic
 
 Statecraft (universal):
@@ -337,8 +368,8 @@ https://en.wikipedia.org/wiki/Diplomat
 https://en.wikipedia.org/wiki/Diplomacy
 https://en.wikipedia.org/wiki/Diplomatics
 https://en.wikipedia.org/wiki/Diplomatic_immunity
-https://en.wikipedia.org/wiki/Censorship
 https://en.wikipedia.org/wiki/Intellectual_property
+https://en.wikipedia.org/wiki/Censorship
 https://en.wikipedia.org/wiki/Foreign_policy
 https://en.wikipedia.org/wiki/Patriotism
 https://en.wikipedia.org/wiki/Neutral_country
@@ -418,25 +449,59 @@ https://en.wikipedia.org/wiki/Karelia
 https://en.wikipedia.org/wiki/Russian_imperialism
 
 
-Arms & armory, heavy weapons (platforms):
+Arms & armory - unmanned heavy weapons (platforms):
 https://en.wikipedia.org/wiki/Mutual_assured_destruction
 https://en.wikipedia.org/wiki/Weapon_of_mass_destruction
 
-Arms & armory, guns (small arms):
+Arms & armory - unmanned weapons (platforms):
+https://en.wikipedia.org/wiki/Drone_warfare
+
+Arms & armory - manned heavy weapons (platforms):
+https://en.wikipedia.org/wiki/Air_superiority_fighter
+
+Arms & armory - bombs, shrapnel propelled munitions (portable):
+https://en.wikipedia.org/wiki/Grenade
+https://en.wikipedia.org/wiki/C-4_(explosive)
+https://en.wikipedia.org/wiki/Pipe_bomb
+
+Arms & armory - light personnel weapons (portable):
+https://en.wikipedia.org/wiki/RPG-7
+
+Arms & armory - guns (small arms):
 https://en.wikipedia.org/wiki/Small_arms_and_light_weapons
 https://en.wikipedia.org/wiki/Firearm
-https://en.wikipedia.org/wiki/Small_arms_trade
+https://en.wikipedia.org/wiki/Short-barrelled_shotgun
 https://en.wikipedia.org/wiki/AK-47
+https://en.wikipedia.org/wiki/AKS-74U
+https://en.wikipedia.org/wiki/RPK
+https://en.wikipedia.org/wiki/SVD_(rifle)
+https://en.wikipedia.org/wiki/Dragunov_SVU
 ...
+https://en.wikipedia.org/wiki/Small_arms_trade
 https://en.wikipedia.org/wiki/Estimated_number_of_civilian_guns_per_capita_by_country
 
-Arms & armory, martial weapons (legacy):
+Arms & armory - lethal, improvised devices (uncommon):
+https://en.wikipedia.org/wiki/Suicide_pill
+https://en.wikipedia.org/wiki/Garrote
+
+Arms & armory - non-lethal, special-purpose devices & munitions:
+https://en.wikipedia.org/wiki/Taser
+https://en.wikipedia.org/wiki/Dart_gun
+https://en.wikipedia.org/wiki/Flash-bang
+https://en.wikipedia.org/wiki/Stun_grenade
+
+Arms & armory - martial arts weapons & projectiles (legacy):  exo
+https://en.wikipedia.org/wiki/List_of_martial_arts_weapons
 https://en.wikipedia.org/wiki/Katana
+https://en.wikipedia.org/wiki/Throwing_knife
 https://en.wikipedia.org/wiki/Batarang
+
+Arms & armory - (historic): -
 
 
 Scientific fields, techniques & knowledge:  hard
 https://en.wikipedia.org/wiki/Empirical_evidence
+https://en.wikipedia.org/wiki/Scientific_method
 https://en.wikipedia.org/wiki/Biology
 https://en.wikipedia.org/wiki/Evolutionary_biology
 https://en.wikipedia.org/wiki/Medicine
@@ -447,7 +512,9 @@ Mathematical fields, techniques & knowledge:  hard
 https://en.wikipedia.org/wiki/Mathematical_proof
 https://en.wikipedia.org/wiki/Mathematics
 
-Software research & institutions, by figure:
+Hardware, science research & institutions, by figure: -
+
+Software, science research & institutions, by figure:
 https://en.wikipedia.org/wiki/Niklaus_Wirth
 
 Games - cards & trading, board game, miniature sim, gambling: - card,tcg,pawn,sim,bet
@@ -479,7 +546,9 @@ https://en.wikipedia.org/wiki/Game_design_document
 bet:   https://en.wikipedia.org/wiki/Gambling
 bet:   https://en.wikipedia.org/wiki/Online_gambling
 
-Art styles & visual design:
+Artistic formats, styles & visual design:
+https://en.wikipedia.org/wiki/Canvas
+https://en.wikipedia.org/wiki/Art_film
 https://en.wikipedia.org/wiki/Expressionism
 https://en.wikipedia.org/wiki/Skeuomorph
 
@@ -495,8 +564,9 @@ Musicians, composers (modern):
 https://en.wikipedia.org/wiki/Jean_Sibelius
 https://en.wikipedia.org/wiki/David_Wilde
 
+To-do: sports...
 
-Martial arts & combat sports, by system, arm:
+Martial arts & combat sports, by system, arm:  exo
 https://en.wikipedia.org/wiki/Karate
 https://en.wikipedia.org/wiki/Judo
 https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu
@@ -518,18 +588,23 @@ https://en.wikipedia.org/wiki/Love
 Psychology, mental conditions & characterization:  soft
 https://en.wikipedia.org/wiki/Intelligence_quotient
 https://en.wikipedia.org/wiki/Empathy_quotient
-https://en.wikipedia.org/wiki/Cognitive_dissonance
 https://en.wikipedia.org/wiki/Dyslexia
 https://en.wikipedia.org/wiki/Autism
 https://en.wikipedia.org/wiki/Misophonia
+https://en.wikipedia.org/wiki/Cognitive_dissonance
+https://en.wikipedia.org/wiki/God_complex
 
 Linquistics & language studies:  soft
 https://en.wikipedia.org/wiki/Linguistics
 
 
-Religious schools & theology (universal):
+Religious schools & theology, by system, mythology (universal):
 https://en.wikipedia.org/wiki/Religion
 https://en.wikipedia.org/wiki/Theology
+https://en.wikipedia.org/wiki/Myth#Mythology
+https://en.wikipedia.org/wiki/Meta-religion
+cult:  https://en.wikipedia.org/wiki/Cult
+https://en.wikipedia.org/wiki/Legend
 https://en.wikipedia.org/wiki/Daimon
 https://en.wikipedia.org/wiki/Demon
 
@@ -537,9 +612,11 @@ Religious schools & theology, by group, figure(s):
 https://en.wikipedia.org/wiki/Ethnic_religion
 https://en.wikipedia.org/wiki/Folk_religion
 https://en.wikipedia.org/wiki/Major_religious_groups
+https://en.wikipedia.org/wiki/Clergy
 https://en.wikipedia.org/wiki/Jesus
 https://en.wikipedia.org/wiki/Pope
 https://en.wikipedia.org/wiki/Magi
+cult:  https://en.wikipedia.org/wiki/Satanism
 
 
 Philosophical fields & wisdom (universal):
@@ -547,6 +624,7 @@ https://en.wikipedia.org/wiki/Philosophy
 https://en.wikipedia.org/wiki/Atheism
 https://en.wikipedia.org/wiki/Empiricism
 https://en.wikipedia.org/wiki/Positivism
+https://en.wikipedia.org/wiki/Universalism
 
 Philosophical fields & wisdom, by figure(s):
 https://en.wikipedia.org/wiki/Martin_Heidegger
@@ -561,14 +639,16 @@ https://en.wikipedia.org/wiki/Piracy
 https://en.wikipedia.org/wiki/Underdog
 https://en.wikipedia.org/wiki/Peaceful_Revolution
 https://en.wikipedia.org/wiki/Peaceful_Evolution_theory
+https://en.wikipedia.org/wiki/Murder
 https://en.wikipedia.org/wiki/Assassination
+https://en.wikipedia.org/wiki/Proxy_murder
 https://en.wikipedia.org/wiki/List_of_assassinations_of_the_Sri_Lankan_civil_war
+https://en.wikipedia.org/wiki/War_crime
 https://en.wikipedia.org/wiki/Intrinsics
 https://en.wikipedia.org/wiki/Population
 https://en.wikipedia.org/wiki/Metapopulation
 https://en.wikipedia.org/wiki/Overpopulation
 https://en.wikipedia.org/wiki/Ecology
-https://en.wikipedia.org/wiki/Magi
 https://en.wikipedia.org/wiki/Karen
 https://en.wikipedia.org/wiki/Dyslexia_in_popular_culture
 https://en.wikipedia.org/wiki/Autism_and_LGBTQ_identities
@@ -582,6 +662,19 @@ https://en.wikipedia.org/wiki/Suicide_attempt
 https://en.wikipedia.org/wiki/Seppuku
 https://en.wikipedia.org/wiki/Metatheory
 https://en.wikipedia.org/wiki/Acquired_characteristic
+https://en.wikipedia.org/wiki/Euthanasia
+https://en.wikipedia.org/wiki/Euthanasia_device
+https://en.wikipedia.org/wiki/Human
+https://en.wikipedia.org/wiki/Slavery
+https://en.wikipedia.org/wiki/Human_penis_size
+https://en.wikipedia.org/wiki/Ethnic_cleansing
+https://en.wikipedia.org/wiki/Fossil
+https://en.wikipedia.org/wiki/Fossil_collecting
+https://en.wikipedia.org/wiki/Duality
+https://en.wikipedia.org/wiki/Spirituality
+https://en.wikipedia.org/wiki/Exaggeration
+https://en.wikipedia.org/wiki/Satire
+https://en.wikipedia.org/wiki/Absolute
 .
 
 bark:
