@@ -5,10 +5,10 @@ Web portal to:	  https://en.wikipedia.org/
 
 Techniques used:  Hard to soft analysis, accessibility, preservation, creativity, randomness by occurrence
 TODO: 		  historic japanese art, web portals, technological marvels, medicine, nutrition, social studies, biology, ecology, neuroscience, mysteries, mythology, magic & aliens
-TODO:		  url toggling
+TODO:		  url toggling, splitter, offloader
 Continued list:   compounding lists are better expanded into separate files, when parser hits ... under list, prompted by dialog box
 
-Say:		  "Word 4 hire", "Naked thought", "Stay a while and read", "Split into pieces", "Scatter"
+Say:		  "Naked thought", "Stay a while and read", "Word 4 hire", "Down this beast!", "Split into pieces", "Scatter"
 
 Categories:	  - Search by: ctrl-f,
 data:		  -
@@ -52,7 +52,7 @@ myst:		  mystery,
 beef:		  philosophy, tribalism, flesh & bones,
 curr:  		  currency,
 cult:		  cultist, occultist, philosophic/religious/spiritual
-exo:		  culture (arts, history), training, exoticism
+exo:		  culture (arts, history, legacy), training, exoticism
 .
 
 
@@ -283,7 +283,6 @@ https://en.wikipedia.org/wiki/Fuck_tha_Police
 Tools, wares & compounds (universal):
 vis:  -
 https://en.wikipedia.org/wiki/Binoculars
-nvg:  -
 https://en.wikipedia.org/wiki/Night_vision
 https://en.wikipedia.org/wiki/Night-vision_device
 .
@@ -325,20 +324,18 @@ Economics, banking & trade (historic):
 curr:  https://en.wikipedia.org/wiki/Finnish_markka
 
 
-Law, order & legislation (universal):
+Law, order & legislation, by type, party (universal):
 https://en.wikipedia.org/wiki/Law
-https://en.wikipedia.org/wiki/Bureaucrat
-https://en.wikipedia.org/wiki/Bureaucracy
-https://en.wikipedia.org/wiki/Corruption
-https://en.wikipedia.org/wiki/Bribery
-https://en.wikipedia.org/wiki/Embezzlement
+https://en.wikipedia.org/wiki/Attorney_at_law
+https://en.wikipedia.org/wiki/Lawyer
+https://en.wikipedia.org/wiki/Jury
 ...
 https://en.wikipedia.org/wiki/Overview_of_gun_laws_by_nation
 
 Law, order & criminal justice:
-https://en.wikipedia.org/wiki/Attorney_at_law
-https://en.wikipedia.org/wiki/Lawyer
-https://en.wikipedia.org/wiki/Jury
+https://en.wikipedia.org/wiki/Corruption
+https://en.wikipedia.org/wiki/Bribery
+https://en.wikipedia.org/wiki/Embezzlement
 https://en.wikipedia.org/wiki/Intention_(criminal_law)
 
 
@@ -357,6 +354,7 @@ https://en.wikipedia.org/wiki/Parallel_society
 ...
 https://en.wikipedia.org/wiki/Sociology_of_religion
 https://en.wikipedia.org/wiki/Satanic_panic
+
 
 Statecraft (universal):
 https://en.wikipedia.org/wiki/Statecraft
@@ -396,6 +394,8 @@ https://en.wikipedia.org/wiki/Tradecraft
 
 Statecraft, government institutions (common): -
 
+Civilian communities & organizations
+Criminal organizations
 
 Statecraft (American): usa
 https://en.wikipedia.org/wiki/United_States
@@ -425,6 +425,7 @@ utjr:  https://en.wikipedia.org/wiki/Utti_Jaeger_Regiment
 supo:  https://en.wikipedia.org/wiki/Finnish_Security_and_Intelligence_Service
 https://en.wikipedia.org/wiki/Finnish_Defence_Intelligence_Agency
 https://en.wikipedia.org/wiki/Police_Rapid_Response_Unit_(Finland)
+...
 https://en.wikipedia.org/wiki/Finnish_Americans
 
 Statecraft (Israeli): isr
@@ -444,14 +445,22 @@ https://en.wikipedia.org/wiki/Premier_of_the_Soviet_Union
 https://en.wikipedia.org/wiki/Russian_Armed_Forces
 gru:  https://en.wikipedia.org/wiki/Spetsnaz_GRU
 fsb:  https://en.wikipedia.org/wiki/Federal_Security_Service
+...
 https://en.wikipedia.org/wiki/Russians_in_Finland
 https://en.wikipedia.org/wiki/Karelia
 https://en.wikipedia.org/wiki/Russian_imperialism
 
 
-Arms & armory - unmanned heavy weapons (platforms):
+Arms & armory - weapon technologies, by type, party:
+
+Arms & armory - WMD and chemical weapons (platforms):
 https://en.wikipedia.org/wiki/Mutual_assured_destruction
 https://en.wikipedia.org/wiki/Weapon_of_mass_destruction
+
+Arms & armory - ballistic heavy weapons (platforms): -
+
+Arms & armory - unmanned heavy weapons (platforms):
+https://en.wikipedia.org/wiki/Metal_Gear_(mecha)
 
 Arms & armory - unmanned weapons (platforms):
 https://en.wikipedia.org/wiki/Drone_warfare
@@ -459,7 +468,7 @@ https://en.wikipedia.org/wiki/Drone_warfare
 Arms & armory - manned heavy weapons (platforms):
 https://en.wikipedia.org/wiki/Air_superiority_fighter
 
-Arms & armory - bombs, shrapnel propelled munitions (portable):
+Arms & armory - bombs, shrapnel propellents (portable):
 https://en.wikipedia.org/wiki/Grenade
 https://en.wikipedia.org/wiki/C-4_(explosive)
 https://en.wikipedia.org/wiki/Pipe_bomb
@@ -490,7 +499,7 @@ https://en.wikipedia.org/wiki/Dart_gun
 https://en.wikipedia.org/wiki/Flash-bang
 https://en.wikipedia.org/wiki/Stun_grenade
 
-Arms & armory - martial arts weapons & projectiles (legacy):  exo
+Arms & armory - martial arts & projectile weapons (training):  exo
 https://en.wikipedia.org/wiki/List_of_martial_arts_weapons
 https://en.wikipedia.org/wiki/Katana
 https://en.wikipedia.org/wiki/Throwing_knife
@@ -517,7 +526,47 @@ Hardware, science research & institutions, by figure: -
 Software, science research & institutions, by figure:
 https://en.wikipedia.org/wiki/Niklaus_Wirth
 
-Games - cards & trading, board game, miniature sim, gambling: - card,tcg,pawn,sim,bet
+
+Psychology, human behavior & conditions (universal):  soft
+https://en.wikipedia.org/wiki/Psychology
+https://en.wikipedia.org/wiki/Mind
+https://en.wikipedia.org/wiki/Id,_ego_and_superego
+https://en.wikipedia.org/wiki/Subconscious
+https://en.wikipedia.org/wiki/Cognition
+https://en.wikipedia.org/wiki/Learning_disability
+https://en.wikipedia.org/wiki/Love
+
+Psychology, mental conditions & characterization:  soft
+https://en.wikipedia.org/wiki/Intelligence_quotient
+https://en.wikipedia.org/wiki/Empathy_quotient
+https://en.wikipedia.org/wiki/Dyslexia
+https://en.wikipedia.org/wiki/Autism
+https://en.wikipedia.org/wiki/Misophonia
+https://en.wikipedia.org/wiki/Catatonia
+https://en.wikipedia.org/wiki/Cognitive_dissonance
+https://en.wikipedia.org/wiki/God_complex
+
+Linquistics & language studies:  soft
+https://en.wikipedia.org/wiki/Linguistics
+
+
+Books & literature, by figure(s) (author):
+rpg:   https://en.wikipedia.org/wiki/Gary_Gygax
+
+
+To-do: sports...
+
+Martial arts & combat sports, by system, arm:  exo
+https://en.wikipedia.org/wiki/Karate
+https://en.wikipedia.org/wiki/Judo
+https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu
+https://en.wikipedia.org/wiki/Boxing
+- arm
+https://en.wikipedia.org/wiki/Tantojutsu
+https://en.wikipedia.org/wiki/Historical_European_martial_arts
+
+
+Games - social, analog games, by type: - card,tcg,pawn,sim,bet
  - sorted by year
 card:  https://en.wikipedia.org/wiki/Blackjack
 pawn:  https://en.wikipedia.org/wiki/Risk_(game)
@@ -529,15 +578,7 @@ pawn:  https://en.wikipedia.org/wiki/HeroQuest
 tcg:   https://en.wikipedia.org/wiki/Magic:_The_Gathering
 bet:   https://en.wikipedia.org/wiki/Roulette
 
-Books & literature, by figure(s) (author):
-rpg:   https://en.wikipedia.org/wiki/Gary_Gygax
-
-Games, role-playing design & literature:  rpg
-https://en.wikipedia.org/wiki/Dungeons_&_Dragons
-https://en.wikipedia.org/wiki/Rolemaster
-https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
-
-Games, simulations design & literature:  
+Games - simulations design & literature:  
 https://en.wikipedia.org/wiki/Game_theory
 https://en.wikipedia.org/wiki/Game_design
 https://en.wikipedia.org/wiki/Game_studies
@@ -545,6 +586,12 @@ https://en.wikipedia.org/wiki/Game_art_design
 https://en.wikipedia.org/wiki/Game_design_document
 bet:   https://en.wikipedia.org/wiki/Gambling
 bet:   https://en.wikipedia.org/wiki/Online_gambling
+
+Games - immersive role-playing design & literature:  rpg
+https://en.wikipedia.org/wiki/Dungeons_&_Dragons
+https://en.wikipedia.org/wiki/Rolemaster
+https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
+
 
 Artistic formats, styles & visual design:
 https://en.wikipedia.org/wiki/Canvas
@@ -564,39 +611,6 @@ Musicians, composers (modern):
 https://en.wikipedia.org/wiki/Jean_Sibelius
 https://en.wikipedia.org/wiki/David_Wilde
 
-To-do: sports...
-
-Martial arts & combat sports, by system, arm:  exo
-https://en.wikipedia.org/wiki/Karate
-https://en.wikipedia.org/wiki/Judo
-https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu
-https://en.wikipedia.org/wiki/Boxing
-- arm
-https://en.wikipedia.org/wiki/Tantojutsu
-https://en.wikipedia.org/wiki/Historical_European_martial_arts
-
-
-Psychology, human behavior & conditions (universal):  soft
-https://en.wikipedia.org/wiki/Psychology
-https://en.wikipedia.org/wiki/Mind
-https://en.wikipedia.org/wiki/Id,_ego_and_superego
-https://en.wikipedia.org/wiki/Subconscious
-https://en.wikipedia.org/wiki/Cognition
-https://en.wikipedia.org/wiki/Learning_disability
-https://en.wikipedia.org/wiki/Love
-
-Psychology, mental conditions & characterization:  soft
-https://en.wikipedia.org/wiki/Intelligence_quotient
-https://en.wikipedia.org/wiki/Empathy_quotient
-https://en.wikipedia.org/wiki/Dyslexia
-https://en.wikipedia.org/wiki/Autism
-https://en.wikipedia.org/wiki/Misophonia
-https://en.wikipedia.org/wiki/Cognitive_dissonance
-https://en.wikipedia.org/wiki/God_complex
-
-Linquistics & language studies:  soft
-https://en.wikipedia.org/wiki/Linguistics
-
 
 Religious schools & theology, by system, mythology (universal):
 https://en.wikipedia.org/wiki/Religion
@@ -608,14 +622,14 @@ https://en.wikipedia.org/wiki/Legend
 https://en.wikipedia.org/wiki/Daimon
 https://en.wikipedia.org/wiki/Demon
 
-Religious schools & theology, by group, figure(s):
+Religious schools & theology, by group(s), figure(s):
 https://en.wikipedia.org/wiki/Ethnic_religion
 https://en.wikipedia.org/wiki/Folk_religion
 https://en.wikipedia.org/wiki/Major_religious_groups
 https://en.wikipedia.org/wiki/Clergy
+https://en.wikipedia.org/wiki/Magi
 https://en.wikipedia.org/wiki/Jesus
 https://en.wikipedia.org/wiki/Pope
-https://en.wikipedia.org/wiki/Magi
 cult:  https://en.wikipedia.org/wiki/Satanism
 
 
@@ -632,6 +646,19 @@ https://en.wikipedia.org/wiki/Martin_Heidegger
 Metaphysical fields & theology (universal):
 https://en.wikipedia.org/wiki/Metaphysics
 .
+
+
+Draft editing:
+prehistory
+Evolution & human genetics (universal): -
+Statecraft & foreign affairs, by type, role: -
+Training & education techniques, by system, role (universal): -
+Training & education, by system, role: -
+Strategic studies & human coordination, by type, role: -
+Biomedical science & research (universal): -
+Biomedical science & research (modern): -
+Biomedical science & research (historic): -
+Software reverse engineering & modding (hacking): -
 
 
 Temporarily unsorted:
@@ -657,6 +684,7 @@ https://en.wikipedia.org/wiki/Russian_roulette
 https://en.wikipedia.org/wiki/Hypersensitivity
 https://en.wikipedia.org/wiki/Poverty
 https://en.wikipedia.org/wiki/Suicide
+https://en.wikipedia.org/wiki/Suicidal_ideation
 https://en.wikipedia.org/wiki/Advocacy_of_suicide
 https://en.wikipedia.org/wiki/Suicide_attempt
 https://en.wikipedia.org/wiki/Seppuku
@@ -675,6 +703,7 @@ https://en.wikipedia.org/wiki/Spirituality
 https://en.wikipedia.org/wiki/Exaggeration
 https://en.wikipedia.org/wiki/Satire
 https://en.wikipedia.org/wiki/Absolute
+https://en.wikipedia.org/wiki/Bureaucracy
 .
 
 bark:
