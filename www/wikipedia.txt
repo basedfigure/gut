@@ -326,13 +326,13 @@ curr:  https://en.wikipedia.org/wiki/Finnish_markka
 
 Law, order & legislation, by type, party (universal):
 https://en.wikipedia.org/wiki/Law
-https://en.wikipedia.org/wiki/Attorney_at_law
 https://en.wikipedia.org/wiki/Lawyer
-https://en.wikipedia.org/wiki/Jury
+https://en.wikipedia.org/wiki/Attorney_at_law
 ...
 https://en.wikipedia.org/wiki/Overview_of_gun_laws_by_nation
 
 Law, order & criminal justice:
+https://en.wikipedia.org/wiki/Jury
 https://en.wikipedia.org/wiki/Corruption
 https://en.wikipedia.org/wiki/Bribery
 https://en.wikipedia.org/wiki/Embezzlement
@@ -343,17 +343,22 @@ Historical eras, by country, faction:
 usa:
 https://en.wikipedia.org/wiki/European_colonization_of_the_Americas
 https://en.wikipedia.org/wiki/Colonial_history_of_the_United_States
+bur:
+https://en.wikipedia.org/wiki/Burmese_people
 jap:
 https://en.wikipedia.org/wiki/History_of_Japan
 https://en.wikipedia.org/wiki/Rōnin
 https://en.wikipedia.org/wiki/Ninjutsu
 
-Populations, culture & society (universal):
+Populations, cultures & societies (universal):
 https://en.wikipedia.org/wiki/Counterculture
 https://en.wikipedia.org/wiki/Parallel_society
 ...
 https://en.wikipedia.org/wiki/Sociology_of_religion
 https://en.wikipedia.org/wiki/Satanic_panic
+
+To-do:  Civilian communities & organizations
+To-do:  Criminal & terrorist organizations
 
 
 Statecraft (universal):
@@ -377,25 +382,25 @@ https://en.wikipedia.org/wiki/Universal_basic_income
 
 Statecraft, political systems & ideologies:
 https://en.wikipedia.org/wiki/Democracy
-https://en.wikipedia.org/wiki/Election_law
 https://en.wikipedia.org/wiki/Meritocracy
 https://en.wikipedia.org/wiki/Communism
 https://en.wikipedia.org/wiki/Authoritarian_socialism
 https://en.wikipedia.org/wiki/Pirate_Party
 https://en.wikipedia.org/wiki/Anarchism
 ...
+https://en.wikipedia.org/wiki/Election_law
 https://en.wikipedia.org/wiki/Decommunization
 https://en.wikipedia.org/wiki/Red_Scare
-
 
 Statecraft, security & intelligence (universal):
 https://en.wikipedia.org/wiki/Tradecraft
 
-
 Statecraft, government institutions (common): -
+...
 
-Civilian communities & organizations
-Criminal organizations
+Statecraft, government & military installations, by type, faction:
+https://en.wikipedia.org/wiki/Proving_ground
+https://en.wikipedia.org/wiki/Kill_house
 
 Statecraft (American): usa
 https://en.wikipedia.org/wiki/United_States
@@ -433,6 +438,9 @@ https://en.wikipedia.org/wiki/Israel
 shin:  https://en.wikipedia.org/wiki/Shin_Bet
 moss:  https://en.wikipedia.org/wiki/Mossad
 
+Statecraft (Mongolians): mon
+https://en.wikipedia.org/wiki/Mongolia
+
 Statecraft (Russian): rus
 https://en.wikipedia.org/wiki/Russia
 https://en.wikipedia.org/wiki/List_of_leaders_of_Russia
@@ -451,9 +459,9 @@ https://en.wikipedia.org/wiki/Karelia
 https://en.wikipedia.org/wiki/Russian_imperialism
 
 
-Arms & armory - weapon technologies, by type, party:
+Arms & armory - weapon technologies, by type, party: -
 
-Arms & armory - WMD and chemical weapons (platforms):
+Arms & armory - WMD, chemical and bio weapons (platforms):
 https://en.wikipedia.org/wiki/Mutual_assured_destruction
 https://en.wikipedia.org/wiki/Weapon_of_mass_destruction
 
@@ -539,6 +547,8 @@ https://en.wikipedia.org/wiki/Love
 Psychology, mental conditions & characterization:  soft
 https://en.wikipedia.org/wiki/Intelligence_quotient
 https://en.wikipedia.org/wiki/Empathy_quotient
+https://en.wikipedia.org/wiki/Depression_(mood)
+https://en.wikipedia.org/wiki/Major_depressive_disorder
 https://en.wikipedia.org/wiki/Dyslexia
 https://en.wikipedia.org/wiki/Autism
 https://en.wikipedia.org/wiki/Misophonia
@@ -566,7 +576,7 @@ https://en.wikipedia.org/wiki/Tantojutsu
 https://en.wikipedia.org/wiki/Historical_European_martial_arts
 
 
-Games - social, analog games, by type: - card,tcg,pawn,sim,bet
+Games - social, analog games, by type, product: - card,tcg,pawn,sim,bet
  - sorted by year
 card:  https://en.wikipedia.org/wiki/Blackjack
 pawn:  https://en.wikipedia.org/wiki/Risk_(game)
@@ -578,7 +588,7 @@ pawn:  https://en.wikipedia.org/wiki/HeroQuest
 tcg:   https://en.wikipedia.org/wiki/Magic:_The_Gathering
 bet:   https://en.wikipedia.org/wiki/Roulette
 
-Games - simulations design & literature:  
+Games - simulations design & literature:
 https://en.wikipedia.org/wiki/Game_theory
 https://en.wikipedia.org/wiki/Game_design
 https://en.wikipedia.org/wiki/Game_studies
@@ -630,11 +640,15 @@ https://en.wikipedia.org/wiki/Clergy
 https://en.wikipedia.org/wiki/Magi
 https://en.wikipedia.org/wiki/Jesus
 https://en.wikipedia.org/wiki/Pope
-cult:  https://en.wikipedia.org/wiki/Satanism
+folk:
+https://en.wikipedia.org/wiki/Mongolian_shamanism
+cult:  
+https://en.wikipedia.org/wiki/Satanism
 
 
 Philosophical fields & wisdom (universal):
 https://en.wikipedia.org/wiki/Philosophy
+https://en.wikipedia.org/wiki/Apoliticism
 https://en.wikipedia.org/wiki/Atheism
 https://en.wikipedia.org/wiki/Empiricism
 https://en.wikipedia.org/wiki/Positivism
@@ -652,6 +666,7 @@ Draft editing:
 prehistory
 Evolution & human genetics (universal): -
 Statecraft & foreign affairs, by type, role: -
+Statecraft & internal affarirs, by type, role: -
 Training & education techniques, by system, role (universal): -
 Training & education, by system, role: -
 Strategic studies & human coordination, by type, role: -
@@ -694,6 +709,7 @@ https://en.wikipedia.org/wiki/Euthanasia
 https://en.wikipedia.org/wiki/Euthanasia_device
 https://en.wikipedia.org/wiki/Human
 https://en.wikipedia.org/wiki/Slavery
+https://en.wikipedia.org/wiki/Police_brutality_by_country
 https://en.wikipedia.org/wiki/Human_penis_size
 https://en.wikipedia.org/wiki/Ethnic_cleansing
 https://en.wikipedia.org/wiki/Fossil
@@ -704,6 +720,269 @@ https://en.wikipedia.org/wiki/Exaggeration
 https://en.wikipedia.org/wiki/Satire
 https://en.wikipedia.org/wiki/Absolute
 https://en.wikipedia.org/wiki/Bureaucracy
+https://en.wikipedia.org/wiki/Grassroots
+https://en.wikipedia.org/wiki/Open_education
+https://en.wikipedia.org/wiki/Anthropomorphism
+https://en.wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII
+https://en.wikipedia.org/wiki/Final_Fantasy_Tactics_Advance
+https://en.wikipedia.org/wiki/Roof_and_tunnel_hacking
+https://en.wikipedia.org/wiki/Urban_exploration
+https://en.wikipedia.org/wiki/Human_sexual_activity
+https://en.wikipedia.org/wiki/Ministry_of_Defence_(United_Kingdom)
+https://en.wikipedia.org/wiki/Ballistics
+https://en.wikipedia.org/wiki/Linker
+https://en.wikipedia.org/wiki/RISC-V_assembly_language
+https://en.wikipedia.org/wiki/RISC-V_instruction_listings
+https://en.wikipedia.org/wiki/GNU_Project
+https://en.wikipedia.org/wiki/Misanthropy
+https://en.wikipedia.org/wiki/Delusions_of_grandeur
+https://en.wikipedia.org/wiki/Demonization
+https://en.wikipedia.org/wiki/Thomas_Barnardiston_(legal_writer)
+https://en.wikipedia.org/wiki/Editor_war
+https://en.wikipedia.org/wiki/Richard_Stallman
+https://en.wikipedia.org/wiki/Linus_Torvalds
+https://en.wikipedia.org/wiki/Mugging
+https://en.wikipedia.org/wiki/Mug
+https://en.wikipedia.org/wiki/Hema
+https://en.wikipedia.org/wiki/Materialism_(disambiguation)
+https://en.wikipedia.org/wiki/Materialism
+https://en.wikipedia.org/wiki/Ripple_effect
+https://en.wikipedia.org/wiki/Chaos_theory
+https://en.wikipedia.org/wiki/Trade_secret
+https://en.wikipedia.org/wiki/Betterment
+https://en.wikipedia.org/wiki/Terminal_emulator
+https://en.wikipedia.org/wiki/Hobby
+https://en.wikipedia.org/wiki/Codeberg
+https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
+https://en.wikipedia.org/wiki/Digital_rights_management
+https://en.wikipedia.org/wiki/Archaeology
+https://en.wikipedia.org/wiki/Material_culture
+https://en.wikipedia.org/wiki/Anthropology
+https://en.wikipedia.org/wiki/Digitization
+https://en.wikipedia.org/wiki/Nihilism
+https://en.wikipedia.org/wiki/Quake_engine
+https://en.wikipedia.org/wiki/Machinima
+https://en.wikipedia.org/wiki/GoldSrc
+https://en.wikipedia.org/wiki/Brush_(video_games)
+https://en.wikipedia.org/wiki/Chasm:_The_Rift
+https://en.wikipedia.org/wiki/Wolfenstein_3D
+https://en.wikipedia.org/wiki/Fast_inverse_square_root
+https://en.wikipedia.org/wiki/Open-source_video_game
+https://en.wikipedia.org/wiki/List_of_video_games_derived_from_mods
+https://en.wikipedia.org/wiki/S3_ViRGE
+https://en.wikipedia.org/wiki/List_of_file_formats
+https://en.wikipedia.org/wiki/List_of_freeware_first-person_shooters
+https://en.wikipedia.org/wiki/LightWave_3D
+https://en.wikipedia.org/wiki/Adobe_Photoshop
+https://en.wikipedia.org/wiki/Houdini_(software)
+https://en.wikipedia.org/wiki/Homosexuality
+https://en.wikipedia.org/wiki/Cloth_modeling
+https://en.wikipedia.org/wiki/Soft-body_dynamics
+https://en.wikipedia.org/wiki/Classical_mechanics
+https://en.wikipedia.org/wiki/Physics_engine
+https://en.wikipedia.org/wiki/Rigid_body_dynamics
+https://en.wikipedia.org/wiki/Stretched_grid_method
+https://en.wikipedia.org/wiki/History_of_England
+https://en.wikipedia.org/wiki/Normans
+https://en.wikipedia.org/wiki/Kalevala
+https://en.wikipedia.org/wiki/History_of_the_Middle_East
+https://en.wikipedia.org/wiki/Roman_Empire
+https://en.wikipedia.org/wiki/History_of_Greece
+https://en.wikipedia.org/wiki/History_of_Africa
+https://en.wikipedia.org/wiki/Norman_conquest_of_southern_Italy
+https://en.wikipedia.org/wiki/Norman_conquest_of_southern_Italy#Conquest_of_Sicily,_1061–1091
+https://en.wikipedia.org/wiki/History_of_France
+https://en.wikipedia.org/wiki/Notre_Dame
+https://en.wikipedia.org/wiki/Porvoo_Cathedral
+https://en.wikipedia.org/wiki/Porvoo
+https://en.wikipedia.org/wiki/Finnish_mythology
+https://en.wikipedia.org/wiki/Constantinople
+https://en.wikipedia.org/wiki/Antinatalism
+https://en.wikipedia.org/wiki/Buddhism_in_the_United_States#Zen
+https://en.wikipedia.org/wiki/Church_of_Euthanasia
+https://en.wikipedia.org/wiki/Human_extinction
+https://en.wikipedia.org/wiki/Cremation
+https://en.wikipedia.org/wiki/Funeral
+https://en.wikipedia.org/wiki/Intimidation
+https://en.wikipedia.org/wiki/Illuminati
+https://en.wikipedia.org/wiki/Blackmail
+https://en.wikipedia.org/wiki/Machiavellianism_(psychology)
+https://en.wikipedia.org/wiki/Donkey_Kong_Country_2
+https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_-_Bloodlines
+https://en.wikipedia.org/wiki/Vampire:_The_Masquerade
+https://en.wikipedia.org/wiki/Affordable_Care_Act
+https://en.wikipedia.org/wiki/Parsing#Parser
+https://en.wikipedia.org/wiki/Operating_system
+https://en.wikipedia.org/wiki/Psychological_warfare
+https://en.wikipedia.org/wiki/Brainwashing
+https://en.wikipedia.org/wiki/Propaganda
+https://en.wikipedia.org/wiki/Propaganda_through_media
+https://en.wikipedia.org/wiki/Grey_alien
+https://en.wikipedia.org/wiki/Pathfinding
+https://en.wikipedia.org/wiki/Artificial_intelligence_in_video_games
+https://en.wikipedia.org/wiki/A*
+https://en.wikipedia.org/wiki/Artificial_intelligence
+https://en.wikipedia.org/wiki/Social_science
+https://en.wikipedia.org/wiki/Logic
+https://en.wikipedia.org/wiki/Systems_science
+https://en.wikipedia.org/wiki/Coal_mining
+https://en.wikipedia.org/wiki/Espionage
+https://en.wikipedia.org/wiki/Spyware
+https://en.wikipedia.org/wiki/Information_security
+https://en.wikipedia.org/wiki/Spaceflight#Spacefaring_nations
+https://en.wikipedia.org/wiki/Volleyball
+https://en.wikipedia.org/wiki/The_Arcade_(joystick)
+https://en.wikipedia.org/wiki/MAGFest
+https://en.wikipedia.org/wiki/Arcade_video_game
+https://en.wikipedia.org/wiki/The_Pinball_Arcade
+https://en.wikipedia.org/wiki/Billiard_hall
+https://en.wikipedia.org/wiki/Amusement_arcade
+https://en.wikipedia.org/wiki/Golden_age_of_arcade_video_games
+https://en.wikipedia.org/wiki/Pinball_Hall_of_Fame
+https://en.wikipedia.org/wiki/Arcade_game
+https://en.wikipedia.org/wiki/Airbus_Helicopters
+https://en.wikipedia.org/wiki/Tarot
+https://en.wikipedia.org/wiki/A*_search_algorithm
+https://en.wikipedia.org/wiki/Convex_hull
+https://en.wikipedia.org/wiki/Defection
+https://en.wikipedia.org/wiki/Evidence
+https://en.wikipedia.org/wiki/Quadtree
+https://en.wikipedia.org/wiki/Bidirectional_search
+https://en.wikipedia.org/wiki/Iterative_deepening_A*
+https://en.wikipedia.org/wiki/Consistent_heuristic
+https://en.wikipedia.org/wiki/D-Bus
+https://en.wikipedia.org/wiki/ActiveX
+https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library
+https://en.wikipedia.org/wiki/Misanthropic_Division
+https://en.wikipedia.org/wiki/White_Room_(disambiguation)
+https://en.wikipedia.org/wiki/Hinduism
+https://en.wikipedia.org/wiki/Taoism
+https://en.wikipedia.org/wiki/Buddhism
+https://en.wikipedia.org/wiki/Christianity
+https://en.wikipedia.org/wiki/Islam
+https://en.wikipedia.org/wiki/Theism
+https://en.wikipedia.org/wiki/Secularity
+https://en.wikipedia.org/wiki/ABI
+https://en.wikipedia.org/wiki/API
+https://en.wikipedia.org/wiki/Program_optimization
+https://en.wikipedia.org/wiki/Bink_Video
+https://en.wikipedia.org/wiki/Marching_cubes
+https://en.wikipedia.org/wiki/Information_professional
+https://en.wikipedia.org/wiki/Information_superhighway
+https://en.wikipedia.org/wiki/Al_Gore
+https://en.wikipedia.org/wiki/2012_phenomenon
+https://en.wikipedia.org/wiki/Hatred
+https://en.wikipedia.org/wiki/User_interface
+https://en.wikipedia.org/wiki/Data-oriented_design
+https://en.wikipedia.org/wiki/User_interface_design
+https://en.wikipedia.org/wiki/Font
+https://en.wikipedia.org/wiki/Graphics
+https://en.wikipedia.org/wiki/Font_embedding
+https://en.wikipedia.org/wiki/Clip_font
+https://en.wikipedia.org/wiki/Abortion-rights_movement
+https://en.wikipedia.org/wiki/Depth
+https://en.wikipedia.org/wiki/Breadth-first_search
+https://en.wikipedia.org/wiki/Industrial_Light_&_Magic
+https://en.wikipedia.org/wiki/Wētā_Workshop
+https://en.wikipedia.org/wiki/Love_potion
+https://en.wikipedia.org/wiki/Euthanasia_trials
+https://en.wikipedia.org/wiki/Kalashnikov_Concern
+https://en.wikipedia.org/wiki/Foreign_exchange_market
+https://en.wikipedia.org/wiki/Hard_currency
+https://en.wikipedia.org/wiki/Wicca
+https://en.wikipedia.org/wiki/Occultism_in_Nazism
+https://en.wikipedia.org/wiki/Occult
+https://en.wikipedia.org/wiki/Satanism
+https://en.wikipedia.org/wiki/Cult
+https://en.wikipedia.org/wiki/Hyperbole
+https://en.wikipedia.org/wiki/Exaggeration#Cognitive_distortions
+https://en.wikipedia.org/wiki/Knowledge_worker
+https://en.wikipedia.org/wiki/Knowledge_organization_system
+https://en.wikipedia.org/wiki/Knowledge_organization
+https://en.wikipedia.org/w/index.php?search=trade+currencies&title=Special%3ASearch&ns0=1
+https://en.wikipedia.org/wiki/American_colonial_architecture
+https://en.wikipedia.org/wiki/American_Colonization_Society
+https://en.wikipedia.org/wiki/The_Beavis_and_Butt-Head_Experience
+https://fi.wikipedia.org/wiki/Kiihtelys
+https://en.wikipedia.org/w/index.php?search=hide&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1
+https://en.wikipedia.org/wiki/SWAT
+https://en.wikipedia.org/wiki/First-person_view_(radio_control)
+https://en.wikipedia.org/wiki/Bomb
+https://en.wikipedia.org/wiki/Subject-matter_expert#Domain_expert_(software)
+https://en.wikipedia.org/wiki/Artillery_sound_ranging
+https://en.wikipedia.org/wiki/Exoticism
+https://en.wikipedia.org/wiki/Cult_of_personality
+https://en.wikipedia.org/wiki/Leadership
+https://en.wikipedia.org/wiki/Leadership_studies
+https://en.wikipedia.org/wiki/Humanities
+https://en.wikipedia.org/wiki/Ammunition
+https://en.wikipedia.org/wiki/Human_resources
+https://en.wikipedia.org/wiki/Absolute_truth
+https://en.wikipedia.org/wiki/James_Watson
+https://en.wikipedia.org/wiki/DNA
+https://en.wikipedia.org/wiki/Tamagotchi
+https://en.wikipedia.org/wiki/Perjury
+https://en.wikipedia.org/wiki/Mercenary
+https://en.wikipedia.org/wiki/The_Sellswords
+https://en.wikipedia.org/wiki/The_Marshall_Mathers_LP
+https://en.wikipedia.org/wiki/Martial_arts
+https://en.wikipedia.org/wiki/Sport_industry
+https://en.wikipedia.org/wiki/Rape_statistics
+https://en.wikipedia.org/wiki/Rape
+https://en.wikipedia.org/wiki/Sexual_assault
+https://en.wikipedia.org/wiki/Sexual_assault_in_the_United_States_military
+https://en.wikipedia.org/wiki/Sexual_assault_of_LGBTQ_persons
+https://en.wikipedia.org/wiki/Asexual_flag
+https://en.wikipedia.org/wiki/Asexuality
+https://en.wikipedia.org/wiki/Asexual_reproduction
+https://en.wikipedia.org/wiki/Cabinet_(government)
+https://en.wikipedia.org/wiki/Metal_Gear_(mecha)#Shagohod
+https://en.wikipedia.org/wiki/Parliamentary_system
+https://en.wikipedia.org/wiki/Parliament
+https://en.wikipedia.org/wiki/Presidential_system
+https://en.wikipedia.org/wiki/Minister_(government)
+https://en.wikipedia.org/wiki/Secretary_(title)
+https://en.wikipedia.org/wiki/Biomedical_sciences
+https://fi.wikipedia.org/wiki/Hölmölä
+https://en.wikipedia.org/wiki/Bioinformatics
+https://en.wikipedia.org/wiki/Administration_(law)
+https://en.wikipedia.org/wiki/Management
+https://en.wikipedia.org/wiki/Line_in_the_sand
+https://en.wikipedia.org/wiki/Line_in_the_Sand_Match
+https://en.wikipedia.org/wiki/Ice_hockey
+https://en.wikipedia.org/wiki/Winter
+https://en.wikipedia.org/wiki/Proto-Indo-European_language
+https://en.wikipedia.org/wiki/Creampie_(sexual_act)
+https://en.wikipedia.org/wiki/Facial_(sexual_act)
+https://en.wikipedia.org/wiki/Black_pride
+https://en.wikipedia.org/wiki/Oppression
+https://en.wikipedia.org/wiki/Extraversion_and_introversion#Introversion
+https://en.wikipedia.org/wiki/Shackle
+https://en.wikipedia.org/wiki/Cuff
+https://en.wikipedia.org/wiki/Footwear
+https://en.wikipedia.org/wiki/Shoemaking
+https://en.wikipedia.org/wiki/Tuxedo_(software)
+https://en.wikipedia.org/wiki/Black_tie
+https://en.wikipedia.org/wiki/Outdoor_literature
+https://en.wikipedia.org/wiki/Outdoor
+https://en.wikipedia.org/wiki/Cum_shot
+https://en.wikipedia.org/wiki/Dildo
+https://en.wikipedia.org/wiki/Handyman
+https://en.wikipedia.org/wiki/Plumber
+https://en.wikipedia.org/wiki/Gender_dysphoria
+https://en.wikipedia.org/wiki/Trainer
+https://en.wikipedia.org/wiki/Suicide_legislation
+https://en.wikipedia.org/wiki/Suicide_methods
+https://en.wikipedia.org/wiki/Suicide_crisis
+https://en.wikipedia.org/wiki/Suicide_prevention
+https://en.wikipedia.org/wiki/Warning_signs_of_suicide
+https://en.wikipedia.org/wiki/Psychological_first_aid
+https://en.wikipedia.org/wiki/Mental_health_first_aid
+https://en.wikipedia.org/wiki/Suicide_attack
+https://en.wikipedia.org/wiki/Gallows
+https://en.wikipedia.org/wiki/Fact
+https://en.wikipedia.org/wiki/Fact-checking
+https://en.wikipedia.org/wiki/List_of_fact-checking_websites
 .
 
 bark:
