@@ -53,16 +53,19 @@ beef:		  philosophy, tribalism, flesh & bones,
 curr:  		  currency,
 cult:		  cultist, occultist, philosophic/religious/spiritual
 exo:		  culture (arts, history, legacy), training, exoticism
+arm:		  -
 .
 
 
-Language & communication (universal):
+Language, communication & interactions (universal):
 https://en.wikipedia.org/wiki/Word
 https://en.wikipedia.org/wiki/Expression
+https://en.wikipedia.org/wiki/Nonverbal_communication
 https://en.wikipedia.org/wiki/Body_language
 https://en.wikipedia.org/wiki/Art
 
-Language & communication (data, transient):
+Language, communication & interactions (data, transient):
+https://en.wikipedia.org/wiki/Logic
 https://en.wikipedia.org/wiki/Knowledge
 https://en.wikipedia.org/wiki/Abstract_and_concrete
 https://en.wikipedia.org/wiki/Girl
@@ -72,7 +75,7 @@ https://en.wikipedia.org/wiki/Man
 https://en.wikipedia.org/wiki/Corporeal
 https://en.wikipedia.org/wiki/Appearance
 
-Language & communication formats, by system (writing):
+Language, communication & interaction formats, by system (mediums):
 https://en.wikipedia.org/wiki/Format
 https://en.wikipedia.org/wiki/Acronym
 https://en.wikipedia.org/wiki/Network
@@ -285,7 +288,7 @@ vis:  -
 https://en.wikipedia.org/wiki/Binoculars
 https://en.wikipedia.org/wiki/Night_vision
 https://en.wikipedia.org/wiki/Night-vision_device
-.
+...
 https://en.wikipedia.org/wiki/Cuban_cigar
 
 
@@ -524,11 +527,21 @@ https://en.wikipedia.org/wiki/Biology
 https://en.wikipedia.org/wiki/Evolutionary_biology
 https://en.wikipedia.org/wiki/Medicine
 https://en.wikipedia.org/wiki/Physics
+https://en.wikipedia.org/wiki/Quantum_mechanics
+https://en.wikipedia.org/wiki/Quantum_electrodynamics
 https://en.wikipedia.org/wiki/Computer_science
+
+Physics - theoretical scientists & knowledge:  hard
+https://en.wikipedia.org/wiki/Theoretical_physics
+
+Physics - experimental scientists & knowledge, by figures, labs:  hard
+https://en.wikipedia.org/wiki/Experimental_physics
+
 
 Mathematical fields, techniques & knowledge:  hard
 https://en.wikipedia.org/wiki/Mathematical_proof
 https://en.wikipedia.org/wiki/Mathematics
+
 
 Hardware, science research & institutions, by figure: -
 
@@ -536,30 +549,43 @@ Software, science research & institutions, by figure:
 https://en.wikipedia.org/wiki/Niklaus_Wirth
 
 
-Psychology, human behavior & conditions (universal):  soft
+To-do: neuroscience, neurology
+
+Psychology, human thinking & behavior (academics):  soft
 https://en.wikipedia.org/wiki/Psychology
 https://en.wikipedia.org/wiki/Mind
+https://en.wikipedia.org/wiki/Intelligence
 https://en.wikipedia.org/wiki/Id,_ego_and_superego
 https://en.wikipedia.org/wiki/Subconscious
 https://en.wikipedia.org/wiki/Cognition
+https://en.wikipedia.org/wiki/Intelligence_quotient
+https://en.wikipedia.org/wiki/Empathy_quotient
 https://en.wikipedia.org/wiki/Learning_disability
+https://en.wikipedia.org/wiki/Intellectual_disability
+
+Psychology, socialization & personality traits:  soft
+https://en.wikipedia.org/wiki/Socialization
+https://en.wikipedia.org/wiki/Asociality
 https://en.wikipedia.org/wiki/Love
 
 Psychology, mental conditions & characterization:  soft
-https://en.wikipedia.org/wiki/Intelligence_quotient
-https://en.wikipedia.org/wiki/Empathy_quotient
+https://en.wikipedia.org/wiki/Psychopathology
 https://en.wikipedia.org/wiki/Depression_(mood)
 https://en.wikipedia.org/wiki/Major_depressive_disorder
 https://en.wikipedia.org/wiki/Dyslexia
 https://en.wikipedia.org/wiki/Autism
 https://en.wikipedia.org/wiki/Misophonia
 https://en.wikipedia.org/wiki/Catatonia
+...
 https://en.wikipedia.org/wiki/Cognitive_dissonance
 https://en.wikipedia.org/wiki/God_complex
 
+Psychiatry, diagnostics and medical treatment:  soft
+https://en.wikipedia.org/wiki/Occupational_burnout
+
+
 Linquistics & language studies:  soft
 https://en.wikipedia.org/wiki/Linguistics
-
 
 Books & literature, by figure(s) (author):
 rpg:   https://en.wikipedia.org/wiki/Gary_Gygax
@@ -572,7 +598,7 @@ https://en.wikipedia.org/wiki/Karate
 https://en.wikipedia.org/wiki/Judo
 https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu
 https://en.wikipedia.org/wiki/Boxing
-- arm
+arm:
 https://en.wikipedia.org/wiki/Tantojutsu
 https://en.wikipedia.org/wiki/Historical_European_martial_arts
 
@@ -893,7 +919,6 @@ https://en.wikipedia.org/wiki/Hard_currency
 https://en.wikipedia.org/wiki/Wicca
 https://en.wikipedia.org/wiki/Occultism_in_Nazism
 https://en.wikipedia.org/wiki/Occult
-https://en.wikipedia.org/wiki/Satanism
 https://en.wikipedia.org/wiki/Cult
 https://en.wikipedia.org/wiki/Hyperbole
 https://en.wikipedia.org/wiki/Exaggeration#Cognitive_distortions
@@ -1001,7 +1026,6 @@ https://en.wikipedia.org/wiki/Angel
 https://en.wikipedia.org/wiki/Abrahamic_religions
 https://en.wikipedia.org/wiki/Technical_art_history
 https://en.wikipedia.org/wiki/Game_art_design#Technical_artists
-https://en.wikipedia.org/wiki/Asociality
 https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court
 https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act
 https://en.wikipedia.org/wiki/Presidency_of_Richard_Nixon
@@ -1125,7 +1149,6 @@ https://en.wikipedia.org/wiki/Diplomacy
 https://en.wikipedia.org/wiki/Food
 https://en.wikipedia.org/wiki/Magic_(supernatural)
 https://en.wikipedia.org/wiki/LibreOffice
-https://en.wikipedia.org/wiki/Intellectual_disability#Terminology
 https://en.wikipedia.org/wiki/Neurodevelopmental_disorder
 https://en.wikipedia.org/wiki/Neuroscience
 https://en.wikipedia.org/wiki/Anthropology_of_technology
@@ -1368,6 +1391,90 @@ https://en.wikipedia.org/wiki/Morgue_file
 https://en.wikipedia.org/wiki/Piecemeal
 https://en.wikipedia.org/wiki/Feature_phone
 https://en.wikipedia.org/wiki/Smartphone
+
+https://en.wikipedia.org/wiki/Glow_stick
+https://en.wikipedia.org/wiki/Presentation_timestamp
+https://en.wikipedia.org/wiki/Time
+https://en.wikipedia.org/wiki/Irreversible_process
+https://en.wikipedia.org/wiki/Spacetime
+https://en.wikipedia.org/wiki/Portal:Physics
+https://en.wikipedia.org/wiki/Date_and_time_representation_by_country
+https://en.wikipedia.org/wiki/List_of_date_formats_by_country
+https://en.wikipedia.org/wiki/Civil_liberties
+https://en.wikipedia.org/wiki/Community_informatics
+https://en.wikipedia.org/wiki/Local_information_systems
+https://en.wikipedia.org/wiki/Legal_information_retrieval
+https://en.wikipedia.org/wiki/Legal_advice
+https://en.wikipedia.org/wiki/Research_and_development
+https://en.wikipedia.org/wiki/Niche_market
+https://en.wikipedia.org/wiki/Market_research
+https://en.wikipedia.org/wiki/Mergers_and_acquisitions
+https://en.wikipedia.org/wiki/Strategic_alliance
+https://en.wikipedia.org/wiki/Bisexuality
+https://en.wikipedia.org/wiki/Conspiracy_theory
+https://en.wikipedia.org/wiki/Polymath
+https://en.wikipedia.org/wiki/Guinness_World_Records
+https://en.wikipedia.org/wiki/National_Hockey_League
+https://en.wikipedia.org/wiki/National_Basketball_Association
+https://en.wikipedia.org/wiki/American_Hockey_League
+https://en.wikipedia.org/wiki/Chokehold
+
+https://en.wikipedia.org/wiki/Attack_dog
+https://en.wikipedia.org/wiki/Police_dog
+https://en.wikipedia.org/wiki/Internet_culture
+https://en.wikipedia.org/wiki/Computer-mediated_communication
+https://en.wikipedia.org/wiki/Multi-user_dungeon
+https://en.wikipedia.org/wiki/Multi-user_software
+https://en.wikipedia.org/wiki/List_of_MUD_clients
+https://en.wikipedia.org/wiki/Escapism
+https://en.wikipedia.org/wiki/Macro_(computer_science)
+https://en.wikipedia.org/wiki/Event-driven_programming
+https://en.wikipedia.org/wiki/Scripting_language
+https://en.wikipedia.org/wiki/Game_client
+https://en.wikipedia.org/wiki/Multiplayer_video_game#Online_multiplayer
+https://en.wikipedia.org/wiki/Syntax_highlighting
+https://en.wikipedia.org/wiki/Macro_(computer_science)#Keyboard_and_mouse_macros
+https://en.wikipedia.org/wiki/Multi-user_dungeon#TinyMUD
+https://en.wikipedia.org/wiki/DikuMUD
+https://en.wikipedia.org/wiki/Multi-user_dungeon#Gameplay
+https://en.wikipedia.org/wiki/Unix-like
+https://en.wikipedia.org/wiki/Mini-map#Automap
+https://en.wikipedia.org/wiki/Shareware
+https://en.wikipedia.org/wiki/Honeypot_(computing)
+https://en.wikipedia.org/wiki/Gangster
+https://en.wikipedia.org/wiki/Persian_literature
+https://en.wikipedia.org/wiki/Urho_Kekkonen
+https://en.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim
+https://en.wikipedia.org/wiki/Adolf_Hitler
+https://en.wikipedia.org/wiki/Sweden
+https://en.wikipedia.org/wiki/Sweden_Finnish
+https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland
+https://en.wikipedia.org/wiki/History_of_Ukraine
+https://en.wikipedia.org/wiki/Ukraine
+https://en.wikipedia.org/wiki/Whitewashing_(communications)
+https://en.wikipedia.org/wiki/Crime
+https://en.wikipedia.org/wiki/Human_body
+https://en.wikipedia.org/wiki/Resource_depletion
+https://en.wikipedia.org/wiki/Natural_abundance
+https://en.wikipedia.org/wiki/Perpetual_motion
+https://en.wikipedia.org/wiki/Pulse
+https://en.wikipedia.org/wiki/Extinction_event
+https://en.wikipedia.org/wiki/Human_extinction
+https://en.wikipedia.org/wiki/Smallpox
+https://en.wikipedia.org/wiki/Diabetes
+https://en.wikipedia.org/wiki/Diabetes_medication
+https://en.wikipedia.org/wiki/Diabetic_neuropathy
+https://en.wikipedia.org/wiki/World_Health_Organization
+https://en.wikipedia.org/wiki/Sociology_(journal)
+https://en.wikipedia.org/wiki/Caregiver_stress
+https://en.wikipedia.org/wiki/Involuntary_treatment
+https://en.wikipedia.org/wiki/Covert_medication
+https://en.wikipedia.org/wiki/Covert_medication
+https://en.wikipedia.org/wiki/Medication
+https://en.wikipedia.org/wiki/Overtraining
+https://en.wikipedia.org/wiki/Formal_system
+https://en.wikipedia.org/wiki/Software_maintenance
+https://en.wikipedia.org/wiki/Society
 .
 
 bark:
