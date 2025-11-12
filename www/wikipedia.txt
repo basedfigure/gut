@@ -4,12 +4,14 @@ By: zlib (c) 2025 Aleksi 'bf' Koivisto
 Web portal to:	  https://en.wikipedia.org/
 
 Techniques used:  Hard to soft analysis, accessibility, preservation, creativity, randomness by occurrence
-TODO: 		  historic japanese art, web portals, technological marvels, medicine, nutrition, social studies, biology, ecology, neuroscience, mysteries, mythology, magic & aliens
-TODO:		  url toggling, splitter, offloader
+TODO: 		  historic japanese art, web portals, technological marvels, medicine, nutrition, social studies, biology, ecology, mysteries, mythology, magic & aliens
+TODO:		  url toggling, splitter, offloader, tester
 Continued list:   compounding lists are better expanded into separate files, when parser hits ... under list, prompted by dialog box
 
 Say:		  "Naked thought", "Stay a while and read", "Word 4 hire", "Down this beast!", "Split into pieces", "Scatter"
+.
 
+-
 Categories:	  - Search by: ctrl-f,
 data:		  -
 list:		  -
@@ -18,8 +20,10 @@ Countries:	  -
 usa:		  United States of America,
 cub:		  Cuba,
 fin:		  Finland,
+fra:		  France,
 jap:		  Japan,
 rus:		  Russia
+swe:		  Sweden, Finnish Swedes
 
 Sub-categories:   - Search by: ctrl-f,
 lang:		  language (natural, code, slang, encoded)
@@ -51,9 +55,24 @@ vis:		  vision, imaging,
 myst:		  mystery,
 beef:		  philosophy, tribalism, flesh & bones,
 curr:  		  currency,
-cult:		  cultist, occultist, philosophic/religious/spiritual
-exo:		  culture (arts, history, legacy), training, exoticism
+cult:		  cultist, occultist, philosophic/religious/spiritual,
+exo:		  culture (arts, history, legacy), training, exoticism,
 arm:		  -
+mass:		  majority group,
+gov:		  government,
+popo:		  police,
+fan:		  fantasy,
+gear:		  prototypes for "if someone makes the wrong move types",
+tact:		  tactical placement, deployment
+.
+
+
+-
+Hall of Fame for the greatest legacies & prolificity (figures):
+https://en.wikipedia.org/wiki/Mahatma_Gandhi
+https://en.wikipedia.org/wiki/Albert_Einstein
+https://en.wikipedia.org/wiki/Hideo_Kojima
+https://en.wikipedia.org/wiki/Nobuo_Uematsu
 .
 
 
@@ -77,6 +96,7 @@ https://en.wikipedia.org/wiki/Appearance
 
 Language, communication & interaction formats, by system (mediums):
 https://en.wikipedia.org/wiki/Format
+https://en.wikipedia.org/wiki/Information
 https://en.wikipedia.org/wiki/Acronym
 https://en.wikipedia.org/wiki/Network
 
@@ -179,6 +199,7 @@ https://en.wikipedia.org/wiki/Programming_paradigm
 https://en.wikipedia.org/wiki/Procedural_programming
 https://en.wikipedia.org/wiki/Functional_programming
 https://en.wikipedia.org/wiki/Object-oriented_programming
+https://en.wikipedia.org/wiki/Data-oriented_design
 -
 https://en.wikipedia.org/wiki/Library_(computing)
 https://en.wikipedia.org/wiki/WYSIWYG
@@ -343,6 +364,9 @@ https://en.wikipedia.org/wiki/Intention_(criminal_law)
 
 
 Historical eras, by country, faction:
+old:
+https://en.wikipedia.org/wiki/Mesopotamia
+https://en.wikipedia.org/wiki/Babylonia
 usa:
 https://en.wikipedia.org/wiki/European_colonization_of_the_Americas
 https://en.wikipedia.org/wiki/Colonial_history_of_the_United_States
@@ -367,6 +391,7 @@ To-do:  Criminal & terrorist organizations
 Statecraft (universal):
 https://en.wikipedia.org/wiki/Statecraft
 https://en.wikipedia.org/wiki/Independence
+https://en.wikipedia.org/wiki/Constitutional_law
 https://en.wikipedia.org/wiki/Politician
 https://en.wikipedia.org/wiki/Independent_politician
 https://en.wikipedia.org/wiki/Political_correctness
@@ -383,7 +408,7 @@ https://en.wikipedia.org/wiki/Statelessness
 https://en.wikipedia.org/wiki/Stateless_nation
 https://en.wikipedia.org/wiki/Universal_basic_income
 
-Statecraft, political systems & ideologies:
+Statecraft, political systems & ideologies, by rule, system:
 https://en.wikipedia.org/wiki/Democracy
 https://en.wikipedia.org/wiki/Meritocracy
 https://en.wikipedia.org/wiki/Communism
@@ -398,8 +423,8 @@ https://en.wikipedia.org/wiki/Red_Scare
 Statecraft, security & intelligence (universal):
 https://en.wikipedia.org/wiki/Tradecraft
 
-Statecraft, government institutions (common): -
-...
+Statecraft, government institutions (common):  gov
+https://en.wikipedia.org/wiki/Bureau
 
 Statecraft, government & military installations, by type, faction:
 https://en.wikipedia.org/wiki/Proving_ground
@@ -407,9 +432,12 @@ https://en.wikipedia.org/wiki/Kill_house
 
 Statecraft (American): usa
 https://en.wikipedia.org/wiki/United_States
+https://en.wikipedia.org/wiki/Constitution_of_the_United_States
+https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution
 https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population
 https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States
 https://en.wikipedia.org/wiki/United_States_Armed_Forces
+https://en.wikipedia.org/wiki/United_States_Intelligence_Community
 usmc:  https://en.wikipedia.org/wiki/United_States_Marine_Corps
 jsoc:  https://en.wikipedia.org/wiki/Joint_Special_Operations_Command
 cia:   
@@ -426,18 +454,26 @@ https://en.wikipedia.org/wiki/Che_Guevara
 
 Statecraft (Finnish): fin
 https://en.wikipedia.org/wiki/Finland
+https://en.wikipedia.org/wiki/Constitution_of_Finland
 https://en.wikipedia.org/wiki/List_of_presidents_of_Finland
 kela:  https://en.wikipedia.org/wiki/Kela_(institution)
+popo:  https://en.wikipedia.org/wiki/Police_of_Finland
 https://en.wikipedia.org/wiki/Finnish_Defence_Forces
 utjr:  https://en.wikipedia.org/wiki/Utti_Jaeger_Regiment
 supo:  https://en.wikipedia.org/wiki/Finnish_Security_and_Intelligence_Service
 https://en.wikipedia.org/wiki/Finnish_Defence_Intelligence_Agency
 https://en.wikipedia.org/wiki/Police_Rapid_Response_Unit_(Finland)
 ...
+https://en.wikipedia.org/wiki/Sweden_Finnish
+https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland
 https://en.wikipedia.org/wiki/Finnish_Americans
+
+Statecraft (France): fra
+https://en.wikipedia.org/wiki/France
 
 Statecraft (Israeli): isr
 https://en.wikipedia.org/wiki/Israel
+https://en.wikipedia.org/wiki/Basic_Laws_of_Israel
 shin:  https://en.wikipedia.org/wiki/Shin_Bet
 moss:  https://en.wikipedia.org/wiki/Mossad
 
@@ -446,6 +482,7 @@ https://en.wikipedia.org/wiki/Mongolia
 
 Statecraft (Russian): rus
 https://en.wikipedia.org/wiki/Russia
+https://en.wikipedia.org/wiki/Constitution_of_Russia
 https://en.wikipedia.org/wiki/List_of_leaders_of_Russia
 https://en.wikipedia.org/wiki/List_of_heads_of_government_of_Russia
 https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Russia
@@ -461,6 +498,9 @@ https://en.wikipedia.org/wiki/Russians_in_Finland
 https://en.wikipedia.org/wiki/Karelia
 https://en.wikipedia.org/wiki/Russian_imperialism
 
+Statecraft (Sweden):  swe
+https://en.wikipedia.org/wiki/Sweden
+
 
 Arms & armory - weapon technologies, by type, party: -
 
@@ -471,7 +511,7 @@ https://en.wikipedia.org/wiki/Weapon_of_mass_destruction
 Arms & armory - ballistic heavy weapons (platforms):
 https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile
 
-Arms & armory - unmanned heavy weapons (platforms):
+Arms & armory - unmanned heavy weapons (platforms): gear, tact
 https://en.wikipedia.org/wiki/Metal_Gear_(mecha)
 
 Arms & armory - unmanned weapons (platforms):
@@ -587,8 +627,13 @@ https://en.wikipedia.org/wiki/Occupational_burnout
 Linquistics & language studies:  soft
 https://en.wikipedia.org/wiki/Linguistics
 
-Books & literature, by figure(s) (author):
-rpg:   https://en.wikipedia.org/wiki/Gary_Gygax
+Books, literature & fiction, figure(s), opus(es) (author):
+rpg:  
+https://en.wikipedia.org/wiki/TSR,_Inc.
+https://en.wikipedia.org/wiki/Gary_Gygax
+fan:  
+https://en.wikipedia.org/wiki/Terry_Pratchett
+https://en.wikipedia.org/wiki/Discworld
 
 
 To-do: sports...
@@ -913,7 +958,6 @@ https://en.wikipedia.org/wiki/Al_Gore
 https://en.wikipedia.org/wiki/2012_phenomenon
 https://en.wikipedia.org/wiki/Hatred
 https://en.wikipedia.org/wiki/User_interface
-https://en.wikipedia.org/wiki/Data-oriented_design
 https://en.wikipedia.org/wiki/User_interface_design
 https://en.wikipedia.org/wiki/Font
 https://en.wikipedia.org/wiki/Graphics
@@ -1039,7 +1083,6 @@ https://en.wikipedia.org/wiki/Abrahamic_religions
 https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court
 https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act
 https://en.wikipedia.org/wiki/Presidency_of_Richard_Nixon
-https://en.wikipedia.org/wiki/United_States_Intelligence_Community
 https://en.wikipedia.org/wiki/Terrorism
 https://en.wikipedia.org/wiki/Journalism
 https://en.wikipedia.org/wiki/Journalism_ethics_and_standards
@@ -1123,7 +1166,6 @@ https://en.wikipedia.org/wiki/Blowpipe
 https://en.wikipedia.org/wiki/Star_Wars
 https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
 https://en.wikipedia.org/wiki/Harry_Potter
-https://en.wikipedia.org/wiki/Terry_Pratchett
 https://en.wikipedia.org/wiki/Alzheimer's_disease
 https://en.wikipedia.org/wiki/Brain
 https://en.wikipedia.org/wiki/Human_anatomy
@@ -1233,7 +1275,6 @@ https://en.wikipedia.org/wiki/Belief
 https://en.wikipedia.org/wiki/Morality
 https://en.wikipedia.org/wiki/Ethics
 https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence
-https://en.wikipedia.org/wiki/Information
 https://en.wikipedia.org/wiki/Privacy
 https://en.wikipedia.org/wiki/Nothing_to_hide_argument
 https://en.wikipedia.org/wiki/Information_and_communications_technology
@@ -1274,8 +1315,6 @@ https://en.wikipedia.org/wiki/Physiology
 https://en.wikipedia.org/wiki/Physiognomy
 https://en.wikipedia.org/wiki/Therapy
 https://en.wikipedia.org/wiki/Physiology_of_dinosaurs
-https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution
-https://en.wikipedia.org/wiki/Constitution_of_Finland
 https://en.wikipedia.org/wiki/Brain_injury
 https://en.wikipedia.org/wiki/DSM-5
 https://en.wikipedia.org/wiki/Healing
@@ -1316,8 +1355,6 @@ https://en.wikipedia.org/wiki/Cicero
 https://en.wikipedia.org/wiki/Academic_skepticism
 https://en.wikipedia.org/wiki/Contempt
 https://en.wikipedia.org/wiki/Contempt_of_cop
-https://en.wikipedia.org/wiki/Constitution_of_the_United_States
-https://en.wikipedia.org/wiki/Constitution_of_Russia
 https://en.wikipedia.org/wiki/Dr_Disrespect
 https://en.wikipedia.org/wiki/Godot_(game_engine)
 https://en.wikipedia.org/wiki/Markedness
@@ -1456,9 +1493,6 @@ https://en.wikipedia.org/wiki/Persian_literature
 https://en.wikipedia.org/wiki/Urho_Kekkonen
 https://en.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim
 https://en.wikipedia.org/wiki/Adolf_Hitler
-https://en.wikipedia.org/wiki/Sweden
-https://en.wikipedia.org/wiki/Sweden_Finnish
-https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland
 https://en.wikipedia.org/wiki/History_of_Ukraine
 https://en.wikipedia.org/wiki/Ukraine
 https://en.wikipedia.org/wiki/Whitewashing_(communications)
@@ -1529,7 +1563,6 @@ https://en.wikipedia.org/wiki/Poul_Anderson
 https://en.wikipedia.org/wiki/Ylilauta
 https://en.wikipedia.org/wiki/Classical_conditioning
 https://en.wikipedia.org/wiki/Dance
-https://en.wikipedia.org/wiki/Bureau
 https://en.wikipedia.org/wiki/Machinery_of_government
 https://en.wikipedia.org/wiki/Government_agency
 https://en.wikipedia.org/wiki/John_Stuart_Mill
@@ -1540,7 +1573,75 @@ https://en.wikipedia.org/wiki/Nikola_Tesla
 https://en.wikipedia.org/wiki/Humphry_Davy
 https://en.wikipedia.org/wiki/Thomas_Edison
 https://en.wikipedia.org/wiki/Thomas_Jefferson
+https://en.wikipedia.org/wiki/Psychosocial
+https://en.wikipedia.org/wiki/Science_communication
+https://en.wikipedia.org/wiki/Sign_of_the_Times
+https://en.wikipedia.org/wiki/Tongue-in-cheek
+https://en.wikipedia.org/wiki/Equal_opportunity
+https://en.wikipedia.org/wiki/Liberalism
+https://en.wikipedia.org/wiki/Libertarianism
+https://en.wikipedia.org/wiki/Libertarian_socialism
+https://en.wikipedia.org/wiki/Libertarian_conservatism
+https://en.wikipedia.org/wiki/Neolithic_Revolution
+https://en.wikipedia.org/wiki/Theurgy
+https://en.wikipedia.org/wiki/Tantra
+https://en.wikipedia.org/wiki/Mysticism
+https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism
+https://en.wikipedia.org/wiki/History_of_technology
+https://en.wikipedia.org/wiki/Rapid_Fire_(mixtape)
+https://en.wikipedia.org/wiki/Divine_intervention
+https://en.wikipedia.org/wiki/Divine_embodiment
+https://en.wikipedia.org/wiki/Astronomy
+https://en.wikipedia.org/wiki/Agriculture
+https://en.wikipedia.org/wiki/Meditation
+https://en.wikipedia.org/wiki/Ritual
+https://en.wikipedia.org/wiki/Theory_of_forms
+https://en.wikipedia.org/wiki/Henosis
+https://en.wikipedia.org/wiki/Neoplatonism
+https://en.wikipedia.org/wiki/Chicken
+https://en.wikipedia.org/wiki/Velociraptor
+https://en.wikipedia.org/wiki/Ileo-anal_pouch
+https://en.wikipedia.org/wiki/Judiciary
+https://en.wikipedia.org/wiki/Margie_Profet
+https://en.wikipedia.org/wiki/Muhammad
+https://en.wikipedia.org/wiki/Muhammad_in_Islam
+https://en.wikipedia.org/wiki/Algebraic_interior
+https://en.wikipedia.org/wiki/Interior_(topology)
+https://en.wikipedia.org/wiki/Consistency
+https://en.wikipedia.org/wiki/Stream_of_consciousness
+https://en.wikipedia.org/wiki/International_human_rights_law
+https://en.wikipedia.org/wiki/Human_rights
+https://en.wikipedia.org/wiki/Civil_law_(legal_system)
+https://en.wikipedia.org/wiki/Common_law
+https://en.wikipedia.org/wiki/State_(polity)
+https://en.wikipedia.org/wiki/Executive_(government)
+https://en.wikipedia.org/wiki/Legislature
+https://en.wikipedia.org/wiki/Internet_police
+https://en.wikipedia.org/wiki/Concurrent_computing
+https://en.wikipedia.org/wiki/Function_pointer
+https://en.wikipedia.org/wiki/Non-English-based_programming_languages
+https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages
+https://en.wikipedia.org/wiki/Library_and_information_science
+https://en.wikipedia.org/wiki/Information_management
+https://en.wikipedia.org/wiki/Records_management
+https://en.wikipedia.org/wiki/Archive
+https://en.wikipedia.org/wiki/Historical_document
+https://en.wikipedia.org/wiki/Hebrew_Bible
+https://en.wikipedia.org/wiki/Bible
+https://en.wikipedia.org/wiki/Quran
+https://en.wikipedia.org/wiki/Ostracon
+https://en.wikipedia.org/wiki/Rosetta_Stone
+https://en.wikipedia.org/wiki/Ten_Commandments
+https://en.wikipedia.org/wiki/Oral_tradition
+https://en.wikipedia.org/wiki/Death
+https://en.wikipedia.org/wiki/Life
+https://en.wikipedia.org/wiki/Prototype-based_programming
+https://en.wikipedia.org/wiki/Prototype
+https://en.wikipedia.org/wiki/Jack_of_all_trades
+https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#The_Patriots
 .
+
+work: Discworld (dw)
 
 bark:
 https://en.wikipedia.org/wiki/Finnish_profanity#Paska
