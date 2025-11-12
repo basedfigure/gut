@@ -1639,9 +1639,45 @@ https://en.wikipedia.org/wiki/Prototype-based_programming
 https://en.wikipedia.org/wiki/Prototype
 https://en.wikipedia.org/wiki/Jack_of_all_trades
 https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#The_Patriots
+https://en.wikipedia.org/wiki/Halo_effect
+https://en.wikipedia.org/wiki/Halo_effect#Academics_and_intelligence
+https://en.wikipedia.org/wiki/Ad_hominem
+https://en.wikipedia.org/wiki/Affect_heuristic
+https://en.wikipedia.org/wiki/Rationality
+https://en.wikipedia.org/wiki/Skateboard
+https://en.wikipedia.org/wiki/Institute
+https://en.wikipedia.org/wiki/University
+https://en.wikipedia.org/wiki/Institute_of_technology
+https://en.wikipedia.org/wiki/Finnish_language
+https://en.wikipedia.org/wiki/Finnic_languages
+https://en.wikipedia.org/wiki/French_language
+https://en.wikipedia.org/wiki/Russian_language
+https://en.wikipedia.org/wiki/English_language
+https://en.wikipedia.org/wiki/Japanese_language
+https://en.wikipedia.org/wiki/Swedish_language
+https://en.wikipedia.org/wiki/Mechanics'_institute
+https://en.wikipedia.org/wiki/Users'_group
+https://en.wikipedia.org/wiki/Usenet
+https://en.wikipedia.org/wiki/Futurism
+https://en.wikipedia.org/wiki/Art_Deco
+https://en.wikipedia.org/wiki/Retrofuturism
+https://en.wikipedia.org/wiki/Anarchist_communism
+https://en.wikipedia.org/wiki/Anarcho-syndicalism
+https://en.wikipedia.org/wiki/Matriarchy
+https://en.wikipedia.org/wiki/Feminism
+https://en.wikipedia.org/wiki/Patriarchy
+https://en.wikipedia.org/wiki/House_society
+https://en.wikipedia.org/wiki/Telepathy
+https://en.wikipedia.org/wiki/Modernity
+https://en.wikipedia.org/wiki/Bare_machine
+https://en.wikipedia.org/wiki/BareMetal
+https://en.wikipedia.org/wiki/Search_engine_optimization
+https://en.wikipedia.org/wiki/Interacting_galaxy#Galaxy_collision
+https://en.wikipedia.org/wiki/Alpha_and_Omega
+https://en.wikipedia.org/wiki/Call_stack#Unwinding
 .
 
-work: Discworld (dw)
+Works: Discworld (dw)
 
 bark:
 https://en.wikipedia.org/wiki/Finnish_profanity#Paska
