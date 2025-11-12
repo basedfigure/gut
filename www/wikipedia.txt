@@ -353,7 +353,7 @@ https://en.wikipedia.org/wiki/History_of_Japan
 https://en.wikipedia.org/wiki/Rōnin
 https://en.wikipedia.org/wiki/Ninjutsu
 
-Populations, cultures & societies (universal):
+Populations, cultures & societal structures (universal):
 https://en.wikipedia.org/wiki/Counterculture
 https://en.wikipedia.org/wiki/Parallel_society
 ...
@@ -580,7 +580,7 @@ https://en.wikipedia.org/wiki/Catatonia
 https://en.wikipedia.org/wiki/Cognitive_dissonance
 https://en.wikipedia.org/wiki/God_complex
 
-Psychiatry, diagnostics and medical treatment:  soft
+Psychiatry, diagnostics, therapy & medical treatment:  soft
 https://en.wikipedia.org/wiki/Occupational_burnout
 
 
@@ -620,12 +620,15 @@ https://en.wikipedia.org/wiki/Game_theory
 https://en.wikipedia.org/wiki/Game_design
 https://en.wikipedia.org/wiki/Game_studies
 https://en.wikipedia.org/wiki/Game_art_design
+https://en.wikipedia.org/wiki/Technical_art_history
+https://en.wikipedia.org/wiki/Game_art_design#Technical_artists
 https://en.wikipedia.org/wiki/Game_design_document
 bet:   https://en.wikipedia.org/wiki/Gambling
 bet:   https://en.wikipedia.org/wiki/Online_gambling
 
 Games - immersive role-playing design & literature:  rpg
 https://en.wikipedia.org/wiki/Dungeons_&_Dragons
+https://en.wikipedia.org/wiki/Editions_of_Dungeons_&_Dragons#Advanced_Dungeons_&_Dragons
 https://en.wikipedia.org/wiki/Rolemaster
 https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
 
@@ -653,24 +656,35 @@ Religious schools & theology, by system, mythology (universal):
 https://en.wikipedia.org/wiki/Religion
 https://en.wikipedia.org/wiki/Theology
 https://en.wikipedia.org/wiki/Myth#Mythology
-https://en.wikipedia.org/wiki/Meta-religion
-cult:  https://en.wikipedia.org/wiki/Cult
 https://en.wikipedia.org/wiki/Legend
+https://en.wikipedia.org/wiki/Meta-religion
+cult:
+https://en.wikipedia.org/wiki/Cult
+myth:
 https://en.wikipedia.org/wiki/Daimon
 https://en.wikipedia.org/wiki/Demon
 
-Religious schools & theology, by group(s), figure(s):
+Religious schools & theology, by figure(s), group(s):
+fig:
+https://en.wikipedia.org/wiki/Jesus
+https://en.wikipedia.org/wiki/Pope
+sys:
 https://en.wikipedia.org/wiki/Ethnic_religion
 https://en.wikipedia.org/wiki/Folk_religion
 https://en.wikipedia.org/wiki/Major_religious_groups
 https://en.wikipedia.org/wiki/Clergy
 https://en.wikipedia.org/wiki/Magi
-https://en.wikipedia.org/wiki/Jesus
-https://en.wikipedia.org/wiki/Pope
+mass:
+https://en.wikipedia.org/wiki/Christianity
 folk:
 https://en.wikipedia.org/wiki/Mongolian_shamanism
 cult:  
 https://en.wikipedia.org/wiki/Satanism
+
+Religious schools & theology, by system (cultural):
+https://en.wikipedia.org/wiki/Cultural_system
+https://en.wikipedia.org/wiki/Liturgy
+https://en.wikipedia.org/wiki/Worship
 
 
 Philosophical fields & wisdom (universal):
@@ -885,7 +899,6 @@ https://en.wikipedia.org/wiki/White_Room_(disambiguation)
 https://en.wikipedia.org/wiki/Hinduism
 https://en.wikipedia.org/wiki/Taoism
 https://en.wikipedia.org/wiki/Buddhism
-https://en.wikipedia.org/wiki/Christianity
 https://en.wikipedia.org/wiki/Islam
 https://en.wikipedia.org/wiki/Theism
 https://en.wikipedia.org/wiki/Secularity
@@ -1014,7 +1027,6 @@ https://en.wikipedia.org/wiki/Sensitivity_and_specificity
 https://en.wikipedia.org/wiki/Exoskeleton
 https://en.wikipedia.org/wiki/POSIX
 https://en.wikipedia.org/wiki/Regular_expression
-https://en.wikipedia.org/wiki/Hail_Mary
 https://en.wikipedia.org/wiki/Gabriel
 https://en.wikipedia.org/wiki/Thomas_Aquinas
 https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus
@@ -1024,8 +1036,6 @@ https://en.wikipedia.org/wiki/Orthodox_Church
 https://en.wikipedia.org/wiki/Eastern_Orthodox_Church
 https://en.wikipedia.org/wiki/Angel
 https://en.wikipedia.org/wiki/Abrahamic_religions
-https://en.wikipedia.org/wiki/Technical_art_history
-https://en.wikipedia.org/wiki/Game_art_design#Technical_artists
 https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court
 https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act
 https://en.wikipedia.org/wiki/Presidency_of_Richard_Nixon
@@ -1469,12 +1479,67 @@ https://en.wikipedia.org/wiki/Sociology_(journal)
 https://en.wikipedia.org/wiki/Caregiver_stress
 https://en.wikipedia.org/wiki/Involuntary_treatment
 https://en.wikipedia.org/wiki/Covert_medication
-https://en.wikipedia.org/wiki/Covert_medication
 https://en.wikipedia.org/wiki/Medication
 https://en.wikipedia.org/wiki/Overtraining
 https://en.wikipedia.org/wiki/Formal_system
 https://en.wikipedia.org/wiki/Software_maintenance
+https://en.wikipedia.org/wiki/Cultural_heritage
+https://en.wikipedia.org/wiki/Gender_of_God
+https://en.wikipedia.org/wiki/Priest
+https://en.wikipedia.org/wiki/Priesthood_in_the_Catholic_Church
+https://en.wikipedia.org/wiki/Monk
+https://en.wikipedia.org/wiki/Christian_monasticism
+https://en.wikipedia.org/wiki/Chant
+https://en.wikipedia.org/wiki/Mass
+https://en.wikipedia.org/wiki/Massage
+https://en.wikipedia.org/wiki/Sex
+https://en.wikipedia.org/wiki/Sexual_intercourse
+https://en.wikipedia.org/wiki/Sexually_transmitted_infection
+https://en.wikipedia.org/wiki/Sex_toy
+https://en.wikipedia.org/wiki/Sexual_dimorphism
 https://en.wikipedia.org/wiki/Society
+https://en.wikipedia.org/wiki/Robin_Hood
+https://en.wikipedia.org/wiki/Merry_Men
+https://en.wikipedia.org/wiki/Outlaw_(stock_character)
+https://en.wikipedia.org/wiki/English_literature
+https://en.wikipedia.org/wiki/English_folklore
+https://en.wikipedia.org/wiki/Ballad
+https://en.wikipedia.org/wiki/Crusades
+https://en.wikipedia.org/wiki/Knight-errant
+https://en.wikipedia.org/wiki/Plate_armour
+https://en.wikipedia.org/wiki/Gothic_plate_armour
+https://en.wikipedia.org/wiki/Personal_digital_assistant
+https://en.wikipedia.org/wiki/Tablet_computer
+https://en.wikipedia.org/wiki/Web_browser
+https://en.wikipedia.org/wiki/Pocket_computer
+https://en.wikipedia.org/wiki/Ultra-mobile_PC
+https://en.wikipedia.org/wiki/Smartbook
+https://en.wikipedia.org/wiki/BlackBerry
+https://en.wikipedia.org/wiki/Black_Isle_Studios
+https://en.wikipedia.org/wiki/Black_hole
+https://en.wikipedia.org/wiki/Black_Sea
+https://en.wikipedia.org/wiki/AD&D
+https://en.wikipedia.org/wiki/Dungeons_&_Dragons_Basic_Set
+https://en.wikipedia.org/wiki/The_Keep_on_the_Borderlands
+https://en.wikipedia.org/wiki/Ravenloft
+https://en.wikipedia.org/wiki/Bejeweled_(video_game)
+https://en.wikipedia.org/wiki/Alignment_(Dungeons_&_Dragons)
+https://en.wikipedia.org/wiki/Michael_Moorcock
+https://en.wikipedia.org/wiki/Poul_Anderson
+https://en.wikipedia.org/wiki/Ylilauta
+https://en.wikipedia.org/wiki/Classical_conditioning
+https://en.wikipedia.org/wiki/Dance
+https://en.wikipedia.org/wiki/Bureau
+https://en.wikipedia.org/wiki/Machinery_of_government
+https://en.wikipedia.org/wiki/Government_agency
+https://en.wikipedia.org/wiki/John_Stuart_Mill
+https://en.wikipedia.org/wiki/Clairvoyance
+https://en.wikipedia.org/wiki/SixthSense
+https://en.wikipedia.org/wiki/Futurist
+https://en.wikipedia.org/wiki/Nikola_Tesla
+https://en.wikipedia.org/wiki/Humphry_Davy
+https://en.wikipedia.org/wiki/Thomas_Edison
+https://en.wikipedia.org/wiki/Thomas_Jefferson
 .
 
 bark:
