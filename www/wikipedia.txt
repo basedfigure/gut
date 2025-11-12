@@ -63,7 +63,7 @@ gov:		  government,
 popo:		  police,
 fan:		  fantasy,
 gear:		  prototypes for "if someone makes the wrong move types",
-tact:		  tactical placement, deployment
+tact:		  tactical placement, deployment,
 .
 
 
@@ -1675,6 +1675,61 @@ https://en.wikipedia.org/wiki/Search_engine_optimization
 https://en.wikipedia.org/wiki/Interacting_galaxy#Galaxy_collision
 https://en.wikipedia.org/wiki/Alpha_and_Omega
 https://en.wikipedia.org/wiki/Call_stack#Unwinding
+https://en.wikipedia.org/wiki/Noise_regulation
+https://en.wikipedia.org/wiki/Lawful_interception
+https://en.wikipedia.org/wiki/Phone_hacking
+https://en.wikipedia.org/wiki/Threat_(computer_security)
+https://en.wikipedia.org/wiki/Imprisonment
+https://en.wikipedia.org/wiki/Posture
+https://en.wikipedia.org/wiki/Best_friends_forever
+https://en.wikipedia.org/wiki/Music
+https://en.wikipedia.org/wiki/Terry_A._Davis#"Glowies"
+https://en.wikipedia.org/wiki/Schizophrenia
+https://en.wikipedia.org/wiki/Political_campaign
+https://en.wikipedia.org/wiki/Jaded
+https://en.wikipedia.org/wiki/Doomer
+https://en.wikipedia.org/wiki/Bloomer
+https://en.wikipedia.org/wiki/Clothing
+
+https://en.wikipedia.org/wiki/Frameup
+https://en.wikipedia.org/wiki/Timber_framing
+https://en.wikipedia.org/wiki/Framing_(social_sciences)
+https://en.wikipedia.org/wiki/Reality
+https://en.wikipedia.org/wiki/Interpersonal_communication
+https://en.wikipedia.org/wiki/Ice_cream
+https://en.wikipedia.org/wiki/Salmon
+https://en.wikipedia.org/wiki/Coca-Cola
+https://en.wikipedia.org/wiki/Verb_framing
+https://en.wikipedia.org/wiki/Bacteria
+https://en.wikipedia.org/wiki/Eavesdropping
+https://en.wikipedia.org/wiki/Inquisition_in_France
+https://en.wikipedia.org/wiki/Inquisition
+https://en.wikipedia.org/wiki/Stupidity
+https://en.wikipedia.org/wiki/Wiretapping
+https://en.wikipedia.org/wiki/Jargon
+https://en.wikipedia.org/wiki/Constitution#Codified_constitution
+https://en.wikipedia.org/wiki/Testimony
+https://en.wikipedia.org/wiki/Debugging
+https://en.wikipedia.org/wiki/Telephone_game
+https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)
+https://en.wikipedia.org/wiki/Cheek_(rapper)_discography
+https://en.wikipedia.org/wiki/Kimi_Räikkönen
+https://en.wikipedia.org/wiki/Michael_Schumacher
+https://en.wikipedia.org/wiki/Mika_Häkkinen
+https://en.wikipedia.org/wiki/Deaf-mute
+https://en.wikipedia.org/wiki/Muteness
+https://en.wikipedia.org/wiki/Human_error
+https://en.wikipedia.org/wiki/Internet_resource_locator
+https://en.wikipedia.org/wiki/Project_I.G.I.
+  ^- al:  "i briefly knew one dev from this team, irl, and i randomly played it before that in 2002, with a childhood friend.   came in jewel case discs back in 2002"
+https://en.wikipedia.org/wiki/Real_life
+https://en.wikipedia.org/wiki/Project_Reality
+https://en.wikipedia.org/wiki/Counterintelligence
+https://en.wikipedia.org/wiki/Dumbing_down
+https://en.wikipedia.org/wiki/Principle
+https://en.wikipedia.org/wiki/Optical_disc_packaging#Jewel_case
+https://en.wikipedia.org/wiki/Minix
+https://en.wikipedia.org/wiki/Etiquette_in_technology
 .
 
 Works: Discworld (dw)
