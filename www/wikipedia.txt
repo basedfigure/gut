@@ -4,7 +4,7 @@ By: zlib (c) 2025 Aleksi 'bf' Koivisto
 Web portal to:	  https://en.wikipedia.org/
 
 Techniques used:  Hard to soft analysis, accessibility, preservation, creativity, randomness by occurrence
-TODO: 		  historic japanese art, web portals, technological marvels, medicine, nutrition, social studies, biology, ecology, mysteries, mythology, magic & aliens
+TODO: 		  historic japanese art, web portals, technological marvels, medicine, nutrition, social studies, biology, ecology, mysteries, mythology, magic & aliens, basic entries per country
 TODO:		  url toggling, splitter, offloader, tester
 Continued list:   compounding lists are better expanded into separate files, when parser hits ... under list, prompted by dialog box
 
@@ -22,7 +22,7 @@ cub:		  Cuba,
 fin:		  Finland,
 fra:		  France,
 jap:		  Japan,
-rus:		  Russia
+rus:		  Russia, ussr
 swe:		  Sweden, Finnish Swedes
 
 Sub-categories:   - Search by: ctrl-f,
@@ -79,6 +79,7 @@ https://en.wikipedia.org/wiki/Nobuo_Uematsu
 Language, communication & interactions (universal):
 https://en.wikipedia.org/wiki/Word
 https://en.wikipedia.org/wiki/Expression
+https://en.wikipedia.org/wiki/Communication
 https://en.wikipedia.org/wiki/Nonverbal_communication
 https://en.wikipedia.org/wiki/Body_language
 https://en.wikipedia.org/wiki/Art
@@ -154,6 +155,8 @@ foss:  -
 https://en.wikipedia.org/wiki/RISC-V
 https://en.wikipedia.org/wiki/RISC-V_ecosystem
 corp:  -
+fin, old:  https://en.wikipedia.org/wiki/Nokia
+https://en.wikipedia.org/wiki/Bell_Labs
 https://en.wikipedia.org/wiki/3dfx
 
 
@@ -220,6 +223,7 @@ beef: https://en.wikipedia.org/wiki/Editor_war
 
 Software applications & technologies, by purpose (legacy, modern):
 os:    -
+https://en.wikipedia.org/wiki/Unix
 https://en.wikipedia.org/wiki/Workbench_(AmigaOS)
 https://en.wikipedia.org/wiki/MS-DOS
 https://en.wikipedia.org/wiki/Linux
@@ -363,7 +367,7 @@ https://en.wikipedia.org/wiki/Embezzlement
 https://en.wikipedia.org/wiki/Intention_(criminal_law)
 
 
-Historical eras, by country, faction:
+Populations & historical eras, by country, faction:
 old:
 https://en.wikipedia.org/wiki/Mesopotamia
 https://en.wikipedia.org/wiki/Babylonia
@@ -377,6 +381,18 @@ https://en.wikipedia.org/wiki/History_of_Japan
 https://en.wikipedia.org/wiki/Rōnin
 https://en.wikipedia.org/wiki/Ninjutsu
 
+Populations, cities & infrastructural installations, by type, area:
+https://en.wikipedia.org/wiki/Nuclear_reactor
+
+Populations, cities & villages, by country:
+fin:
+https://en.wikipedia.org/wiki/Helsinki
+rus:
+https://en.wikipedia.org/wiki/Moscow
+https://en.wikipedia.org/wiki/Saint_Petersburg
+pol:
+https://en.wikipedia.org/wiki/Warsaw
+
 Populations, cultures & societal structures (universal):
 https://en.wikipedia.org/wiki/Counterculture
 https://en.wikipedia.org/wiki/Parallel_society
@@ -384,9 +400,8 @@ https://en.wikipedia.org/wiki/Parallel_society
 https://en.wikipedia.org/wiki/Sociology_of_religion
 https://en.wikipedia.org/wiki/Satanic_panic
 
-To-do:  Civilian communities & organizations
-To-do:  Criminal & terrorist organizations
-
+To-do:  Populations, civilian communities & organizations
+To-do:  Populations, criminal & terrorist organizations
 
 Statecraft (universal):
 https://en.wikipedia.org/wiki/Statecraft
@@ -429,6 +444,8 @@ https://en.wikipedia.org/wiki/Bureau
 Statecraft, government & military installations, by type, faction:
 https://en.wikipedia.org/wiki/Proving_ground
 https://en.wikipedia.org/wiki/Kill_house
+para:
+https://en.wikipedia.org/wiki/Paratrooper
 
 Statecraft (American): usa
 https://en.wikipedia.org/wiki/United_States
@@ -480,6 +497,9 @@ moss:  https://en.wikipedia.org/wiki/Mossad
 Statecraft (Mongolians): mon
 https://en.wikipedia.org/wiki/Mongolia
 
+Statecraft (Poland): pol
+https://en.wikipedia.org/wiki/Poland
+
 Statecraft (Russian): rus
 https://en.wikipedia.org/wiki/Russia
 https://en.wikipedia.org/wiki/Constitution_of_Russia
@@ -498,6 +518,12 @@ https://en.wikipedia.org/wiki/Russians_in_Finland
 https://en.wikipedia.org/wiki/Karelia
 https://en.wikipedia.org/wiki/Russian_imperialism
 
+Statecraft (Russian, historic): old, ussr
+old:  https://en.wikipedia.org/wiki/Russian_Empire
+https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic
+https://en.wikipedia.org/wiki/Soviet_Union
+kgb:  https://en.wikipedia.org/wiki/KGB
+
 Statecraft (Sweden):  swe
 https://en.wikipedia.org/wiki/Sweden
 
@@ -507,6 +533,7 @@ Arms & armory - weapon technologies, by type, party: -
 Arms & armory - WMD, chemical and bio weapons (platforms):
 https://en.wikipedia.org/wiki/Mutual_assured_destruction
 https://en.wikipedia.org/wiki/Weapon_of_mass_destruction
+https://en.wikipedia.org/wiki/Nuclear_weapon
 
 Arms & armory - ballistic heavy weapons (platforms):
 https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile
@@ -517,8 +544,12 @@ https://en.wikipedia.org/wiki/Metal_Gear_(mecha)
 Arms & armory - unmanned weapons (platforms):
 https://en.wikipedia.org/wiki/Drone_warfare
 
-Arms & armory - manned heavy weapons (platforms):
+Arms & armory - motorized heavy weapons (manned):
+https://en.wikipedia.org/wiki/Armoured_fighting_vehicle
+https://en.wikipedia.org/wiki/Tank
 https://en.wikipedia.org/wiki/Air_superiority_fighter
+https://en.wikipedia.org/wiki/Fighter_aircraft
+https://en.wikipedia.org/wiki/Military_aircraft
 
 Arms & armory - bombs, shrapnel propellents (portable):
 https://en.wikipedia.org/wiki/Grenade
@@ -624,6 +655,15 @@ Psychiatry, diagnostics, therapy & medical treatment:  soft
 https://en.wikipedia.org/wiki/Occupational_burnout
 
 
+Linquistics, language & writing systems (alphabet):
+https://en.wikipedia.org/wiki/Language
+https://en.wikipedia.org/wiki/Writing_system
+https://en.wikipedia.org/wiki/Alphabet
+https://en.wikipedia.org/wiki/Lexicon
+https://en.wikipedia.org/wiki/Lexeme
+https://en.wikipedia.org/wiki/Vocabulary
+https://en.wikipedia.org/wiki/Grammar
+
 Linquistics & language studies:  soft
 https://en.wikipedia.org/wiki/Linguistics
 
@@ -677,6 +717,15 @@ https://en.wikipedia.org/wiki/Editions_of_Dungeons_&_Dragons#Advanced_Dungeons_&
 https://en.wikipedia.org/wiki/Rolemaster
 https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
 
+Artistic formats, styles & cultural phenomena:
+https://en.wikipedia.org/wiki/Cultural_reproduction
+https://en.wikipedia.org/wiki/Meme
+https://en.wikipedia.org/wiki/Liquid_Snake
+https://en.wikipedia.org/wiki/Solid_Snake
+https://en.wikipedia.org/wiki/Big_Boss_(Metal_Gear)
+https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Cobra_Unit
+https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Sokolov
+https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Otacon
 
 Artistic formats, styles & visual design:
 https://en.wikipedia.org/wiki/Canvas
@@ -708,6 +757,7 @@ https://en.wikipedia.org/wiki/Cult
 myth:
 https://en.wikipedia.org/wiki/Daimon
 https://en.wikipedia.org/wiki/Demon
+https://en.wikipedia.org/wiki/Devil
 
 Religious schools & theology, by figure(s), group(s):
 fig:
@@ -1730,9 +1780,137 @@ https://en.wikipedia.org/wiki/Principle
 https://en.wikipedia.org/wiki/Optical_disc_packaging#Jewel_case
 https://en.wikipedia.org/wiki/Minix
 https://en.wikipedia.org/wiki/Etiquette_in_technology
+
+https://en.wikipedia.org/wiki/Area_of_operations
+https://en.wikipedia.org/wiki/Resident_Evil
+https://en.wikipedia.org/wiki/Cobra_Commander
+https://en.wikipedia.org/wiki/Dr_Disrespect
+https://en.wikipedia.org/wiki/Rothschild_family
+https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory
+https://en.wikipedia.org/wiki/Islamophobia
+https://en.wikipedia.org/wiki/Prejudice
+https://en.wikipedia.org/wiki/Sawmill
+https://en.wikipedia.org/wiki/Outline_of_computer_science
+https://en.wikipedia.org/wiki/Timber_framing
+https://en.wikipedia.org/wiki/Frame_story
+https://en.wikipedia.org/wiki/Parkinson's_disease
+https://en.wikipedia.org/wiki/Parking_lot
+https://en.wikipedia.org/wiki/Parking
+https://en.wikipedia.org/wiki/Driver's_license
+https://en.wikipedia.org/wiki/Border_outpost
+https://en.wikipedia.org/wiki/Human_outpost
+https://en.wikipedia.org/wiki/Outpost_(military)
+https://en.wikipedia.org/wiki/Horseshoe_theory
+https://en.wikipedia.org/wiki/Development_hell
+https://en.wikipedia.org/wiki/Obfuscation
+https://en.wikipedia.org/wiki/Obfuscation_(software)
+https://en.wikipedia.org/wiki/Software_factory
+https://en.wikipedia.org/wiki/Software_documentation
+https://en.wikipedia.org/wiki/Software_for_handling_chess_problems
+https://en.wikipedia.org/wiki/Software_security_assurance
+https://en.wikipedia.org/wiki/Software_forensics
+https://en.wikipedia.org/wiki/Software_lockout
+https://en.wikipedia.org/wiki/Software_fault_tolerance
+https://en.wikipedia.org/wiki/Software_of_unknown_pedigree
+https://en.wikipedia.org/wiki/Saints_Row
+https://en.wikipedia.org/wiki/Postal_2
+https://en.wikipedia.org/wiki/Postal_(franchise)
+https://en.wikipedia.org/wiki/Goldman_Sachs
+https://en.wikipedia.org/wiki/Dungeon_Keeper
+https://en.wikipedia.org/wiki/Dungeon_Keeper_2
+https://en.wikipedia.org/wiki/Time_travel
+https://en.wikipedia.org/wiki/Traumatic_bonding
+https://en.wikipedia.org/wiki/Trauma
+https://en.wikipedia.org/wiki/Major_trauma
+https://en.wikipedia.org/wiki/Psychological_trauma
+https://en.wikipedia.org/wiki/Dwm
+https://en.wikipedia.org/wiki/Cerebral_palsy
+https://en.wikipedia.org/wiki/Radioactive_waste
+https://en.wikipedia.org/wiki/Chernobyl
+https://en.wikipedia.org/wiki/Chernobyl_disaster
+https://en.wikipedia.org/wiki/Buttocks
+https://en.wikipedia.org/wiki/Born_again
+https://en.wikipedia.org/wiki/Antireligion
+https://en.wikipedia.org/wiki/Classified_information#Top_Secret_(TS)
+https://en.wikipedia.org/wiki/Spatial_memory
+https://en.wikipedia.org/wiki/Spatial_cognition
+https://en.wikipedia.org/wiki/Spatial_cloaking
+https://en.wikipedia.org/wiki/Spatial_anti-aliasing
+https://en.wikipedia.org/wiki/Spatial_database
+https://en.wikipedia.org/wiki/MySQL
+https://en.wikipedia.org/wiki/Human_sexual_activity
+https://en.wikipedia.org/wiki/The_Year_of_the_Sex_Olympics
+https://en.wikipedia.org/wiki/Polyamory
+https://en.wikipedia.org/wiki/Polyamory_in_the_United_States
+https://en.wikipedia.org/wiki/Polygamy
+https://en.wikipedia.org/wiki/Three-dimensional_space
+https://en.wikipedia.org/wiki/Dimension
+https://en.wikipedia.org/wiki/Space
+https://en.wikipedia.org/wiki/Dimension
+https://en.wikipedia.org/wiki/Driver's_license
+https://en.wikipedia.org/wiki/CD_Projekt#Games_developed
+https://en.wikipedia.org/wiki/Atabey_(goddess)
+https://en.wikipedia.org/wiki/Ötüken
+https://en.wikipedia.org/wiki/List_of_earth_deities
+https://en.wikipedia.org/wiki/Mother_goddess
+https://en.wikipedia.org/wiki/Battle_of_Stalingrad
+https://en.wikipedia.org/wiki/Russian_Revolution
+https://en.wikipedia.org/wiki/Martial_law
+https://en.wikipedia.org/wiki/Zip_line
+https://en.wikipedia.org/wiki/Keep_Your_Enemies_Close
+https://en.wikipedia.org/wiki/List_of_states_with_nuclear_weapons
+https://en.wikipedia.org/wiki/Military_science
+https://en.wikipedia.org/wiki/Mikhail_Kalashnikov
+https://en.wikipedia.org/wiki/AK-74
+https://en.wikipedia.org/wiki/Chronology
+https://en.wikipedia.org/wiki/Occupational_hazard
+https://en.wikipedia.org/wiki/Scientist
+https://en.wikipedia.org/wiki/Socialite
+https://en.wikipedia.org/wiki/Alphabet
+https://en.wikipedia.org/wiki/Hypernymy_and_hyponymy
+https://en.wikipedia.org/wiki/Greek_alphabet
+https://en.wikipedia.org/wiki/Russian_alphabet
+https://en.wikipedia.org/wiki/Clause
+https://en.wikipedia.org/wiki/Inflection
+https://en.wikipedia.org/wiki/List_of_Nokia_products
+https://en.wikipedia.org/wiki/ThinkPad
+https://en.wikipedia.org/wiki/Nvidia
+https://en.wikipedia.org/wiki/AMD
+https://en.wikipedia.org/wiki/Mauno_Koivisto
+https://en.wikipedia.org/wiki/Ken_Thompson
+https://en.wikipedia.org/wiki/Dennis_Ritchie
+https://en.wikipedia.org/wiki/Brian_Kernighan
+https://en.wikipedia.org/wiki/OpenBSD
+https://en.wikipedia.org/wiki/FreeBSD
+https://en.wikipedia.org/wiki/NetBSD
+https://en.wikipedia.org/wiki/NeXTSTEP
+https://en.wikipedia.org/wiki/GNUstep
+https://en.wikipedia.org/wiki/Window_Maker
+https://en.wikipedia.org/wiki/Berkeley_Software_Distribution
+https://en.wikipedia.org/wiki/7-Zip
+https://en.wikipedia.org/wiki/Gaia_hypothesis
+https://en.wikipedia.org/wiki/Environmentalism
+https://en.wikipedia.org/wiki/Gaia_philosophy
+https://en.wikipedia.org/wiki/Planet
+https://en.wikipedia.org/wiki/Carl_Sagan
+https://en.wikipedia.org/wiki/The_Motherland_Calls
+https://en.wikipedia.org/wiki/Mother_Nature
+https://en.wikipedia.org/wiki/Crying
+https://en.wikipedia.org/wiki/Borscht
+https://en.wikipedia.org/wiki/Cultural_exchange
+https://en.wikipedia.org/wiki/Cultural_diplomacy
+https://en.wikipedia.org/wiki/Cultural_globalization
+https://en.wikipedia.org/wiki/Social_inhibition
+https://en.wikipedia.org/wiki/Sexual_inhibition
+https://en.wikipedia.org/wiki/Memory_inhibition
+https://en.wikipedia.org/wiki/Cultural_memory
 .
 
 Works: Discworld (dw)
+
+corp:
+https://en.wikipedia.org/wiki/Unity_(game_engine)
+https://en.wikipedia.org/wiki/Spatial_(platform)
 
 bark:
 https://en.wikipedia.org/wiki/Finnish_profanity#Paska
