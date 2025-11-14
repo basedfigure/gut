@@ -13,6 +13,7 @@ Say:		  "Naked thought", "Stay a while and read", "Word 4 hire", "Down this beas
 
 -
 Categories:	  - Search by: ctrl-f,
+sys:		  System, cogs, prominence,
 data:		  -
 list:		  -
 
@@ -22,10 +23,13 @@ cub:		  Cuba,
 fin:		  Finland,
 fra:		  France,
 jap:		  Japan,
+mol:		  Moldova,
+pol:		  Poland,
+rom:		  Romania,
 rus:		  Russia, ussr
 swe:		  Sweden, Finnish Swedes
 
-Sub-categories:   - Search by: ctrl-f,
+Classifications:  - Search by: ctrl-f,
 lang:		  language (natural, code, slang, encoded)
 bark:		  bark!
 proj:		  project,
@@ -52,6 +56,7 @@ soft:		  soft, pseudoscience,
 magi:		  for magi,
 al:		  alien,
 vis:		  vision, imaging,
+cig:		  tobacco,
 myst:		  mystery,
 beef:		  philosophy, tribalism, flesh & bones,
 curr:  		  currency,
@@ -64,15 +69,22 @@ popo:		  police,
 fan:		  fantasy,
 gear:		  prototypes for "if someone makes the wrong move types",
 tact:		  tactical placement, deployment,
+myth:		  mythology,
+fam:		  family,
+pro:		  professional
 .
 
 
 -
 Hall of Fame for the greatest legacies & prolificity (figures):
-https://en.wikipedia.org/wiki/Mahatma_Gandhi
-https://en.wikipedia.org/wiki/Albert_Einstein
-https://en.wikipedia.org/wiki/Hideo_Kojima
-https://en.wikipedia.org/wiki/Nobuo_Uematsu
+born:
+1869:  https://en.wikipedia.org/wiki/Mahatma_Gandhi
+1879:  https://en.wikipedia.org/wiki/Albert_Einstein
+1912:  https://en.wikipedia.org/wiki/Alan_Turing
+1934:  https://en.wikipedia.org/wiki/Carl_Sagan
+1959:  https://en.wikipedia.org/wiki/Nobuo_Uematsu
+1963:  https://en.wikipedia.org/wiki/Hideo_Kojima
+1970:  https://en.wikipedia.org/wiki/John_Carmack
 .
 
 
@@ -313,7 +325,8 @@ vis:  -
 https://en.wikipedia.org/wiki/Binoculars
 https://en.wikipedia.org/wiki/Night_vision
 https://en.wikipedia.org/wiki/Night-vision_device
-...
+cig:
+https://en.wikipedia.org/wiki/Cigar
 https://en.wikipedia.org/wiki/Cuban_cigar
 
 
@@ -387,11 +400,11 @@ https://en.wikipedia.org/wiki/Nuclear_reactor
 Populations, cities & villages, by country:
 fin:
 https://en.wikipedia.org/wiki/Helsinki
+pol:
+https://en.wikipedia.org/wiki/Warsaw
 rus:
 https://en.wikipedia.org/wiki/Moscow
 https://en.wikipedia.org/wiki/Saint_Petersburg
-pol:
-https://en.wikipedia.org/wiki/Warsaw
 
 Populations, cultures & societal structures (universal):
 https://en.wikipedia.org/wiki/Counterculture
@@ -402,6 +415,20 @@ https://en.wikipedia.org/wiki/Satanic_panic
 
 To-do:  Populations, civilian communities & organizations
 To-do:  Populations, criminal & terrorist organizations
+
+Populations, interactivity & relationships, by system, entity (cultural):
+fam:
+https://en.wikipedia.org/wiki/Marriage
+https://en.wikipedia.org/wiki/Wife
+https://en.wikipedia.org/wiki/Husband
+pro:
+https://en.wikipedia.org/wiki/Professionalism
+
+
+
+Statecraft & leaders, by country, order:
+fin:
+https://en.wikipedia.org/wiki/Alexander_Stubb
 
 Statecraft (universal):
 https://en.wikipedia.org/wiki/Statecraft
@@ -488,17 +515,33 @@ https://en.wikipedia.org/wiki/Finnish_Americans
 Statecraft (France): fra
 https://en.wikipedia.org/wiki/France
 
+Statecraft (Georgia): grg
+https://en.wikipedia.org/wiki/Georgia_(country)
+https://en.wikipedia.org/wiki/Defence_Forces_of_Georgia
+https://en.wikipedia.org/wiki/Georgian_Special_Operations_Command
+
 Statecraft (Israeli): isr
 https://en.wikipedia.org/wiki/Israel
 https://en.wikipedia.org/wiki/Basic_Laws_of_Israel
 shin:  https://en.wikipedia.org/wiki/Shin_Bet
 moss:  https://en.wikipedia.org/wiki/Mossad
 
+Statecraft (Moldova): 
+https://en.wikipedia.org/wiki/Moldova
+https://en.wikipedia.org/wiki/Armed_Forces_of_the_Republic_of_Moldova
+...
+https://en.wikipedia.org/wiki/Treaty_on_Conventional_Armed_Forces_in_Europe
+
 Statecraft (Mongolians): mon
 https://en.wikipedia.org/wiki/Mongolia
 
 Statecraft (Poland): pol
 https://en.wikipedia.org/wiki/Poland
+https://en.wikipedia.org/wiki/Polish_Armed_Forces
+https://en.wikipedia.org/wiki/GROM_Military_Unit
+
+Statecraft (Romania): rom
+https://en.wikipedia.org/wiki/Romania
 
 Statecraft (Russian): rus
 https://en.wikipedia.org/wiki/Russia
@@ -526,6 +569,7 @@ kgb:  https://en.wikipedia.org/wiki/KGB
 
 Statecraft (Sweden):  swe
 https://en.wikipedia.org/wiki/Sweden
+
 
 
 Arms & armory - weapon technologies, by type, party: -
@@ -583,6 +627,7 @@ https://en.wikipedia.org/wiki/Flash-bang
 https://en.wikipedia.org/wiki/Stun_grenade
 
 Arms & armory - martial arts & projectile weapons (training):  exo
+https://en.wikipedia.org/wiki/Hand-to-hand_combat
 https://en.wikipedia.org/wiki/List_of_martial_arts_weapons
 https://en.wikipedia.org/wiki/Katana
 https://en.wikipedia.org/wiki/Throwing_knife
@@ -752,6 +797,9 @@ https://en.wikipedia.org/wiki/Theology
 https://en.wikipedia.org/wiki/Myth#Mythology
 https://en.wikipedia.org/wiki/Legend
 https://en.wikipedia.org/wiki/Meta-religion
+sys:
+https://en.wikipedia.org/wiki/Goddess
+https://en.wikipedia.org/wiki/God
 cult:
 https://en.wikipedia.org/wiki/Cult
 myth:
@@ -784,6 +832,8 @@ https://en.wikipedia.org/wiki/Worship
 
 Philosophical fields & wisdom (universal):
 https://en.wikipedia.org/wiki/Philosophy
+https://en.wikipedia.org/wiki/Everything
+https://en.wikipedia.org/wiki/Nothing
 https://en.wikipedia.org/wiki/Apoliticism
 https://en.wikipedia.org/wiki/Atheism
 https://en.wikipedia.org/wiki/Empiricism
@@ -830,6 +880,7 @@ https://en.wikipedia.org/wiki/Ecology
 https://en.wikipedia.org/wiki/Karen
 https://en.wikipedia.org/wiki/Dyslexia_in_popular_culture
 https://en.wikipedia.org/wiki/Autism_and_LGBTQ_identities
+https://en.wikipedia.org/wiki/Richard_Nixon
 https://en.wikipedia.org/wiki/Spaceflight
 https://en.wikipedia.org/wiki/Russian_roulette
 https://en.wikipedia.org/wiki/Hypersensitivity
@@ -1465,8 +1516,6 @@ https://en.wikipedia.org/wiki/Hard_science_fiction
 https://en.wikipedia.org/wiki/Hard_and_soft_science
 https://en.wikipedia.org/wiki/Hardscape
 https://en.wikipedia.org/wiki/Higgs_boson#Nickname
-https://en.wikipedia.org/wiki/Goddess
-https://en.wikipedia.org/wiki/God
 https://en.wikipedia.org/wiki/Cleopatra
 https://en.wikipedia.org/wiki/Branches_of_science
 https://en.wikipedia.org/wiki/Biometrics
@@ -1955,8 +2004,6 @@ https://en.wikipedia.org/wiki/Psychopathy
 https://en.wikipedia.org/wiki/Construct_(psychology)
 https://en.wikipedia.org/wiki/Promiscuity
 https://en.wikipedia.org/wiki/Promiscuous_mode
-https://en.wikipedia.org/wiki/Moldova
-https://en.wikipedia.org/wiki/Romania
 https://en.wikipedia.org/wiki/HeroQuest
 https://en.wikipedia.org/wiki/China
 https://en.wikipedia.org/wiki/Military_rank
@@ -2042,6 +2089,13 @@ https://en.wikipedia.org/wiki/Scale_model
 https://en.wikipedia.org/wiki/Weighing_scale
 https://en.wikipedia.org/wiki/Lulu_(Final_Fantasy)
 https://en.wikipedia.org/wiki/Queen_(band)
+
+https://en.wikipedia.org/wiki/Cold_War
+https://en.wikipedia.org/wiki/Myerss-Briggs_Type_Indicator
+https://en.wikipedia.org/wiki/Hypergamy
+https://en.wikipedia.org/wiki/Stephen_Hawking
+https://en.wikipedia.org/wiki/Universe
+https://en.wikipedia.org/wiki/Multiverse
 .
 
 Works: Discworld (dw)
