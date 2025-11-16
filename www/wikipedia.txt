@@ -62,7 +62,7 @@ beef:		  philosophy, tribalism, flesh & bones,
 curr:  		  currency,
 cult:		  cultist, occultist, philosophic/religious/spiritual,
 exo:		  culture (arts, history, legacy), training, exoticism,
-arm:		  -
+arm:		  weapon, shield,
 mass:		  majority group,
 gov:		  government,
 popo:		  police,
@@ -87,6 +87,7 @@ born:
 1869:  https://en.wikipedia.org/wiki/Mahatma_Gandhi
 1879:  https://en.wikipedia.org/wiki/Albert_Einstein
 1912:  https://en.wikipedia.org/wiki/Alan_Turing
+1915:  https://en.wikipedia.org/wiki/Alan_Watts
 1934:  https://en.wikipedia.org/wiki/Carl_Sagan
 1942:  https://en.wikipedia.org/wiki/Bob_Ross
 1959:  https://en.wikipedia.org/wiki/Nobuo_Uematsu
