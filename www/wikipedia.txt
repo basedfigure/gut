@@ -68,10 +68,16 @@ gov:		  government,
 popo:		  police,
 fan:		  fantasy,
 gear:		  prototypes for "if someone makes the wrong move types",
-tact:		  tactical placement, deployment,
+tact:		  tactical placement, deployment, border patrol, ambush, in/exfil,
 myth:		  legends, mythology,
 fam:		  family,
-pro:		  professional
+pro:		  professional,
+pit:		  crawlspace or 9th circle,
+hero:		  hero,
+anti:		  antihero,
+net:		  internet
+fun:		  happiness,
+sad:		  sadness
 .
 
 
@@ -82,6 +88,7 @@ born:
 1879:  https://en.wikipedia.org/wiki/Albert_Einstein
 1912:  https://en.wikipedia.org/wiki/Alan_Turing
 1934:  https://en.wikipedia.org/wiki/Carl_Sagan
+1942:  https://en.wikipedia.org/wiki/Bob_Ross
 1959:  https://en.wikipedia.org/wiki/Nobuo_Uematsu
 1963:  https://en.wikipedia.org/wiki/Hideo_Kojima
 1970:  https://en.wikipedia.org/wiki/John_Carmack
@@ -307,6 +314,7 @@ https://en.wikipedia.org/wiki/Asset_flip
 Entertainment, multimedia & film productions:
 usa:
 https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)
+https://en.wikipedia.org/wiki/Independence_Day_(1996_film)
 https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
 jap:
 https://en.wikipedia.org/wiki/Harakiri_(1962_film)
@@ -398,6 +406,8 @@ Populations, cities & infrastructural installations, by type, area:
 https://en.wikipedia.org/wiki/Nuclear_reactor
 
 Populations, cities & villages, by country:
+usa:
+https://en.wikipedia.org/wiki/Phoenix,_Arizona
 fin:
 https://en.wikipedia.org/wiki/Helsinki
 pol:
@@ -424,6 +434,14 @@ https://en.wikipedia.org/wiki/Husband
 pro:
 https://en.wikipedia.org/wiki/Professionalism
 
+Populations, traditions & rituals, by experience, culture:
+fun:
+https://en.wikipedia.org/wiki/Birthday
+https://en.wikipedia.org/wiki/Naming_ceremony
+sad:
+https://en.wikipedia.org/wiki/Cremation
+https://en.wikipedia.org/wiki/Funeral
+https://en.wikipedia.org/wiki/Burial_at_sea
 
 
 Statecraft & leaders, by country, order:
@@ -682,7 +700,9 @@ https://en.wikipedia.org/wiki/Intellectual_disability
 Psychology, socialization & personality traits:  soft
 https://en.wikipedia.org/wiki/Socialization
 https://en.wikipedia.org/wiki/Asociality
+https://en.wikipedia.org/wiki/Extraversion_and_introversion
 https://en.wikipedia.org/wiki/Love
+https://en.wikipedia.org/wiki/Hatred
 
 Psychology, mental conditions & characterization:  soft
 https://en.wikipedia.org/wiki/Psychopathology
@@ -762,15 +782,22 @@ https://en.wikipedia.org/wiki/Editions_of_Dungeons_&_Dragons#Advanced_Dungeons_&
 https://en.wikipedia.org/wiki/Rolemaster
 https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
 
-Artistic formats, styles & cultural phenomena:
+
+Artistic formats, symbolism & cultural phenomena (mediums):
 https://en.wikipedia.org/wiki/Cultural_reproduction
+https://en.wikipedia.org/wiki/Hero
+https://en.wikipedia.org/wiki/Antihero
 https://en.wikipedia.org/wiki/Meme
+anti:  https://en.wikipedia.org/wiki/Spawn_(character)
+https://en.wikipedia.org/wiki/Hellboy
 https://en.wikipedia.org/wiki/Liquid_Snake
 https://en.wikipedia.org/wiki/Solid_Snake
 https://en.wikipedia.org/wiki/Big_Boss_(Metal_Gear)
 https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Cobra_Unit
 https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Sokolov
 https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Otacon
+net:
+https://en.wikipedia.org/wiki/Pepe_the_Frog
 
 Artistic formats, styles & visual design:
 https://en.wikipedia.org/wiki/Canvas
@@ -803,9 +830,12 @@ https://en.wikipedia.org/wiki/God
 cult:
 https://en.wikipedia.org/wiki/Cult
 myth:
+https://en.wikipedia.org/wiki/Phoenix_(mythology)
 https://en.wikipedia.org/wiki/Daimon
 https://en.wikipedia.org/wiki/Demon
 https://en.wikipedia.org/wiki/Devil
+pit:
+https://en.wikipedia.org/wiki/Inferno_(Dante)
 
 Religious schools & theology, by figure(s), group(s):
 fig:
@@ -824,8 +854,9 @@ https://en.wikipedia.org/wiki/Mongolian_shamanism
 cult:  
 https://en.wikipedia.org/wiki/Satanism
 
-Religious schools & theology, by system (cultural):
+Religious schools & theology, by system, tradition (cultural):
 https://en.wikipedia.org/wiki/Cultural_system
+https://en.wikipedia.org/wiki/Baptism
 https://en.wikipedia.org/wiki/Liturgy
 https://en.wikipedia.org/wiki/Worship
 
@@ -988,8 +1019,6 @@ https://en.wikipedia.org/wiki/Antinatalism
 https://en.wikipedia.org/wiki/Buddhism_in_the_United_States#Zen
 https://en.wikipedia.org/wiki/Church_of_Euthanasia
 https://en.wikipedia.org/wiki/Human_extinction
-https://en.wikipedia.org/wiki/Cremation
-https://en.wikipedia.org/wiki/Funeral
 https://en.wikipedia.org/wiki/Intimidation
 https://en.wikipedia.org/wiki/Illuminati
 https://en.wikipedia.org/wiki/Blackmail
@@ -1057,7 +1086,6 @@ https://en.wikipedia.org/wiki/Information_professional
 https://en.wikipedia.org/wiki/Information_superhighway
 https://en.wikipedia.org/wiki/Al_Gore
 https://en.wikipedia.org/wiki/2012_phenomenon
-https://en.wikipedia.org/wiki/Hatred
 https://en.wikipedia.org/wiki/User_interface
 https://en.wikipedia.org/wiki/User_interface_design
 https://en.wikipedia.org/wiki/Font
@@ -1140,7 +1168,6 @@ https://en.wikipedia.org/wiki/Creampie_(sexual_act)
 https://en.wikipedia.org/wiki/Facial_(sexual_act)
 https://en.wikipedia.org/wiki/Black_pride
 https://en.wikipedia.org/wiki/Oppression
-https://en.wikipedia.org/wiki/Extraversion_and_introversion#Introversion
 https://en.wikipedia.org/wiki/Shackle
 https://en.wikipedia.org/wiki/Cuff
 https://en.wikipedia.org/wiki/Footwear
@@ -2264,10 +2291,8 @@ https://en.wikipedia.org/wiki/Close-quarters_battle
 https://en.wikipedia.org/wiki/Combat_knife
 https://en.wikipedia.org/wiki/Special_forces
 https://en.wikipedia.org/wiki/Entity
-https://en.wikipedia.org/wiki/Everything
 https://en.wikipedia.org/wiki/Intractability
 https://en.wikipedia.org/wiki/Computational_complexity_theory#Intractability
-https://en.wikipedia.org/wiki/Birthday
 https://en.wikipedia.org/wiki/Nothing
 https://en.wikipedia.org/wiki/Topographic_prominence
 https://en.wikipedia.org/wiki/Interoperability
@@ -2330,7 +2355,6 @@ https://en.wikipedia.org/wiki/Social_rejection
 https://en.wikipedia.org/wiki/Youth_exclusion
 https://en.wikipedia.org/wiki/Adult
 https://en.wikipedia.org/wiki/Minor_(law)
-https://en.wikipedia.org/wiki/Bob_Ross
 https://en.wikipedia.org/wiki/Deputy_Director_of_the_Central_Intelligence_Agency
 https://en.wikipedia.org/wiki/Alan_Watts
 https://en.wikipedia.org/wiki/United_States_Department_of_Defense
@@ -2420,6 +2444,7 @@ https://en.wikipedia.org/wiki/OGRE
 https://en.wikipedia.org/wiki/OpenSceneGraph
 https://en.wikipedia.org/wiki/Irrlicht_Engine
 https://en.wikipedia.org/wiki/Panda3D
+https://en.wikipedia.org/wiki/The_Holocaust
 .
 
 Works: Discworld (dw)
@@ -2434,3 +2459,10 @@ https://en.wikipedia.org/wiki/Finnish_profanity#vittu
 https://en.wikipedia.org/wiki/Finnish_profanity#Runkata
 https://en.wikipedia.org/wiki/Finnish_profanity#Saatana
 https://en.wikipedia.org/wiki/Finnish_profanity#Perkele
+.
+
+pit:
+https://en.wikipedia.org/wiki/Sergey_Lavrov
+https://en.wikipedia.org/wiki/Vladimir_Putin 
+https://en.wikipedia.org/wiki/Joseph_Stalin
+https://en.wikipedia.org/wiki/Adolf_Hitler
