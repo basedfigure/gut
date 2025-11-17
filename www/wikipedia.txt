@@ -16,6 +16,7 @@ Categories:	  - Search by: ctrl-f,
 sys:		  System, cogs, prominence,
 data:		  -
 list:		  -
+holy:		  scriptura
 
 Countries:	  -
 usa:		  United States of America,
@@ -75,7 +76,7 @@ pro:		  professional,
 pit:		  crawlspace or 9th circle,
 hero:		  hero,
 anti:		  antihero,
-net:		  internet
+net:		  internet,
 fun:		  happiness,
 sad:		  sadness
 .
@@ -860,6 +861,17 @@ https://en.wikipedia.org/wiki/Cultural_system
 https://en.wikipedia.org/wiki/Baptism
 https://en.wikipedia.org/wiki/Liturgy
 https://en.wikipedia.org/wiki/Worship
+holy:
+https://en.wikipedia.org/wiki/Religious_text
+https://en.wikipedia.org/wiki/Torah
+https://en.wikipedia.org/wiki/Hebrew_Bible
+https://en.wikipedia.org/wiki/Old_Testament
+https://en.wikipedia.org/wiki/Deuterocanonical_books
+https://en.wikipedia.org/wiki/Septuagint
+https://en.wikipedia.org/wiki/New_Testament
+https://en.wikipedia.org/wiki/Bible
+https://en.wikipedia.org/wiki/Quran
+https://en.wikipedia.org/wiki/Hadith
 
 
 Philosophical fields & wisdom (universal):
@@ -1753,9 +1765,6 @@ https://en.wikipedia.org/wiki/Information_management
 https://en.wikipedia.org/wiki/Records_management
 https://en.wikipedia.org/wiki/Archive
 https://en.wikipedia.org/wiki/Historical_document
-https://en.wikipedia.org/wiki/Hebrew_Bible
-https://en.wikipedia.org/wiki/Bible
-https://en.wikipedia.org/wiki/Quran
 https://en.wikipedia.org/wiki/Ostracon
 https://en.wikipedia.org/wiki/Rosetta_Stone
 https://en.wikipedia.org/wiki/Ten_Commandments
@@ -2446,13 +2455,30 @@ https://en.wikipedia.org/wiki/OpenSceneGraph
 https://en.wikipedia.org/wiki/Irrlicht_Engine
 https://en.wikipedia.org/wiki/Panda3D
 https://en.wikipedia.org/wiki/The_Holocaust
+
+https://en.wikipedia.org/wiki/Drama
+https://en.wikipedia.org/wiki/Piety
+https://en.wikipedia.org/wiki/Dungeon_crawl
+https://en.wikipedia.org/wiki/Personality
+https://en.wikipedia.org/wiki/Editorial
+https://en.wikipedia.org/wiki/Hypnosis
+https://en.wikipedia.org/wiki/Mass_psychogenic_illness
+https://en.wikipedia.org/wiki/Salvation
+https://en.wikipedia.org/wiki/Constitution_of_Pakistan
+https://en.wikipedia.org/wiki/Code_of_conduct
+https://en.wikipedia.org/wiki/The_Lion_King
+https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(1996_film)
+https://en.wikipedia.org/wiki/Cutout_(espionage)
+https://en.wikipedia.org/wiki/Plausible_deniability
+https://en.wikipedia.org/wiki/Little_Red_Riding_Hood
+https://en.wikipedia.org/wiki/Flogging_a_dead_horse
 .
 
-Works: Discworld (dw)
 
 corp:
 https://en.wikipedia.org/wiki/Unity_(game_engine)
 https://en.wikipedia.org/wiki/Spatial_(platform)
+
 
 bark:
 https://en.wikipedia.org/wiki/Finnish_profanity#Paska
@@ -2461,6 +2487,7 @@ https://en.wikipedia.org/wiki/Finnish_profanity#Runkata
 https://en.wikipedia.org/wiki/Finnish_profanity#Saatana
 https://en.wikipedia.org/wiki/Finnish_profanity#Perkele
 .
+
 
 pit:
 https://en.wikipedia.org/wiki/Sergey_Lavrov
