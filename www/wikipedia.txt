@@ -94,6 +94,7 @@ born:
 1915:  https://en.wikipedia.org/wiki/Alan_Watts
 1934:  https://en.wikipedia.org/wiki/Carl_Sagan
 1942:  https://en.wikipedia.org/wiki/Bob_Ross
+1952:  https://en.wikipedia.org/wiki/Yoshitaka_Amano
 1954:  https://en.wikipedia.org/wiki/Mike_Pondsmith
 1959:  https://en.wikipedia.org/wiki/Nobuo_Uematsu
 1961:  https://en.wikipedia.org/wiki/Richard_Garriott
@@ -102,6 +103,7 @@ born:
 1966:  https://en.wikipedia.org/wiki/Brenda_Romero
 1967:  https://en.wikipedia.org/wiki/John_Romero
 1970:  https://en.wikipedia.org/wiki/John_Carmack
+1971:  https://en.wikipedia.org/wiki/Yoji_Shinkawa
 
 
 To-do: masterpieces
@@ -194,9 +196,7 @@ fin, old:  https://en.wikipedia.org/wiki/Nokia
 https://en.wikipedia.org/wiki/Bell_Labs
 https://en.wikipedia.org/wiki/3dfx
 
-
 Electronics & hardware technologies (legacy):  hw...
-
 
 Electronics & hardware disciplines:
 https://en.wikipedia.org/wiki/Hardware_architect
@@ -715,7 +715,7 @@ Arms & armory - (historic): -
 
 
 
-Biomedical science, research & practice (universal):  hard
+Biomedical science, research & practices (universal):  hard
 https://en.wikipedia.org/wiki/Childbirth
 
 
@@ -807,14 +807,15 @@ https://en.wikipedia.org/wiki/Terry_Pratchett
 https://en.wikipedia.org/wiki/Discworld
 
 
+Sports, events & competitions: -
+https://en.wikipedia.org/wiki/Olympic_Games
 
-Endurance sports & events, by physicality, goal (solo):
+Sports & training, by physicality, goal (solo):
 https://en.wikipedia.org/wiki/Walking
 https://en.wikipedia.org/wiki/Running
 https://en.wikipedia.org/wiki/Sprint_(running)
-https://en.wikipedia.org/wiki/Olympic_Games#
 
-Endurance sports & events, by physicality, goal (team): -
+Sports & training, by physicality, goal (team): -
 
 Martial arts & combat sports, by system, arm:  exo
 https://en.wikipedia.org/wiki/Karate
