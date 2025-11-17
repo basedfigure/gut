@@ -27,8 +27,9 @@ jap:		  Japan,
 mol:		  Moldova,
 pol:		  Poland,
 rom:		  Romania,
-rus:		  Russia, ussr
-swe:		  Sweden, Finnish Swedes
+rus:		  Russia, ussr,
+swe:		  Sweden, Finnish Swedes,
+ukr:		  Ukraine
 
 Classifications:  - Search by: ctrl-f,
 lang:		  language (natural, code, slang, encoded)
@@ -85,23 +86,35 @@ sad:		  sadness
 -
 Hall of Fame for the greatest legacies & prolificity (figures):
 born:
+1815:  https://en.wikipedia.org/wiki/Ada_Lovelace
+1867:  https://en.wikipedia.org/wiki/Marie_Curie
 1869:  https://en.wikipedia.org/wiki/Mahatma_Gandhi
 1879:  https://en.wikipedia.org/wiki/Albert_Einstein
 1912:  https://en.wikipedia.org/wiki/Alan_Turing
 1915:  https://en.wikipedia.org/wiki/Alan_Watts
 1934:  https://en.wikipedia.org/wiki/Carl_Sagan
 1942:  https://en.wikipedia.org/wiki/Bob_Ross
+1954:  https://en.wikipedia.org/wiki/Mike_Pondsmith
 1959:  https://en.wikipedia.org/wiki/Nobuo_Uematsu
+1961:  https://en.wikipedia.org/wiki/Richard_Garriott
+1962:  https://en.wikipedia.org/wiki/Hironobu_Sakaguchi
 1963:  https://en.wikipedia.org/wiki/Hideo_Kojima
+1966:  https://en.wikipedia.org/wiki/Brenda_Romero
+1967:  https://en.wikipedia.org/wiki/John_Romero
 1970:  https://en.wikipedia.org/wiki/John_Carmack
+
+
+To-do: masterpieces
+https://en.wikipedia.org/wiki/Masterpiece
 .
 
 
 Language, communication & interactions (universal):
+https://en.wikipedia.org/wiki/Intrapersonal_communication
+https://en.wikipedia.org/wiki/Nonverbal_communication
 https://en.wikipedia.org/wiki/Word
 https://en.wikipedia.org/wiki/Expression
 https://en.wikipedia.org/wiki/Communication
-https://en.wikipedia.org/wiki/Nonverbal_communication
 https://en.wikipedia.org/wiki/Body_language
 https://en.wikipedia.org/wiki/Art
 
@@ -109,6 +122,7 @@ Language, communication & interactions (data, transient):
 https://en.wikipedia.org/wiki/Logic
 https://en.wikipedia.org/wiki/Knowledge
 https://en.wikipedia.org/wiki/Abstract_and_concrete
+https://en.wikipedia.org/wiki/Child
 https://en.wikipedia.org/wiki/Girl
 https://en.wikipedia.org/wiki/Woman
 https://en.wikipedia.org/wiki/Boy
@@ -197,12 +211,14 @@ https://en.wikipedia.org/wiki/Software_architect
 
 Software - programming techniques & technologies (universal):
 Related shortcuts:  cpu, ram, gpu
--
+,
 foss:
 https://en.wikipedia.org/wiki/Linux
 https://en.wikipedia.org/wiki/Linux_adoption
--
+,
+main:
 https://en.wikipedia.org/wiki/Source_code
+https://en.wikipedia.org/wiki/Software_bug
 https://en.wikipedia.org/wiki/Software_portability
 https://en.wikipedia.org/wiki/Cross-platform_software
 https://en.wikipedia.org/wiki/Compiler
@@ -212,10 +228,11 @@ https://en.wikipedia.org/wiki/Utility_software
 https://en.wikipedia.org/wiki/Middleware
 https://en.wikipedia.org/wiki/Middleware_(distributed_applications)
 https://en.wikipedia.org/wiki/Emulator
-https://en.wikipedia.org/wiki/Programming_complexity
 data:
 https://en.wikipedia.org/wiki/Heap_(data_structure)
 https://en.wikipedia.org/wiki/Data_type
+stat:
+https://en.wikipedia.org/wiki/Programming_complexity
 lang:
 https://en.wikipedia.org/wiki/Abstract_data_type
 https://en.wikipedia.org/wiki/Function_(computer_programming)
@@ -224,7 +241,7 @@ https://en.wikipedia.org/wiki/Procedural_programming
 https://en.wikipedia.org/wiki/Functional_programming
 https://en.wikipedia.org/wiki/Object-oriented_programming
 https://en.wikipedia.org/wiki/Data-oriented_design
--
+,
 https://en.wikipedia.org/wiki/Library_(computing)
 https://en.wikipedia.org/wiki/WYSIWYG
 https://en.wikipedia.org/wiki/Rapid_application_development
@@ -233,7 +250,7 @@ foss:  -
 https://en.wikipedia.org/wiki/Open_source
 https://en.wikipedia.org/wiki/Free_software
 https://en.wikipedia.org/wiki/Free_Software_Foundation
--
+,
 https://en.wikipedia.org/wiki/Software_engineering
 https://en.wikipedia.org/wiki/Software_development
 https://en.wikipedia.org/wiki/Software_industry
@@ -304,16 +321,17 @@ https://en.wikipedia.org/wiki/Logistics
 
 To-do: automotive...
 
-Machines & mechanical devices (universal):
+Machines, mechanical devices & systems (universal):
 https://en.wikipedia.org/wiki/Machine
 https://en.wikipedia.org/wiki/Mechanical_engineering
 https://en.wikipedia.org/wiki/Clockwork
+https://en.wikipedia.org/wiki/Gear_train
 
 
 Entertainment, games & interactive media productions:  aaa, saas, vr
 https://en.wikipedia.org/wiki/Asset_flip
 
-Entertainment, multimedia & film productions:
+Entertainment, multimedia & film productions (pop culture):
 usa:
 https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)
 https://en.wikipedia.org/wiki/Independence_Day_(1996_film)
@@ -321,12 +339,18 @@ https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
 jap:
 https://en.wikipedia.org/wiki/Harakiri_(1962_film)
 
-Entertainment, multimedia & art house productions:
+Entertainment, multimedia & art house productions (mixed):
+2d:
 https://en.wikipedia.org/wiki/Ninja_Scroll
 https://en.wikipedia.org/wiki/Berserk_(1997_TV_series)
 https://en.wikipedia.org/wiki/Digimon
+ost:
+https://en.wikipedia.org/wiki/Pokémon_Theme
+https://en.wikipedia.org/wiki/Gotta_Catch_'Em_All
+net:
+https://en.wikipedia.org/wiki/Mega64
 
-Entertainment, audio & music productions:
+Entertainment, audio & music productions (pop culture):
 https://en.wikipedia.org/wiki/Fuck_tha_Police
 
 
@@ -336,12 +360,15 @@ https://en.wikipedia.org/wiki/Binoculars
 https://en.wikipedia.org/wiki/Night_vision
 https://en.wikipedia.org/wiki/Night-vision_device
 cig:
+https://en.wikipedia.org/wiki/Cigarette
 https://en.wikipedia.org/wiki/Cigar
 https://en.wikipedia.org/wiki/Cuban_cigar
 
 
 Geographical areas, sites & monuments, by country (modern): -
+spa:
 https://en.wikipedia.org/wiki/Spain
+cub:
 https://en.wikipedia.org/wiki/Cuba
 https://en.wikipedia.org/wiki/Havana
 
@@ -349,9 +376,12 @@ Geographical areas, sites & monuments, by country (historic):
 https://en.wikipedia.org/wiki/Spanish_Empire
 https://en.wikipedia.org/wiki/Library_of_Alexandria
 
+
 Building, construction industry & zoning (universal):
 https://en.wikipedia.org/wiki/Construction
 https://en.wikipedia.org/wiki/Zoning
+
+Building, urban planning & architecture: -
 
 
 Economics, banking & trade (universal):
@@ -389,6 +419,10 @@ https://en.wikipedia.org/wiki/Bribery
 https://en.wikipedia.org/wiki/Embezzlement
 https://en.wikipedia.org/wiki/Intention_(criminal_law)
 
+Law, order, recordkeeping & rights:
+https://en.wikipedia.org/wiki/History_of_the_legal_profession
+
+
 
 Populations & historical eras, by country, faction:
 old:
@@ -425,14 +459,25 @@ https://en.wikipedia.org/wiki/Parallel_society
 https://en.wikipedia.org/wiki/Sociology_of_religion
 https://en.wikipedia.org/wiki/Satanic_panic
 
-To-do:  Populations, civilian communities & organizations
-To-do:  Populations, criminal & terrorist organizations
+To-do:  Populations, civilian communities & organizations, by type:
+https://en.wikipedia.org/wiki/Kindergarten
+https://en.wikipedia.org/wiki/School
+https://en.wikipedia.org/wiki/Secondary_school
+https://en.wikipedia.org/wiki/Vocational_school
+https://en.wikipedia.org/wiki/University
+
+To-do:  Populations, criminal & terrorist organizations: -
 
 Populations, interactivity & relationships, by system, entity (cultural):
 fam:
+https://en.wikipedia.org/wiki/Mother
+https://en.wikipedia.org/wiki/Father
 https://en.wikipedia.org/wiki/Marriage
 https://en.wikipedia.org/wiki/Wife
 https://en.wikipedia.org/wiki/Husband
+peer:
+https://en.wikipedia.org/wiki/Interpersonal_relationship
+https://en.wikipedia.org/wiki/Friendship
 pro:
 https://en.wikipedia.org/wiki/Professionalism
 
@@ -446,8 +491,21 @@ https://en.wikipedia.org/wiki/Funeral
 https://en.wikipedia.org/wiki/Burial_at_sea
 
 
+
 Statecraft & leaders, by country, order:
 fin:
+https://en.wikipedia.org/wiki/Kaarlo_Juho_Ståhlberg
+https://en.wikipedia.org/wiki/Lauri_Kristian_Relander
+https://en.wikipedia.org/wiki/Pehr_Evind_Svinhufvud
+https://en.wikipedia.org/wiki/Kyösti_Kallio
+https://en.wikipedia.org/wiki/Risto_Ryti
+https://en.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim
+https://en.wikipedia.org/wiki/Juho_Kusti_Paasikivi
+https://en.wikipedia.org/wiki/Urho_Kekkonen
+https://en.wikipedia.org/wiki/Mauno_Koivisto
+https://en.wikipedia.org/wiki/Martti_Ahtisaari
+https://en.wikipedia.org/wiki/Tarja_Halonen
+https://en.wikipedia.org/wiki/Sauli_Niinistö
 https://en.wikipedia.org/wiki/Alexander_Stubb
 
 Statecraft (universal):
@@ -656,6 +714,12 @@ https://en.wikipedia.org/wiki/Batarang
 Arms & armory - (historic): -
 
 
+
+Biomedical science, research & practice (universal):  hard
+https://en.wikipedia.org/wiki/Childbirth
+
+
+
 Scientific fields, techniques & knowledge:  hard
 https://en.wikipedia.org/wiki/Empirical_evidence
 https://en.wikipedia.org/wiki/Scientific_method
@@ -743,7 +807,14 @@ https://en.wikipedia.org/wiki/Terry_Pratchett
 https://en.wikipedia.org/wiki/Discworld
 
 
-To-do: sports...
+
+Endurance sports & events, by physicality, goal (solo):
+https://en.wikipedia.org/wiki/Walking
+https://en.wikipedia.org/wiki/Running
+https://en.wikipedia.org/wiki/Sprint_(running)
+https://en.wikipedia.org/wiki/Olympic_Games#
+
+Endurance sports & events, by physicality, goal (team): -
 
 Martial arts & combat sports, by system, arm:  exo
 https://en.wikipedia.org/wiki/Karate
@@ -755,7 +826,7 @@ https://en.wikipedia.org/wiki/Tantojutsu
 https://en.wikipedia.org/wiki/Historical_European_martial_arts
 
 
-Games - social, analog games, by type, product: - card,tcg,pawn,sim,bet
+Games - social & analog, by type, product: - card,tcg,pawn,sim,bet
  - sorted by year
 card:  https://en.wikipedia.org/wiki/Blackjack
 pawn:  https://en.wikipedia.org/wiki/Risk_(game)
@@ -789,15 +860,20 @@ Artistic formats, symbolism & cultural phenomena (mediums):
 https://en.wikipedia.org/wiki/Cultural_reproduction
 https://en.wikipedia.org/wiki/Hero
 https://en.wikipedia.org/wiki/Antihero
+https://en.wikipedia.org/wiki/Enemy
 https://en.wikipedia.org/wiki/Meme
-anti:  https://en.wikipedia.org/wiki/Spawn_(character)
+anti:  
+https://en.wikipedia.org/wiki/Spawn_(character)
 https://en.wikipedia.org/wiki/Hellboy
-https://en.wikipedia.org/wiki/Liquid_Snake
-https://en.wikipedia.org/wiki/Solid_Snake
+hero:
 https://en.wikipedia.org/wiki/Big_Boss_(Metal_Gear)
+https://en.wikipedia.org/wiki/Solid_Snake
+https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Otacon
+foe:
+https://en.wikipedia.org/wiki/Liquid_Snake
+https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#The_Patriots
 https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Cobra_Unit
 https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Sokolov
-https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Otacon
 net:
 https://en.wikipedia.org/wiki/Pepe_the_Frog
 
@@ -829,16 +905,17 @@ https://en.wikipedia.org/wiki/Meta-religion
 sys:
 https://en.wikipedia.org/wiki/Goddess
 https://en.wikipedia.org/wiki/God
-cult:
-https://en.wikipedia.org/wiki/Cult
 myth:
 https://en.wikipedia.org/wiki/Phoenix_(mythology)
+https://en.wikipedia.org/wiki/Centaur
 https://en.wikipedia.org/wiki/Daimon
 https://en.wikipedia.org/wiki/Demon
 https://en.wikipedia.org/wiki/Devil
+cult:
+https://en.wikipedia.org/wiki/Cult
 pit:
 https://en.wikipedia.org/wiki/Inferno_(Dante)
-
+,
 Religious schools & theology, by figure(s), group(s):
 fig:
 https://en.wikipedia.org/wiki/Jesus
@@ -855,7 +932,7 @@ folk:
 https://en.wikipedia.org/wiki/Mongolian_shamanism
 cult:  
 https://en.wikipedia.org/wiki/Satanism
-
+,
 Religious schools & theology, by system, tradition (cultural):
 https://en.wikipedia.org/wiki/Cultural_system
 https://en.wikipedia.org/wiki/Baptism
@@ -883,10 +960,10 @@ https://en.wikipedia.org/wiki/Atheism
 https://en.wikipedia.org/wiki/Empiricism
 https://en.wikipedia.org/wiki/Positivism
 https://en.wikipedia.org/wiki/Universalism
-
+,
 Philosophical fields & wisdom, by figure(s):
 https://en.wikipedia.org/wiki/Martin_Heidegger
-
+,
 Metaphysical fields & theology (universal):
 https://en.wikipedia.org/wiki/Metaphysics
 .
@@ -900,10 +977,10 @@ Statecraft & internal affarirs, by type, role: -
 Training & education techniques, by system, role (universal): -
 Training & education, by system, role: -
 Strategic studies & human coordination, by type, role: -
-Biomedical science & research (universal): -
-Biomedical science & research (modern): -
-Biomedical science & research (historic): -
+Biomedical science, research & practice (modern): -
+Biomedical science, research & practice (historic): -
 Software reverse engineering & modding (hacking): -
+
 
 
 Temporarily unsorted:
@@ -1445,8 +1522,6 @@ https://en.wikipedia.org/wiki/Cleaning_agent
 https://en.wikipedia.org/wiki/Cleaning
 https://en.wikipedia.org/wiki/Jyväskylä
 https://en.wikipedia.org/wiki/Sleep
-https://en.wikipedia.org/wiki/Gotta_Catch_'Em_All
-https://en.wikipedia.org/wiki/Pokémon_Theme
 https://en.wikipedia.org/wiki/Plebeians
 https://en.wikipedia.org/wiki/Tribune_of_the_plebs
 https://en.wikipedia.org/wiki/Nero
@@ -1538,7 +1613,6 @@ https://en.wikipedia.org/wiki/English_language
 https://en.wikipedia.org/wiki/Analog
 https://en.wikipedia.org/wiki/Proverb_(disambiguation)
 https://en.wikipedia.org/wiki/Antisemitism
-https://en.wikipedia.org/wiki/Antihero
 https://en.wikipedia.org/wiki/Data_set
 https://en.wikipedia.org/wiki/Data
 https://en.wikipedia.org/wiki/Data_center
@@ -1629,9 +1703,6 @@ https://en.wikipedia.org/wiki/Shareware
 https://en.wikipedia.org/wiki/Honeypot_(computing)
 https://en.wikipedia.org/wiki/Gangster
 https://en.wikipedia.org/wiki/Persian_literature
-https://en.wikipedia.org/wiki/Urho_Kekkonen
-https://en.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim
-https://en.wikipedia.org/wiki/Adolf_Hitler
 https://en.wikipedia.org/wiki/History_of_Ukraine
 https://en.wikipedia.org/wiki/Ukraine
 https://en.wikipedia.org/wiki/Whitewashing_(communications)
@@ -1774,7 +1845,6 @@ https://en.wikipedia.org/wiki/Life
 https://en.wikipedia.org/wiki/Prototype-based_programming
 https://en.wikipedia.org/wiki/Prototype
 https://en.wikipedia.org/wiki/Jack_of_all_trades
-https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#The_Patriots
 https://en.wikipedia.org/wiki/Halo_effect
 https://en.wikipedia.org/wiki/Halo_effect#Academics_and_intelligence
 https://en.wikipedia.org/wiki/Ad_hominem
@@ -1962,7 +2032,6 @@ https://en.wikipedia.org/wiki/List_of_Nokia_products
 https://en.wikipedia.org/wiki/ThinkPad
 https://en.wikipedia.org/wiki/Nvidia
 https://en.wikipedia.org/wiki/AMD
-https://en.wikipedia.org/wiki/Mauno_Koivisto
 https://en.wikipedia.org/wiki/Ken_Thompson
 https://en.wikipedia.org/wiki/Dennis_Ritchie
 https://en.wikipedia.org/wiki/Brian_Kernighan
@@ -2172,7 +2241,6 @@ https://en.wikipedia.org/wiki/Clandestine_human_intelligence
 https://en.wikipedia.org/wiki/Clandestine_detention_center_(Argentina)
 https://en.wikipedia.org/wiki/Clandestine_HUMINT_and_covert_action
 https://en.wikipedia.org/wiki/Clandestine_HUMINT_operational_techniques
-https://en.wikipedia.org/wiki/Alexander_Stubb
 https://en.wikipedia.org/wiki/Warp_drive
 https://en.wikipedia.org/wiki/Starship
 https://en.wikipedia.org/wiki/Ice_age
@@ -2310,10 +2378,7 @@ https://en.wikipedia.org/wiki/House_of_Representatives_(Japan)
 https://en.wikipedia.org/wiki/Lower_house
 https://en.wikipedia.org/wiki/Fusion_of_powers
 https://en.wikipedia.org/wiki/Consumerism
-https://en.wikipedia.org/wiki/Intrapersonal_communication
-https://en.wikipedia.org/wiki/Interpersonal_relationship
 https://en.wikipedia.org/wiki/Interpersonal_communication
-https://en.wikipedia.org/wiki/Sauli_Niinistö
 https://en.wikipedia.org/wiki/Johannes_Kepler
 https://en.wikipedia.org/wiki/Eugénie_Hamer 
 https://en.wikipedia.org/wiki/Howard_Baker
@@ -2472,6 +2537,22 @@ https://en.wikipedia.org/wiki/Cutout_(espionage)
 https://en.wikipedia.org/wiki/Plausible_deniability
 https://en.wikipedia.org/wiki/Little_Red_Riding_Hood
 https://en.wikipedia.org/wiki/Flogging_a_dead_horse
+
+https://en.wikipedia.org/wiki/Jurist
+https://en.wikipedia.org/wiki/Alcohol_intoxication
+https://en.wikipedia.org/wiki/Drunk_driving
+https://en.wikipedia.org/wiki/Contract_killing
+https://en.wikipedia.org/wiki/Fixer_(person)
+https://en.wikipedia.org/wiki/Cytokinesis
+https://en.wikipedia.org/wiki/Actomyosin_ring
+https://en.wikipedia.org/wiki/Waifu
+https://en.wikipedia.org/wiki/Manga
+https://en.wikipedia.org/wiki/Grand_Duchy_of_Finland
+https://en.wikipedia.org/wiki/Harry_Gregson-Williams
+https://en.wikipedia.org/wiki/Disciple_(Christianity)
+https://en.wikipedia.org/wiki/Disciples_of_Confucius
+https://en.wikipedia.org/wiki/Robert_E._Howard
+https://en.wikipedia.org/wiki/Sandy_Petersen
 .
 
 
