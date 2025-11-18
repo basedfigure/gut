@@ -53,7 +53,7 @@ fig:		  brain & matter,
 corp:		  incorporated,
 math:		  mathematics, intrinsics,
 stat:		  statistics,
-rare:		  statz,
+rare:		  statz, predictor,
 hard:		  hard science, empirical,
 soft:		  soft, pseudoscience,
 magi:		  for magi,
@@ -82,7 +82,11 @@ net:		  internet,
 fun:		  happiness,
 sad:		  sadness,
 drug:		  meds, pharmaceutics,
-narc:		  narcotics
+narc:		  narcotics,
+tox:		  toxic, detrimental,
+old:		  very old,
+game:		  game theory, causality,
+war:		  wars
 .
 
 
@@ -192,11 +196,13 @@ https://en.wikipedia.org/wiki/Embedded_system
 https://en.wikipedia.org/wiki/Legacy_system
 https://en.wikipedia.org/wiki/Formal_specification
 https://en.wikipedia.org/wiki/Proof_of_work
-foss:  -
+foss:
 https://en.wikipedia.org/wiki/RISC-V
 https://en.wikipedia.org/wiki/RISC-V_ecosystem
-corp:  -
-fin, old:  https://en.wikipedia.org/wiki/Nokia
+- corp:  
+fin:  
+https://en.wikipedia.org/wiki/Nokia
+usa:
 https://en.wikipedia.org/wiki/Bell_Labs
 https://en.wikipedia.org/wiki/3dfx
 
@@ -403,11 +409,11 @@ https://en.wikipedia.org/wiki/Spanish_Empire
 https://en.wikipedia.org/wiki/Library_of_Alexandria
 
 
+Building, urban planning & architecture: -
+
 Building, construction industry & zoning (universal):
 https://en.wikipedia.org/wiki/Construction
 https://en.wikipedia.org/wiki/Zoning
-
-Building, urban planning & architecture: -
 
 
 Economics, banking & trade (universal):
@@ -451,6 +457,7 @@ https://en.wikipedia.org/wiki/Embezzlement
 https://en.wikipedia.org/wiki/Intention_(criminal_law)
 
 Law, order, recordkeeping & rights:
+https://en.wikipedia.org/wiki/Social_order
 https://en.wikipedia.org/wiki/History_of_the_legal_profession
 
 
@@ -467,13 +474,16 @@ jap:
 https://en.wikipedia.org/wiki/History_of_Japan
 https://en.wikipedia.org/wiki/Rōnin
 https://en.wikipedia.org/wiki/Ninjutsu
+ukr:
+https://en.wikipedia.org/wiki/History_of_Ukraine
 
 Populations, cities & infrastructural installations, by type, sector:
 https://en.wikipedia.org/wiki/Nuclear_reactor
 
-Populations, cities & villages, by country:
+Populations, cities & villages, by country, state:
 usa:
 https://en.wikipedia.org/wiki/Alaska
+https://en.wikipedia.org/wiki/Hawaii
 https://en.wikipedia.org/wiki/Phoenix,_Arizona
 fin:
 https://en.wikipedia.org/wiki/Helsinki
@@ -483,7 +493,9 @@ rus:
 https://en.wikipedia.org/wiki/Moscow
 https://en.wikipedia.org/wiki/Saint_Petersburg
 
-Populations, cultures & societal structures (universal):
+Populations, cultures, societal structures & issues, by balance, design (modern):
+https://en.wikipedia.org/wiki/Utopia
+https://en.wikipedia.org/wiki/Dystopia
 https://en.wikipedia.org/wiki/Counterculture
 https://en.wikipedia.org/wiki/Parallel_society
 ...
@@ -521,23 +533,12 @@ https://en.wikipedia.org/wiki/Cremation
 https://en.wikipedia.org/wiki/Funeral
 https://en.wikipedia.org/wiki/Burial_at_sea
 
+Populations, incidents, risks & predictions, by chronology, prominence:
+https://en.wikipedia.org/wiki/Epidemic
+rare:
+https://en.wikipedia.org/wiki/Global_catastrophic_risk
 
 
-Statecraft & leaders, by country, order:
-fin:
-https://en.wikipedia.org/wiki/Kaarlo_Juho_Ståhlberg
-https://en.wikipedia.org/wiki/Lauri_Kristian_Relander
-https://en.wikipedia.org/wiki/Pehr_Evind_Svinhufvud
-https://en.wikipedia.org/wiki/Kyösti_Kallio
-https://en.wikipedia.org/wiki/Risto_Ryti
-https://en.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim
-https://en.wikipedia.org/wiki/Juho_Kusti_Paasikivi
-https://en.wikipedia.org/wiki/Urho_Kekkonen
-https://en.wikipedia.org/wiki/Mauno_Koivisto
-https://en.wikipedia.org/wiki/Martti_Ahtisaari
-https://en.wikipedia.org/wiki/Tarja_Halonen
-https://en.wikipedia.org/wiki/Sauli_Niinistö
-https://en.wikipedia.org/wiki/Alexander_Stubb
 
 Statecraft (universal):
 https://en.wikipedia.org/wiki/Statecraft
@@ -584,6 +585,37 @@ https://en.wikipedia.org/wiki/Kill_house
 para:
 https://en.wikipedia.org/wiki/Paratrooper
 
+Statecraft & world leaders, by country, order:
+fin:
+https://en.wikipedia.org/wiki/Kaarlo_Juho_Ståhlberg
+https://en.wikipedia.org/wiki/Lauri_Kristian_Relander
+https://en.wikipedia.org/wiki/Pehr_Evind_Svinhufvud
+https://en.wikipedia.org/wiki/Kyösti_Kallio
+https://en.wikipedia.org/wiki/Risto_Ryti
+https://en.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim
+https://en.wikipedia.org/wiki/Juho_Kusti_Paasikivi
+https://en.wikipedia.org/wiki/Urho_Kekkonen
+https://en.wikipedia.org/wiki/Mauno_Koivisto
+https://en.wikipedia.org/wiki/Martti_Ahtisaari
+https://en.wikipedia.org/wiki/Tarja_Halonen
+https://en.wikipedia.org/wiki/Sauli_Niinistö
+https://en.wikipedia.org/wiki/Alexander_Stubb
+
+Statecraft & internal affairs, by issue, role: -
+Statecraft & foreign affairs, by issue, role: -
+
+Statecraft, armed conflicts & strategies, by campaign, scenario:
+war:
+https://en.wikipedia.org/wiki/World_War_I
+https://en.wikipedia.org/wiki/World_War_II
+https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war
+game:
+https://en.wikipedia.org/wiki/Hobbesian_trap
+rare:
+https://en.wikipedia.org/wiki/World_War_III
+
+
+
 Statecraft (American): usa
 https://en.wikipedia.org/wiki/United_States
 https://en.wikipedia.org/wiki/Constitution_of_the_United_States
@@ -598,6 +630,8 @@ cia:
 https://en.wikipedia.org/wiki/Central_Intelligence_Agency
 https://en.wikipedia.org/wiki/Director_of_the_Central_Intelligence_Agency
 sac:   https://en.wikipedia.org/wiki/Special_Activities_Center
+list:  https://en.wikipedia.org/wiki/World_Leaders
+...
 https://en.wikipedia.org/wiki/American_Finnish
 https://en.wikipedia.org/wiki/American_imperialism
 
@@ -679,6 +713,9 @@ kgb:  https://en.wikipedia.org/wiki/KGB
 
 Statecraft (Sweden):  swe
 https://en.wikipedia.org/wiki/Sweden
+
+Statecraft (Ukraine): ukr
+https://en.wikipedia.org/wiki/Ukraine
 
 
 
@@ -1009,8 +1046,6 @@ https://en.wikipedia.org/wiki/Metaphysics
 Draft editing:
 prehistory
 Evolution & human genetics (universal): -
-Statecraft & foreign affairs, by type, role: -
-Statecraft & internal affarirs, by type, role: -
 Training & education techniques, by system, role (universal): -
 Training & education, by system, role: -
 Strategic studies & human coordination, by type, role: -
@@ -1737,8 +1772,6 @@ https://en.wikipedia.org/wiki/Shareware
 https://en.wikipedia.org/wiki/Honeypot_(computing)
 https://en.wikipedia.org/wiki/Gangster
 https://en.wikipedia.org/wiki/Persian_literature
-https://en.wikipedia.org/wiki/History_of_Ukraine
-https://en.wikipedia.org/wiki/Ukraine
 https://en.wikipedia.org/wiki/Whitewashing_(communications)
 https://en.wikipedia.org/wiki/Crime
 https://en.wikipedia.org/wiki/Human_body
@@ -2151,9 +2184,6 @@ https://en.wikipedia.org/wiki/Police_brutality
 https://en.wikipedia.org/wiki/Battalion
 https://en.wikipedia.org/wiki/Panic_Room
 https://en.wikipedia.org/wiki/Safe_room
-https://en.wikipedia.org/wiki/World_War_I
-https://en.wikipedia.org/wiki/World_War_II
-https://en.wikipedia.org/wiki/World_War_III
 https://en.wikipedia.org/wiki/Slipstream
 https://en.wikipedia.org/wiki/Autoeroticism
 https://en.wikipedia.org/wiki/Solo_performance
@@ -2415,7 +2445,6 @@ https://en.wikipedia.org/wiki/Eugénie_Hamer
 https://en.wikipedia.org/wiki/Howard_Baker
 https://en.wikipedia.org/wiki/Timeline_of_the_Gaza_war
 https://en.wikipedia.org/wiki/Gaza_genocide
-https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war
 https://en.wikipedia.org/wiki/Secondary_source
 https://en.wikipedia.org/wiki/Scholarly_method
 https://en.wikipedia.org/wiki/Epistemology
@@ -2586,7 +2615,6 @@ https://en.wikipedia.org/wiki/Robert_E._Howard
 https://en.wikipedia.org/wiki/Sandy_Petersen
 
 https://en.wikipedia.org/wiki/Journalistic_objectivity
-https://en.wikipedia.org/wiki/Global_catastrophic_risk
 https://en.wikipedia.org/wiki/Hypocrisy
 https://en.wikipedia.org/wiki/Hippopotamus
 https://en.wikipedia.org/wiki/Sensory_deprivation
@@ -2598,6 +2626,13 @@ https://en.wikipedia.org/wiki/Need_to_know
 https://en.wikipedia.org/wiki/Hypothesis
 https://en.wikipedia.org/wiki/Thesis
 https://en.wikipedia.org/wiki/Proposition
+
+https://en.wikipedia.org/wiki/Islamic_terrorism
+https://en.wikipedia.org/wiki/Stratosphere
+https://en.wikipedia.org/wiki/Xenophobia
+https://en.wikipedia.org/wiki/Theory
+https://en.wikipedia.org/wiki/Causality
+https://en.wikipedia.org/wiki/Heat_death_of_the_universe
 .
 
 
