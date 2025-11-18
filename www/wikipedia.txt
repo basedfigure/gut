@@ -33,8 +33,8 @@ swe:		  Sweden, Finnish Swedes,
 ukr:		  Ukraine
 
 Classifications:  - Search by: ctrl-f,
-lang:		  language (natural, code, slang, encoded)
-bark:		  bark!
+lang:		  language (natural, code, slang, encoded),
+bark:		  bark,
 proj:		  project,
 hw:		  hardware, electronics,
 cpu:		  central processing unit,
@@ -86,7 +86,8 @@ narc:		  narcotics,
 tox:		  toxic, detrimental,
 old:		  very old,
 game:		  game theory, causality,
-war:		  wars
+war:		  wars,
+solo:		  solitude
 .
 
 
@@ -532,6 +533,29 @@ sad:
 https://en.wikipedia.org/wiki/Cremation
 https://en.wikipedia.org/wiki/Funeral
 https://en.wikipedia.org/wiki/Burial_at_sea
+
+
+Populations, life, environment & experiences, by system, traits (solo):
+al:
+https://en.wikipedia.org/wiki/Asociality
+https://en.wikipedia.org/wiki/Hermit    		" since a 12 yo "
+https://en.wikipedia.org/wiki/Mental_disorder    	" meds are not cutting it "
+https://en.wikipedia.org/wiki/Cluster_headache
+https://en.wikipedia.org/wiki/Asexuality
+https://en.wikipedia.org/wiki/Asexual_flag
+https://en.wikipedia.org/wiki/Poverty
+https://en.wikipedia.org/wiki/Unemployment
+https://en.wikipedia.org/wiki/Suicidal_ideation
+,
+https://en.wikipedia.org/wiki/Last_words    		" no qualms - lie beyond your masters "
+https://en.wikipedia.org/wiki/Suicide
+https://en.wikipedia.org/wiki/Seppuku
+,
+https://en.wikipedia.org/wiki/Advocacy_of_suicide
+https://en.wikipedia.org/wiki/Euthanasia
+...
+https://en.wikipedia.org/wiki/Social_death
+
 
 Populations, incidents, risks & predictions, by chronology, prominence:
 https://en.wikipedia.org/wiki/Epidemic
@@ -1077,15 +1101,9 @@ https://en.wikipedia.org/wiki/Richard_Nixon
 https://en.wikipedia.org/wiki/Spaceflight
 https://en.wikipedia.org/wiki/Russian_roulette
 https://en.wikipedia.org/wiki/Hypersensitivity
-https://en.wikipedia.org/wiki/Poverty
-https://en.wikipedia.org/wiki/Suicide
-https://en.wikipedia.org/wiki/Suicidal_ideation
-https://en.wikipedia.org/wiki/Advocacy_of_suicide
 https://en.wikipedia.org/wiki/Suicide_attempt
-https://en.wikipedia.org/wiki/Seppuku
 https://en.wikipedia.org/wiki/Metatheory
 https://en.wikipedia.org/wiki/Acquired_characteristic
-https://en.wikipedia.org/wiki/Euthanasia
 https://en.wikipedia.org/wiki/Euthanasia_device
 https://en.wikipedia.org/wiki/Human
 https://en.wikipedia.org/wiki/Slavery
@@ -1303,8 +1321,6 @@ https://en.wikipedia.org/wiki/Rape
 https://en.wikipedia.org/wiki/Sexual_assault
 https://en.wikipedia.org/wiki/Sexual_assault_in_the_United_States_military
 https://en.wikipedia.org/wiki/Sexual_assault_of_LGBTQ_persons
-https://en.wikipedia.org/wiki/Asexual_flag
-https://en.wikipedia.org/wiki/Asexuality
 https://en.wikipedia.org/wiki/Asexual_reproduction
 https://en.wikipedia.org/wiki/Cabinet_(government)
 https://en.wikipedia.org/wiki/Metal_Gear_(mecha)#Shagohod
@@ -2458,7 +2474,6 @@ https://en.wikipedia.org/wiki/Sex_show
 https://en.wikipedia.org/wiki/Sex_hormone
 https://en.wikipedia.org/wiki/Hacker_ethic
 https://upload.wikimedia.org/wikipedia/commons/8/85/Quake_-_family_tree_2.svg
-https://en.wikipedia.org/wiki/Cluster_headache
 https://en.wikipedia.org/wiki/Cluster_munition
 https://en.wikipedia.org/wiki/Vietnam
 https://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg
@@ -2620,7 +2635,6 @@ https://en.wikipedia.org/wiki/Hippopotamus
 https://en.wikipedia.org/wiki/Sensory_deprivation
 https://en.wikipedia.org/wiki/Molotov–Ribbentrop_Pact
 
-https://en.wikipedia.org/wiki/Social_death
 https://en.wikipedia.org/wiki/Infrared
 https://en.wikipedia.org/wiki/Need_to_know
 https://en.wikipedia.org/wiki/Hypothesis
