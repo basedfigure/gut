@@ -95,6 +95,7 @@ born:
 1879:  https://en.wikipedia.org/wiki/Albert_Einstein
 1912:  https://en.wikipedia.org/wiki/Alan_Turing
 1915:  https://en.wikipedia.org/wiki/Alan_Watts
+1934:  https://en.wikipedia.org/wiki/Niklaus_Wirth
 1934:  https://en.wikipedia.org/wiki/Carl_Sagan
 1942:  https://en.wikipedia.org/wiki/Bob_Ross
 1952:  https://en.wikipedia.org/wiki/Yoshitaka_Amano
@@ -369,13 +370,26 @@ cig:
 https://en.wikipedia.org/wiki/Cigarette
 https://en.wikipedia.org/wiki/Cigar
 https://en.wikipedia.org/wiki/Cuban_cigar
-use:
+tox:
 https://en.wikipedia.org/wiki/Tobacco_smoking
 drug:
 https://en.wikipedia.org/wiki/Cannabis_(drug)
 narc:
 https://en.wikipedia.org/wiki/Cocaine
 
+
+Nature, geographical characteristics & weather, by conditions (life):
+https://en.wikipedia.org/wiki/Weather
+https://en.wikipedia.org/wiki/Rain
+https://en.wikipedia.org/wiki/Sunlight
+
+Nature, geographical characteristics & animals, by family, species:
+https://en.wikipedia.org/wiki/Species
+https://en.wikipedia.org/wiki/Taxonomy
+https://en.wikipedia.org/wiki/Taxonomic_rank
+
+Nature, geographical characteristics & plants, by family, species:
+https://en.wikipedia.org/wiki/Plant
 
 Geographical areas, sites & monuments, by country (modern): -
 spa:
@@ -768,7 +782,6 @@ https://en.wikipedia.org/wiki/Mathematics
 Hardware, science research & institutions, by figure: -
 
 Software, science research & institutions, by figure:
-https://en.wikipedia.org/wiki/Niklaus_Wirth (hof)
 
 
 To-do: neuroscience, neurology
@@ -974,20 +987,21 @@ https://en.wikipedia.org/wiki/Quran
 https://en.wikipedia.org/wiki/Hadith
 
 
-Philosophical fields & wisdom (universal):
+Philosophical fields & wisdom, by semantic, virtue (universal):
 https://en.wikipedia.org/wiki/Philosophy
 https://en.wikipedia.org/wiki/Everything
 https://en.wikipedia.org/wiki/Nothing
+https://en.wikipedia.org/wiki/Nihilism
 https://en.wikipedia.org/wiki/Apoliticism
 https://en.wikipedia.org/wiki/Atheism
 https://en.wikipedia.org/wiki/Empiricism
 https://en.wikipedia.org/wiki/Positivism
 https://en.wikipedia.org/wiki/Universalism
 ,
-Philosophical fields & wisdom, by figure(s):
+Philosophical fields & wisdom, by scholar(s), works:
 https://en.wikipedia.org/wiki/Martin_Heidegger
 ,
-Metaphysical fields & theology (universal):
+Metaphysical fields & theology (transcendent):
 https://en.wikipedia.org/wiki/Metaphysics
 .
 
@@ -1065,7 +1079,6 @@ https://en.wikipedia.org/wiki/Linker
 https://en.wikipedia.org/wiki/RISC-V_assembly_language
 https://en.wikipedia.org/wiki/RISC-V_instruction_listings
 https://en.wikipedia.org/wiki/GNU_Project
-https://en.wikipedia.org/wiki/Misanthropy
 https://en.wikipedia.org/wiki/Delusions_of_grandeur
 https://en.wikipedia.org/wiki/Demonization
 https://en.wikipedia.org/wiki/Thomas_Barnardiston_(legal_writer)
@@ -1090,7 +1103,6 @@ https://en.wikipedia.org/wiki/Archaeology
 https://en.wikipedia.org/wiki/Material_culture
 https://en.wikipedia.org/wiki/Anthropology
 https://en.wikipedia.org/wiki/Digitization
-https://en.wikipedia.org/wiki/Nihilism
 https://en.wikipedia.org/wiki/Quake_engine
 https://en.wikipedia.org/wiki/Machinima
 https://en.wikipedia.org/wiki/GoldSrc
@@ -2244,8 +2256,6 @@ https://en.wikipedia.org/wiki/Unreal_Engine
 https://en.wikipedia.org/wiki/Genus
 https://en.wikipedia.org/wiki/Source-available_software
 https://en.wikipedia.org/wiki/Doom_(1993_video_game)
-https://en.wikipedia.org/wiki/John_Carmack
-https://en.wikipedia.org/wiki/John_Romero
 https://en.wikipedia.org/wiki/Video_game_console_emulator
 https://en.wikipedia.org/wiki/Video_game_console
 https://en.wikipedia.org/wiki/Classical_logic
@@ -2581,6 +2591,13 @@ https://en.wikipedia.org/wiki/Hypocrisy
 https://en.wikipedia.org/wiki/Hippopotamus
 https://en.wikipedia.org/wiki/Sensory_deprivation
 https://en.wikipedia.org/wiki/Molotov–Ribbentrop_Pact
+
+https://en.wikipedia.org/wiki/Social_death
+https://en.wikipedia.org/wiki/Infrared
+https://en.wikipedia.org/wiki/Need_to_know
+https://en.wikipedia.org/wiki/Hypothesis
+https://en.wikipedia.org/wiki/Thesis
+https://en.wikipedia.org/wiki/Proposition
 .
 
 
