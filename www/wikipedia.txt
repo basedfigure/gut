@@ -11,6 +11,7 @@ Continued list:   compounding lists are better expanded into separate files, whe
 Say:		  "Naked thought", "Stay a while and read", "Word 4 hire", "Down this beast!", "Split into pieces", "Scatter"
 .
 
+
 -
 Categories:	  - Search by: ctrl-f,
 sys:		  System, cogs, prominence,
@@ -79,7 +80,9 @@ hero:		  hero,
 anti:		  antihero,
 net:		  internet,
 fun:		  happiness,
-sad:		  sadness
+sad:		  sadness,
+drug:		  meds, pharmaceutics,
+narc:		  narcotics
 .
 
 
@@ -197,6 +200,8 @@ https://en.wikipedia.org/wiki/Bell_Labs
 https://en.wikipedia.org/wiki/3dfx
 
 Electronics & hardware technologies (legacy):  hw...
+https://en.wikipedia.org/wiki/Punched_card
+https://en.wikipedia.org/wiki/Punched_card_input/output
 
 Electronics & hardware disciplines:
 https://en.wikipedia.org/wiki/Hardware_architect
@@ -217,6 +222,7 @@ https://en.wikipedia.org/wiki/Linux
 https://en.wikipedia.org/wiki/Linux_adoption
 ,
 main:
+https://en.wikipedia.org/wiki/Programming_language
 https://en.wikipedia.org/wiki/Source_code
 https://en.wikipedia.org/wiki/Software_bug
 https://en.wikipedia.org/wiki/Software_portability
@@ -246,7 +252,7 @@ https://en.wikipedia.org/wiki/Library_(computing)
 https://en.wikipedia.org/wiki/WYSIWYG
 https://en.wikipedia.org/wiki/Rapid_application_development
 https://en.wikipedia.org/wiki/Visual_programming_language
-foss:  -
+foss:
 https://en.wikipedia.org/wiki/Open_source
 https://en.wikipedia.org/wiki/Free_software
 https://en.wikipedia.org/wiki/Free_Software_Foundation
@@ -260,7 +266,7 @@ beef: https://en.wikipedia.org/wiki/Editor_war
 
 
 Software applications & technologies, by purpose (legacy, modern):
-os:    -
+os:
 https://en.wikipedia.org/wiki/Unix
 https://en.wikipedia.org/wiki/Workbench_(AmigaOS)
 https://en.wikipedia.org/wiki/MS-DOS
@@ -269,7 +275,7 @@ https://en.wikipedia.org/wiki/Windows_95
 https://en.wikipedia.org/wiki/Windows_2000
 https://en.wikipedia.org/wiki/Windows_XP
 https://en.wikipedia.org/wiki/MacOS
-3d:    -
+3d:
 list:  https://en.wikipedia.org/wiki/List_of_3D_modeling_software
 https://en.wikipedia.org/wiki/3D_modeling
 https://en.wikipedia.org/wiki/PowerAnimator
@@ -280,19 +286,19 @@ https://en.wikipedia.org/wiki/Blender_(software)
 https://en.wikipedia.org/wiki/Autodesk_Maya
 https://en.wikipedia.org/wiki/ZBrush
 https://en.wikipedia.org/wiki/Modo_(software)
-proj:  -
+proj:
 https://en.wikipedia.org/wiki/FFmpeg
 https://en.wikipedia.org/wiki/Git
 https://en.wikipedia.org/wiki/Fossil_(software)
-plug:  -
+plug:
 https://en.wikipedia.org/wiki/SyFlex
-lib:   -
+lib:
 https://en.wikipedia.org/wiki/Zlib
-lic:   -
+lic:
 https://en.wikipedia.org/wiki/Zlib_License
-plat:  -
+plat:
 https://en.wikipedia.org/wiki/GitHub
-corp:  -
+corp:
 https://en.wikipedia.org/wiki/Microsoft_Windows
 https://en.wikipedia.org/wiki/Apple_Inc.
 https://en.wikipedia.org/wiki/Software_as_a_service
@@ -354,7 +360,7 @@ Entertainment, audio & music productions (pop culture):
 https://en.wikipedia.org/wiki/Fuck_tha_Police
 
 
-Tools, wares & compounds (universal):
+Tools, wares, compounds & usage, by type, sector (universal):
 vis:  -
 https://en.wikipedia.org/wiki/Binoculars
 https://en.wikipedia.org/wiki/Night_vision
@@ -363,6 +369,12 @@ cig:
 https://en.wikipedia.org/wiki/Cigarette
 https://en.wikipedia.org/wiki/Cigar
 https://en.wikipedia.org/wiki/Cuban_cigar
+use:
+https://en.wikipedia.org/wiki/Tobacco_smoking
+drug:
+https://en.wikipedia.org/wiki/Cannabis_(drug)
+narc:
+https://en.wikipedia.org/wiki/Cocaine
 
 
 Geographical areas, sites & monuments, by country (modern): -
@@ -389,15 +401,19 @@ https://en.wikipedia.org/wiki/Currency
 https://en.wikipedia.org/wiki/Bank
 https://en.wikipedia.org/wiki/Economy
 https://en.wikipedia.org/wiki/Business
+https://en.wikipedia.org/wiki/Tax
 https://en.wikipedia.org/wiki/Macroeconomics
 https://en.wikipedia.org/wiki/Gross_domestic_product
-https://en.wikipedia.org/wiki/Online_banking
-https://en.wikipedia.org/wiki/Payment_card
-https://en.wikipedia.org/wiki/Cryptocurrency
+https://en.wikipedia.org/wiki/Consumption_(economics)
+https://en.wikipedia.org/wiki/Investment
 curr:
 https://en.wikipedia.org/wiki/Euro
 https://en.wikipedia.org/wiki/Dollar
 https://en.wikipedia.org/wiki/Israeli_new_shekel
+tool:
+https://en.wikipedia.org/wiki/Online_banking
+https://en.wikipedia.org/wiki/Payment_card
+https://en.wikipedia.org/wiki/Cryptocurrency
 usa:
 https://en.wikipedia.org/wiki/Banking_in_the_United_States
 
@@ -405,7 +421,8 @@ Economics, banking & trade (historic):
 curr:  https://en.wikipedia.org/wiki/Finnish_markka
 
 
-Law, order & legislation, by type, party (universal):
+Law, order & legislation, by party, type (universal):
+https://en.wikipedia.org/wiki/Legal_person
 https://en.wikipedia.org/wiki/Law
 https://en.wikipedia.org/wiki/Lawyer
 https://en.wikipedia.org/wiki/Attorney_at_law
@@ -423,7 +440,6 @@ Law, order, recordkeeping & rights:
 https://en.wikipedia.org/wiki/History_of_the_legal_profession
 
 
-
 Populations & historical eras, by country, faction:
 old:
 https://en.wikipedia.org/wiki/Mesopotamia
@@ -438,11 +454,12 @@ https://en.wikipedia.org/wiki/History_of_Japan
 https://en.wikipedia.org/wiki/Rōnin
 https://en.wikipedia.org/wiki/Ninjutsu
 
-Populations, cities & infrastructural installations, by type, area:
+Populations, cities & infrastructural installations, by type, sector:
 https://en.wikipedia.org/wiki/Nuclear_reactor
 
 Populations, cities & villages, by country:
 usa:
+https://en.wikipedia.org/wiki/Alaska
 https://en.wikipedia.org/wiki/Phoenix,_Arizona
 fin:
 https://en.wikipedia.org/wiki/Helsinki
@@ -459,7 +476,7 @@ https://en.wikipedia.org/wiki/Parallel_society
 https://en.wikipedia.org/wiki/Sociology_of_religion
 https://en.wikipedia.org/wiki/Satanic_panic
 
-To-do:  Populations, civilian communities & organizations, by type:
+Populations, civilian communities & organizations, by type:
 https://en.wikipedia.org/wiki/Kindergarten
 https://en.wikipedia.org/wiki/School
 https://en.wikipedia.org/wiki/Secondary_school
@@ -528,7 +545,8 @@ https://en.wikipedia.org/wiki/Statelessness
 https://en.wikipedia.org/wiki/Stateless_nation
 https://en.wikipedia.org/wiki/Universal_basic_income
 
-Statecraft, political systems & ideologies, by rule, system:
+Statecraft, political systems & ideologies, by era, rule, system:
+https://en.wikipedia.org/wiki/Modernity
 https://en.wikipedia.org/wiki/Democracy
 https://en.wikipedia.org/wiki/Meritocracy
 https://en.wikipedia.org/wiki/Communism
@@ -720,8 +738,10 @@ https://en.wikipedia.org/wiki/Childbirth
 
 
 
-Scientific fields, techniques & knowledge:  hard
+Scientific fields, techniques & knowledge, by objectivity:  hard, soft
+https://en.wikipedia.org/wiki/Integrity
 https://en.wikipedia.org/wiki/Empirical_evidence
+https://en.wikipedia.org/wiki/Credibility
 https://en.wikipedia.org/wiki/Scientific_method
 https://en.wikipedia.org/wiki/Biology
 https://en.wikipedia.org/wiki/Evolutionary_biology
@@ -730,6 +750,8 @@ https://en.wikipedia.org/wiki/Physics
 https://en.wikipedia.org/wiki/Quantum_mechanics
 https://en.wikipedia.org/wiki/Quantum_electrodynamics
 https://en.wikipedia.org/wiki/Computer_science
+https://en.wikipedia.org/wiki/Social_science
+https://en.wikipedia.org/wiki/Psychology
 
 Physics - theoretical scientists & knowledge:  hard
 https://en.wikipedia.org/wiki/Theoretical_physics
@@ -746,7 +768,7 @@ https://en.wikipedia.org/wiki/Mathematics
 Hardware, science research & institutions, by figure: -
 
 Software, science research & institutions, by figure:
-https://en.wikipedia.org/wiki/Niklaus_Wirth
+https://en.wikipedia.org/wiki/Niklaus_Wirth (hof)
 
 
 To-do: neuroscience, neurology
@@ -1129,7 +1151,6 @@ https://en.wikipedia.org/wiki/Pathfinding
 https://en.wikipedia.org/wiki/Artificial_intelligence_in_video_games
 https://en.wikipedia.org/wiki/A*
 https://en.wikipedia.org/wiki/Artificial_intelligence
-https://en.wikipedia.org/wiki/Social_science
 https://en.wikipedia.org/wiki/Logic
 https://en.wikipedia.org/wiki/Systems_science
 https://en.wikipedia.org/wiki/Coal_mining
@@ -1875,7 +1896,6 @@ https://en.wikipedia.org/wiki/Feminism
 https://en.wikipedia.org/wiki/Patriarchy
 https://en.wikipedia.org/wiki/House_society
 https://en.wikipedia.org/wiki/Telepathy
-https://en.wikipedia.org/wiki/Modernity
 https://en.wikipedia.org/wiki/Bare_machine
 https://en.wikipedia.org/wiki/BareMetal
 https://en.wikipedia.org/wiki/Search_engine_optimization
@@ -2554,6 +2574,13 @@ https://en.wikipedia.org/wiki/Disciple_(Christianity)
 https://en.wikipedia.org/wiki/Disciples_of_Confucius
 https://en.wikipedia.org/wiki/Robert_E._Howard
 https://en.wikipedia.org/wiki/Sandy_Petersen
+
+https://en.wikipedia.org/wiki/Journalistic_objectivity
+https://en.wikipedia.org/wiki/Global_catastrophic_risk
+https://en.wikipedia.org/wiki/Hypocrisy
+https://en.wikipedia.org/wiki/Hippopotamus
+https://en.wikipedia.org/wiki/Sensory_deprivation
+https://en.wikipedia.org/wiki/Molotov–Ribbentrop_Pact
 .
 
 
