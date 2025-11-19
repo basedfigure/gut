@@ -81,13 +81,18 @@ anti:		  antihero,
 net:		  internet,
 fun:		  happiness,
 sad:		  sadness,
-drug:		  meds, pharmaceutics,
+drug:		  meds, pharmaceutics, substances,
 narc:		  narcotics,
 tox:		  toxic, detrimental,
 old:		  very old,
 game:		  game theory, causality,
 war:		  wars,
-solo:		  solitude
+solo:		  solitude,
+play:		  hobby, work,
+mind:		  mentality,
+job:		  work, hobby,
+take:		  hot,
+dig:		  it
 .
 
 
@@ -152,6 +157,7 @@ Related shortcuts:  bark
 
 
 Disciplines & professions (universal):
+https://en.wikipedia.org/wiki/Butcher
 https://en.wikipedia.org/wiki/Hacker
 https://en.wikipedia.org/wiki/Woodcutter
 https://en.wikipedia.org/wiki/Historian
@@ -343,6 +349,9 @@ https://en.wikipedia.org/wiki/Gear_train
 
 
 Entertainment, games & interactive media productions:  aaa, saas, vr
+jap:
+https://en.wikipedia.org/wiki/Star_Ocean:_The_Second_Story
+...
 https://en.wikipedia.org/wiki/Asset_flip
 
 Entertainment, multimedia & film productions (pop culture):
@@ -385,17 +394,27 @@ narc:
 https://en.wikipedia.org/wiki/Cocaine
 
 
-Nature, geographical characteristics & weather, by conditions (life):
+Clothes, wears & fashion, by piece, fit, style (design, era): -
+arm:
+https://en.wikipedia.org/wiki/Cuff
+foot:
+https://en.wikipedia.org/wiki/Footwear
+https://en.wikipedia.org/wiki/Shoemaking
+
+
+Nature, geographical characteristics, materials & weather, by conditions (life):
 https://en.wikipedia.org/wiki/Weather
 https://en.wikipedia.org/wiki/Rain
 https://en.wikipedia.org/wiki/Sunlight
+https://en.wikipedia.org/wiki/Fossil_fuel
 
-Nature, geographical characteristics & animals, by family, species:
+Nature, geographical characteristics & animals, by family, species (life):
 https://en.wikipedia.org/wiki/Species
 https://en.wikipedia.org/wiki/Taxonomy
 https://en.wikipedia.org/wiki/Taxonomic_rank
+https://en.wikipedia.org/wiki/Herbivore
 
-Nature, geographical characteristics & plants, by family, species:
+Nature, geographical characteristics & plants, by family, species (life):
 https://en.wikipedia.org/wiki/Plant
 
 Geographical areas, sites & monuments, by country (modern): -
@@ -462,7 +481,7 @@ https://en.wikipedia.org/wiki/Social_order
 https://en.wikipedia.org/wiki/History_of_the_legal_profession
 
 
-Populations & historical eras, by country, faction:
+Populations & historical eras, by country, faction (legacy):
 old:
 https://en.wikipedia.org/wiki/Mesopotamia
 https://en.wikipedia.org/wiki/Babylonia
@@ -474,11 +493,18 @@ https://en.wikipedia.org/wiki/Burmese_people
 jap:
 https://en.wikipedia.org/wiki/History_of_Japan
 https://en.wikipedia.org/wiki/Rōnin
+https://en.wikipedia.org/wiki/Samurai
+https://en.wikipedia.org/wiki/Seppuku
+https://en.wikipedia.org/wiki/Ninja
 https://en.wikipedia.org/wiki/Ninjutsu
 ukr:
 https://en.wikipedia.org/wiki/History_of_Ukraine
 
-Populations, cities & infrastructural installations, by type, sector:
+
+Populations, facilities & infrastructural installations, by type, sector:
+pow:
+https://en.wikipedia.org/wiki/Power_station
+rad:
 https://en.wikipedia.org/wiki/Nuclear_reactor
 
 Populations, cities & villages, by country, state:
@@ -535,24 +561,52 @@ https://en.wikipedia.org/wiki/Funeral
 https://en.wikipedia.org/wiki/Burial_at_sea
 
 
+Populations, life, environment & experiences, by system, traits (normal):
+https://en.wikipedia.org/wiki/Normie_(slang)
+
 Populations, life, environment & experiences, by system, traits (solo):
+https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy)
+https://en.wikipedia.org/wiki/Solitude
+https://en.wikipedia.org/wiki/Solidarity
 al:
+https://en.wikipedia.org/wiki/Crying				" since 1992 "
+https://en.wikipedia.org/wiki/Laughter
+mind:
 https://en.wikipedia.org/wiki/Asociality
-https://en.wikipedia.org/wiki/Hermit    		" since a 12 yo "
-https://en.wikipedia.org/wiki/Mental_disorder    	" meds are not cutting it "
+https://en.wikipedia.org/wiki/Hermit    			" since a 12 yo "
+https://en.wikipedia.org/wiki/Anchorite
+https://en.wikipedia.org/wiki/Conscientiousness
+https://en.wikipedia.org/wiki/Mental_disorder    		" meds are not cutting it (refusal) "
+https://en.wikipedia.org/wiki/Depression_(mood)
+https://en.wikipedia.org/wiki/Autism
+https://en.wikipedia.org/wiki/Dissociative_disorder
+https://en.wikipedia.org/wiki/Catatonia
 https://en.wikipedia.org/wiki/Cluster_headache
 https://en.wikipedia.org/wiki/Asexuality
 https://en.wikipedia.org/wiki/Asexual_flag
 https://en.wikipedia.org/wiki/Poverty
 https://en.wikipedia.org/wiki/Unemployment
 https://en.wikipedia.org/wiki/Suicidal_ideation
+play:
+https://en.wikipedia.org/wiki/Hobby
+https://en.wikipedia.org/wiki/Reading
+https://en.wikipedia.org/wiki/Writing
+https://en.wikipedia.org/wiki/Gameplay
+https://en.wikipedia.org/wiki/Role-playing_game
+https://en.wikipedia.org/wiki/Computer
+https://en.wikipedia.org/wiki/User_interface
+https://en.wikipedia.org/wiki/User_interface_design
+https://en.wikipedia.org/wiki/Computer-generated_imagery
+https://en.wikipedia.org/wiki/Walking
 ,
-https://en.wikipedia.org/wiki/Last_words    		" no qualms - lie beyond your masters "
-https://en.wikipedia.org/wiki/Suicide
-https://en.wikipedia.org/wiki/Seppuku
-,
+https://en.wikipedia.org/wiki/Last_words    			" no qualms - lie beyond your masters "
+take:
 https://en.wikipedia.org/wiki/Advocacy_of_suicide
+https://en.wikipedia.org/wiki/Suicide
 https://en.wikipedia.org/wiki/Euthanasia
+https://en.wikipedia.org/wiki/Seppuku
+dig:
+https://en.wikipedia.org/wiki/Cremation
 ...
 https://en.wikipedia.org/wiki/Social_death
 
@@ -903,7 +957,7 @@ https://en.wikipedia.org/wiki/Terry_Pratchett
 https://en.wikipedia.org/wiki/Discworld
 
 
-Sports, events & competitions: -
+Sports, events & competitions, by size: -
 https://en.wikipedia.org/wiki/Olympic_Games
 
 Sports & training, by physicality, goal (solo):
@@ -1344,9 +1398,6 @@ https://en.wikipedia.org/wiki/Facial_(sexual_act)
 https://en.wikipedia.org/wiki/Black_pride
 https://en.wikipedia.org/wiki/Oppression
 https://en.wikipedia.org/wiki/Shackle
-https://en.wikipedia.org/wiki/Cuff
-https://en.wikipedia.org/wiki/Footwear
-https://en.wikipedia.org/wiki/Shoemaking
 https://en.wikipedia.org/wiki/Tuxedo_(software)
 https://en.wikipedia.org/wiki/Black_tie
 https://en.wikipedia.org/wiki/Outdoor_literature
@@ -1429,7 +1480,6 @@ https://en.wikipedia.org/wiki/Chiefdom
 https://en.wikipedia.org/wiki/Band_society
 https://en.wikipedia.org/wiki/S-mine
 https://en.wikipedia.org/wiki/Claymore_mine
-https://en.wikipedia.org/wiki/Ninja
 https://en.wikipedia.org/wiki/Footage
 https://en.wikipedia.org/wiki/Television_show
 https://en.wikipedia.org/wiki/Broadcasting
@@ -1485,6 +1535,7 @@ https://en.wikipedia.org/wiki/History_of_role-playing_games
 https://en.wikipedia.org/wiki/Chess
 https://en.wikipedia.org/wiki/Outline_of_chess
 https://en.wikipedia.org/wiki/Computer_program
+https://en.wikipedia.org/wiki/Computer
 https://en.wikipedia.org/wiki/Computer-generated_imagery
 https://en.wikipedia.org/wiki/Computer_science
 https://en.wikipedia.org/wiki/Computer_security
@@ -2647,6 +2698,11 @@ https://en.wikipedia.org/wiki/Xenophobia
 https://en.wikipedia.org/wiki/Theory
 https://en.wikipedia.org/wiki/Causality
 https://en.wikipedia.org/wiki/Heat_death_of_the_universe
+
+https://en.wikipedia.org/wiki/Systematic_review
+https://en.wikipedia.org/wiki/Systemic
+https://en.wikipedia.org/wiki/Roleplay_simulation
+https://en.wikipedia.org/wiki/AAA_(video_game_industry)
 .
 
 
