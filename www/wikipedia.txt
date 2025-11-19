@@ -34,13 +34,15 @@ ukr:		  Ukraine
 
 Classifications:  - Search by: ctrl-f,
 lang:		  language (natural, code, slang, encoded),
-bark:		  bark,
+bark:		  bark, hark,
 proj:		  project,
 hw:		  hardware, electronics,
 cpu:		  central processing unit,
 ram:		  random-access memory,
 gpu:		  graphics processing unit,
 plug:		  plug-in,
+fw:		  framework,
+app:		  application,
 mw:		  middleware,
 card:		  card game,
 pawn:		  board game,
@@ -221,14 +223,14 @@ Electronics & hardware disciplines:
 https://en.wikipedia.org/wiki/Hardware_architect
 
 
-Software - programming techniques & disciplines:
+Software, programming techniques & disciplines:
 https://simple.wikipedia.org/wiki/Software_developer
 https://en.wikipedia.org/wiki/Programmer
 https://en.wikipedia.org/wiki/Computer_engineering
 https://en.wikipedia.org/wiki/System_administrator
 https://en.wikipedia.org/wiki/Software_architect
 
-Software - programming techniques & technologies (universal):
+Software, programming techniques & technologies (universal):
 Related shortcuts:  cpu, ram, gpu
 ,
 foss:
@@ -237,6 +239,7 @@ https://en.wikipedia.org/wiki/Linux_adoption
 ,
 main:
 https://en.wikipedia.org/wiki/Programming_language
+https://en.wikipedia.org/wiki/Scripting_language
 https://en.wikipedia.org/wiki/Source_code
 https://en.wikipedia.org/wiki/Software_bug
 https://en.wikipedia.org/wiki/Software_portability
@@ -261,6 +264,12 @@ https://en.wikipedia.org/wiki/Procedural_programming
 https://en.wikipedia.org/wiki/Functional_programming
 https://en.wikipedia.org/wiki/Object-oriented_programming
 https://en.wikipedia.org/wiki/Data-oriented_design
+bark:
+https://en.wikipedia.org/wiki/Software_metric
+https://en.wikipedia.org/wiki/Code_bloat
+https://en.wikipedia.org/wiki/Coupling_(computer_programming)
+https://en.wikipedia.org/wiki/Scope_creep
+https://en.wikipedia.org/wiki/Software_bloat
 ,
 https://en.wikipedia.org/wiki/Library_(computing)
 https://en.wikipedia.org/wiki/WYSIWYG
@@ -279,7 +288,7 @@ ip:   https://en.wikipedia.org/wiki/Proprietary_software
 beef: https://en.wikipedia.org/wiki/Editor_war
 
 
-Software applications & technologies, by purpose (legacy, modern):
+Software, applications & technologies, by purpose (legacy, modern):
 os:
 https://en.wikipedia.org/wiki/Unix
 https://en.wikipedia.org/wiki/Workbench_(AmigaOS)
@@ -317,7 +326,6 @@ https://en.wikipedia.org/wiki/Microsoft_Windows
 https://en.wikipedia.org/wiki/Apple_Inc.
 https://en.wikipedia.org/wiki/Software_as_a_service
 
-
 Software technologies (legacy): -
 https://en.wikipedia.org/wiki/Gopher_(protocol)
 
@@ -330,6 +338,25 @@ https://en.wikipedia.org/wiki/Free_Pascal
 https://en.wikipedia.org/wiki/C_(programming_language)
 https://en.wikipedia.org/wiki/HTTP
 https://en.wikipedia.org/wiki/RSS
+
+Software systems, networks & web development (internet):
+tech:
+https://en.wikipedia.org/wiki/Web_server
+lang:
+https://en.wikipedia.org/wiki/PHP
+
+Software, computer graphics, demos & game development (hacks):
+https://en.wikipedia.org/wiki/Demoscene
+https://en.wikipedia.org/wiki/Demogroup
+https://en.wikipedia.org/wiki/Indie_game
+app:
+https://en.wikipedia.org/wiki/Godot_(game_engine)
+film:
+https://en.wikipedia.org/wiki/Indie_Game:_The_Movie
+corp:  -v
+
+Software, reverse engineering & modding (hacks): -
+
 
 Robotics & automation technologies (universal):
 https://en.wikipedia.org/wiki/Robotics
@@ -356,6 +383,7 @@ https://en.wikipedia.org/wiki/Asset_flip
 
 Entertainment, multimedia & film productions (pop culture):
 usa:
+https://en.wikipedia.org/wiki/Star_Wars
 https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)
 https://en.wikipedia.org/wiki/Independence_Day_(1996_film)
 https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
@@ -395,26 +423,32 @@ https://en.wikipedia.org/wiki/Cocaine
 
 
 Clothes, wears & fashion, by piece, fit, style (design, era): -
+head:
+https://en.wikipedia.org/wiki/Balaclava_(clothing)
+hand:
+https://en.wikipedia.org/wiki/Glove
 arm:
 https://en.wikipedia.org/wiki/Cuff
+leg:
+https://en.wikipedia.org/wiki/Trousers
 foot:
 https://en.wikipedia.org/wiki/Footwear
 https://en.wikipedia.org/wiki/Shoemaking
 
 
-Nature, geographical characteristics, materials & weather, by conditions (life):
+Nature, geography, materials & weather, by conditions (life):
 https://en.wikipedia.org/wiki/Weather
 https://en.wikipedia.org/wiki/Rain
 https://en.wikipedia.org/wiki/Sunlight
 https://en.wikipedia.org/wiki/Fossil_fuel
 
-Nature, geographical characteristics & animals, by family, species (life):
+Nature, geography & animals, by family, species (life):
 https://en.wikipedia.org/wiki/Species
 https://en.wikipedia.org/wiki/Taxonomy
 https://en.wikipedia.org/wiki/Taxonomic_rank
 https://en.wikipedia.org/wiki/Herbivore
 
-Nature, geographical characteristics & plants, by family, species (life):
+Nature, geography & plants, by family, species (life):
 https://en.wikipedia.org/wiki/Plant
 
 Geographical areas, sites & monuments, by country (modern): -
@@ -562,13 +596,14 @@ https://en.wikipedia.org/wiki/Burial_at_sea
 
 
 Populations, life, environment & experiences, by system, traits (normal):
+https://en.wikipedia.org/wiki/Conformity
 https://en.wikipedia.org/wiki/Normie_(slang)
 
 Populations, life, environment & experiences, by system, traits (solo):
 https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy)
 https://en.wikipedia.org/wiki/Solitude
 https://en.wikipedia.org/wiki/Solidarity
-al:
+- al:
 https://en.wikipedia.org/wiki/Crying				" since 1992 "
 https://en.wikipedia.org/wiki/Laughter
 mind:
@@ -584,9 +619,10 @@ https://en.wikipedia.org/wiki/Catatonia
 https://en.wikipedia.org/wiki/Cluster_headache
 https://en.wikipedia.org/wiki/Asexuality
 https://en.wikipedia.org/wiki/Asexual_flag
+https://en.wikipedia.org/wiki/Suicidal_ideation
+body:
 https://en.wikipedia.org/wiki/Poverty
 https://en.wikipedia.org/wiki/Unemployment
-https://en.wikipedia.org/wiki/Suicidal_ideation
 play:
 https://en.wikipedia.org/wiki/Hobby
 https://en.wikipedia.org/wiki/Reading
@@ -858,8 +894,15 @@ https://en.wikipedia.org/wiki/Katana
 https://en.wikipedia.org/wiki/Throwing_knife
 https://en.wikipedia.org/wiki/Batarang
 
-Arms & armory - (historic): -
-
+Arms & armory - protective wear & guards (historic): -
+https://en.wikipedia.org/wiki/Plate_armour
+https://en.wikipedia.org/wiki/Japanese_armour
+head:
+https://en.wikipedia.org/wiki/Kabuto
+neck:
+https://en.wikipedia.org/wiki/Aventail
+arm:
+https://en.wikipedia.org/wiki/Pauldron
 
 
 Biomedical science, research & practices (universal):  hard
@@ -1129,7 +1172,6 @@ Training & education, by system, role: -
 Strategic studies & human coordination, by type, role: -
 Biomedical science, research & practice (modern): -
 Biomedical science, research & practice (historic): -
-Software reverse engineering & modding (hacking): -
 
 
 
@@ -1642,7 +1684,6 @@ https://en.wikipedia.org/wiki/Image_resolution
 https://en.wikipedia.org/wiki/Dots_per_inch
 https://en.wikipedia.org/wiki/Coffee
 https://en.wikipedia.org/wiki/Kitchen
-https://en.wikipedia.org/wiki/Scope_creep
 https://en.wikipedia.org/wiki/Kitchen_sink
 https://en.wikipedia.org/wiki/Kitchen_sink_regression
 https://en.wikipedia.org/wiki/Kitchen_sink_realism
@@ -1708,7 +1749,6 @@ https://en.wikipedia.org/wiki/Academic_skepticism
 https://en.wikipedia.org/wiki/Contempt
 https://en.wikipedia.org/wiki/Contempt_of_cop
 https://en.wikipedia.org/wiki/Dr_Disrespect
-https://en.wikipedia.org/wiki/Godot_(game_engine)
 https://en.wikipedia.org/wiki/Markedness
 https://en.wikipedia.org/wiki/Linguistics
 https://en.wikipedia.org/wiki/Morphology_(linguistics)
@@ -1825,7 +1865,6 @@ https://en.wikipedia.org/wiki/List_of_MUD_clients
 https://en.wikipedia.org/wiki/Escapism
 https://en.wikipedia.org/wiki/Macro_(computer_science)
 https://en.wikipedia.org/wiki/Event-driven_programming
-https://en.wikipedia.org/wiki/Scripting_language
 https://en.wikipedia.org/wiki/Game_client
 https://en.wikipedia.org/wiki/Multiplayer_video_game#Online_multiplayer
 https://en.wikipedia.org/wiki/Syntax_highlighting
@@ -2703,6 +2742,8 @@ https://en.wikipedia.org/wiki/Systematic_review
 https://en.wikipedia.org/wiki/Systemic
 https://en.wikipedia.org/wiki/Roleplay_simulation
 https://en.wikipedia.org/wiki/AAA_(video_game_industry)
+
+https://en.wikipedia.org/wiki/Mark_Twain
 .
 
 
