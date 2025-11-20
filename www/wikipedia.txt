@@ -4,9 +4,6 @@ By: zlib (c) 2025 Aleksi 'bf' Koivisto
 Web portal to:	  https://en.wikipedia.org/
 
 Techniques used:  Hard to soft analysis, accessibility, preservation, creativity, randomness by occurrence
-TODO: 		  historic japanese art, web portals, technological marvels, medicine, nutrition, social studies, biology, ecology, mysteries, mythology, magic & aliens, basic entries per country
-TODO:		  url toggling, splitter, offloader, tester
-Continued list:   compounding lists are better expanded into separate files, when parser hits ... under list, prompted by dialog box
 
 Say:		  "Naked thought", "Stay a while and read", "Word 4 hire", "Down this beast!", "Split into pieces", "Scatter"
 .
@@ -89,12 +86,13 @@ tox:		  toxic, detrimental,
 old:		  very old,
 game:		  game theory, causality,
 war:		  wars,
-solo:		  solitude,
+solo:		  solitude, individualistic,
 play:		  hobby, work,
-mind:		  mentality,
+mind:		  brain, mentality,
 job:		  work, hobby,
 take:		  hot,
-dig:		  it
+dig:		  it,
+body:		  human, corpse, condition
 .
 
 
@@ -376,6 +374,7 @@ https://en.wikipedia.org/wiki/Gear_train
 
 
 Entertainment, games & interactive media productions:  aaa, saas, vr
+https://en.wikipedia.org/wiki/AAA_(video_game_industry)
 jap:
 https://en.wikipedia.org/wiki/Star_Ocean:_The_Second_Story
 ...
@@ -603,37 +602,55 @@ Populations, life, environment & experiences, by system, traits (solo):
 https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy)
 https://en.wikipedia.org/wiki/Solitude
 https://en.wikipedia.org/wiki/Solidarity
+https://en.wikipedia.org/wiki/Conscientiousness
 - al:
 https://en.wikipedia.org/wiki/Crying				" since 1992 "
 https://en.wikipedia.org/wiki/Laughter
+https://en.wikipedia.org/wiki/Finland
+https://en.wikipedia.org/wiki/Finnish_language
 mind:
 https://en.wikipedia.org/wiki/Asociality
-https://en.wikipedia.org/wiki/Hermit    			" since a 12 yo "
-https://en.wikipedia.org/wiki/Anchorite
-https://en.wikipedia.org/wiki/Conscientiousness
+https://en.wikipedia.org/wiki/Neurosis
 https://en.wikipedia.org/wiki/Mental_disorder    		" meds are not cutting it (refusal) "
 https://en.wikipedia.org/wiki/Depression_(mood)
 https://en.wikipedia.org/wiki/Autism
 https://en.wikipedia.org/wiki/Dissociative_disorder
 https://en.wikipedia.org/wiki/Catatonia
+https://en.wikipedia.org/wiki/Migraine
 https://en.wikipedia.org/wiki/Cluster_headache
 https://en.wikipedia.org/wiki/Asexuality
 https://en.wikipedia.org/wiki/Asexual_flag
 https://en.wikipedia.org/wiki/Suicidal_ideation
 body:
+https://en.wikipedia.org/wiki/Prone_position
+https://en.wikipedia.org/wiki/Sitting
+https://en.wikipedia.org/wiki/Walking
+stat:
+https://en.wikipedia.org/wiki/House
+https://en.wikipedia.org/wiki/Hermit    			" since a 12 yo "
+https://en.wikipedia.org/wiki/Kindergarten
+https://en.wikipedia.org/wiki/Primary_school
+https://en.wikipedia.org/wiki/Secondary_school
+https://en.wikipedia.org/wiki/Conscription
+https://en.wikipedia.org/wiki/Anchorite				" hc "
 https://en.wikipedia.org/wiki/Poverty
 https://en.wikipedia.org/wiki/Unemployment
+https://en.wikipedia.org/wiki/Homelessness
+https://en.wikipedia.org/wiki/Apartment
+https://en.wikipedia.org/wiki/Welfare_state
+https://en.wikipedia.org/wiki/Medical_billing
 play:
 https://en.wikipedia.org/wiki/Hobby
 https://en.wikipedia.org/wiki/Reading
 https://en.wikipedia.org/wiki/Writing
 https://en.wikipedia.org/wiki/Gameplay
 https://en.wikipedia.org/wiki/Role-playing_game
+https://en.wikipedia.org/wiki/Music
 https://en.wikipedia.org/wiki/Computer
+https://en.wikipedia.org/wiki/Computer-generated_imagery
+https://en.wikipedia.org/wiki/Free_Pascal
 https://en.wikipedia.org/wiki/User_interface
 https://en.wikipedia.org/wiki/User_interface_design
-https://en.wikipedia.org/wiki/Computer-generated_imagery
-https://en.wikipedia.org/wiki/Walking
 ,
 https://en.wikipedia.org/wiki/Last_words    			" no qualms - lie beyond your masters "
 take:
@@ -644,7 +661,11 @@ https://en.wikipedia.org/wiki/Seppuku
 dig:
 https://en.wikipedia.org/wiki/Cremation
 ...
+https://en.wikipedia.org/wiki/Bullying
 https://en.wikipedia.org/wiki/Social_death
+https://en.wikipedia.org/wiki/Starvation
+https://en.wikipedia.org/wiki/Running
+https://en.wikipedia.org/wiki/Skateboarding
 
 
 Populations, incidents, risks & predictions, by chronology, prominence:
@@ -827,10 +848,11 @@ kgb:  https://en.wikipedia.org/wiki/KGB
 
 Statecraft (Sweden):  swe
 https://en.wikipedia.org/wiki/Sweden
+https://en.wikipedia.org/wiki/Swedish_Security_Service
 
 Statecraft (Ukraine): ukr
 https://en.wikipedia.org/wiki/Ukraine
-
+https://en.wikipedia.org/wiki/Security_Service_of_Ukraine
 
 
 Arms & armory - weapon technologies, by type, party: -
@@ -1650,7 +1672,6 @@ https://en.wikipedia.org/wiki/Gym
 https://en.wikipedia.org/wiki/Gymnastics
 https://en.wikipedia.org/wiki/Pokémon_(video_game_series)
 https://en.wikipedia.org/wiki/House
-https://en.wikipedia.org/wiki/Apartment
 https://en.wikipedia.org/wiki/Home_insurance
 https://en.wikipedia.org/wiki/Housing
 https://en.wikipedia.org/wiki/Housing_(engineering)
@@ -1959,7 +1980,6 @@ https://en.wikipedia.org/wiki/Thomas_Jefferson
 https://en.wikipedia.org/wiki/Psychosocial
 https://en.wikipedia.org/wiki/Science_communication
 https://en.wikipedia.org/wiki/Sign_of_the_Times
-https://en.wikipedia.org/wiki/Tongue-in-cheek
 https://en.wikipedia.org/wiki/Equal_opportunity
 https://en.wikipedia.org/wiki/Liberalism
 https://en.wikipedia.org/wiki/Libertarianism
@@ -2060,7 +2080,6 @@ https://en.wikipedia.org/wiki/Threat_(computer_security)
 https://en.wikipedia.org/wiki/Imprisonment
 https://en.wikipedia.org/wiki/Posture
 https://en.wikipedia.org/wiki/Best_friends_forever
-https://en.wikipedia.org/wiki/Music
 https://en.wikipedia.org/wiki/Terry_A._Davis#"Glowies"
 https://en.wikipedia.org/wiki/Schizophrenia
 https://en.wikipedia.org/wiki/Political_campaign
@@ -2741,9 +2760,15 @@ https://en.wikipedia.org/wiki/Heat_death_of_the_universe
 https://en.wikipedia.org/wiki/Systematic_review
 https://en.wikipedia.org/wiki/Systemic
 https://en.wikipedia.org/wiki/Roleplay_simulation
-https://en.wikipedia.org/wiki/AAA_(video_game_industry)
 
 https://en.wikipedia.org/wiki/Mark_Twain
+https://en.wikipedia.org/wiki/Tongue-in-cheek
+https://en.wikipedia.org/wiki/Dental_restoration
+https://en.wikipedia.org/wiki/Malaise
+https://en.wikipedia.org/wiki/Technical_intelligence
+https://en.wikipedia.org/wiki/Technical_aspects_of_urban_planning
+https://en.wikipedia.org/wiki/Psychiatric_hospital
+https://en.wikipedia.org/wiki/Lunatic_asylum
 .
 
 
