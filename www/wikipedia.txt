@@ -116,6 +116,7 @@ born:
 1963:  https://en.wikipedia.org/wiki/Hideo_Kojima
 1966:  https://en.wikipedia.org/wiki/Brenda_Romero
 1967:  https://en.wikipedia.org/wiki/John_Romero
+1969:  https://en.wikipedia.org/wiki/Linus_Torvalds
 1970:  https://en.wikipedia.org/wiki/John_Carmack
 1971:  https://en.wikipedia.org/wiki/Yoji_Shinkawa
 
@@ -1255,7 +1256,6 @@ https://en.wikipedia.org/wiki/Demonization
 https://en.wikipedia.org/wiki/Thomas_Barnardiston_(legal_writer)
 https://en.wikipedia.org/wiki/Editor_war
 https://en.wikipedia.org/wiki/Richard_Stallman
-https://en.wikipedia.org/wiki/Linus_Torvalds
 https://en.wikipedia.org/wiki/Mugging
 https://en.wikipedia.org/wiki/Mug
 https://en.wikipedia.org/wiki/Hema
