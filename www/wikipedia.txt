@@ -12,9 +12,13 @@ Say:		  "Naked thought", "Stay a while and read", "Word 4 hire", "Down this beas
 -
 Categories:	  - Search by: ctrl-f,
 sys:		  System, cogs, prominence,
-data:		  -
+data:		  id,
 list:		  -
 holy:		  scriptura
+
+Continents:
+Africa:		  afr,
+Europe:		  eur
 
 Countries:	  gov,
 usa:		  United States of America,
@@ -94,9 +98,14 @@ play:		  hobby, work,
 mind:		  brain, mentality,
 job:		  work, hobby,
 take:		  hot,
-dig:		  it,
+rip:		  piece out,
 body:		  human, corpse, condition,
 meta:		  metadata, status quo,
+deep:		  space, science,
+race:		  space race,
+hood:		  outside,
+bio:		  biography,
+comm:		  radar, satellite comms
 .
 
 
@@ -150,7 +159,6 @@ https://en.wikipedia.org/wiki/Boy
 https://en.wikipedia.org/wiki/Man
 https://en.wikipedia.org/wiki/Corporeal
 https://en.wikipedia.org/wiki/Appearance
-https://en.wikipedia.org/wiki/Transgender
 
 Language, communication & interaction formats, by system (mediums):
 https://en.wikipedia.org/wiki/Format
@@ -170,6 +178,7 @@ https://en.wikipedia.org/wiki/Historian
 https://en.wikipedia.org/wiki/Librarian
 https://en.wikipedia.org/wiki/Bureaucrat
 https://en.wikipedia.org/wiki/Quartermaster
+https://en.wikipedia.org/wiki/Waste_collector
 
 Disciplines & techniques (universal):
 https://en.wikipedia.org/wiki/Not_invented_here
@@ -268,6 +277,8 @@ https://en.wikipedia.org/wiki/Procedural_programming
 https://en.wikipedia.org/wiki/Functional_programming
 https://en.wikipedia.org/wiki/Object-oriented_programming
 https://en.wikipedia.org/wiki/Data-oriented_design
+tech:
+https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
 bark:
 https://en.wikipedia.org/wiki/Software_metric
 https://en.wikipedia.org/wiki/Code_bloat
@@ -453,6 +464,8 @@ Nature, geography, materials & weather, by conditions (life):
 https://en.wikipedia.org/wiki/Weather
 https://en.wikipedia.org/wiki/Rain
 https://en.wikipedia.org/wiki/Sunlight
+https://en.wikipedia.org/wiki/Snowflake
+https://en.wikipedia.org/wiki/Slush
 https://en.wikipedia.org/wiki/Fossil_fuel
 
 Nature, geography & animals, by family, species (life):
@@ -463,6 +476,7 @@ https://en.wikipedia.org/wiki/Herbivore
 
 Nature, geography & plants, by family, species (life):
 https://en.wikipedia.org/wiki/Plant
+
 
 Geographical areas, sites & monuments, by country (modern): -
 spa:
@@ -576,12 +590,15 @@ https://en.wikipedia.org/wiki/Parallel_society
 https://en.wikipedia.org/wiki/Sociology_of_religion
 https://en.wikipedia.org/wiki/Satanic_panic
 
-Populations, civilian communities & organizations, by type:
+Populations, civilian communities & organizations, by type, class:
 https://en.wikipedia.org/wiki/Kindergarten
 https://en.wikipedia.org/wiki/School
 https://en.wikipedia.org/wiki/Secondary_school
 https://en.wikipedia.org/wiki/Vocational_school
 https://en.wikipedia.org/wiki/University
+hood:
+https://en.wikipedia.org/wiki/Slum
+https://en.wikipedia.org/wiki/Ghetto
 
 To-do:  Populations, criminal & terrorist organizations: -
 
@@ -608,32 +625,44 @@ https://en.wikipedia.org/wiki/Funeral
 https://en.wikipedia.org/wiki/Burial_at_sea
 
 
-Populations, life, environment & experiences, by system, traits (normal):
+Populations, life, environment & experiences, by system, traits (modern):
 https://en.wikipedia.org/wiki/Conformity
 https://en.wikipedia.org/wiki/Normie_(slang)
 path:
 https://en.wikipedia.org/wiki/Kindergarten
 https://en.wikipedia.org/wiki/Primary_school
 https://en.wikipedia.org/wiki/Secondary_school
+https://en.wikipedia.org/wiki/University
+https://en.wikipedia.org/wiki/Institute_of_technology
+fin:
 https://en.wikipedia.org/wiki/Conscription
+https://en.wikipedia.org/wiki/Conscientious_objector
+mind:
+https://en.wikipedia.org/wiki/Conscientiousness
+bio:
+https://en.wikipedia.org/wiki/Biography
+https://en.wikipedia.org/wiki/Female
+https://en.wikipedia.org/wiki/Male
+https://en.wikipedia.org/wiki/Gender_modality
+https://en.wikipedia.org/wiki/Transgender
+...
 
-
-Populations, life, environment & experiences, by system, traits (solo):
+Populations, life, environment & experiences, by system, traits (solo, al):
 https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy)
 https://en.wikipedia.org/wiki/Solitude
 https://en.wikipedia.org/wiki/Solidarity
-https://en.wikipedia.org/wiki/Conscientiousness
-- al:
 https://en.wikipedia.org/wiki/Crying				" since 1992 "
 https://en.wikipedia.org/wiki/Laughter
 https://en.wikipedia.org/wiki/Finland
 https://en.wikipedia.org/wiki/Finnish_language
 mind:
 https://en.wikipedia.org/wiki/Asociality
-https://en.wikipedia.org/wiki/Neurosis
+https://en.wikipedia.org/wiki/Neurosis				" volume control "
 https://en.wikipedia.org/wiki/Mental_disorder    		" meds are not cutting it (refusal) "
 https://en.wikipedia.org/wiki/Depression_(mood)
 https://en.wikipedia.org/wiki/Autism
+  https://en.wikipedia.org/wiki/Maze
+  https://en.wikipedia.org/wiki/Labyrinth
 https://en.wikipedia.org/wiki/Dissociative_disorder
 https://en.wikipedia.org/wiki/Catatonia
 https://en.wikipedia.org/wiki/Migraine
@@ -665,7 +694,7 @@ play:
 https://en.wikipedia.org/wiki/Hobby
 https://en.wikipedia.org/wiki/Reading
 https://en.wikipedia.org/wiki/Writing
-https://en.wikipedia.org/wiki/Gameplay
+https://en.wikipedia.org/wiki/Gameplay				" c64, nes, psx .. :P "
 https://en.wikipedia.org/wiki/Role-playing_game
 https://en.wikipedia.org/wiki/Music
 https://en.wikipedia.org/wiki/Computer
@@ -677,10 +706,10 @@ https://en.wikipedia.org/wiki/User_interface_design
 https://en.wikipedia.org/wiki/Last_words    			" no qualms - lie beyond your masters "
 take:
 https://en.wikipedia.org/wiki/Advocacy_of_suicide
+rip:
 https://en.wikipedia.org/wiki/Suicide
 https://en.wikipedia.org/wiki/Euthanasia
 https://en.wikipedia.org/wiki/Seppuku
-dig:
 https://en.wikipedia.org/wiki/Cremation
 ...
 https://en.wikipedia.org/wiki/Bullying
@@ -730,10 +759,11 @@ https://en.wikipedia.org/wiki/Election_law
 https://en.wikipedia.org/wiki/Decommunization
 https://en.wikipedia.org/wiki/Red_Scare
 
-Statecraft, security & intelligence (universal):
+Statecraft, security & intelligence services, by type, practice (universal):
 https://en.wikipedia.org/wiki/Tradecraft
 
-Statecraft, government institutions (common):  gov
+Statecraft, government institutions & services, by type (common):  gov
+https://en.wikipedia.org/wiki/Institute
 https://en.wikipedia.org/wiki/Bureau
 
 Statecraft, government & military installations, by type, faction:
@@ -874,6 +904,8 @@ kgb:  https://en.wikipedia.org/wiki/KGB
 Statecraft (Sweden):  swe
 https://en.wikipedia.org/wiki/Sweden
 https://en.wikipedia.org/wiki/Swedish_Security_Service
+...
+https://en.wikipedia.org/wiki/Swedish_nuclear_weapons_program
 
 Statecraft (Ukraine): ukr
 https://en.wikipedia.org/wiki/Ukraine
@@ -929,6 +961,9 @@ https://en.wikipedia.org/wiki/Suicide_pill
 https://en.wikipedia.org/wiki/Garrote
 
 Arms & armory - non-lethal, special-purpose devices & munitions:
+aoe:
+https://en.wikipedia.org/wiki/Caltrop
+,
 https://en.wikipedia.org/wiki/Taser
 https://en.wikipedia.org/wiki/Dart_gun
 https://en.wikipedia.org/wiki/Flash-bang
@@ -937,11 +972,15 @@ https://en.wikipedia.org/wiki/Stun_grenade
 Arms & armory - martial arts & projectile weapons (training):  exo
 https://en.wikipedia.org/wiki/Hand-to-hand_combat
 https://en.wikipedia.org/wiki/List_of_martial_arts_weapons
+jap:
 https://en.wikipedia.org/wiki/Katana
-https://en.wikipedia.org/wiki/Throwing_knife
+eur:
+https://en.wikipedia.org/wiki/Flail_(weapon)
 https://en.wikipedia.org/wiki/Batarang
+afr:
+https://en.wikipedia.org/wiki/Throwing_knife
 
-Arms & armory - protective wear & guards (historic): -
+Arms & armory - protective wear & guards (historic):  jap,eur
 https://en.wikipedia.org/wiki/Plate_armour
 https://en.wikipedia.org/wiki/Japanese_armour
 head:
@@ -956,6 +995,21 @@ Biomedical science, research & practices (universal):  hard
 https://en.wikipedia.org/wiki/Childbirth
 
 
+To-do: Deep sea ...
+
+Deep space technologies, research & knowledge, by measure, plan, mission:  deep
+comm:
+https://en.wikipedia.org/wiki/Deep_Space_Network_(disambiguation)
+race:
+https://en.wikipedia.org/wiki/International_Space_Station
+https://en.wikipedia.org/wiki/Assembly_of_the_International_Space_Station
+https://en.wikipedia.org/wiki/European_contribution_to_the_International_Space_Station
+deep:
+https://en.wikipedia.org/wiki/Interplanetary_spaceflight
+...
+https://en.wikipedia.org/wiki/Interplanetary_contamination
+https://en.wikipedia.org/wiki/Interplanetary_Internet
+
 
 Scientific fields, techniques & knowledge, by objectivity:  hard, soft
 https://en.wikipedia.org/wiki/Integrity
@@ -965,12 +1019,21 @@ https://en.wikipedia.org/wiki/Scientific_method
 https://en.wikipedia.org/wiki/Biology
 https://en.wikipedia.org/wiki/Evolutionary_biology
 https://en.wikipedia.org/wiki/Medicine
+https://en.wikipedia.org/wiki/Planetary_science
+https://en.wikipedia.org/wiki/Geophysics
 https://en.wikipedia.org/wiki/Physics
 https://en.wikipedia.org/wiki/Quantum_mechanics
 https://en.wikipedia.org/wiki/Quantum_electrodynamics
+https://en.wikipedia.org/wiki/Astronomy
+https://en.wikipedia.org/wiki/Astrophysics
+https://en.wikipedia.org/wiki/Cosmology
 https://en.wikipedia.org/wiki/Computer_science
 https://en.wikipedia.org/wiki/Social_science
 https://en.wikipedia.org/wiki/Psychology
+deep:
+https://en.wikipedia.org/wiki/Solar_System
+https://en.wikipedia.org/wiki/Light-year
+https://en.wikipedia.org/wiki/Exoplanet
 
 Physics - theoretical scientists & knowledge:  hard
 https://en.wikipedia.org/wiki/Theoretical_physics
@@ -978,14 +1041,12 @@ https://en.wikipedia.org/wiki/Theoretical_physics
 Physics - experimental scientists & knowledge, by figures, labs:  hard
 https://en.wikipedia.org/wiki/Experimental_physics
 
-
 Mathematical fields, techniques & knowledge:  hard
 https://en.wikipedia.org/wiki/Mathematical_proof
 https://en.wikipedia.org/wiki/Mathematics
 
 
 Hardware, science research & institutions, by figure: -
-
 Software, science research & institutions, by figure:
 
 
@@ -1146,6 +1207,9 @@ https://en.wikipedia.org/wiki/Meta-religion
 sys:
 https://en.wikipedia.org/wiki/Goddess
 https://en.wikipedia.org/wiki/God
+rip:
+https://en.wikipedia.org/wiki/Salvation
+https://en.wikipedia.org/wiki/Heaven
 myth:
 https://en.wikipedia.org/wiki/Phoenix_(mythology)
 https://en.wikipedia.org/wiki/Centaur
@@ -2018,7 +2082,6 @@ https://en.wikipedia.org/wiki/History_of_technology
 https://en.wikipedia.org/wiki/Rapid_Fire_(mixtape)
 https://en.wikipedia.org/wiki/Divine_intervention
 https://en.wikipedia.org/wiki/Divine_embodiment
-https://en.wikipedia.org/wiki/Astronomy
 https://en.wikipedia.org/wiki/Agriculture
 https://en.wikipedia.org/wiki/Meditation
 https://en.wikipedia.org/wiki/Ritual
@@ -2068,9 +2131,6 @@ https://en.wikipedia.org/wiki/Ad_hominem
 https://en.wikipedia.org/wiki/Affect_heuristic
 https://en.wikipedia.org/wiki/Rationality
 https://en.wikipedia.org/wiki/Skateboard
-https://en.wikipedia.org/wiki/Institute
-https://en.wikipedia.org/wiki/University
-https://en.wikipedia.org/wiki/Institute_of_technology
 https://en.wikipedia.org/wiki/Finnish_language
 https://en.wikipedia.org/wiki/Finnic_languages
 https://en.wikipedia.org/wiki/French_language
@@ -2459,11 +2519,7 @@ https://en.wikipedia.org/wiki/Finding_Nemo
 https://en.wikipedia.org/wiki/Glacial_period
 https://en.wikipedia.org/wiki/Late_Cenozoic_Ice_Age
 https://en.wikipedia.org/wiki/Quaternary_glaciation
-https://en.wikipedia.org/wiki/Planetary_science
 https://en.wikipedia.org/wiki/Pleistocene
-https://en.wikipedia.org/wiki/Interplanetary_Internet
-https://en.wikipedia.org/wiki/Interplanetary_spaceflight
-https://en.wikipedia.org/wiki/Interplanetary_contamination
 https://en.wikipedia.org/wiki/Hypersexuality
 https://en.wikipedia.org/wiki/Hyperspace
 https://en.wikipedia.org/wiki/Film
@@ -2645,8 +2701,6 @@ https://en.wikipedia.org/wiki/United_States_Navy
 https://en.wikipedia.org/wiki/United_States_Army
 https://en.wikipedia.org/wiki/United_States_Air_Force
 https://en.wikipedia.org/wiki/United_States_Space_Force
-https://en.wikipedia.org/wiki/International_Space_Station
-https://en.wikipedia.org/wiki/Assembly_of_the_International_Space_Station
 https://en.wikipedia.org/wiki/Rover_(space_exploration)
 https://en.wikipedia.org/wiki/Lunar_rover
 https://en.wikipedia.org/wiki/Mars_rover
@@ -2908,12 +2962,18 @@ https://en.wikipedia.org/wiki/Nebula
 https://en.wikipedia.org/wiki/Snow_leopard
 https://en.wikipedia.org/wiki/Killer_Instinct
 https://en.wikipedia.org/wiki/Beaver 
-https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit
-https://en.wikipedia.org/wiki/Salvation
-https://en.wikipedia.org/wiki/Heaven             
+https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit           
 https://en.wikipedia.org/wiki/Aphorism                   
 https://en.wikipedia.org/wiki/Computing
 https://en.wikipedia.org/wiki/Status_quo
+
+https://en.wikipedia.org/wiki/Civil_service
+https://en.wikipedia.org/wiki/Despotism
+https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson
+https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory
+https://en.wikipedia.org/wiki/Underground_press
+https://en.wikipedia.org/wiki/Spike_(missile)
+https://en.wikipedia.org/wiki/Materiel
 .
 
 
