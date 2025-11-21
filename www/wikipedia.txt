@@ -16,17 +16,20 @@ data:		  -
 list:		  -
 holy:		  scriptura
 
-Countries:	  -
+Countries:	  gov,
 usa:		  United States of America,
 cub:		  Cuba,
 fin:		  Finland,
 fra:		  France,
+isr:		  Israel,
 jap:		  Japan,
 mol:		  Moldova,
+nor:		  Norway,
 pol:		  Poland,
 rom:		  Romania,
 rus:		  Russia, ussr,
 swe:		  Sweden, Finnish Swedes,
+tnz:		  Tanzania,
 ukr:		  Ukraine
 
 Classifications:  - Search by: ctrl-f,
@@ -43,7 +46,7 @@ app:		  application,
 mw:		  middleware,
 card:		  card game,
 pawn:		  board game,
-sim:		  simulation (skirmish),
+sim:		  simulation (skirmish, ai),
 rpg:		  roleplaying game,
 ip:		  intellectual property (brand),
 tcg:		  trading card game,
@@ -92,7 +95,8 @@ mind:		  brain, mentality,
 job:		  work, hobby,
 take:		  hot,
 dig:		  it,
-body:		  human, corpse, condition
+body:		  human, corpse, condition,
+meta:		  metadata, status quo,
 .
 
 
@@ -146,6 +150,7 @@ https://en.wikipedia.org/wiki/Boy
 https://en.wikipedia.org/wiki/Man
 https://en.wikipedia.org/wiki/Corporeal
 https://en.wikipedia.org/wiki/Appearance
+https://en.wikipedia.org/wiki/Transgender
 
 Language, communication & interaction formats, by system (mediums):
 https://en.wikipedia.org/wiki/Format
@@ -341,6 +346,8 @@ https://en.wikipedia.org/wiki/RSS
 Software systems, networks & web development (internet):
 tech:
 https://en.wikipedia.org/wiki/Web_server
+meta:
+https://en.wikipedia.org/wiki/Data_mining
 lang:
 https://en.wikipedia.org/wiki/PHP
 
@@ -356,6 +363,12 @@ corp:  -v
 
 Software, reverse engineering & modding (hacks): -
 
+Sofware, machine learning & artificial intelligence (simulation):  ai, sim
+https://en.wikipedia.org/wiki/Artificial_intelligence
+https://en.wikipedia.org/wiki/Neural_network_(machine_learning)
+https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence
+corp:
+https://en.wikipedia.org/wiki/ChatGPT
 
 Robotics & automation technologies (universal):
 https://en.wikipedia.org/wiki/Robotics
@@ -598,6 +611,12 @@ https://en.wikipedia.org/wiki/Burial_at_sea
 Populations, life, environment & experiences, by system, traits (normal):
 https://en.wikipedia.org/wiki/Conformity
 https://en.wikipedia.org/wiki/Normie_(slang)
+path:
+https://en.wikipedia.org/wiki/Kindergarten
+https://en.wikipedia.org/wiki/Primary_school
+https://en.wikipedia.org/wiki/Secondary_school
+https://en.wikipedia.org/wiki/Conscription
+
 
 Populations, life, environment & experiences, by system, traits (solo):
 https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy)
@@ -623,22 +642,24 @@ https://en.wikipedia.org/wiki/Asexuality
 https://en.wikipedia.org/wiki/Asexual_flag
 https://en.wikipedia.org/wiki/Suicidal_ideation
 body:
+https://en.wikipedia.org/wiki/Anchorite				" hc "
 https://en.wikipedia.org/wiki/Prone_position
 https://en.wikipedia.org/wiki/Sitting
 https://en.wikipedia.org/wiki/Walking
-stat:
+https://en.wikipedia.org/wiki/Atrophy
+path:
 https://en.wikipedia.org/wiki/House
 https://en.wikipedia.org/wiki/Hermit    			" since a 12 yo "
 https://en.wikipedia.org/wiki/Kindergarten
 https://en.wikipedia.org/wiki/Primary_school
 https://en.wikipedia.org/wiki/Secondary_school
 https://en.wikipedia.org/wiki/Conscription
-https://en.wikipedia.org/wiki/Anchorite				" hc "
+stat:
 https://en.wikipedia.org/wiki/Poverty
 https://en.wikipedia.org/wiki/Unemployment
 https://en.wikipedia.org/wiki/Homelessness
 https://en.wikipedia.org/wiki/Apartment
-https://en.wikipedia.org/wiki/Welfare_state
+https://en.wikipedia.org/wiki/Welfare_state			" köyhät,  kyykyssä "
 https://en.wikipedia.org/wiki/Medical_billing
 play:
 https://en.wikipedia.org/wiki/Hobby
@@ -752,7 +773,7 @@ https://en.wikipedia.org/wiki/World_War_III
 
 
 
-Statecraft (American): usa
+Statecraft (American): usa, gov
 https://en.wikipedia.org/wiki/United_States
 https://en.wikipedia.org/wiki/Constitution_of_the_United_States
 https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution
@@ -771,12 +792,12 @@ list:  https://en.wikipedia.org/wiki/World_Leaders
 https://en.wikipedia.org/wiki/American_Finnish
 https://en.wikipedia.org/wiki/American_imperialism
 
-Statecraft, figures (Cuban): cub
+Statecraft, figures (Cuban): cub, gov
 https://en.wikipedia.org/wiki/Cuba
 https://en.wikipedia.org/wiki/Fidel_Castro
 https://en.wikipedia.org/wiki/Che_Guevara
 
-Statecraft (Finnish): fin
+Statecraft (Finnish): fin, gov
 https://en.wikipedia.org/wiki/Finland
 https://en.wikipedia.org/wiki/Constitution_of_Finland
 https://en.wikipedia.org/wiki/List_of_presidents_of_Finland
@@ -792,30 +813,33 @@ https://en.wikipedia.org/wiki/Sweden_Finnish
 https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland
 https://en.wikipedia.org/wiki/Finnish_Americans
 
-Statecraft (France): fra
+Statecraft (France): fra, gov
 https://en.wikipedia.org/wiki/France
 
-Statecraft (Georgia): grg
+Statecraft (Georgia): grg, gov
 https://en.wikipedia.org/wiki/Georgia_(country)
 https://en.wikipedia.org/wiki/Defence_Forces_of_Georgia
 https://en.wikipedia.org/wiki/Georgian_Special_Operations_Command
 
-Statecraft (Israeli): isr
+Statecraft (Israeli): isr, gov
 https://en.wikipedia.org/wiki/Israel
 https://en.wikipedia.org/wiki/Basic_Laws_of_Israel
 shin:  https://en.wikipedia.org/wiki/Shin_Bet
 moss:  https://en.wikipedia.org/wiki/Mossad
 
-Statecraft (Moldova): 
+Statecraft (Moldova): mol, gov
 https://en.wikipedia.org/wiki/Moldova
 https://en.wikipedia.org/wiki/Armed_Forces_of_the_Republic_of_Moldova
 ...
 https://en.wikipedia.org/wiki/Treaty_on_Conventional_Armed_Forces_in_Europe
 
-Statecraft (Mongolians): mon
+Statecraft (Mongolians): mon, gov
 https://en.wikipedia.org/wiki/Mongolia
 
-Statecraft (Poland): pol
+Statecraft (Norwegians):  nor
+https://en.wikipedia.org/wiki/Norway
+
+Statecraft (Poland): pol, gov
 https://en.wikipedia.org/wiki/Poland
 https://en.wikipedia.org/wiki/Polish_Armed_Forces
 https://en.wikipedia.org/wiki/GROM_Military_Unit
@@ -1132,7 +1156,7 @@ cult:
 https://en.wikipedia.org/wiki/Cult
 pit:
 https://en.wikipedia.org/wiki/Inferno_(Dante)
-,
+
 Religious schools & theology, by figure(s), group(s):
 fig:
 https://en.wikipedia.org/wiki/Jesus
@@ -1144,12 +1168,16 @@ https://en.wikipedia.org/wiki/Major_religious_groups
 https://en.wikipedia.org/wiki/Clergy
 https://en.wikipedia.org/wiki/Magi
 mass:
+https://en.wikipedia.org/wiki/Hinduism
+https://en.wikipedia.org/wiki/Taoism
+https://en.wikipedia.org/wiki/Buddhism
 https://en.wikipedia.org/wiki/Christianity
+https://en.wikipedia.org/wiki/Islam
 folk:
 https://en.wikipedia.org/wiki/Mongolian_shamanism
 cult:  
 https://en.wikipedia.org/wiki/Satanism
-,
+
 Religious schools & theology, by system, tradition (cultural):
 https://en.wikipedia.org/wiki/Cultural_system
 https://en.wikipedia.org/wiki/Baptism
@@ -1178,10 +1206,10 @@ https://en.wikipedia.org/wiki/Atheism
 https://en.wikipedia.org/wiki/Empiricism
 https://en.wikipedia.org/wiki/Positivism
 https://en.wikipedia.org/wiki/Universalism
-,
+
 Philosophical fields & wisdom, by scholar(s), works:
 https://en.wikipedia.org/wiki/Martin_Heidegger
-,
+
 Metaphysical fields & theology (transcendent):
 https://en.wikipedia.org/wiki/Metaphysics
 .
@@ -1190,6 +1218,7 @@ https://en.wikipedia.org/wiki/Metaphysics
 Draft editing:
 prehistory
 Evolution & human genetics (universal): -
+Evolution & neuroscience (universal): -
 Training & education techniques, by system, role (universal): -
 Training & education, by system, role: -
 Strategic studies & human coordination, by type, role: -
@@ -1366,10 +1395,6 @@ https://en.wikipedia.org/wiki/ActiveX
 https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library
 https://en.wikipedia.org/wiki/Misanthropic_Division
 https://en.wikipedia.org/wiki/White_Room_(disambiguation)
-https://en.wikipedia.org/wiki/Hinduism
-https://en.wikipedia.org/wiki/Taoism
-https://en.wikipedia.org/wiki/Buddhism
-https://en.wikipedia.org/wiki/Islam
 https://en.wikipedia.org/wiki/Theism
 https://en.wikipedia.org/wiki/Secularity
 https://en.wikipedia.org/wiki/ABI
@@ -1691,7 +1716,6 @@ https://en.wikipedia.org/wiki/Ideology
 https://en.wikipedia.org/wiki/Belief
 https://en.wikipedia.org/wiki/Morality
 https://en.wikipedia.org/wiki/Ethics
-https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence
 https://en.wikipedia.org/wiki/Privacy
 https://en.wikipedia.org/wiki/Nothing_to_hide_argument
 https://en.wikipedia.org/wiki/Information_and_communications_technology
@@ -2769,6 +2793,127 @@ https://en.wikipedia.org/wiki/Technical_intelligence
 https://en.wikipedia.org/wiki/Technical_aspects_of_urban_planning
 https://en.wikipedia.org/wiki/Psychiatric_hospital
 https://en.wikipedia.org/wiki/Lunatic_asylum
+
+https://en.wikipedia.org/wiki/Lord_British
+https://en.wikipedia.org/wiki/Soy_boy
+https://en.wikipedia.org/wiki/Physiognomy
+https://en.wikipedia.org/wiki/Image_resolution
+https://en.wikipedia.org/wiki/Ostracism
+https://en.wikipedia.org/wiki/Insomnia
+https://en.wikipedia.org/wiki/Antisocial_personality_disorder
+https://en.wikipedia.org/wiki/Anti-social_behaviour
+https://en.wikipedia.org/wiki/Dissociative_identity_disorder
+https://en.wikipedia.org/wiki/Dissociation_(psychology)
+https://en.wikipedia.org/wiki/Dissociative_disorder
+https://en.wikipedia.org/wiki/Dissociative_amnesia
+https://en.wikipedia.org/wiki/Dissociative
+https://en.wikipedia.org/wiki/Selective_mutism
+https://en.wikipedia.org/wiki/Human_population_planning#Modern_practice_by_country
+https://en.wikipedia.org/wiki/Hermit
+https://en.wikipedia.org/wiki/Seclusion
+https://en.wikipedia.org/wiki/Isolation_(health_care)#Self-isolation
+https://en.wikipedia.org/wiki/Quarantine
+https://en.wikipedia.org/wiki/Irony
+https://en.wikipedia.org/wiki/Logical_extreme
+https://en.wikipedia.org/wiki/Logical_volume_management#EXTENT
+https://en.wikipedia.org/wiki/Logical_expression
+https://en.wikipedia.org/wiki/Coupling_(computer_programming)#Logical_coupling
+https://en.wikipedia.org/wiki/Boolean_expression
+https://en.wikipedia.org/wiki/Sensory_deprivation
+https://en.wikipedia.org/wiki/Taxonomic_rank
+https://en.wikipedia.org/wiki/Species
+https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction
+https://en.wikipedia.org/wiki/Class
+https://en.wikipedia.org/wiki/Affect_in_education
+https://en.wikipedia.org/wiki/Welfare_spending
+https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars
+https://en.wikipedia.org/wiki/Hobby
+https://en.wikipedia.org/wiki/Hobbyist_operating_system
+https://en.wikipedia.org/wiki/Human_rights
+https://en.wikipedia.org/wiki/Cultural_Marxism_conspiracy_theory
+https://en.wikipedia.org/wiki/Western_Marxism
+https://en.wikipedia.org/wiki/Marxist_philosophy
+https://en.wikipedia.org/wiki/Romantic_nationalism
+https://en.wikipedia.org/wiki/Enclosed_religious_orders
+https://en.wikipedia.org/wiki/Cloister
+https://en.wikipedia.org/wiki/Banzai_charge
+https://en.wikipedia.org/wiki/Workflow
+https://en.wikipedia.org/wiki/Work-based_learning
+https://en.wikipedia.org/wiki/Work_as_play
+https://en.wikipedia.org/wiki/Cloistered_rule
+https://en.wikipedia.org/wiki/Religious_habit
+https://en.wikipedia.org/wiki/Non_Negotiable
+https://en.wikipedia.org/wiki/Metropolitan_area
+https://en.wikipedia.org/wiki/Ekistics
+https://en.wikipedia.org/wiki/Metropolis
+https://en.wikipedia.org/wiki/Power_station
+https://en.wikipedia.org/wiki/Nonconformity_(quality)
+https://en.wikipedia.org/wiki/Civil_disobedience
+https://en.wikipedia.org/wiki/Nonconformity_to_the_world
+https://en.wikipedia.org/wiki/Bohemianism
+https://en.wikipedia.org/wiki/Aphorism
+https://en.wikipedia.org/wiki/Protectionism#Current_world_trends
+https://en.wikipedia.org/wiki/Hungarian_notation
+https://en.wikipedia.org/wiki/Miyamoto_Musashi
+https://en.wikipedia.org/wiki/Drunken_boxing
+https://en.wikipedia.org/wiki/Androgyny
+https://en.wikipedia.org/wiki/Hesburger
+https://en.wikipedia.org/wiki/McDonald's
+https://en.wikipedia.org/wiki/Bullying
+https://en.wikipedia.org/wiki/Differential_diagnosis
+https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
+https://en.wikipedia.org/wiki/Bullying_in_teaching
+https://en.wikipedia.org/wiki/Bullying_and_emotional_intelligence
+https://en.wikipedia.org/wiki/Bullying_in_medicine
+https://en.wikipedia.org/wiki/Bullying_and_suicide
+https://en.wikipedia.org/wiki/Bullying_Awareness_Week
+https://en.wikipedia.org/wiki/Bullying_of_students_in_higher_education
+https://en.wikipedia.org/wiki/Bullying_in_nursing
+https://en.wikipedia.org/wiki/Bullying_in_information_technology
+https://en.wikipedia.org/wiki/Social_support
+https://en.wikipedia.org/wiki/Sigmund_Freud
+https://en.wikipedia.org/wiki/Social_organization#Collectivism_and_individualism
+https://en.wikipedia.org/wiki/Collectivization_in_the_Soviet_Union
+https://en.wikipedia.org/wiki/Collectivization_in_the_Ukrainian_Soviet_Socialist_Republic
+https://en.wikipedia.org/wiki/Collectivization_in_Hungary
+https://en.wikipedia.org/wiki/Collectivism_(disambiguation)
+https://en.wikipedia.org/wiki/Sensitivity_and_specificity
+https://en.wikipedia.org/wiki/Panic_disorder
+https://en.wikipedia.org/wiki/Monotropism
+https://en.wikipedia.org/wiki/Executive_dysfunction
+https://en.wikipedia.org/wiki/Episodic_memory
+https://en.wikipedia.org/wiki/Long-term_memory
+https://en.wikipedia.org/wiki/Autobiographical_memory
+https://en.wikipedia.org/wiki/Autobiography
+https://en.wikipedia.org/wiki/Nuremberg_trials
+https://en.wikipedia.org/wiki/Troll
+https://en.wikipedia.org/wiki/Trolling
+https://en.wikipedia.org/wiki/Dark_triad#Dark_tetrad
+https://en.wikipedia.org/wiki/Atrophy
+https://en.wikipedia.org/wiki/47_Ronin_(2013_film)
+https://en.wikipedia.org/wiki/Circle_jerk
+https://en.wikipedia.org/wiki/Medical_diplomacy
+https://en.wikipedia.org/wiki/Hard_power
+https://en.wikipedia.org/wiki/Soft_power
+https://en.wikipedia.org/wiki/Birth_control
+https://en.wikipedia.org/wiki/Visual_impairment
+https://en.wikipedia.org/wiki/X-COM:_Interceptor
+https://en.wikipedia.org/wiki/Ambassador
+https://en.wikipedia.org/wiki/Blind_Faith
+https://en.wikipedia.org/wiki/Wall_Street
+https://en.wikipedia.org/wiki/Brainchild_(Circle_of_Dust_album)
+https://en.wikipedia.org/wiki/Christmas
+https://en.wikipedia.org/wiki/Turkish_language
+https://en.wikipedia.org/wiki/Nebula
+https://en.wikipedia.org/wiki/Snow_leopard
+https://en.wikipedia.org/wiki/Killer_Instinct
+https://en.wikipedia.org/wiki/Beaver 
+https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit
+https://en.wikipedia.org/wiki/Salvation
+https://en.wikipedia.org/wiki/Heaven             
+https://en.wikipedia.org/wiki/Aphorism                   
+https://en.wikipedia.org/wiki/Computing
+https://en.wikipedia.org/wiki/Status_quo
 .
 
 
