@@ -3,9 +3,11 @@ By: zlib (c) 2025 Aleksi 'bf' Koivisto
 
 Web portal to:	  https://en.wikipedia.org/
 
-Techniques used:  Hard to soft analysis, accessibility, preservation, creativity, randomness by occurrence
+Techniques used:  Hard to soft analysis, accessibility, preservation, creativity
+                  , randomness by occurrence
 
-Say:		  "Naked thought", "Stay a while and read", "Word 4 hire", "Down this beast!", "Split into pieces", "Scatter"
+Say:		  "Naked thought", "Stay a while and read", "Word 4 hire", "Down 
+                  this beast!", "Split into pieces", "Scatter"
 .
 
 
@@ -77,7 +79,7 @@ gov:		  government,
 popo:		  police,
 fan:		  fantasy,
 gear:		  prototypes for "if someone makes the wrong move types",
-tact:		  tactical placement, deployment, border patrol, ambush, in/exfil,
+tact:		  tactical placement deployment,border patrol,ambush,in/exfil,
 myth:		  legends, mythology,
 fam:		  family,
 pro:		  professional,
@@ -88,7 +90,7 @@ net:		  internet,
 fun:		  happiness,
 sad:		  sadness,
 drug:		  meds, pharmaceutics, substances,
-narc:		  narcotics,
+narc:		  narcotics, lethal,
 tox:		  toxic, detrimental,
 old:		  very old,
 game:		  game theory, causality,
@@ -105,7 +107,8 @@ deep:		  space, science,
 race:		  space race,
 hood:		  outside,
 bio:		  biography,
-comm:		  radar, satellite comms
+comm:		  radar, satellite comms,
+aoe:		  area of effect, denial
 .
 
 
@@ -581,7 +584,7 @@ rus:
 https://en.wikipedia.org/wiki/Moscow
 https://en.wikipedia.org/wiki/Saint_Petersburg
 
-Populations, cultures, societal structures & issues, by balance, design (modern):
+Populations, cultures, societal structures & issues, by balance, design(modern):
 https://en.wikipedia.org/wiki/Utopia
 https://en.wikipedia.org/wiki/Dystopia
 https://en.wikipedia.org/wiki/Counterculture
@@ -654,6 +657,10 @@ https://en.wikipedia.org/wiki/Solidarity
 https://en.wikipedia.org/wiki/Crying				" since 1992 "
 https://en.wikipedia.org/wiki/Laughter
 https://en.wikipedia.org/wiki/Finland
+https://en.wikipedia.org/wiki/Porvoo
+https://en.wikipedia.org/wiki/Kymenlaakso
+https://en.wikipedia.org/wiki/Iitti
+https://en.wikipedia.org/wiki/Kausala
 https://en.wikipedia.org/wiki/Finnish_language
 mind:
 https://en.wikipedia.org/wiki/Asociality
@@ -706,9 +713,9 @@ https://en.wikipedia.org/wiki/User_interface_design
 https://en.wikipedia.org/wiki/Last_words    			" no qualms - lie beyond your masters "
 take:
 https://en.wikipedia.org/wiki/Advocacy_of_suicide
+https://en.wikipedia.org/wiki/Euthanasia
 rip:
 https://en.wikipedia.org/wiki/Suicide
-https://en.wikipedia.org/wiki/Euthanasia
 https://en.wikipedia.org/wiki/Seppuku
 https://en.wikipedia.org/wiki/Cremation
 ...
@@ -750,9 +757,13 @@ Statecraft, political systems & ideologies, by era, rule, system:
 https://en.wikipedia.org/wiki/Modernity
 https://en.wikipedia.org/wiki/Democracy
 https://en.wikipedia.org/wiki/Meritocracy
+https://en.wikipedia.org/wiki/Pirate_Party
+https://en.wikipedia.org/wiki/Liberalism
+https://en.wikipedia.org/wiki/Libertarianism
+https://en.wikipedia.org/wiki/Libertarian_socialism
+https://en.wikipedia.org/wiki/Libertarian_conservatism
 https://en.wikipedia.org/wiki/Communism
 https://en.wikipedia.org/wiki/Authoritarian_socialism
-https://en.wikipedia.org/wiki/Pirate_Party
 https://en.wikipedia.org/wiki/Anarchism
 ...
 https://en.wikipedia.org/wiki/Election_law
@@ -761,6 +772,7 @@ https://en.wikipedia.org/wiki/Red_Scare
 
 Statecraft, security & intelligence services, by type, practice (universal):
 https://en.wikipedia.org/wiki/Tradecraft
+https://en.wikipedia.org/wiki/Counterintelligence
 
 Statecraft, government institutions & services, by type (common):  gov
 https://en.wikipedia.org/wiki/Institute
@@ -773,6 +785,54 @@ para:
 https://en.wikipedia.org/wiki/Paratrooper
 
 Statecraft & world leaders, by country, order:
+usa:
+https://en.wikipedia.org/wiki/George_Washington
+https://en.wikipedia.org/wiki/John_Adams
+https://en.wikipedia.org/wiki/Thomas_Jefferson
+https://en.wikipedia.org/wiki/James_Madison
+https://en.wikipedia.org/wiki/James_Monroe
+https://en.wikipedia.org/wiki/John_Quincy_Adams
+https://en.wikipedia.org/wiki/Andrew_Jackson
+https://en.wikipedia.org/wiki/Martin_Van_Buren
+https://en.wikipedia.org/wiki/William_Henry_Harrison
+https://en.wikipedia.org/wiki/John_Tyler
+https://en.wikipedia.org/wiki/James_K._Polk
+https://en.wikipedia.org/wiki/Zachary_Taylor
+https://en.wikipedia.org/wiki/Millard_Fillmore
+https://en.wikipedia.org/wiki/Franklin_Pierce
+https://en.wikipedia.org/wiki/James_Buchanan
+https://en.wikipedia.org/wiki/Abraham_Lincoln
+https://en.wikipedia.org/wiki/Andrew_Johnson
+https://en.wikipedia.org/wiki/Ulysses_S._Grant
+https://en.wikipedia.org/wiki/Rutherford_B._Hayes
+https://en.wikipedia.org/wiki/James_A._Garfield
+https://en.wikipedia.org/wiki/Chester_A._Arthur
+https://en.wikipedia.org/wiki/Grover_Cleveland
+https://en.wikipedia.org/wiki/Benjamin_Harrison
+https://en.wikipedia.org/wiki/Grover_Cleveland
+https://en.wikipedia.org/wiki/William_McKinley
+https://en.wikipedia.org/wiki/Theodore_Roosevelt
+https://en.wikipedia.org/wiki/William_Howard_Taft
+https://en.wikipedia.org/wiki/Woodrow_Wilson
+https://en.wikipedia.org/wiki/Warren_G._Harding
+https://en.wikipedia.org/wiki/Calvin_Coolidge
+https://en.wikipedia.org/wiki/Herbert_Hoover
+https://en.wikipedia.org/wiki/Franklin_D._Roosevelt
+https://en.wikipedia.org/wiki/Harry_S._Truman
+https://en.wikipedia.org/wiki/Dwight_D._Eisenhower
+https://en.wikipedia.org/wiki/John_F._Kennedy
+https://en.wikipedia.org/wiki/Lyndon_B._Johnson
+https://en.wikipedia.org/wiki/Richard_Nixon
+https://en.wikipedia.org/wiki/Gerald_Ford
+https://en.wikipedia.org/wiki/Jimmy_Carter
+https://en.wikipedia.org/wiki/Ronald_Reagan
+https://en.wikipedia.org/wiki/George_H._W._Bush
+https://en.wikipedia.org/wiki/Bill_Clinton
+https://en.wikipedia.org/wiki/George_W._Bush
+https://en.wikipedia.org/wiki/Barack_Obama
+https://en.wikipedia.org/wiki/Donald_Trump
+https://en.wikipedia.org/wiki/Joe_Biden
+https://en.wikipedia.org/wiki/Donald_Trump
 fin:
 https://en.wikipedia.org/wiki/Kaarlo_Juho_Ståhlberg
 https://en.wikipedia.org/wiki/Lauri_Kristian_Relander
@@ -803,7 +863,7 @@ https://en.wikipedia.org/wiki/World_War_III
 
 
 
-Statecraft (American): usa, gov
+Statecraft (American):  usa,gov
 https://en.wikipedia.org/wiki/United_States
 https://en.wikipedia.org/wiki/Constitution_of_the_United_States
 https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution
@@ -822,12 +882,14 @@ list:  https://en.wikipedia.org/wiki/World_Leaders
 https://en.wikipedia.org/wiki/American_Finnish
 https://en.wikipedia.org/wiki/American_imperialism
 
-Statecraft, figures (Cuban): cub, gov
+
+Statecraft, figures (Cuban):  cub,gov
 https://en.wikipedia.org/wiki/Cuba
 https://en.wikipedia.org/wiki/Fidel_Castro
 https://en.wikipedia.org/wiki/Che_Guevara
 
-Statecraft (Finnish): fin, gov
+
+Statecraft (Finnish):  fin,gov
 https://en.wikipedia.org/wiki/Finland
 https://en.wikipedia.org/wiki/Constitution_of_Finland
 https://en.wikipedia.org/wiki/List_of_presidents_of_Finland
@@ -843,41 +905,49 @@ https://en.wikipedia.org/wiki/Sweden_Finnish
 https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland
 https://en.wikipedia.org/wiki/Finnish_Americans
 
-Statecraft (France): fra, gov
+
+Statecraft (France):  fra,gov
 https://en.wikipedia.org/wiki/France
 
-Statecraft (Georgia): grg, gov
+
+Statecraft (Georgia):  grg,gov
 https://en.wikipedia.org/wiki/Georgia_(country)
 https://en.wikipedia.org/wiki/Defence_Forces_of_Georgia
 https://en.wikipedia.org/wiki/Georgian_Special_Operations_Command
 
-Statecraft (Israeli): isr, gov
+
+Statecraft (Israeli):  isr,gov
 https://en.wikipedia.org/wiki/Israel
 https://en.wikipedia.org/wiki/Basic_Laws_of_Israel
 shin:  https://en.wikipedia.org/wiki/Shin_Bet
 moss:  https://en.wikipedia.org/wiki/Mossad
 
-Statecraft (Moldova): mol, gov
+
+Statecraft (Moldova):  mol,gov
 https://en.wikipedia.org/wiki/Moldova
 https://en.wikipedia.org/wiki/Armed_Forces_of_the_Republic_of_Moldova
 ...
 https://en.wikipedia.org/wiki/Treaty_on_Conventional_Armed_Forces_in_Europe
 
-Statecraft (Mongolians): mon, gov
+Statecraft (Mongolians):  mon,gov
 https://en.wikipedia.org/wiki/Mongolia
 
-Statecraft (Norwegians):  nor
+
+Statecraft (Norwegians):  nor,gov
 https://en.wikipedia.org/wiki/Norway
 
-Statecraft (Poland): pol, gov
+
+Statecraft (Poland): pol,gov
 https://en.wikipedia.org/wiki/Poland
 https://en.wikipedia.org/wiki/Polish_Armed_Forces
 https://en.wikipedia.org/wiki/GROM_Military_Unit
 
-Statecraft (Romania): rom
+
+Statecraft (Romania): rom,gov
 https://en.wikipedia.org/wiki/Romania
 
-Statecraft (Russian): rus
+
+Statecraft (Russian): rus,gov
 https://en.wikipedia.org/wiki/Russia
 https://en.wikipedia.org/wiki/Constitution_of_Russia
 https://en.wikipedia.org/wiki/List_of_leaders_of_Russia
@@ -895,19 +965,32 @@ https://en.wikipedia.org/wiki/Russians_in_Finland
 https://en.wikipedia.org/wiki/Karelia
 https://en.wikipedia.org/wiki/Russian_imperialism
 
-Statecraft (Russian, historic): old, ussr
+
+Statecraft (Russian, historic):  old, ussr,gov
 old:  https://en.wikipedia.org/wiki/Russian_Empire
 https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic
 https://en.wikipedia.org/wiki/Soviet_Union
 kgb:  https://en.wikipedia.org/wiki/KGB
 
-Statecraft (Sweden):  swe
+
+Statecraft (Sweden):  swe,gov
 https://en.wikipedia.org/wiki/Sweden
 https://en.wikipedia.org/wiki/Swedish_Security_Service
 ...
 https://en.wikipedia.org/wiki/Swedish_nuclear_weapons_program
 
-Statecraft (Ukraine): ukr
+
+Statecraft (Sri Lankan):  sri,gov
+https://en.wikipedia.org/wiki/Sri_Lanka
+...
+https://en.wikipedia.org/wiki/List_of_assassinations_of_the_Sri_Lankan_civil_war
+
+
+Statecraft (Tanzanian):  tnz,gov
+https://en.wikipedia.org/wiki/Tanzania
+
+
+Statecraft (Ukraine):  ukr,gov
 https://en.wikipedia.org/wiki/Ukraine
 https://en.wikipedia.org/wiki/Security_Service_of_Ukraine
 
@@ -954,7 +1037,8 @@ https://en.wikipedia.org/wiki/SVD_(rifle)
 https://en.wikipedia.org/wiki/Dragunov_SVU
 ...
 https://en.wikipedia.org/wiki/Small_arms_trade
-https://en.wikipedia.org/wiki/Estimated_number_of_civilian_guns_per_capita_by_country
+https://en.wikipedia.org/wiki/
+Estimated_number_of_civilian_guns_per_capita_by_country
 
 Arms & armory - lethal, improvised devices (uncommon):
 https://en.wikipedia.org/wiki/Suicide_pill
@@ -1003,7 +1087,8 @@ https://en.wikipedia.org/wiki/Deep_Space_Network_(disambiguation)
 race:
 https://en.wikipedia.org/wiki/International_Space_Station
 https://en.wikipedia.org/wiki/Assembly_of_the_International_Space_Station
-https://en.wikipedia.org/wiki/European_contribution_to_the_International_Space_Station
+https://en.wikipedia.org/wiki/
+European_contribution_to_the_International_Space_Station
 deep:
 https://en.wikipedia.org/wiki/Interplanetary_spaceflight
 ...
@@ -1153,7 +1238,8 @@ bet:   https://en.wikipedia.org/wiki/Online_gambling
 
 Games - immersive role-playing design & literature:  rpg
 https://en.wikipedia.org/wiki/Dungeons_&_Dragons
-https://en.wikipedia.org/wiki/Editions_of_Dungeons_&_Dragons#Advanced_Dungeons_&_Dragons
+https://en.wikipedia.org/wiki/
+Editions_of_Dungeons_&_Dragons#Advanced_Dungeons_&_Dragons
 https://en.wikipedia.org/wiki/Rolemaster
 https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
 
@@ -1299,7 +1385,6 @@ https://en.wikipedia.org/wiki/Peaceful_Evolution_theory
 https://en.wikipedia.org/wiki/Murder
 https://en.wikipedia.org/wiki/Assassination
 https://en.wikipedia.org/wiki/Proxy_murder
-https://en.wikipedia.org/wiki/List_of_assassinations_of_the_Sri_Lankan_civil_war
 https://en.wikipedia.org/wiki/War_crime
 https://en.wikipedia.org/wiki/Intrinsics
 https://en.wikipedia.org/wiki/Population
@@ -1397,11 +1482,9 @@ https://en.wikipedia.org/wiki/Roman_Empire
 https://en.wikipedia.org/wiki/History_of_Greece
 https://en.wikipedia.org/wiki/History_of_Africa
 https://en.wikipedia.org/wiki/Norman_conquest_of_southern_Italy
-https://en.wikipedia.org/wiki/Norman_conquest_of_southern_Italy#Conquest_of_Sicily,_1061–1091
 https://en.wikipedia.org/wiki/History_of_France
 https://en.wikipedia.org/wiki/Notre_Dame
 https://en.wikipedia.org/wiki/Porvoo_Cathedral
-https://en.wikipedia.org/wiki/Porvoo
 https://en.wikipedia.org/wiki/Finnish_mythology
 https://en.wikipedia.org/wiki/Constantinople
 https://en.wikipedia.org/wiki/Antinatalism
@@ -1649,9 +1732,6 @@ https://en.wikipedia.org/wiki/Cowboy
 https://en.wikipedia.org/wiki/Africa
 https://en.wikipedia.org/wiki/Oceania
 https://en.wikipedia.org/wiki/Region
-https://en.wikipedia.org/wiki/Kymenlaakso
-https://en.wikipedia.org/wiki/Iitti
-https://en.wikipedia.org/wiki/Kausala
 https://en.wikipedia.org/wiki/Helsinki
 https://en.wikipedia.org/wiki/Car_bomb
 https://en.wikipedia.org/wiki/Ancient_history
@@ -2069,10 +2149,6 @@ https://en.wikipedia.org/wiki/Psychosocial
 https://en.wikipedia.org/wiki/Science_communication
 https://en.wikipedia.org/wiki/Sign_of_the_Times
 https://en.wikipedia.org/wiki/Equal_opportunity
-https://en.wikipedia.org/wiki/Liberalism
-https://en.wikipedia.org/wiki/Libertarianism
-https://en.wikipedia.org/wiki/Libertarian_socialism
-https://en.wikipedia.org/wiki/Libertarian_conservatism
 https://en.wikipedia.org/wiki/Neolithic_Revolution
 https://en.wikipedia.org/wiki/Theurgy
 https://en.wikipedia.org/wiki/Tantra
@@ -2205,7 +2281,6 @@ https://en.wikipedia.org/wiki/Project_I.G.I.
   ^- al:  "i briefly knew one dev from this team, irl, and i randomly played it before that in 2002, with a childhood friend.   came in jewel case discs back in 2002"
 https://en.wikipedia.org/wiki/Real_life
 https://en.wikipedia.org/wiki/Project_Reality
-https://en.wikipedia.org/wiki/Counterintelligence
 https://en.wikipedia.org/wiki/Dumbing_down
 https://en.wikipedia.org/wiki/Principle
 https://en.wikipedia.org/wiki/Optical_disc_packaging#Jewel_case
@@ -2974,6 +3049,8 @@ https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory
 https://en.wikipedia.org/wiki/Underground_press
 https://en.wikipedia.org/wiki/Spike_(missile)
 https://en.wikipedia.org/wiki/Materiel
+
+https://en.wikipedia.org/wiki/Benjamin_Franklin
 .
 
 
