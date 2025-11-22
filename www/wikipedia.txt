@@ -19,8 +19,8 @@ list:		  -
 holy:		  scriptura
 
 Continents:
-Africa:		  afr,
-Europe:		  eur
+afr:		  Africa,
+eur:		  Europe
 
 Countries:	  gov,
 usa:		  United States of America,
@@ -106,11 +106,35 @@ meta:		  metadata, status quo,
 deep:		  space, science,
 race:		  space race,
 hood:		  outside,
-bio:		  biography,
+bio:		  organism, biography,
 comm:		  radar, satellite comms,
-aoe:		  area of effect, denial
+aoe:		  area of effect, denial,
+hoof:		  hoof, hooflike, padded foot
+
 .
 
+
+Humans, evolution & genetics, by origin, feature:
+bio:
+https://en.wikipedia.org/wiki/DNA
+https://en.wikipedia.org/wiki/Human_evolution
+root:
+https://en.wikipedia.org/wiki/List_of_ethnic_groups_of_Africa
+https://en.wikipedia.org/wiki/African_Americans
+https://en.wikipedia.org/wiki/Ethnic_groups_in_Asia
+https://en.wikipedia.org/wiki/Ethnic_groups_in_the_Middle_East
+https://en.wikipedia.org/wiki/European_people
+https://en.wikipedia.org/wiki/White_people
+https://en.wikipedia.org/wiki/White_ethnic
+https://en.wikipedia.org/wiki/White_Africans_of_European_ancestry
+https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas
+https://en.wikipedia.org/wiki/Inuit
+https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States
+https://en.wikipedia.org/wiki/Hispanic
+https://en.wikipedia.org/wiki/Hispanic_and_Latino_Americans
+https://en.wikipedia.org/wiki/Latin_Americans
+https://en.wikipedia.org/wiki/Pacific_Islander
+https://en.wikipedia.org/wiki/Caribbean_people
 
 -
 Hall of Fame for the greatest legacies & prolificity (figures):
@@ -141,7 +165,6 @@ To-do: masterpieces
 https://en.wikipedia.org/wiki/Masterpiece
 .
 
-
 Language, communication & interactions (universal):
 https://en.wikipedia.org/wiki/Intrapersonal_communication
 https://en.wikipedia.org/wiki/Nonverbal_communication
@@ -155,11 +178,6 @@ Language, communication & interactions (data, transient):
 https://en.wikipedia.org/wiki/Logic
 https://en.wikipedia.org/wiki/Knowledge
 https://en.wikipedia.org/wiki/Abstract_and_concrete
-https://en.wikipedia.org/wiki/Child
-https://en.wikipedia.org/wiki/Girl
-https://en.wikipedia.org/wiki/Woman
-https://en.wikipedia.org/wiki/Boy
-https://en.wikipedia.org/wiki/Man
 https://en.wikipedia.org/wiki/Corporeal
 https://en.wikipedia.org/wiki/Appearance
 
@@ -173,7 +191,7 @@ Related shortcuts:  bark
 ...
 
 
-Disciplines & professions (universal):
+Disciplines, professions & paths (universal):
 https://en.wikipedia.org/wiki/Butcher
 https://en.wikipedia.org/wiki/Hacker
 https://en.wikipedia.org/wiki/Woodcutter
@@ -446,10 +464,11 @@ https://en.wikipedia.org/wiki/Tobacco_smoking
 drug:
 https://en.wikipedia.org/wiki/Cannabis_(drug)
 narc:
+https://en.wikipedia.org/wiki/Heroin
 https://en.wikipedia.org/wiki/Cocaine
 
 
-Clothes, wears & fashion, by piece, fit, style (design, era): -
+Clothes, wears & fashion, by piece, fit, style (design, era):
 head:
 https://en.wikipedia.org/wiki/Balaclava_(clothing)
 hand:
@@ -461,6 +480,8 @@ https://en.wikipedia.org/wiki/Trousers
 foot:
 https://en.wikipedia.org/wiki/Footwear
 https://en.wikipedia.org/wiki/Shoemaking
+code:
+https://en.wikipedia.org/wiki/Religious_habit
 
 
 Nature, geography, materials & weather, by conditions (life):
@@ -476,6 +497,8 @@ https://en.wikipedia.org/wiki/Species
 https://en.wikipedia.org/wiki/Taxonomy
 https://en.wikipedia.org/wiki/Taxonomic_rank
 https://en.wikipedia.org/wiki/Herbivore
+hoof:
+https://en.wikipedia.org/wiki/North_African_elephant
 
 Nature, geography & plants, by family, species (life):
 https://en.wikipedia.org/wiki/Plant
@@ -640,14 +663,28 @@ https://en.wikipedia.org/wiki/Institute_of_technology
 fin:
 https://en.wikipedia.org/wiki/Conscription
 https://en.wikipedia.org/wiki/Conscientious_objector
-mind:
-https://en.wikipedia.org/wiki/Conscientiousness
 bio:
 https://en.wikipedia.org/wiki/Biography
+https://en.wikipedia.org/wiki/Child
+https://en.wikipedia.org/wiki/Girl
+https://en.wikipedia.org/wiki/Boy
+https://en.wikipedia.org/wiki/Woman
+https://en.wikipedia.org/wiki/Man
 https://en.wikipedia.org/wiki/Female
 https://en.wikipedia.org/wiki/Male
 https://en.wikipedia.org/wiki/Gender_modality
 https://en.wikipedia.org/wiki/Transgender
+sex:
+https://en.wikipedia.org/wiki/Asexuality
+https://en.wikipedia.org/wiki/Heterosexuality
+https://en.wikipedia.org/wiki/Homosexuality
+https://en.wikipedia.org/wiki/Bisexuality
+https://en.wikipedia.org/wiki/Pansexuality
+https://en.wikipedia.org/wiki/Demisexuality
+https://en.wikipedia.org/wiki/Queer
+act:
+https://en.wikipedia.org/wiki/Autoeroticism
+https://en.wikipedia.org/wiki/Conventional_sex
 ...
 
 Populations, life, environment & experiences, by system, traits (solo, al):
@@ -657,11 +694,11 @@ https://en.wikipedia.org/wiki/Solidarity
 https://en.wikipedia.org/wiki/Crying				" since 1992 "
 https://en.wikipedia.org/wiki/Laughter
 https://en.wikipedia.org/wiki/Finland
+https://en.wikipedia.org/wiki/Finnish_language
 https://en.wikipedia.org/wiki/Porvoo
 https://en.wikipedia.org/wiki/Kymenlaakso
 https://en.wikipedia.org/wiki/Iitti
 https://en.wikipedia.org/wiki/Kausala
-https://en.wikipedia.org/wiki/Finnish_language
 mind:
 https://en.wikipedia.org/wiki/Asociality
 https://en.wikipedia.org/wiki/Neurosis				" volume control "
@@ -678,10 +715,11 @@ https://en.wikipedia.org/wiki/Asexuality
 https://en.wikipedia.org/wiki/Asexual_flag
 https://en.wikipedia.org/wiki/Suicidal_ideation
 body:
-https://en.wikipedia.org/wiki/Anchorite				" hc "
 https://en.wikipedia.org/wiki/Prone_position
 https://en.wikipedia.org/wiki/Sitting
 https://en.wikipedia.org/wiki/Walking
+https://en.wikipedia.org/wiki/Autoeroticism
+https://en.wikipedia.org/wiki/Push-up
 https://en.wikipedia.org/wiki/Atrophy
 path:
 https://en.wikipedia.org/wiki/House
@@ -690,13 +728,16 @@ https://en.wikipedia.org/wiki/Kindergarten
 https://en.wikipedia.org/wiki/Primary_school
 https://en.wikipedia.org/wiki/Secondary_school
 https://en.wikipedia.org/wiki/Conscription
+https://en.wikipedia.org/wiki/Apartment
+https://en.wikipedia.org/wiki/Anchorite				" hc, balancer"
+https://en.wikipedia.org/wiki/AAA_(video_game_industry)		" good xp, too serious "
+  https://en.wikipedia.org/wiki/Remedy_Entertainment
+https://en.wikipedia.org/wiki/Unemployment
 stat:
 https://en.wikipedia.org/wiki/Poverty
-https://en.wikipedia.org/wiki/Unemployment
 https://en.wikipedia.org/wiki/Homelessness
-https://en.wikipedia.org/wiki/Apartment
-https://en.wikipedia.org/wiki/Welfare_state			" köyhät,  kyykyssä "
-https://en.wikipedia.org/wiki/Medical_billing
+https://en.wikipedia.org/wiki/Welfare_state
+https://en.wikipedia.org/wiki/Medical_billing			" köyhät,  kyykyssä "
 play:
 https://en.wikipedia.org/wiki/Hobby
 https://en.wikipedia.org/wiki/Reading
@@ -715,11 +756,11 @@ take:
 https://en.wikipedia.org/wiki/Advocacy_of_suicide
 https://en.wikipedia.org/wiki/Euthanasia
 rip:
-https://en.wikipedia.org/wiki/Suicide
+https://en.wikipedia.org/wiki/Suicide				" dunno,  an option "
 https://en.wikipedia.org/wiki/Seppuku
 https://en.wikipedia.org/wiki/Cremation
 ...
-https://en.wikipedia.org/wiki/Bullying
+https://en.wikipedia.org/wiki/Bullying				" just school, by random people "
 https://en.wikipedia.org/wiki/Social_death
 https://en.wikipedia.org/wiki/Starvation
 https://en.wikipedia.org/wiki/Running
@@ -1149,12 +1190,13 @@ https://en.wikipedia.org/wiki/Empathy_quotient
 https://en.wikipedia.org/wiki/Learning_disability
 https://en.wikipedia.org/wiki/Intellectual_disability
 
-Psychology, socialization & personality traits:  soft
+Psychology, socialization, habits & personality traits:  soft
 https://en.wikipedia.org/wiki/Socialization
 https://en.wikipedia.org/wiki/Asociality
 https://en.wikipedia.org/wiki/Extraversion_and_introversion
 https://en.wikipedia.org/wiki/Love
 https://en.wikipedia.org/wiki/Hatred
+https://en.wikipedia.org/wiki/Conscientiousness
 
 Psychology, mental conditions & characterization:  soft
 https://en.wikipedia.org/wiki/Psychopathology
@@ -1367,7 +1409,6 @@ https://en.wikipedia.org/wiki/Metaphysics
 
 Draft editing:
 prehistory
-Evolution & human genetics (universal): -
 Evolution & neuroscience (universal): -
 Training & education techniques, by system, role (universal): -
 Training & education, by system, role: -
@@ -1467,7 +1508,6 @@ https://en.wikipedia.org/wiki/List_of_freeware_first-person_shooters
 https://en.wikipedia.org/wiki/LightWave_3D
 https://en.wikipedia.org/wiki/Adobe_Photoshop
 https://en.wikipedia.org/wiki/Houdini_(software)
-https://en.wikipedia.org/wiki/Homosexuality
 https://en.wikipedia.org/wiki/Cloth_modeling
 https://en.wikipedia.org/wiki/Soft-body_dynamics
 https://en.wikipedia.org/wiki/Classical_mechanics
@@ -1598,7 +1638,6 @@ https://en.wikipedia.org/wiki/Ammunition
 https://en.wikipedia.org/wiki/Human_resources
 https://en.wikipedia.org/wiki/Absolute_truth
 https://en.wikipedia.org/wiki/James_Watson
-https://en.wikipedia.org/wiki/DNA
 https://en.wikipedia.org/wiki/Tamagotchi
 https://en.wikipedia.org/wiki/Perjury
 https://en.wikipedia.org/wiki/Mercenary
@@ -1727,7 +1766,6 @@ https://en.wikipedia.org/wiki/Etymology
 https://en.wikipedia.org/wiki/List_of_domesticated_animals
 https://en.wikipedia.org/wiki/Animal
 https://en.wikipedia.org/wiki/Homosexual_behavior_in_animals
-https://en.wikipedia.org/wiki/Bisexuality
 https://en.wikipedia.org/wiki/Cowboy
 https://en.wikipedia.org/wiki/Africa
 https://en.wikipedia.org/wiki/Oceania
@@ -1830,8 +1868,6 @@ https://en.wikipedia.org/wiki/Silencer_(firearms)
 https://en.wikipedia.org/wiki/Utopia
 https://en.wikipedia.org/wiki/Intentional_community
 https://en.wikipedia.org/wiki/Sahara
-https://en.wikipedia.org/wiki/Heterosexuality
-https://en.wikipedia.org/wiki/Conventional_sex
 https://en.wikipedia.org/wiki/Normality_(behavior)
 https://en.wikipedia.org/wiki/Conformity
 https://en.wikipedia.org/wiki/Social_group
@@ -2469,7 +2505,6 @@ https://en.wikipedia.org/wiki/Battalion
 https://en.wikipedia.org/wiki/Panic_Room
 https://en.wikipedia.org/wiki/Safe_room
 https://en.wikipedia.org/wiki/Slipstream
-https://en.wikipedia.org/wiki/Autoeroticism
 https://en.wikipedia.org/wiki/Solo_performance
 https://en.wikipedia.org/wiki/Puppetry
 https://en.wikipedia.org/wiki/Vaudeville
@@ -2653,7 +2688,7 @@ https://en.wikipedia.org/wiki/Elon_Musk
 https://en.wikipedia.org/wiki/Bill_Gates
 https://en.wikipedia.org/wiki/Steve_Jobs
 https://en.wikipedia.org/wiki/Pixar
-https://en.wikipedia.org/wiki/RenderMan
+To-do:  https://en.wikipedia.org/wiki/RenderMan
 https://en.wikipedia.org/wiki/Autodesk_Arnold
 https://en.wikipedia.org/wiki/Arnold_Schwarzenegger
 https://en.wikipedia.org/wiki/Minecraft
@@ -2970,7 +3005,6 @@ https://en.wikipedia.org/wiki/Workflow
 https://en.wikipedia.org/wiki/Work-based_learning
 https://en.wikipedia.org/wiki/Work_as_play
 https://en.wikipedia.org/wiki/Cloistered_rule
-https://en.wikipedia.org/wiki/Religious_habit
 https://en.wikipedia.org/wiki/Non_Negotiable
 https://en.wikipedia.org/wiki/Metropolitan_area
 https://en.wikipedia.org/wiki/Ekistics
@@ -3051,6 +3085,20 @@ https://en.wikipedia.org/wiki/Spike_(missile)
 https://en.wikipedia.org/wiki/Materiel
 
 https://en.wikipedia.org/wiki/Benjamin_Franklin
+
+https://en.wikipedia.org/wiki/Adoption
+https://en.wikipedia.org/wiki/Deep_Space_(collection)
+https://en.wikipedia.org/wiki/Deep_Space_2
+https://en.wikipedia.org/wiki/Deep_Space_1
+https://en.wikipedia.org/wiki/Satellite
+https://en.wikipedia.org/wiki/Observatory
+https://en.wikipedia.org/wiki/Physical_plant
+https://en.wikipedia.org/wiki/Space_station
+https://en.wikipedia.org/wiki/Women's_rights
+https://en.wikipedia.org/wiki/European_Space_Agency
+https://en.wikipedia.org/wiki/White_ethnostate
+https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights
+https://en.wikipedia.org/wiki/Latin_script
 .
 
 
