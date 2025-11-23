@@ -1,7 +1,7 @@
 Git: https://github.com/basedfigure/gut
 By: zlib (c) 2025 Aleksi 'bf' Koivisto
 
-Web portal to:	  https://en.wikipedia.org/
+Portal to:	  https://en.wikipedia.org/
 
 Techniques used:  Hard to soft analysis, accessibility, preservation, creativity
                   , randomness by occurrence
@@ -13,18 +13,21 @@ Say:		  "Naked thought", "Stay a while and read", "Word 4 hire", "Down
 
 -
 Categories:	  - Search by: ctrl-f,
-sys:		  System, cogs, prominence,
+sys:		  System, cogs, prominence, path, all,
 data:		  id,
 list:		  -
-holy:		  scriptura
+holy:		  scriptura,
+code:             garb, moral,
 
 Continents:
 afr:		  Africa,
-eur:		  Europe
+eur:		  Europe,
+oce:		  Oceania
 
 Countries:	  gov,
 usa:		  United States of America,
 cub:		  Cuba,
+uk:		  United Kingdom,
 fin:		  Finland,
 fra:		  France,
 isr:		  Israel,
@@ -39,7 +42,7 @@ tnz:		  Tanzania,
 ukr:		  Ukraine
 
 Classifications:  - Search by: ctrl-f,
-lang:		  language (natural, code, slang, encoded),
+lang:		  language (natural, code, slang, encoded, script),
 bark:		  bark, hark,
 proj:		  project,
 hw:		  hardware, electronics,
@@ -57,7 +60,7 @@ rpg:		  roleplaying game,
 ip:		  intellectual property (brand),
 tcg:		  trading card game,
 foss:		  free software; ip
-fig:		  brain & matter,
+fig:		  brain & matter, virtual,
 corp:		  incorporated,
 math:		  mathematics, intrinsics,
 stat:		  statistics,
@@ -91,10 +94,10 @@ fun:		  happiness,
 sad:		  sadness,
 drug:		  meds, pharmaceutics, substances,
 narc:		  narcotics, lethal,
-tox:		  toxic, detrimental,
+tox:		  toxic, detrimental, pollutant,
 old:		  very old,
 game:		  game theory, causality,
-war:		  wars,
+war:		  conflict, wars,
 solo:		  solitude, individualistic,
 play:		  hobby, work,
 mind:		  brain, mentality,
@@ -109,9 +112,12 @@ hood:		  outside,
 bio:		  organism, biography,
 comm:		  radar, satellite comms,
 aoe:		  area of effect, denial,
-hoof:		  hoof, hooflike, padded foot
-
+hoof:		  hoof, hooflike, padded foot,
+scam:		  ~ targetting, shilling,
+tool:		  device, utility, utensil,
+art:		  text, 2d, 3d
 .
+
 
 
 Humans, evolution & genetics, by origin, feature:
@@ -136,34 +142,148 @@ https://en.wikipedia.org/wiki/Latin_Americans
 https://en.wikipedia.org/wiki/Pacific_Islander
 https://en.wikipedia.org/wiki/Caribbean_people
 
+
 -
 Hall of Fame for the greatest legacies & prolificity (figures):
 born:
+       https://en.wikipedia.org/wiki/Jesus
+       https://en.wikipedia.org/wiki/Robin_Hood
+1157:  https://en.wikipedia.org/wiki/Richard_I_of_England
+1452:  https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+1564:  https://en.wikipedia.org/wiki/William_Shakespeare
+1706:  https://en.wikipedia.org/wiki/Benjamin_Franklin
 1815:  https://en.wikipedia.org/wiki/Ada_Lovelace
+1859:  https://en.wikipedia.org/wiki/Fusajiro_Yamauchi
 1867:  https://en.wikipedia.org/wiki/Marie_Curie
 1869:  https://en.wikipedia.org/wiki/Mahatma_Gandhi
+1874:  https://en.wikipedia.org/wiki/Winston_Churchill
 1879:  https://en.wikipedia.org/wiki/Albert_Einstein
+1889:  https://en.wikipedia.org/wiki/Charlie_Chaplin
+1900:  https://en.wikipedia.org/wiki/Urho_Kekkonen
+1901:  https://en.wikipedia.org/wiki/Walt_Disney
 1912:  https://en.wikipedia.org/wiki/Alan_Turing
+1913:  https://en.wikipedia.org/wiki/Maurice_Wilkes
+1914:  https://en.wikipedia.org/wiki/Tove_Jansson
 1915:  https://en.wikipedia.org/wiki/Alan_Watts
+1921:  https://en.wikipedia.org/wiki/Violette_Szabo
+1922:  https://en.wikipedia.org/wiki/Christopher_Lee
+1925:  https://en.wikipedia.org/wiki/Malcolm_X
+1926:  https://en.wikipedia.org/wiki/Stanley_Gill
+1927:  https://en.wikipedia.org/wiki/Roger_Moore
+       https://en.wikipedia.org/wiki/David_Wheeler_(computer_scientist)
+1929:  https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.
+1930:  https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
+       https://en.wikipedia.org/wiki/Sean_Connery
+1931:  https://en.wikipedia.org/wiki/Leonard_Nimoy
 1934:  https://en.wikipedia.org/wiki/Niklaus_Wirth
-1934:  https://en.wikipedia.org/wiki/Carl_Sagan
+       https://en.wikipedia.org/wiki/Carl_Sagan
+1937:  https://en.wikipedia.org/wiki/Hunter_S._Thompson
+1938:  https://en.wikipedia.org/wiki/Gary_Gygax
+       https://en.wikipedia.org/wiki/Donald_Knuth
+1941:  https://en.wikipedia.org/wiki/Hayao_Miyazaki
+       https://en.wikipedia.org/wiki/Dennis_Ritchie
 1942:  https://en.wikipedia.org/wiki/Bob_Ross
+       https://en.wikipedia.org/wiki/Hannu_Karpo
+       https://en.wikipedia.org/wiki/Jimi_Hendrix
+       https://en.wikipedia.org/wiki/Brian_Kernighan
+1943:  https://en.wikipedia.org/wiki/Irwin_Goodman
+       https://en.wikipedia.org/wiki/Ken_Thompson
+1944:  https://en.wikipedia.org/wiki/George_Lucas
+1946:  https://en.wikipedia.org/wiki/Sylvester_Stallone
+1947:  https://en.wikipedia.org/wiki/Arnold_Schwarzenegger
+1948:  https://en.wikipedia.org/wiki/Samuel_L._Jackson
+       https://en.wikipedia.org/wiki/Terry_Pratchett
+1951:  https://en.wikipedia.org/wiki/Mamoru_Oshii
 1952:  https://en.wikipedia.org/wiki/Yoshitaka_Amano
-1954:  https://en.wikipedia.org/wiki/Mike_Pondsmith
+       https://en.wikipedia.org/wiki/Shigeru_Miyamoto
+       https://en.wikipedia.org/wiki/Liam_Neeson
+1953:  https://en.wikipedia.org/wiki/Pierce_Brosnan
+       https://en.wikipedia.org/wiki/James_Bond
+1954:
+       https://en.wikipedia.org/wiki/Izo_Hashimoto
+       https://en.wikipedia.org/wiki/Mike_Pondsmith
+       https://en.wikipedia.org/wiki/Heikki_Silvennoinen
+       https://en.wikipedia.org/wiki/Katsuhiro_Otomo
+       https://en.wikipedia.org/wiki/James_Cameron
+       https://en.wikipedia.org/wiki/Kazunori_Ito
+       https://en.wikipedia.org/wiki/John_Travolta
+       https://en.wikipedia.org/wiki/Akira_Toriyama
+       https://en.wikipedia.org/wiki/Bruce_Willis
+1956:  https://en.wikipedia.org/wiki/Mel_Gibson
+1958:  https://en.wikipedia.org/wiki/Michael_Jackson
+       https://en.wikipedia.org/wiki/Gary_Oldman
 1959:  https://en.wikipedia.org/wiki/Nobuo_Uematsu
-1961:  https://en.wikipedia.org/wiki/Richard_Garriott
-1962:  https://en.wikipedia.org/wiki/Hironobu_Sakaguchi
+1961:  https://en.wikipedia.org/wiki/Peter_Jackson
+       https://en.wikipedia.org/wiki/Richard_Garriott
+       https://en.wikipedia.org/wiki/Masamune_Shirow
+1962:  https://en.wikipedia.org/wiki/Tom_Cruise
+       https://en.wikipedia.org/wiki/Hironobu_Sakaguchi
 1963:  https://en.wikipedia.org/wiki/Hideo_Kojima
+       https://en.wikipedia.org/wiki/Brad_Pitt
+       https://en.wikipedia.org/wiki/Johnny_Depp
+       https://en.wikipedia.org/wiki/Russell_Crowe
+       https://en.wikipedia.org/wiki/Michael_Jordan
+1964:  https://en.wikipedia.org/wiki/Eazy-E
 1966:  https://en.wikipedia.org/wiki/Brenda_Romero
 1967:  https://en.wikipedia.org/wiki/John_Romero
-1969:  https://en.wikipedia.org/wiki/Linus_Torvalds
+       https://en.wikipedia.org/wiki/Kurt_Cobain
+1968:  https://en.wikipedia.org/wiki/Daniel_Craig
+1969:  https://en.wikipedia.org/wiki/Dead_(musician)
+       https://en.wikipedia.org/wiki/Linus_Torvalds
 1970:  https://en.wikipedia.org/wiki/John_Carmack
 1971:  https://en.wikipedia.org/wiki/Yoji_Shinkawa
+1972:  https://en.wikipedia.org/wiki/Eminem
+1974:  https://en.wikipedia.org/wiki/Christian_Bale
+       https://en.wikipedia.org/wiki/Leonardo_DiCaprio
+1975:  https://en.wikipedia.org/wiki/Angelina_Jolie
+1979:  https://en.wikipedia.org/wiki/Heath_Ledger
+1980:  https://en.wikipedia.org/wiki/Macaulay_Culkin
+1981:  https://en.wikipedia.org/wiki/Natalie_Portman
+1983:  https://en.wikipedia.org/wiki/Josh_Ruben
+1984:  https://en.wikipedia.org/wiki/Scarlett_Johansson
+1985:  https://en.wikipedia.org/wiki/Hopsin
+1989:  https://en.wikipedia.org/wiki/Daniel_Radcliffe
+       https://en.wikipedia.org/wiki/Lil_B
+1999:  https://en.wikipedia.org/wiki/Harambe
+    ^- " one life began, mine ended "
+...
 
-
-To-do: masterpieces
+Hall of Fame for masterpieces of artistic greatness & recognition:
 https://en.wikipedia.org/wiki/Masterpiece
+film:
+1977:  https://en.wikipedia.org/wiki/Darth_Vader
+1980:  https://en.wikipedia.org/wiki/Yoda
+       https://en.wikipedia.org/wiki/Palpatine
+1999:  https://en.wikipedia.org/wiki/Darth_Maul
+art:
+1981:  https://en.wikipedia.org/wiki/Donkey_Kong_(character)
+       https://en.wikipedia.org/wiki/Mario
+1984:  https://en.wikipedia.org/wiki/Splinter_(Teenage_Mutant_Ninja_Turtles)
+1983:  https://en.wikipedia.org/wiki/Luigi_(character)
+1985:  https://en.wikipedia.org/wiki/Princess_Peach
+1986:  https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)
+       https://en.wikipedia.org/wiki/Princess_Zelda
+1992:  https://en.wikipedia.org/wiki/Wario
+1995:  https://en.wikipedia.org/wiki/Motoko_Kusanagi
+1997:  https://en.wikipedia.org/wiki/Cloud_Strife
+       https://en.wikipedia.org/wiki/Tifa_Lockhart
+       https://en.wikipedia.org/wiki/Aerith_Gainsborough
+       https://en.wikipedia.org/wiki/Sephiroth_(Final_Fantasy)
+1998:  https://en.wikipedia.org/wiki/Minsc
+       https://en.wikipedia.org/wiki/Solid_Snake
+       https://en.wikipedia.org/wiki/Liquid_Snake
+       https://en.wikipedia.org/wiki/Revolver_Ocelot
 .
+
+
+Language, communication & interactions (data, transient):
+https://en.wikipedia.org/wiki/Happiness
+https://en.wikipedia.org/wiki/Sadness
+https://en.wikipedia.org/wiki/Logic
+https://en.wikipedia.org/wiki/Knowledge
+https://en.wikipedia.org/wiki/Abstract_and_concrete
+https://en.wikipedia.org/wiki/Corporeal
+https://en.wikipedia.org/wiki/Appearance
 
 Language, communication & interactions (universal):
 https://en.wikipedia.org/wiki/Intrapersonal_communication
@@ -173,13 +293,6 @@ https://en.wikipedia.org/wiki/Expression
 https://en.wikipedia.org/wiki/Communication
 https://en.wikipedia.org/wiki/Body_language
 https://en.wikipedia.org/wiki/Art
-
-Language, communication & interactions (data, transient):
-https://en.wikipedia.org/wiki/Logic
-https://en.wikipedia.org/wiki/Knowledge
-https://en.wikipedia.org/wiki/Abstract_and_concrete
-https://en.wikipedia.org/wiki/Corporeal
-https://en.wikipedia.org/wiki/Appearance
 
 Language, communication & interaction formats, by system (mediums):
 https://en.wikipedia.org/wiki/Format
@@ -419,10 +532,19 @@ https://en.wikipedia.org/wiki/Clockwork
 https://en.wikipedia.org/wiki/Gear_train
 
 
-Entertainment, games & interactive media productions:  aaa, saas, vr
+Entertainment, games & interactive media productions:  aaa,saas,vr,scam
 https://en.wikipedia.org/wiki/AAA_(video_game_industry)
 jap:
+https://en.wikipedia.org/wiki/Donkey_Kong_Country
 https://en.wikipedia.org/wiki/Star_Ocean:_The_Second_Story
+https://en.wikipedia.org/wiki/Final_Fantasy_IV
+https://en.wikipedia.org/wiki/Final_Fantasy_V
+https://en.wikipedia.org/wiki/Final_Fantasy_VI
+https://en.wikipedia.org/wiki/Chrono_Trigger
+https://en.wikipedia.org/wiki/Final_Fantasy_VII
+https://en.wikipedia.org/wiki/Final_Fantasy_VIII
+https://en.wikipedia.org/wiki/Final_Fantasy_IX
+https://en.wikipedia.org/wiki/Final_Fantasy_X
 ...
 https://en.wikipedia.org/wiki/Asset_flip
 
@@ -431,38 +553,50 @@ usa:
 https://en.wikipedia.org/wiki/Star_Wars
 https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)
 https://en.wikipedia.org/wiki/Independence_Day_(1996_film)
+https://en.wikipedia.org/wiki/The_Fifth_Element
 https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
 jap:
 https://en.wikipedia.org/wiki/Harakiri_(1962_film)
 
-Entertainment, multimedia & art house productions (mixed):
+Entertainment, multimedia & art house productions, by format, country (mixed):
 2d:
+https://en.wikipedia.org/wiki/Akira_(1988_film)
 https://en.wikipedia.org/wiki/Ninja_Scroll
+https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)
 https://en.wikipedia.org/wiki/Berserk_(1997_TV_series)
 https://en.wikipedia.org/wiki/Digimon
+https://en.wikipedia.org/wiki/The_Sword_in_the_Stone_(1963_film)
 ost:
 https://en.wikipedia.org/wiki/Pokémon_Theme
 https://en.wikipedia.org/wiki/Gotta_Catch_'Em_All
 net:
 https://en.wikipedia.org/wiki/Mega64
+usa:
+https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves
+fin:
+https://en.wikipedia.org/wiki/Kummeli
+https://en.wikipedia.org/wiki/Julmahuvi
 
 Entertainment, audio & music productions (pop culture):
 https://en.wikipedia.org/wiki/Fuck_tha_Police
 
 
 Tools, wares, compounds & usage, by type, sector (universal):
-vis:  -
+tool:
+https://en.wikipedia.org/wiki/Kitchen_knife
+vis:
 https://en.wikipedia.org/wiki/Binoculars
 https://en.wikipedia.org/wiki/Night_vision
 https://en.wikipedia.org/wiki/Night-vision_device
+drug:
+https://en.wikipedia.org/wiki/Cannabis_(drug)
 cig:
 https://en.wikipedia.org/wiki/Cigarette
 https://en.wikipedia.org/wiki/Cigar
 https://en.wikipedia.org/wiki/Cuban_cigar
 tox:
+https://en.wikipedia.org/wiki/Pollutant
 https://en.wikipedia.org/wiki/Tobacco_smoking
-drug:
-https://en.wikipedia.org/wiki/Cannabis_(drug)
 narc:
 https://en.wikipedia.org/wiki/Heroin
 https://en.wikipedia.org/wiki/Cocaine
@@ -503,6 +637,10 @@ https://en.wikipedia.org/wiki/North_African_elephant
 Nature, geography & plants, by family, species (life):
 https://en.wikipedia.org/wiki/Plant
 
+
+Geographical areas, countries & territories, by continent, zone:
+https://en.wikipedia.org/wiki/Africa
+https://en.wikipedia.org/wiki/Oceania
 
 Geographical areas, sites & monuments, by country (modern): -
 spa:
@@ -563,9 +701,10 @@ https://en.wikipedia.org/wiki/Bribery
 https://en.wikipedia.org/wiki/Embezzlement
 https://en.wikipedia.org/wiki/Intention_(criminal_law)
 
-Law, order, recordkeeping & rights:
+Law, order, recordkeeping, by rights & freedoms:
 https://en.wikipedia.org/wiki/Social_order
 https://en.wikipedia.org/wiki/History_of_the_legal_profession
+https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights
 
 
 Populations & historical eras, by country, faction (legacy):
@@ -594,13 +733,16 @@ https://en.wikipedia.org/wiki/Power_station
 rad:
 https://en.wikipedia.org/wiki/Nuclear_reactor
 
-Populations, cities & villages, by country, state:
+Populations, cities & villages, by country, state:  all,gov
 usa:
 https://en.wikipedia.org/wiki/Alaska
 https://en.wikipedia.org/wiki/Hawaii
 https://en.wikipedia.org/wiki/Phoenix,_Arizona
 fin:
 https://en.wikipedia.org/wiki/Helsinki
+jap:
+https://en.wikipedia.org/wiki/Hiroshima
+https://en.wikipedia.org/wiki/Nagasaki
 pol:
 https://en.wikipedia.org/wiki/Warsaw
 rus:
@@ -626,7 +768,7 @@ hood:
 https://en.wikipedia.org/wiki/Slum
 https://en.wikipedia.org/wiki/Ghetto
 
-To-do:  Populations, criminal & terrorist organizations: -
+To-do:  Populations, criminal & terrorist organizations: ...
 
 Populations, interactivity & relationships, by system, entity (cultural):
 fam:
@@ -643,12 +785,27 @@ https://en.wikipedia.org/wiki/Professionalism
 
 Populations, traditions & rituals, by experience, culture:
 fun:
+https://en.wikipedia.org/wiki/Fun
 https://en.wikipedia.org/wiki/Birthday
 https://en.wikipedia.org/wiki/Naming_ceremony
 sad:
 https://en.wikipedia.org/wiki/Cremation
 https://en.wikipedia.org/wiki/Funeral
 https://en.wikipedia.org/wiki/Burial_at_sea
+
+
+Populations, life, environment & experiences, by system, traits (universal):
+bio:
+https://en.wikipedia.org/wiki/Biography
+https://en.wikipedia.org/wiki/Child
+https://en.wikipedia.org/wiki/Girl
+https://en.wikipedia.org/wiki/Boy
+https://en.wikipedia.org/wiki/Woman
+https://en.wikipedia.org/wiki/Man
+https://en.wikipedia.org/wiki/Female
+https://en.wikipedia.org/wiki/Male
+https://en.wikipedia.org/wiki/Gender_modality
+https://en.wikipedia.org/wiki/Transgender
 
 
 Populations, life, environment & experiences, by system, traits (modern):
@@ -663,17 +820,6 @@ https://en.wikipedia.org/wiki/Institute_of_technology
 fin:
 https://en.wikipedia.org/wiki/Conscription
 https://en.wikipedia.org/wiki/Conscientious_objector
-bio:
-https://en.wikipedia.org/wiki/Biography
-https://en.wikipedia.org/wiki/Child
-https://en.wikipedia.org/wiki/Girl
-https://en.wikipedia.org/wiki/Boy
-https://en.wikipedia.org/wiki/Woman
-https://en.wikipedia.org/wiki/Man
-https://en.wikipedia.org/wiki/Female
-https://en.wikipedia.org/wiki/Male
-https://en.wikipedia.org/wiki/Gender_modality
-https://en.wikipedia.org/wiki/Transgender
 sex:
 https://en.wikipedia.org/wiki/Asexuality
 https://en.wikipedia.org/wiki/Heterosexuality
@@ -686,6 +832,7 @@ act:
 https://en.wikipedia.org/wiki/Autoeroticism
 https://en.wikipedia.org/wiki/Conventional_sex
 ...
+
 
 Populations, life, environment & experiences, by system, traits (solo, al):
 https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy)
@@ -761,8 +908,10 @@ https://en.wikipedia.org/wiki/Seppuku
 https://en.wikipedia.org/wiki/Cremation
 ...
 https://en.wikipedia.org/wiki/Bullying				" just school, by random people "
+  https://en.wikipedia.org/wiki/Hostility
 https://en.wikipedia.org/wiki/Social_death
 https://en.wikipedia.org/wiki/Starvation
+  https://en.wikipedia.org/wiki/Food
 https://en.wikipedia.org/wiki/Running
 https://en.wikipedia.org/wiki/Skateboarding
 
@@ -962,6 +1111,11 @@ https://en.wikipedia.org/wiki/Israel
 https://en.wikipedia.org/wiki/Basic_Laws_of_Israel
 shin:  https://en.wikipedia.org/wiki/Shin_Bet
 moss:  https://en.wikipedia.org/wiki/Mossad
+
+
+Statecraft (Japanese):  jap,gov
+https://en.wikipedia.org/wiki/Japan
+https://en.wikipedia.org/wiki/Special_Forces_Group_(Japan)
 
 
 Statecraft (Moldova):  mol,gov
@@ -1222,13 +1376,14 @@ https://en.wikipedia.org/wiki/Lexicon
 https://en.wikipedia.org/wiki/Lexeme
 https://en.wikipedia.org/wiki/Vocabulary
 https://en.wikipedia.org/wiki/Grammar
+jap:
+https://en.wikipedia.org/wiki/Japanese_honorifics
 
 Linquistics & language studies:  soft
 https://en.wikipedia.org/wiki/Linguistics
 
 Books, literature & fiction, figure(s), opus(es) (author):
 rpg:  
-https://en.wikipedia.org/wiki/TSR,_Inc.
 https://en.wikipedia.org/wiki/Gary_Gygax
 fan:  
 https://en.wikipedia.org/wiki/Terry_Pratchett
@@ -1279,10 +1434,16 @@ bet:   https://en.wikipedia.org/wiki/Gambling
 bet:   https://en.wikipedia.org/wiki/Online_gambling
 
 Games - immersive role-playing design & literature:  rpg
+tsr:
+https://en.wikipedia.org/wiki/TSR,_Inc.
 https://en.wikipedia.org/wiki/Dungeons_&_Dragons
-https://en.wikipedia.org/wiki/
-Editions_of_Dungeons_&_Dragons#Advanced_Dungeons_&_Dragons
+https://en.wikipedia.org/wiki/Editions_of_Dungeons_&_Dragons#Advanced_Dungeons_&_Dragons
+https://en.wikipedia.org/wiki/DragonQuest
+ice:
+https://en.wikipedia.org/wiki/Iron_Crown_Enterprises
 https://en.wikipedia.org/wiki/Rolemaster
+rtg:
+https://en.wikipedia.org/wiki/R._Talsorian_Games
 https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
 
 
@@ -1767,8 +1928,6 @@ https://en.wikipedia.org/wiki/List_of_domesticated_animals
 https://en.wikipedia.org/wiki/Animal
 https://en.wikipedia.org/wiki/Homosexual_behavior_in_animals
 https://en.wikipedia.org/wiki/Cowboy
-https://en.wikipedia.org/wiki/Africa
-https://en.wikipedia.org/wiki/Oceania
 https://en.wikipedia.org/wiki/Region
 https://en.wikipedia.org/wiki/Helsinki
 https://en.wikipedia.org/wiki/Car_bomb
@@ -1823,7 +1982,6 @@ https://en.wikipedia.org/wiki/Computer_graphics
 https://fi.wikipedia.org/wiki/Väestönvaihto
 https://en.wikipedia.org/wiki/Foreign_relations_of_Cuba
 https://en.wikipedia.org/wiki/Diplomacy
-https://en.wikipedia.org/wiki/Food
 https://en.wikipedia.org/wiki/Magic_(supernatural)
 https://en.wikipedia.org/wiki/LibreOffice
 https://en.wikipedia.org/wiki/Neurodevelopmental_disorder
@@ -2418,9 +2576,6 @@ https://en.wikipedia.org/wiki/List_of_Nokia_products
 https://en.wikipedia.org/wiki/ThinkPad
 https://en.wikipedia.org/wiki/Nvidia
 https://en.wikipedia.org/wiki/AMD
-https://en.wikipedia.org/wiki/Ken_Thompson
-https://en.wikipedia.org/wiki/Dennis_Ritchie
-https://en.wikipedia.org/wiki/Brian_Kernighan
 https://en.wikipedia.org/wiki/OpenBSD
 https://en.wikipedia.org/wiki/FreeBSD
 https://en.wikipedia.org/wiki/NetBSD
@@ -2734,10 +2889,6 @@ https://en.wikipedia.org/wiki/Zoo
 https://en.wikipedia.org/wiki/Safari
 https://en.wikipedia.org/wiki/The_Dark_Knight
 https://en.wikipedia.org/wiki/Batman_Begins
-https://en.wikipedia.org/wiki/Christian_Bale
-https://en.wikipedia.org/wiki/Gary_Oldman
-https://en.wikipedia.org/wiki/Leonard_Nimoy
-https://en.wikipedia.org/wiki/Angelina_Jolie
 https://en.wikipedia.org/wiki/Cloud
 https://en.wikipedia.org/wiki/Motocross
 https://en.wikipedia.org/wiki/Kabar
@@ -3084,8 +3235,6 @@ https://en.wikipedia.org/wiki/Underground_press
 https://en.wikipedia.org/wiki/Spike_(missile)
 https://en.wikipedia.org/wiki/Materiel
 
-https://en.wikipedia.org/wiki/Benjamin_Franklin
-
 https://en.wikipedia.org/wiki/Adoption
 https://en.wikipedia.org/wiki/Deep_Space_(collection)
 https://en.wikipedia.org/wiki/Deep_Space_2
@@ -3097,10 +3246,82 @@ https://en.wikipedia.org/wiki/Space_station
 https://en.wikipedia.org/wiki/Women's_rights
 https://en.wikipedia.org/wiki/European_Space_Agency
 https://en.wikipedia.org/wiki/White_ethnostate
-https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights
 https://en.wikipedia.org/wiki/Latin_script
+
+https://en.wikipedia.org/wiki/Elvis_Presley
+https://en.wikipedia.org/wiki/Glans_penis
+https://en.wikipedia.org/wiki/Poltergeist
+https://en.wikipedia.org/wiki/Tool
+https://en.wikipedia.org/wiki/England
+https://en.wikipedia.org/wiki/Multiple_sclerosis
+https://en.wikipedia.org/wiki/Natural_food
+https://en.wikipedia.org/wiki/Hippie
+https://en.wikipedia.org/wiki/Trial_of_Sheikh_Hasina
+https://en.wikipedia.org/wiki/Genome
+https://en.wikipedia.org/wiki/Orphan
+https://en.wikipedia.org/wiki/Orphanage
+https://en.wikipedia.org/wiki/Zip_the_Pinhead
+https://en.wikipedia.org/wiki/Warlord
+https://en.wikipedia.org/wiki/World_of_Warcraft
+https://en.wikipedia.org/wiki/Sexual_fluidity
+https://en.wikipedia.org/wiki/Diablo_II:_Lord_of_Destruction
+https://en.wikipedia.org/wiki/Lazy_Game_Reviews
+https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Shredder's_Revenge
+https://en.wikipedia.org/wiki/Street_Fighter_Alpha_3
+https://en.wikipedia.org/wiki/Cringe_culture
+https://en.wikipedia.org/wiki/Semantic_change
+https://en.wikipedia.org/wiki/Word_usage
+https://en.wikipedia.org/wiki/Definition
+https://en.wikipedia.org/wiki/Dolphin_drive_hunting
+https://en.wikipedia.org/wiki/Culture_of_the_Faroe_Islands
+https://en.wikipedia.org/wiki/Sámi_people#Culture
+https://en.wikipedia.org/wiki/Reindeer
+https://en.wikipedia.org/wiki/Canada
+https://en.wikipedia.org/wiki/Permafrost
+https://en.wikipedia.org/wiki/Sperm
+https://en.wikipedia.org/wiki/Sperm_whale
+https://en.wikipedia.org/wiki/Wiki_rabbit_hole
+https://en.wikipedia.org/wiki/Data_and_information_visualization
+https://en.wikipedia.org/wiki/Infographic
+https://en.wikipedia.org/wiki/Attention_span
+https://en.wikipedia.org/wiki/Bipolar_disorder
+https://en.wikipedia.org/wiki/Ukrainian_avant-garde
+https://en.wikipedia.org/wiki/Ukraine_national_football_team
+https://en.wikipedia.org/wiki/Ukrainian_refugee_crisis
+https://en.wikipedia.org/wiki/Ukrainian_Insurgent_Army
+https://en.wikipedia.org/wiki/Ukrainian_People's_Republic
+https://en.wikipedia.org/wiki/Ukrainian_resistance_in_Russian-occupied_Ukraine
+https://en.wikipedia.org/wiki/Ukrainian_Air_Force
+https://en.wikipedia.org/wiki/Count_Duckula
+https://en.wikipedia.org/wiki/M1_Garand#En_bloc_clip
+https://en.wikipedia.org/wiki/Semen
+https://en.wikipedia.org/wiki/Cluster_munition
+https://en.wikipedia.org/wiki/Dejima
+https://en.wikipedia.org/wiki/South_Korea
+https://en.wikipedia.org/wiki/Afghanistan
+https://en.wikipedia.org/wiki/Isis
+https://en.wikipedia.org/wiki/Sun
+https://en.wikipedia.org/wiki/Osiris
+https://en.wikipedia.org/wiki/Fertility
+https://en.wikipedia.org/wiki/Demigod
+https://en.wikipedia.org/wiki/Genghis_Khan
+https://en.wikipedia.org/wiki/Demogorgon
+https://en.wikipedia.org/wiki/Underworld
+https://en.wikipedia.org/wiki/Bracer
+https://en.wikipedia.org/wiki/Bracket
+https://en.wikipedia.org/wiki/Punctuation
+https://en.wikipedia.org/wiki/Capitalization
+https://en.wikipedia.org/wiki/Copium
+https://en.wikipedia.org/wiki/Subliminal_stimuli
+https://en.wikipedia.org/wiki/Subliminal_messages_in_popular_culture
+https://en.wikipedia.org/wiki/Liminality#In_places
+https://en.wikipedia.org/wiki/Social_stratification
+https://en.wikipedia.org/wiki/Tunnel_vision
+https://en.wikipedia.org/wiki/Pejorative
+https://en.wikipedia.org/wiki/Subtext
 .
 
+To-do: names
 
 corp:
 https://en.wikipedia.org/wiki/Unity_(game_engine)
