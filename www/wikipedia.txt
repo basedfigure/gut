@@ -115,15 +115,26 @@ aoe:		  area of effect, denial,
 hoof:		  hoof, hooflike, padded foot,
 scam:		  ~ targetting, shilling,
 tool:		  device, utility, utensil,
-art:		  text, 2d, 3d
+art:		  text, 2d, 3d,
+food:		  nutrition,
+mag:		  magazine, academic journal
+mob:		  criminal org, act,
+cell:		  terrorist org, act,
+dead:		  extinct or near
 .
 
 
 
-Humans, evolution & genetics, by origin, feature:
+-
+Humans, evolution & genetics, by origin, feature, survival (universal):
 bio:
 https://en.wikipedia.org/wiki/DNA
 https://en.wikipedia.org/wiki/Human_evolution
+https://en.wikipedia.org/wiki/Child
+https://en.wikipedia.org/wiki/Girl
+https://en.wikipedia.org/wiki/Boy
+https://en.wikipedia.org/wiki/Woman
+https://en.wikipedia.org/wiki/Man
 root:
 https://en.wikipedia.org/wiki/List_of_ethnic_groups_of_Africa
 https://en.wikipedia.org/wiki/African_Americans
@@ -141,6 +152,43 @@ https://en.wikipedia.org/wiki/Hispanic_and_Latino_Americans
 https://en.wikipedia.org/wiki/Latin_Americans
 https://en.wikipedia.org/wiki/Pacific_Islander
 https://en.wikipedia.org/wiki/Caribbean_people
+
+Humans, cognition, psyche & emotions, by structure, stimuli, sense (brain)
+https://en.wikipedia.org/wiki/Autobiographical_memory     " iirc,   trained chimpanzees may do memorization, sequencing better because their brains have less noise "
+https://en.wikipedia.org/wiki/Fear
+https://en.wikipedia.org/wiki/Happiness
+https://en.wikipedia.org/wiki/Sadness
+
+Humans, evolution & neurobiology, by study (brain):
+mag:
+https://en.wikipedia.org/wiki/Neurobiology_of_Learning_and_Memory
+.
+
+
+Language, communication, interactions (data, transient):
+https://en.wikipedia.org/wiki/Logic 		
+https://en.wikipedia.org/wiki/Knowledge
+https://en.wikipedia.org/wiki/Abstract_and_concrete
+https://en.wikipedia.org/wiki/Corporeal
+https://en.wikipedia.org/wiki/Appearance
+
+Language, communication & interactions (universal):
+https://en.wikipedia.org/wiki/Intrapersonal_communication
+https://en.wikipedia.org/wiki/Nonverbal_communication
+https://en.wikipedia.org/wiki/Word
+https://en.wikipedia.org/wiki/Expression
+https://en.wikipedia.org/wiki/Communication
+https://en.wikipedia.org/wiki/Body_language
+https://en.wikipedia.org/wiki/Art
+
+Language, communication & interaction formats, by system (mediums):
+https://en.wikipedia.org/wiki/Format
+https://en.wikipedia.org/wiki/Information
+https://en.wikipedia.org/wiki/Acronym
+https://en.wikipedia.org/wiki/Network
+
+Related shortcuts:  bark
+...
 
 
 -
@@ -276,34 +324,9 @@ art:
 .
 
 
-Language, communication & interactions (data, transient):
-https://en.wikipedia.org/wiki/Happiness
-https://en.wikipedia.org/wiki/Sadness
-https://en.wikipedia.org/wiki/Logic
-https://en.wikipedia.org/wiki/Knowledge
-https://en.wikipedia.org/wiki/Abstract_and_concrete
-https://en.wikipedia.org/wiki/Corporeal
-https://en.wikipedia.org/wiki/Appearance
+-
 
-Language, communication & interactions (universal):
-https://en.wikipedia.org/wiki/Intrapersonal_communication
-https://en.wikipedia.org/wiki/Nonverbal_communication
-https://en.wikipedia.org/wiki/Word
-https://en.wikipedia.org/wiki/Expression
-https://en.wikipedia.org/wiki/Communication
-https://en.wikipedia.org/wiki/Body_language
-https://en.wikipedia.org/wiki/Art
-
-Language, communication & interaction formats, by system (mediums):
-https://en.wikipedia.org/wiki/Format
-https://en.wikipedia.org/wiki/Information
-https://en.wikipedia.org/wiki/Acronym
-https://en.wikipedia.org/wiki/Network
-
-Related shortcuts:  bark
-...
-
-
+-
 Disciplines, professions & paths (universal):
 https://en.wikipedia.org/wiki/Butcher
 https://en.wikipedia.org/wiki/Hacker
@@ -313,6 +336,8 @@ https://en.wikipedia.org/wiki/Librarian
 https://en.wikipedia.org/wiki/Bureaucrat
 https://en.wikipedia.org/wiki/Quartermaster
 https://en.wikipedia.org/wiki/Waste_collector
+https://en.wikipedia.org/wiki/Professor
+https://en.wikipedia.org/wiki/Neuroscientist
 
 Disciplines & techniques (universal):
 https://en.wikipedia.org/wiki/Not_invented_here
@@ -330,8 +355,10 @@ https://en.wikipedia.org/wiki/Information_warfare
 Disciplines & professions (historic):
 https://en.wikipedia.org/wiki/Hunter-gatherer
 https://en.wikipedia.org/wiki/Peasant
+...
 
 
+-
 Electronics & hardware technologies (universal):  hw
 https://en.wikipedia.org/wiki/Low_technology
 https://en.wikipedia.org/wiki/High-_and_low-level
@@ -368,8 +395,10 @@ https://en.wikipedia.org/wiki/Punched_card_input/output
 
 Electronics & hardware disciplines:
 https://en.wikipedia.org/wiki/Hardware_architect
+...
 
 
+-
 Software, programming techniques & disciplines:
 https://simple.wikipedia.org/wiki/Software_developer
 https://en.wikipedia.org/wiki/Programmer
@@ -514,6 +543,8 @@ https://en.wikipedia.org/wiki/Neural_network_(machine_learning)
 https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence
 corp:
 https://en.wikipedia.org/wiki/ChatGPT
+.
+
 
 Robotics & automation technologies (universal):
 https://en.wikipedia.org/wiki/Robotics
@@ -707,6 +738,7 @@ https://en.wikipedia.org/wiki/History_of_the_legal_profession
 https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights
 
 
+-
 Populations & historical eras, by country, faction (legacy):
 old:
 https://en.wikipedia.org/wiki/Mesopotamia
@@ -725,7 +757,6 @@ https://en.wikipedia.org/wiki/Ninja
 https://en.wikipedia.org/wiki/Ninjutsu
 ukr:
 https://en.wikipedia.org/wiki/History_of_Ukraine
-
 
 Populations, facilities & infrastructural installations, by type, sector:
 pow:
@@ -768,7 +799,12 @@ hood:
 https://en.wikipedia.org/wiki/Slum
 https://en.wikipedia.org/wiki/Ghetto
 
-To-do:  Populations, criminal & terrorist organizations: ...
+Populations - criminal & terrorist organizations, by faction, sector, case:
+mob:
+bloods
+cell:
+https://en.wikipedia.org/wiki/November_2015_Paris_attacks#Bataclan_theatre_massacre
+https://en.wikipedia.org/wiki/Paris_attacks_trial
 
 Populations, interactivity & relationships, by system, entity (cultural):
 fam:
@@ -797,11 +833,6 @@ https://en.wikipedia.org/wiki/Burial_at_sea
 Populations, life, environment & experiences, by system, traits (universal):
 bio:
 https://en.wikipedia.org/wiki/Biography
-https://en.wikipedia.org/wiki/Child
-https://en.wikipedia.org/wiki/Girl
-https://en.wikipedia.org/wiki/Boy
-https://en.wikipedia.org/wiki/Woman
-https://en.wikipedia.org/wiki/Man
 https://en.wikipedia.org/wiki/Female
 https://en.wikipedia.org/wiki/Male
 https://en.wikipedia.org/wiki/Gender_modality
@@ -868,6 +899,7 @@ https://en.wikipedia.org/wiki/Walking
 https://en.wikipedia.org/wiki/Autoeroticism
 https://en.wikipedia.org/wiki/Push-up
 https://en.wikipedia.org/wiki/Atrophy
+food: ...
 path:
 https://en.wikipedia.org/wiki/House
 https://en.wikipedia.org/wiki/Hermit    			" since a 12 yo "
@@ -920,6 +952,7 @@ Populations, incidents, risks & predictions, by chronology, prominence:
 https://en.wikipedia.org/wiki/Epidemic
 rare:
 https://en.wikipedia.org/wiki/Global_catastrophic_risk
+.
 
 
 
@@ -1273,6 +1306,11 @@ https://en.wikipedia.org/wiki/Pauldron
 Biomedical science, research & practices (universal):  hard
 https://en.wikipedia.org/wiki/Childbirth
 
+Biomedical science, physical trauma & disability by part, organ, injury:  hard
+
+Biomedical science, conditions, symptoms & diseases, by system, scope:  hard, soft
+https://en.wikipedia.org/wiki/Stress_(biology)
+
 
 To-do: Deep sea ...
 
@@ -1570,12 +1608,9 @@ https://en.wikipedia.org/wiki/Metaphysics
 
 Draft editing:
 prehistory
-Evolution & neuroscience (universal): -
 Training & education techniques, by system, role (universal): -
 Training & education, by system, role: -
 Strategic studies & human coordination, by type, role: -
-Biomedical science, research & practice (modern): -
-Biomedical science, research & practice (historic): -
 
 
 
@@ -1634,7 +1669,6 @@ https://en.wikipedia.org/wiki/GNU_Project
 https://en.wikipedia.org/wiki/Delusions_of_grandeur
 https://en.wikipedia.org/wiki/Demonization
 https://en.wikipedia.org/wiki/Thomas_Barnardiston_(legal_writer)
-https://en.wikipedia.org/wiki/Editor_war
 https://en.wikipedia.org/wiki/Richard_Stallman
 https://en.wikipedia.org/wiki/Mugging
 https://en.wikipedia.org/wiki/Mug
@@ -1660,7 +1694,7 @@ https://en.wikipedia.org/wiki/GoldSrc
 https://en.wikipedia.org/wiki/Brush_(video_games)
 https://en.wikipedia.org/wiki/Chasm:_The_Rift
 https://en.wikipedia.org/wiki/Wolfenstein_3D
-https://en.wikipedia.org/wiki/Fast_inverse_square_root
+carm:  https://en.wikipedia.org/wiki/Fast_inverse_square_root
 https://en.wikipedia.org/wiki/Open-source_video_game
 https://en.wikipedia.org/wiki/List_of_video_games_derived_from_mods
 https://en.wikipedia.org/wiki/S3_ViRGE
@@ -1669,7 +1703,7 @@ https://en.wikipedia.org/wiki/List_of_freeware_first-person_shooters
 https://en.wikipedia.org/wiki/LightWave_3D
 https://en.wikipedia.org/wiki/Adobe_Photoshop
 https://en.wikipedia.org/wiki/Houdini_(software)
-https://en.wikipedia.org/wiki/Cloth_modeling
+To-do:  https://en.wikipedia.org/wiki/Cloth_modeling
 https://en.wikipedia.org/wiki/Soft-body_dynamics
 https://en.wikipedia.org/wiki/Classical_mechanics
 https://en.wikipedia.org/wiki/Physics_engine
@@ -3197,7 +3231,6 @@ https://en.wikipedia.org/wiki/Monotropism
 https://en.wikipedia.org/wiki/Executive_dysfunction
 https://en.wikipedia.org/wiki/Episodic_memory
 https://en.wikipedia.org/wiki/Long-term_memory
-https://en.wikipedia.org/wiki/Autobiographical_memory
 https://en.wikipedia.org/wiki/Autobiography
 https://en.wikipedia.org/wiki/Nuremberg_trials
 https://en.wikipedia.org/wiki/Troll
@@ -3319,9 +3352,38 @@ https://en.wikipedia.org/wiki/Social_stratification
 https://en.wikipedia.org/wiki/Tunnel_vision
 https://en.wikipedia.org/wiki/Pejorative
 https://en.wikipedia.org/wiki/Subtext
+
+https://en.wikipedia.org/wiki/Sin
+https://en.wikipedia.org/wiki/Immersive_sim
+https://en.wikipedia.org/wiki/Breast
+https://en.wikipedia.org/wiki/Nipple
+https://en.wikipedia.org/wiki/Specimens_of_Tyrannosaurus
+https://en.wikipedia.org/wiki/Theatre
+https://en.wikipedia.org/wiki/NoFap
+https://en.wikipedia.org/wiki/Military_camouflage
+https://en.wikipedia.org/wiki/List_of_Disney_comics_by_Carl_Barks
+https://en.wikipedia.org/wiki/List_of_Disney_comics_by_Don_Rosa
+https://en.wikipedia.org/wiki/Makeup_of_Donald_Trump
+https://en.wikipedia.org/wiki/Cosmetics
+https://en.wikipedia.org/wiki/Busy_beaver
+https://en.wikipedia.org/wiki/BusyBox
+https://en.wikipedia.org/wiki/Incoming_(1998_video_game)
+https://en.wikipedia.org/wiki/Outing
+https://en.wikipedia.org/wiki/Rectal_prolapse
+https://en.wikipedia.org/wiki/Form_follows_function
+https://en.wikipedia.org/wiki/Substance_over_form
+https://en.wikipedia.org/wiki/Academic_journal
+https://en.wikipedia.org/wiki/Neuroscience_of_free_will
+https://en.wikipedia.org/wiki/Prototype_theory
+https://en.wikipedia.org/wiki/Adam_and_Eve
+
+https://en.wikipedia.org/wiki/Misanthropy
 .
 
-To-do: names
+
+names:
+carm:		John Carmack
+
 
 corp:
 https://en.wikipedia.org/wiki/Unity_(game_engine)
