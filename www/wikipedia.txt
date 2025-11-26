@@ -97,7 +97,7 @@ beef:		  philosophy, tribalism, flesh & bones,
 curr:  		  currency,
 cult:		  cultist, occultist, philosophic/religious/spiritual,
 exo:		  culture (arts, history, legacy), training, exoticism,
-arm:		  weapon, shield,
+arm:		  weapon, shield etc,
 mass:		  majority group,
 gov:		  government,
 popo:		  police,
@@ -139,8 +139,10 @@ tool:		  device, utility, utensil,
 fx:		  sound, visual
 art:		  fx, text, 2d, 3d,
 food:		  nutrition,
-mag:		  magazine, academic journal
+slug:		  hydration, drink,
+mag:		  magazine, academic journal,
 mob:		  criminal org, act,
+crew:		  pirates, yarr!
 cell:		  terrorist org, act,
 dead:		  extinct or near,
 ban:		  banned, outlawed,
@@ -151,7 +153,10 @@ civ:		  foundation, civilization,
 sect:		  sector(s),
 root:		  ethnicities, natives,
 pre:		  prehistoric,
-face:		  head honcho, mastermind
+face:		  head honcho, mastermind,
+irl:		  in real life,
+9999:		  over 9000,
+want:		  gimme
 .
 
 
@@ -574,7 +579,7 @@ plug:
 https://en.wikipedia.org/wiki/SyFlex
 lib:
 https://en.wikipedia.org/wiki/Zlib
-lic:
+ip:
 https://en.wikipedia.org/wiki/Zlib_License
 plat:
 https://en.wikipedia.org/wiki/GitHub
@@ -699,6 +704,9 @@ https://en.wikipedia.org/wiki/Emo
 
 
 Tools, wares, compounds & usage, by type, sector (universal):
+ware:
+https://en.wikipedia.org/wiki/Vase
+https://en.wikipedia.org/wiki/Kitchenware
 tool:
 https://en.wikipedia.org/wiki/Kitchen_knife
 vis:
@@ -808,25 +816,31 @@ Economics, banking & trade (historic):
 curr:  https://en.wikipedia.org/wiki/Finnish_markka
 
 
+Law, order & recordkeeping, by rights & freedoms (legacy):
+https://en.wikipedia.org/wiki/Human_rights
+https://en.wikipedia.org/wiki/International_human_rights_law
+https://en.wikipedia.org/wiki/Social_order
+https://en.wikipedia.org/wiki/History_of_the_legal_profession
+https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights
+
 Law, order & legislation, by party, type (universal):
-https://en.wikipedia.org/wiki/Legal_person
 https://en.wikipedia.org/wiki/Law
+https://en.wikipedia.org/wiki/Court
+https://en.wikipedia.org/wiki/Judge
+https://en.wikipedia.org/wiki/Jury
 https://en.wikipedia.org/wiki/Lawyer
+https://en.wikipedia.org/wiki/Legal_person
 https://en.wikipedia.org/wiki/Attorney_at_law
-...
+arm:
+https://en.wikipedia.org/wiki/Firearms_license
 https://en.wikipedia.org/wiki/Overview_of_gun_laws_by_nation
 
-Law, order & criminal justice:
-https://en.wikipedia.org/wiki/Jury
+Law, order & criminal justice, by party, case:
 https://en.wikipedia.org/wiki/Corruption
 https://en.wikipedia.org/wiki/Bribery
 https://en.wikipedia.org/wiki/Embezzlement
 https://en.wikipedia.org/wiki/Intention_(criminal_law)
-
-Law, order, recordkeeping, by rights & freedoms:
-https://en.wikipedia.org/wiki/Social_order
-https://en.wikipedia.org/wiki/History_of_the_legal_profession
-https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights
+https://en.wikipedia.org/wiki/Dummy_corporation
 
 
 -
@@ -844,7 +858,8 @@ bur:
 https://en.wikipedia.org/wiki/Burmese_people
 jap:
 https://en.wikipedia.org/wiki/History_of_Japan
-https://en.wikipedia.org/wiki/Rōnin
+https://en.wikipedia.org/wiki/Edo_period
+https://en.wikipedia.org/wiki/Ronin
 https://en.wikipedia.org/wiki/Samurai
 https://en.wikipedia.org/wiki/Seppuku
 https://en.wikipedia.org/wiki/Ninja
@@ -854,6 +869,7 @@ https://en.wikipedia.org/wiki/Siege_of_Baghdad
 ukr:
 https://en.wikipedia.org/wiki/History_of_Ukraine
 
+
 Populations, plants & installations, by type, sector:   civ,gov
 pow:
 https://en.wikipedia.org/wiki/Power_station
@@ -861,6 +877,7 @@ rad:
 https://en.wikipedia.org/wiki/Nuclear_reactor
 camp:
 https://en.wikipedia.org/wiki/Refugee_camp
+
 
 Populations, settlements, by country, state ... (citizenship):  all,gov
 root:
@@ -884,11 +901,12 @@ rus:
 https://en.wikipedia.org/wiki/Moscow
 https://en.wikipedia.org/wiki/Saint_Petersburg
 
-Populations, interiors, housing & spaces, by type (public):
 
-Populations, interiors, housing & spaces, by type (private):
+Populations, structures, spaces & living quarters by type, object:
 room:
 https://en.wikipedia.org/wiki/Sauna
+hvac:
+https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning
 
 
 Populations, citizenry, cultures & trade, by sector, balance, design (modern):
@@ -909,6 +927,7 @@ nor:
 https://en.wikipedia.org/wiki/Norwegian_Social_Security_scandal
 ...
 
+
 Populations, civilian communities & organizations, by type, class:
 https://en.wikipedia.org/wiki/Kindergarten
 https://en.wikipedia.org/wiki/School
@@ -918,6 +937,7 @@ https://en.wikipedia.org/wiki/University
 hood:
 https://en.wikipedia.org/wiki/Slum
 https://en.wikipedia.org/wiki/Ghetto
+
 
 Populations - criminal & terrorist organizations, by faction, sector, case:
 face:
@@ -929,8 +949,10 @@ https://en.wikipedia.org/wiki/Gangster_Disciples
 crew:
 https://en.wikipedia.org/wiki/Piracy
 cell:
+https://en.wikipedia.org/wiki/Terrorism
 https://en.wikipedia.org/wiki/November_2015_Paris_attacks#Bataclan_theatre_massacre
 https://en.wikipedia.org/wiki/Paris_attacks_trial
+
 
 Populations, interactivity & relationships, by system, entity (cultural):
 fam:
@@ -944,6 +966,7 @@ https://en.wikipedia.org/wiki/Interpersonal_relationship
 https://en.wikipedia.org/wiki/Friendship
 pro:
 https://en.wikipedia.org/wiki/Professionalism
+
 
 Populations, traditions & rituals, by experience, culture:
 fun:
@@ -1001,11 +1024,10 @@ https://en.wikipedia.org/wiki/Laughter
 https://en.wikipedia.org/wiki/Evil_laughter
 https://en.wikipedia.org/wiki/Finland
 https://en.wikipedia.org/wiki/Finnish_language
-https://en.wikipedia.org/wiki/Porvoo
-https://en.wikipedia.org/wiki/Kymenlaakso
-https://en.wikipedia.org/wiki/Iitti
-https://en.wikipedia.org/wiki/Kausala
+9999:
+https://en.wikipedia.org/wiki/Sensei
 mind:
+https://en.wikipedia.org/wiki/He_(pronoun)
 https://en.wikipedia.org/wiki/Asociality
 https://en.wikipedia.org/wiki/Neurosis				" volume control "
 https://en.wikipedia.org/wiki/Mental_disorder    		" meds are not cutting it (refusal) "
@@ -1015,8 +1037,9 @@ https://en.wikipedia.org/wiki/Autism
   https://en.wikipedia.org/wiki/Labyrinth
 https://en.wikipedia.org/wiki/Dissociative_disorder
 https://en.wikipedia.org/wiki/Catatonia
-https://en.wikipedia.org/wiki/Migraine
+https://en.wikipedia.org/wiki/Migraine				 
 https://en.wikipedia.org/wiki/Cluster_headache
+  ^- " got a tightened nerve around my scapula that i have to loosen for hours on end to alleviate these "
 https://en.wikipedia.org/wiki/Asexuality
 https://en.wikipedia.org/wiki/Asexual_flag
 https://en.wikipedia.org/wiki/Suicidal_ideation
@@ -1024,11 +1047,32 @@ body:
 https://en.wikipedia.org/wiki/Prone_position
 https://en.wikipedia.org/wiki/Sitting
 https://en.wikipedia.org/wiki/Walking
+  https://en.wikipedia.org/wiki/Mode_of_transport
 https://en.wikipedia.org/wiki/Autoeroticism
+https://en.wikipedia.org/wiki/Sexual_intercourse		" count to 6 "
 https://en.wikipedia.org/wiki/Push-up
 https://en.wikipedia.org/wiki/Atrophy
-food: ...
+food:
+https://en.wikipedia.org/wiki/Lentil
+https://en.wikipedia.org/wiki/Rye_bread
+slug:
+https://en.wikipedia.org/wiki/Water
+https://en.wikipedia.org/wiki/Milk
+https://en.wikipedia.org/wiki/Juice
+https://en.wikipedia.org/wiki/Soft_drink
+wear:
+https://en.wikipedia.org/wiki/Headgear
+  https://en.wikipedia.org/wiki/Cap
+  https://en.wikipedia.org/wiki/Baseball_cap
+  https://en.wikipedia.org/wiki/Trucker_hat
+  https://en.wikipedia.org/wiki/Beanie_(seamed_cap)
+https://en.wikipedia.org/wiki/T-shirt
+https://en.wikipedia.org/wiki/Hoodie
 path:
+https://en.wikipedia.org/wiki/Porvoo
+https://en.wikipedia.org/wiki/Kymenlaakso
+https://en.wikipedia.org/wiki/Iitti
+https://en.wikipedia.org/wiki/Kausala
 https://en.wikipedia.org/wiki/House
 https://en.wikipedia.org/wiki/Hermit    			" since a 12 yo "
 https://en.wikipedia.org/wiki/Kindergarten
@@ -1045,6 +1089,8 @@ https://en.wikipedia.org/wiki/Poverty
 https://en.wikipedia.org/wiki/Homelessness
 https://en.wikipedia.org/wiki/Welfare_state
 https://en.wikipedia.org/wiki/Medical_billing			" köyhät,  kyykyssä "
+https://en.wikipedia.org/wiki/Traffic_collision			" car vs muh skin "
+Glossary_of_video_game_terms#Kill-death_ratio 			" irl = 0 (active, passive) "
 play:
 https://en.wikipedia.org/wiki/Hobby
 https://en.wikipedia.org/wiki/Reading
@@ -1057,6 +1103,23 @@ https://en.wikipedia.org/wiki/Computer-generated_imagery
 https://en.wikipedia.org/wiki/Free_Pascal
 https://en.wikipedia.org/wiki/User_interface
 https://en.wikipedia.org/wiki/User_interface_design
+want:
+https://en.wikipedia.org/wiki/Japanese_sword			" joka kodin sankari "
+https://en.wikipedia.org/wiki/Tanto
+https://en.wikipedia.org/wiki/Katana
+https://en.wikipedia.org/wiki/Wakizashi
+https://en.wikipedia.org/wiki/Nagamaki
+https://en.wikipedia.org/wiki/Odachi
+https://en.wikipedia.org/wiki/Throwing_knife
+https://en.wikipedia.org/wiki/Yumi
+https://en.wikipedia.org/wiki/Chain_mail
+https://en.wikipedia.org/wiki/Bokken
+https://en.wikipedia.org/wiki/Dojo
+uchikomi-dai
+tanrenbo
+https://en.wikipedia.org/wiki/Tameshigiri
+https://en.wikipedia.org/wiki/Makiwara
+https://en.wikipedia.org/wiki/Crash_test_dummy
 ,
 https://en.wikipedia.org/wiki/Last_words    			" no qualms - lie beyond your masters "
 take:
@@ -1069,6 +1132,9 @@ https://en.wikipedia.org/wiki/Cremation
 ...
 https://en.wikipedia.org/wiki/Bullying				" just school, by random people "
   https://en.wikipedia.org/wiki/Hostility
+https://en.wikipedia.org/wiki/Lie
+  https://en.wikipedia.org/wiki/Confidence
+  https://en.wikipedia.org/wiki/Pinocchio
 https://en.wikipedia.org/wiki/Social_death
 https://en.wikipedia.org/wiki/Starvation
   https://en.wikipedia.org/wiki/Food
@@ -1141,11 +1207,12 @@ Statecraft, security & intelligence services, by type, practice (universal):
 https://en.wikipedia.org/wiki/Tradecraft
 https://en.wikipedia.org/wiki/Counterintelligence
 
-Statecraft, government institutions & services, by type (common):  gov
+Statecraft, government institutions & services, by practice, type (common):  gov
 https://en.wikipedia.org/wiki/Institute
 https://en.wikipedia.org/wiki/Bureau
 
-Statecraft, government & military installations, by type, faction:
+Statecraft, government & military order, by practice, type, faction:
+move:  https://en.wikipedia.org/wiki/Counterterrorism
 https://en.wikipedia.org/wiki/Proving_ground
 https://en.wikipedia.org/wiki/Kill_house
 para:
@@ -1465,6 +1532,7 @@ https://en.wikipedia.org/wiki/Flash-bang
 https://en.wikipedia.org/wiki/Stun_grenade
 
 Arms & armory - martial arts & projectile weapons (training):  exo
+https://en.wikipedia.org/wiki/Suburi
 https://en.wikipedia.org/wiki/Hand-to-hand_combat
 https://en.wikipedia.org/wiki/List_of_martial_arts_weapons
 ind:
@@ -1732,6 +1800,7 @@ Religious schools & theology, by system, mythology (universal):
 https://en.wikipedia.org/wiki/Religion
 https://en.wikipedia.org/wiki/Faith
 https://en.wikipedia.org/wiki/Theology
+https://en.wikipedia.org/wiki/Sin
 https://en.wikipedia.org/wiki/Myth#Mythology
 https://en.wikipedia.org/wiki/Legend
 https://en.wikipedia.org/wiki/Meta-religion
@@ -2103,7 +2172,6 @@ https://en.wikipedia.org/wiki/Abrahamic_religions
 https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court
 https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act
 https://en.wikipedia.org/wiki/Presidency_of_Richard_Nixon
-https://en.wikipedia.org/wiki/Terrorism
 https://en.wikipedia.org/wiki/Journalism
 https://en.wikipedia.org/wiki/Journalism_ethics_and_standards
 https://en.wikipedia.org/wiki/Gonzo_journalism
@@ -2521,7 +2589,6 @@ https://en.wikipedia.org/wiki/Chant
 https://en.wikipedia.org/wiki/Mass
 https://en.wikipedia.org/wiki/Massage
 https://en.wikipedia.org/wiki/Sex
-https://en.wikipedia.org/wiki/Sexual_intercourse
 https://en.wikipedia.org/wiki/Sexually_transmitted_infection
 https://en.wikipedia.org/wiki/Sex_toy
 https://en.wikipedia.org/wiki/Sexual_dimorphism
@@ -2597,8 +2664,6 @@ https://en.wikipedia.org/wiki/Algebraic_interior
 https://en.wikipedia.org/wiki/Interior_(topology)
 https://en.wikipedia.org/wiki/Consistency
 https://en.wikipedia.org/wiki/Stream_of_consciousness
-https://en.wikipedia.org/wiki/International_human_rights_law
-https://en.wikipedia.org/wiki/Human_rights
 https://en.wikipedia.org/wiki/Civil_law_(legal_system)
 https://en.wikipedia.org/wiki/Common_law
 https://en.wikipedia.org/wiki/State_(polity)
@@ -3369,7 +3434,6 @@ https://en.wikipedia.org/wiki/Welfare_spending
 https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars
 https://en.wikipedia.org/wiki/Hobby
 https://en.wikipedia.org/wiki/Hobbyist_operating_system
-https://en.wikipedia.org/wiki/Human_rights
 https://en.wikipedia.org/wiki/Cultural_Marxism_conspiracy_theory
 https://en.wikipedia.org/wiki/Western_Marxism
 https://en.wikipedia.org/wiki/Marxist_philosophy
@@ -3544,7 +3608,6 @@ https://en.wikipedia.org/wiki/Tunnel_vision
 https://en.wikipedia.org/wiki/Pejorative
 https://en.wikipedia.org/wiki/Subtext
 
-https://en.wikipedia.org/wiki/Sin
 https://en.wikipedia.org/wiki/Immersive_sim
 https://en.wikipedia.org/wiki/Breast
 https://en.wikipedia.org/wiki/Nipple
@@ -3579,7 +3642,6 @@ https://en.wikipedia.org/wiki/Surfboard
 https://en.wikipedia.org/wiki/Craquelure
 https://en.wikipedia.org/wiki/Christopher_Reeve
 https://en.wikipedia.org/wiki/Death_Column
-https://en.wikipedia.org/wiki/Lie
 https://en.wikipedia.org/wiki/Lying_in_state
 https://en.wikipedia.org/wiki/Death_certificate
 https://en.wikipedia.org/wiki/Death_cult
@@ -3609,7 +3671,6 @@ https://en.wikipedia.org/wiki/Gaslighting
 https://en.wikipedia.org/wiki/Tattoo
 https://en.wikipedia.org/wiki/Pilgrimage
 https://en.wikipedia.org/wiki/Recurring_elements_in_the_Final_Fantasy_series
-https://en.wikipedia.org/wiki/Cap
 https://en.wikipedia.org/wiki/Psychosis
 https://en.wikipedia.org/wiki/Destiny
 https://en.wikipedia.org/wiki/Obsessive-compulsive_disorder
@@ -3631,6 +3692,30 @@ https://en.wikipedia.org/wiki/Tai_chi
 https://en.wikipedia.org/wiki/Imprisonment
 https://en.wikipedia.org/wiki/Domestic_violence
 https://en.wikipedia.org/wiki/Grim_Reaper
+
+https://en.wikipedia.org/wiki/Human_shield
+https://en.wikipedia.org/wiki/Power_move
+https://en.wikipedia.org/wiki/Ballistic_knife
+https://en.wikipedia.org/wiki/Knife_legislation
+https://en.wikipedia.org/wiki/Original_sin
+https://en.wikipedia.org/wiki/Outline_of_video_games
+https://en.wikipedia.org/wiki/Naturalistic_fallacy
+https://en.wikipedia.org/wiki/Hunter_Jaegers
+https://en.wikipedia.org/wiki/Fanaticism
+https://en.wikipedia.org/wiki/Religious_fanaticism
+https://en.wikipedia.org/wiki/Compensatory_afforestation
+https://en.wikipedia.org/wiki/Agnosticism
+https://en.wikipedia.org/wiki/Compensatory_education
+https://en.wikipedia.org/wiki/Compensatory_tracking_task
+https://en.wikipedia.org/wiki/Compensatory_growth_(organ)
+https://en.wikipedia.org/wiki/Fuzzy_logic#Compensatory_fuzzy_logic
+https://en.wikipedia.org/wiki/Damages#Compensatory_or_expectation_damages
+https://en.wikipedia.org/wiki/Naturalistic_disease_theories
+https://en.wikipedia.org/wiki/Body_count
+https://en.wikipedia.org/wiki/Peaked_cap
+https://en.wikipedia.org/wiki/Forage_cap
+https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software
+https://en.wikipedia.org/wiki/Dennis_the_Menace_and_Gnasher
 .
 
 
