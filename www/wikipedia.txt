@@ -23,7 +23,7 @@ Comment = " surrounded by whitespaces "
 -
 Categories:	  - Search by: ctrl-f,
 sys:		  System, cogs, prominence, path, all,
-data:		  id,
+data:		  type, id,
 list:		  name,
 holy:		  scriptura,
 code:             garb, moral
@@ -156,7 +156,10 @@ pre:		  prehistoric,
 face:		  head honcho, mastermind,
 irl:		  in real life,
 9999:		  over 9000,
-want:		  gimme
+want:		  gimme,
+area:		  territory,
+atmo:		  atmospheric conditions, seasons,
+cast:		  weather, nature, phenomena
 .
 
 
@@ -747,6 +750,10 @@ https://en.wikipedia.org/wiki/Religious_habit
 
 
 Nature, geography, materials & weather, by conditions (life):
+atmo:
+https://en.wikipedia.org/wiki/Summer
+https://en.wikipedia.org/wiki/Winter
+cast:
 https://en.wikipedia.org/wiki/Weather
 https://en.wikipedia.org/wiki/Rain
 https://en.wikipedia.org/wiki/Sunlight
@@ -759,6 +766,8 @@ https://en.wikipedia.org/wiki/Species
 https://en.wikipedia.org/wiki/Taxonomy
 https://en.wikipedia.org/wiki/Taxonomic_rank
 https://en.wikipedia.org/wiki/Herbivore
+bird:
+https://en.wikipedia.org/wiki/Owl
 hoof:
 https://en.wikipedia.org/wiki/North_African_elephant
 
@@ -1029,8 +1038,8 @@ https://en.wikipedia.org/wiki/Sensei
 mind:
 https://en.wikipedia.org/wiki/He_(pronoun)
 https://en.wikipedia.org/wiki/Asociality
-https://en.wikipedia.org/wiki/Neurosis				" volume control "
-https://en.wikipedia.org/wiki/Mental_disorder    		" meds are not cutting it (refusal) "
+https://en.wikipedia.org/wiki/Neurosis					" volume control "
+https://en.wikipedia.org/wiki/Mental_disorder    			" meds are not cutting it, refusal to pay or use "
 https://en.wikipedia.org/wiki/Depression_(mood)
 https://en.wikipedia.org/wiki/Autism
   https://en.wikipedia.org/wiki/Maze
@@ -1043,21 +1052,26 @@ https://en.wikipedia.org/wiki/Cluster_headache
 https://en.wikipedia.org/wiki/Asexuality
 https://en.wikipedia.org/wiki/Asexual_flag
 https://en.wikipedia.org/wiki/Suicidal_ideation
+https://en.wikipedia.org/wiki/Out-of-body_experience
 body:
 https://en.wikipedia.org/wiki/Prone_position
 https://en.wikipedia.org/wiki/Sitting
 https://en.wikipedia.org/wiki/Walking
   https://en.wikipedia.org/wiki/Mode_of_transport
+https://en.wikipedia.org/wiki/Penis
 https://en.wikipedia.org/wiki/Autoeroticism
-https://en.wikipedia.org/wiki/Sexual_intercourse		" count to 6 "
+https://en.wikipedia.org/wiki/Sexual_intercourse			" count to 6 "
 https://en.wikipedia.org/wiki/Push-up
 https://en.wikipedia.org/wiki/Atrophy
+https://en.wikipedia.org/wiki/Pattern_hair_loss
 food:
+https://en.wikipedia.org/wiki/Macaroni
 https://en.wikipedia.org/wiki/Lentil
 https://en.wikipedia.org/wiki/Rye_bread
 slug:
 https://en.wikipedia.org/wiki/Water
 https://en.wikipedia.org/wiki/Milk
+https://en.wikipedia.org/wiki/Coffee
 https://en.wikipedia.org/wiki/Juice
 https://en.wikipedia.org/wiki/Soft_drink
 wear:
@@ -1066,37 +1080,71 @@ https://en.wikipedia.org/wiki/Headgear
   https://en.wikipedia.org/wiki/Baseball_cap
   https://en.wikipedia.org/wiki/Trucker_hat
   https://en.wikipedia.org/wiki/Beanie_(seamed_cap)
-https://en.wikipedia.org/wiki/T-shirt
-https://en.wikipedia.org/wiki/Hoodie
+https://en.wikipedia.org/wiki/Top_(clothing)
+  https://en.wikipedia.org/wiki/T-shirt
+  https://en.wikipedia.org/wiki/Hoodie
+  https://en.wikipedia.org/wiki/Sweatshirt
+  https://en.wikipedia.org/wiki/Jacket
+https://en.wikipedia.org/wiki/Trousers
+  https://en.wikipedia.org/wiki/Boxer_shorts
+  https://en.wikipedia.org/wiki/Shorts
+  https://en.wikipedia.org/wiki/Cargo_pants
+  https://en.wikipedia.org/wiki/Tactical_pants
+  https://en.wikipedia.org/wiki/Jeans
+  https://en.wikipedia.org/wiki/Sweatpants
+https://en.wikipedia.org/wiki/Barefoot
+https://en.wikipedia.org/wiki/Footwear
+  https://en.wikipedia.org/wiki/Sock
+  https://en.wikipedia.org/wiki/Sneakers
+  https://en.wikipedia.org/wiki/Boot
 path:
-https://en.wikipedia.org/wiki/Porvoo
+https://en.wikipedia.org/wiki/Uusimaa
+https://en.wikipedia.org/wiki/Porvoo					" current "
 https://en.wikipedia.org/wiki/Kymenlaakso
 https://en.wikipedia.org/wiki/Iitti
 https://en.wikipedia.org/wiki/Kausala
 https://en.wikipedia.org/wiki/House
-https://en.wikipedia.org/wiki/Hermit    			" since a 12 yo "
+https://en.wikipedia.org/wiki/Hermit    				" since a 12 yo "
 https://en.wikipedia.org/wiki/Kindergarten
 https://en.wikipedia.org/wiki/Primary_school
 https://en.wikipedia.org/wiki/Secondary_school
 https://en.wikipedia.org/wiki/Conscription
 https://en.wikipedia.org/wiki/Apartment
-https://en.wikipedia.org/wiki/Anchorite				" hc, balancer"
-https://en.wikipedia.org/wiki/AAA_(video_game_industry)		" good xp, too serious "
+https://en.wikipedia.org/wiki/Anchorite					" hc, balancer"
+https://en.wikipedia.org/wiki/AAA_(video_game_industry)			" good xp, too serious "
   https://en.wikipedia.org/wiki/Remedy_Entertainment
 https://en.wikipedia.org/wiki/Unemployment
 stat:
 https://en.wikipedia.org/wiki/Poverty
 https://en.wikipedia.org/wiki/Homelessness
 https://en.wikipedia.org/wiki/Welfare_state
-https://en.wikipedia.org/wiki/Medical_billing			" köyhät,  kyykyssä "
-https://en.wikipedia.org/wiki/Traffic_collision			" car vs muh skin "
-Glossary_of_video_game_terms#Kill-death_ratio 			" irl = 0 (active, passive) "
+https://en.wikipedia.org/wiki/Unemployment_benefits
+https://en.wikipedia.org/wiki/Medical_billing				" köyhät,  kyykyssä "
+https://en.wikipedia.org/wiki/Driver's_license
+https://en.wikipedia.org/wiki/Traffic_collision				" car vs muh skin "
+Glossary_of_video_game_terms#Kill-death_ratio 				" irl = 0 (active, passive) "
 play:
 https://en.wikipedia.org/wiki/Hobby
+https://en.wikipedia.org/wiki/Film
 https://en.wikipedia.org/wiki/Reading
 https://en.wikipedia.org/wiki/Writing
-https://en.wikipedia.org/wiki/Gameplay				" c64, nes, psx .. :P "
+https://en.wikipedia.org/wiki/Gameplay					" c64, nes, psx .. :P "
+  https://en.wikipedia.org/wiki/Donkey_Kong_Country			"favs"
+  https://en.wikipedia.org/wiki/Final_Fantasy_Tactics
+  https://en.wikipedia.org/wiki/Final_Fantasy_VII
+  https://en.wikipedia.org/wiki/Fallout_2
+  https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)
+  https://en.wikipedia.org/wiki/Street_Fighter_Alpha_3
+  https://en.wikipedia.org/wiki/Star_Ocean:_The_Second_Story
+  https://en.wikipedia.org/wiki/Suikoden_II		
+  https://en.wikipedia.org/wiki/Deus_Ex_(video_game)
+  https://en.wikipedia.org/wiki/Baldur's_Gate_II:_Shadows_of_Amn
+  https://en.wikipedia.org/wiki/Vagrant_Story
+  https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind
+  https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell
+  https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)
 https://en.wikipedia.org/wiki/Role-playing_game
+  https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)   	"fav"
 https://en.wikipedia.org/wiki/Music
 https://en.wikipedia.org/wiki/Computer
 https://en.wikipedia.org/wiki/Computer-generated_imagery
@@ -1104,7 +1152,10 @@ https://en.wikipedia.org/wiki/Free_Pascal
 https://en.wikipedia.org/wiki/User_interface
 https://en.wikipedia.org/wiki/User_interface_design
 want:
-https://en.wikipedia.org/wiki/Japanese_sword			" joka kodin sankari "
+https://en.wikipedia.org/wiki/Kimono
+https://en.wikipedia.org/wiki/Bō
+https://en.wikipedia.org/wiki/Quarterstaff
+https://en.wikipedia.org/wiki/Japanese_sword				" joka kodin sankari "
 https://en.wikipedia.org/wiki/Tanto
 https://en.wikipedia.org/wiki/Katana
 https://en.wikipedia.org/wiki/Wakizashi
@@ -1112,25 +1163,26 @@ https://en.wikipedia.org/wiki/Nagamaki
 https://en.wikipedia.org/wiki/Odachi
 https://en.wikipedia.org/wiki/Throwing_knife
 https://en.wikipedia.org/wiki/Yumi
+https://en.wikipedia.org/wiki/Mail_coif
 https://en.wikipedia.org/wiki/Chain_mail
-https://en.wikipedia.org/wiki/Bokken
 https://en.wikipedia.org/wiki/Dojo
 uchikomi-dai
 tanrenbo
+https://en.wikipedia.org/wiki/Bokken
 https://en.wikipedia.org/wiki/Tameshigiri
 https://en.wikipedia.org/wiki/Makiwara
 https://en.wikipedia.org/wiki/Crash_test_dummy
 ,
-https://en.wikipedia.org/wiki/Last_words    			" no qualms - lie beyond your masters "
+https://en.wikipedia.org/wiki/Last_words    				" no qualms - lie beyond your masters "
 take:
 https://en.wikipedia.org/wiki/Advocacy_of_suicide
 https://en.wikipedia.org/wiki/Euthanasia
 rip:
-https://en.wikipedia.org/wiki/Suicide				" dunno,  an option "
+https://en.wikipedia.org/wiki/Suicide					" dunno,  an option "
 https://en.wikipedia.org/wiki/Seppuku
 https://en.wikipedia.org/wiki/Cremation
 ...
-https://en.wikipedia.org/wiki/Bullying				" just school, by random people "
+https://en.wikipedia.org/wiki/Bullying					" just school, by random people "
   https://en.wikipedia.org/wiki/Hostility
 https://en.wikipedia.org/wiki/Lie
   https://en.wikipedia.org/wiki/Confidence
@@ -1211,8 +1263,10 @@ Statecraft, government institutions & services, by practice, type (common):  gov
 https://en.wikipedia.org/wiki/Institute
 https://en.wikipedia.org/wiki/Bureau
 
-Statecraft, government & military order, by practice, type, faction:
-move:  https://en.wikipedia.org/wiki/Counterterrorism
+Statecraft, government, military orders & areas, by practice, faction:
+type:
+https://en.wikipedia.org/wiki/Counterterrorism
+area:
 https://en.wikipedia.org/wiki/Proving_ground
 https://en.wikipedia.org/wiki/Kill_house
 para:
@@ -1285,11 +1339,14 @@ https://en.wikipedia.org/wiki/Alexander_Stubb
 Statecraft & internal affairs, by issue, role: -
 Statecraft & foreign affairs, by issue, role: -
 
-Statecraft, armed conflicts & strategies, by campaign, scenario:
+Statecraft, armed conflicts & strategies, by campaign, scenario, territory:
 war:
 https://en.wikipedia.org/wiki/World_War_I
 https://en.wikipedia.org/wiki/World_War_II
 https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war
+https://en.wikipedia.org/wiki/Timeline_of_the_Gaza_war
+area:
+https://en.wikipedia.org/wiki/Gaza_Strip
 game:
 https://en.wikipedia.org/wiki/Hobbesian_trap
 rare:
@@ -1685,6 +1742,8 @@ https://en.wikipedia.org/wiki/Japanese_honorifics
 
 Linquistics & language studies:  soft
 https://en.wikipedia.org/wiki/Linguistics
+
+To-do:  poetry ...
 
 Books, literature & fiction, figure(s), opus(es) (author):
 epic:
@@ -2129,7 +2188,6 @@ https://en.wikipedia.org/wiki/Management
 https://en.wikipedia.org/wiki/Line_in_the_sand
 https://en.wikipedia.org/wiki/Line_in_the_Sand_Match
 https://en.wikipedia.org/wiki/Ice_hockey
-https://en.wikipedia.org/wiki/Winter
 https://en.wikipedia.org/wiki/Proto-Indo-European_language
 https://en.wikipedia.org/wiki/Creampie_(sexual_act)
 https://en.wikipedia.org/wiki/Facial_(sexual_act)
@@ -3716,6 +3774,57 @@ https://en.wikipedia.org/wiki/Peaked_cap
 https://en.wikipedia.org/wiki/Forage_cap
 https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software
 https://en.wikipedia.org/wiki/Dennis_the_Menace_and_Gnasher
+
+https://en.wikipedia.org/wiki/Amanuensis
+https://en.wikipedia.org/wiki/Chain_Home_Low
+https://en.wikipedia.org/wiki/Coif
+https://en.wikipedia.org/wiki/Bő_(genus)
+https://en.wikipedia.org/wiki/Story_within_a_story
+https://en.wikipedia.org/wiki/Poetry
+https://en.wikipedia.org/wiki/Eastern_Uusimaa
+https://en.wikipedia.org/wiki/Near-death_experience
+https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software
+https://en.wikipedia.org/wiki/Growing_pains
+https://en.wikipedia.org/wiki/Aleksi
+https://en.wikipedia.org/wiki/Dennis_the_Menace_and_Gnasher
+https://en.wikipedia.org/wiki/Institutionalization_(disambiguation)
+https://en.wikipedia.org/wiki/Institutionalized_discrimination_in_the_United_States
+https://en.wikipedia.org/wiki/Involuntary_commitment
+https://en.wikipedia.org/wiki/Institutional_syndrome
+https://en.wikipedia.org/wiki/Nipple_clamp
+https://en.wikipedia.org/wiki/BDSM
+https://en.wikipedia.org/wiki/Eroticism
+https://en.wikipedia.org/wiki/Claw
+https://en.wikipedia.org/wiki/Umaro_Sissoco_Embaló
+https://en.wikipedia.org/wiki/Timeline_of_the_Gaza_war
+https://en.wikipedia.org/wiki/Assisted_suicide
+https://en.wikipedia.org/wiki/Guru
+https://en.wikipedia.org/wiki/Sex_symbol
+https://en.wikipedia.org/wiki/Sex_Rules
+https://en.wikipedia.org/wiki/Scientology
+https://en.wikipedia.org/wiki/Reincarnation
+https://en.wikipedia.org/wiki/ARPANET
+https://en.wikipedia.org/wiki/Branch
+https://en.wikipedia.org/wiki/Botany
+https://en.wikipedia.org/wiki/Branches_of_science
+https://en.wikipedia.org/wiki/Water_jacket
+https://en.wikipedia.org/wiki/Coat
+https://en.wikipedia.org/wiki/Wear
+https://en.wikipedia.org/wiki/Wearable_technology
+https://en.wikipedia.org/wiki/Wearable_computer
+https://en.wikipedia.org/wiki/Wearable_art
+https://en.wikipedia.org/wiki/Ring_of_Fire
+https://en.wikipedia.org/wiki/Woodcock
+https://en.wikipedia.org/wiki/Favoritism
+https://en.wikipedia.org/wiki/Bias
+https://en.wikipedia.org/wiki/Stereotype
+https://en.wikipedia.org/wiki/Metastereotype
+https://en.wikipedia.org/wiki/The_Dark_Mod
+https://en.wikipedia.org/wiki/Jorma_Piisinen
+https://en.wikipedia.org/wiki/Vagrancy
+https://en.wikipedia.org/wiki/Ultima_I:_The_First_Age_of_Darkness
+https://en.wikipedia.org/wiki/Skeletal_muscle
+https://en.wikipedia.org/wiki/Jacket_matrix
 .
 
 
