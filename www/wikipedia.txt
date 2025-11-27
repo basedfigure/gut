@@ -1,6 +1,5 @@
-Git: https://github.com/basedfigure/gut
+{ Git: https://github.com/basedfigure/gut
 By: zlib (c) 2025 Aleksi 'bf' Koivisto
-
 
 Portal to:	  https://en.wikipedia.org/
 High five:	  https://en.wikipedia.org/wiki/Big_Boss_(Metal_Gear)
@@ -12,22 +11,37 @@ Say:		  "Naked thought", "Stay a while and read", "Word 4 hire", "Down
                   this beast!", "Split into pieces", "Scatter",
 Sayeth:		  " The brain dump ", " Lineage "
 
-Font used:	  Less Perfect DOS, monospace
+Font used:	  Less Perfect DOS, monospace,
 
-Denotation syntax:
-Jumpcut = "old",
-Comment = " surrounded by whitespaces "
-.
+Tools & usage (rough,wip):
+This handcranked database is tools agnostic,  but is designed for Sage and Punk!
+Sage gives you different text modes to view it in, and Punk gives 2D modes to v-
+iew it in. You can also plug both into any SAK file on the internet,  and expand
+the capabilities from simple lookups to more advanced behaviors.  I use it as an 
+immersive learning project to see my own weaknesses in how I  use any techniques
+available to me. 
+So, it's me creating my own self contained internet, over a LAN,  to unplug from 
+the freight train forever.
 
 
--
+Denotation syntax,  by symbol, whitespace:
+Jumpcut   = "old",
+Comment   = " surrounded by whitespaces "
+Arbitrary = ( mon,gol )
+...	  = to be continued, or not, split
+}
+
+
+{
 Categories:	  - Search by: ctrl-f,
 sys:		  System, cogs, prominence, path, all,
 data:		  type, id,
-list:		  name,
+list:		  name, version,
 holy:		  scriptura,
 code:             garb, moral
+}
 
+{
 Continents:
 afr:		  Africa,
 as:		  Asia,
@@ -36,7 +50,9 @@ na:		  North America,
 sa:		  South America,
 oce:		  Oceania,
 an:		  Antarctica
+}
 
+{
 Countries:	  gov,
 afg:		  Afghanistan,
 usa:		  United States of America,
@@ -61,11 +77,13 @@ swe:		  Sweden, Finnish Swedes,
 syr:		  Syria,
 tnz:		  Tanzania,
 ukr:		  Ukraine
+}
 
+{
 Classifications:  - Search by: ctrl-f,
 lang:		  language (natural, code, slang, encoded, script),
 bark:		  bark, hark,
-proj:		  project,
+prj:		  project,
 hw:		  hardware, electronics,
 cpu:		  central processing unit,
 ram:		  random-access memory,
@@ -163,13 +181,19 @@ atmo:		  atmospheric conditions, seasons,
 cast:		  weather, nature, phenomena,
 rad:		  radiating, radiation, waste,
 mech:		  mechanic, mechanism, design, machination,
-plot:		  plot device, story, narrative
-.
+plot:		  design, story, narrative,
+fav:		  "favs",
+tech:		  technique, technology,
+sex:		  magic
+}
+
+{
+Jumpcuts:	  "old,new",
+}
 
 
 
--
-Humans, evolution & genetics, by origin, feature, survival (universal):
+{ Humans, evolution & genetics, by origin, feature, survival (universal):
 bio:
 https://en.wikipedia.org/wiki/DNA
 https://en.wikipedia.org/wiki/Human_evolution
@@ -199,36 +223,40 @@ https://en.wikipedia.org/wiki/Caribbean_people
 pre, dead:  
 https://en.wikipedia.org/wiki/Neanderthal
 
-Humans, cognition, psyche & emotions, by structure, stimuli, sense (brain)
+{ Humans, cognition, psyche & emotions, by structure, stimuli, sense (brain)
 https://en.wikipedia.org/wiki/Autobiographical_memory     " iirc,   trained chimpanzees may do memorization, sequencing better because their brains have less noise due to this type of memory lacking "
 https://en.wikipedia.org/wiki/Emotion
 https://en.wikipedia.org/wiki/Fear
 https://en.wikipedia.org/wiki/Happiness
 https://en.wikipedia.org/wiki/Sadness
+}
 
-Humans, evolution & neurobiology, by study (brain):
+{ Humans, evolution & neurobiology, by study (brain):
 mag:
 https://en.wikipedia.org/wiki/Neurobiology_of_Learning_and_Memory
-.
+}
 
 
-Language, communication, interactions (data, transient):
+{ Language, communication, interactions (data, transient):
 https://en.wikipedia.org/wiki/Logic 		
 https://en.wikipedia.org/wiki/Knowledge
 https://en.wikipedia.org/wiki/Abstract_and_concrete
 https://en.wikipedia.org/wiki/Corporeal
 https://en.wikipedia.org/wiki/Appearance
+}
 
-Language, communication & interactions (universal):
+{ Language, communication & interactions, by party, form (universal):
 https://en.wikipedia.org/wiki/Intrapersonal_communication
-https://en.wikipedia.org/wiki/Nonverbal_communication
+https://en.wikipedia.org/wiki/Communication
+https://en.wikipedia.org/wiki/Handshake
 https://en.wikipedia.org/wiki/Word
 https://en.wikipedia.org/wiki/Expression
-https://en.wikipedia.org/wiki/Communication
+https://en.wikipedia.org/wiki/Greeting
+https://en.wikipedia.org/wiki/Nonverbal_communication
 https://en.wikipedia.org/wiki/Body_language
 https://en.wikipedia.org/wiki/Art
 
-Language, communication & interaction formats, by system (mediums):
+{ Language, communication & interaction formats, by system (mediums):
 https://en.wikipedia.org/wiki/Format
 https://en.wikipedia.org/wiki/Information
 https://en.wikipedia.org/wiki/Acronym
@@ -236,10 +264,10 @@ https://en.wikipedia.org/wiki/Network
 
 Related shortcuts:  bark
 ...
+}
 
 
--
-Hall of Fame for the greatest legacies & prolificity (figures):
+{ Hall of Fame for the greatest legacies & prolificity (figures):
 born:
        https://en.wikipedia.org/wiki/Jesus
        https://en.wikipedia.org/wiki/Robin_Hood
@@ -381,8 +409,9 @@ born:
 1999:  https://en.wikipedia.org/wiki/Harambe
     ^- " one life began, mine ended "
 ...
+}
 
-Hall of Fame for masterpieces of artistic greatness & recognition:
+{ Hall of Fame for masterpieces of artistic greatness & recognition:
 https://en.wikipedia.org/wiki/Masterpiece
 film:
 1977:  https://en.wikipedia.org/wiki/Darth_Vader
@@ -409,12 +438,10 @@ art:
        https://en.wikipedia.org/wiki/Revolver_Ocelot
        https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Otacon
        https://en.wikipedia.org/wiki/The_Boss_(Metal_Gear)
-       
-.
+...
+}
 
-
--
-Disciplines, professions & paths (universal):
+{ Disciplines, professions & paths (universal):
 https://en.wikipedia.org/wiki/Butcher
 https://en.wikipedia.org/wiki/Hacker
 https://en.wikipedia.org/wiki/Woodcutter
@@ -428,8 +455,9 @@ https://en.wikipedia.org/wiki/Professor
 https://en.wikipedia.org/wiki/Neuroscientist
 https://en.wikipedia.org/wiki/Handyman
 https://en.wikipedia.org/wiki/Plumber
+}
 
-Disciplines, techniques & proficiencies (universal):
+{ Disciplines, techniques & proficiencies (universal):
 https://en.wikipedia.org/wiki/Not_invented_here
 https://en.wikipedia.org/wiki/Hacking
 https://en.wikipedia.org/wiki/Heuristic
@@ -442,15 +470,15 @@ https://en.wikipedia.org/wiki/Disinformation
 https://en.wikipedia.org/wiki/Information_warfare
 ...
 https://en.wikipedia.org/wiki/Creative_problem-solving
+}
 
-Disciplines & professions (historic):
+{ Disciplines & professions (historic):
 https://en.wikipedia.org/wiki/Hunter-gatherer
 https://en.wikipedia.org/wiki/Peasant
 ...
+}
 
-
--
-Electronics & hardware technologies (universal):  hw
+{ Electronics & hardware technologies (universal):  hw
 https://en.wikipedia.org/wiki/Low_technology
 https://en.wikipedia.org/wiki/High-_and_low-level
 https://en.wikipedia.org/wiki/Electronic_circuit
@@ -487,17 +515,18 @@ https://en.wikipedia.org/wiki/Punched_card_input/output
 Electronics & hardware disciplines:
 https://en.wikipedia.org/wiki/Hardware_architect
 ...
+}
 
 
--
-Software, programming techniques & disciplines:
+{ Software, programming techniques & disciplines:
 https://simple.wikipedia.org/wiki/Software_developer
 https://en.wikipedia.org/wiki/Programmer
 https://en.wikipedia.org/wiki/Computer_engineering
 https://en.wikipedia.org/wiki/System_administrator
 https://en.wikipedia.org/wiki/Software_architect
+}
 
-Software, programming techniques & technologies (universal):
+{ Software, programming techniques & technologies (universal):
 Related shortcuts:  cpu, ram, gpu
 ,
 foss:
@@ -555,9 +584,9 @@ https://en.wikipedia.org/wiki/Software_industry
 https://en.wikipedia.org/wiki/Software_architecture
 ip:   https://en.wikipedia.org/wiki/Proprietary_software
 beef: https://en.wikipedia.org/wiki/Editor_war
+}
 
-
-Software, applications & technologies, by purpose (legacy, modern):
+{ Software, applications & technologies, by purpose (legacy, modern):
 os:
 https://en.wikipedia.org/wiki/Unix
 https://en.wikipedia.org/wiki/Workbench_(AmigaOS)
@@ -578,7 +607,7 @@ https://en.wikipedia.org/wiki/Blender_(software)
 https://en.wikipedia.org/wiki/Autodesk_Maya
 https://en.wikipedia.org/wiki/ZBrush
 https://en.wikipedia.org/wiki/Modo_(software)
-proj:
+prj:
 https://en.wikipedia.org/wiki/FFmpeg
 https://en.wikipedia.org/wiki/Git
 https://en.wikipedia.org/wiki/Fossil_(software)
@@ -594,11 +623,13 @@ corp:
 https://en.wikipedia.org/wiki/Microsoft_Windows
 https://en.wikipedia.org/wiki/Apple_Inc.
 https://en.wikipedia.org/wiki/Software_as_a_service
+}
 
-Software technologies (legacy): -
+{ Software technologies (legacy): -
 https://en.wikipedia.org/wiki/Gopher_(protocol)
+}
 
-Software technologies & tools (modern):
+{ Software technologies & tools (modern):
 https://en.wikipedia.org/wiki/Machine_code
 https://en.wikipedia.org/wiki/Assembly_language
 https://en.wikipedia.org/wiki/Pascal_(programming_language)
@@ -607,16 +638,18 @@ https://en.wikipedia.org/wiki/Free_Pascal
 https://en.wikipedia.org/wiki/C_(programming_language)
 https://en.wikipedia.org/wiki/HTTP
 https://en.wikipedia.org/wiki/RSS
+}
 
-Software systems, networks & web development (internet):
+{ Software systems, networks & web development (internet):
 tech:
 https://en.wikipedia.org/wiki/Web_server
 meta:
 https://en.wikipedia.org/wiki/Data_mining
 lang:
 https://en.wikipedia.org/wiki/PHP
+}
 
-Software, computer graphics, demos & game development (hacks):
+{ Software, computer graphics, demos & game development (hacks):
 https://en.wikipedia.org/wiki/Demoscene
 https://en.wikipedia.org/wiki/Demogroup
 https://en.wikipedia.org/wiki/Indie_game
@@ -625,36 +658,41 @@ https://en.wikipedia.org/wiki/Godot_(game_engine)
 film:
 https://en.wikipedia.org/wiki/Indie_Game:_The_Movie
 corp:  -v
+}
 
-Software, reverse engineering & modding (hacks): -
+{ Software, reverse engineering & modding (hacks): -
+}
 
-Sofware, machine learning & artificial intelligence (simulation):  ai, sim
+{ Sofware, machine learning & artificial intelligence (simulation):  ai, sim
 https://en.wikipedia.org/wiki/Artificial_intelligence
 https://en.wikipedia.org/wiki/Neural_network_(machine_learning)
 https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence
 corp:
 https://en.wikipedia.org/wiki/ChatGPT
-.
+}
 
 
-Robotics & automation technologies (universal):
+{ Robotics & automation technologies (universal):
 https://en.wikipedia.org/wiki/Robotics
 https://en.wikipedia.org/wiki/Robotics_middleware
 https://en.wikipedia.org/wiki/Boston_Dynamics
+}
 
-Vehicles, transportation & logistics (universal):
+{ Vehicles, transportation & logistics (universal):
 https://en.wikipedia.org/wiki/Logistics
+}
 
-To-do: automotive...
+{ To-do: automotive...
+}
 
-Machines, mechanical devices & systems (universal):
+{ Machines, mechanical devices & systems (universal):
 https://en.wikipedia.org/wiki/Machine
 https://en.wikipedia.org/wiki/Mechanical_engineering
 https://en.wikipedia.org/wiki/Clockwork
 https://en.wikipedia.org/wiki/Gear_train
+}
 
-
-Entertainment, games & interactive media productions:  aaa,saas,vr,scam
+{ Entertainment, games & interactive media productions:  aaa,saas,vr,scam
 https://en.wikipedia.org/wiki/AAA_(video_game_industry)
 jap:
 https://en.wikipedia.org/wiki/Donkey_Kong_Country
@@ -669,8 +707,9 @@ https://en.wikipedia.org/wiki/Final_Fantasy_IX
 https://en.wikipedia.org/wiki/Final_Fantasy_X
 ...
 https://en.wikipedia.org/wiki/Asset_flip
+}
 
-Entertainment, multimedia & film productions (pop culture):
+{ Entertainment, multimedia & film productions (pop culture):
 usa:
 https://en.wikipedia.org/wiki/Citizen_Kane
 https://en.wikipedia.org/wiki/Star_Wars
@@ -680,8 +719,9 @@ https://en.wikipedia.org/wiki/The_Fifth_Element
 https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
 jap:
 https://en.wikipedia.org/wiki/Harakiri_(1962_film)
+}
 
-Entertainment, multimedia & art house productions, by format, country (mixed):
+{ Entertainment, multimedia & art house productions, by format, country (mixed):
 2d:
 https://en.wikipedia.org/wiki/Akira_(1988_film)
 https://en.wikipedia.org/wiki/Ninja_Scroll
@@ -700,17 +740,18 @@ fin:
 https://en.wikipedia.org/wiki/Kummeli
 https://en.wikipedia.org/wiki/Julmahuvi
 ad:  https://en.wikipedia.org/wiki/Kari_Grandi
+}
 
-Entertainment, audio & music productions, by genre, artist, song (pop culture):
+{ Entertainment, audio & music productions, by genre, artist, song (pop culture):
 rap:
 https://en.wikipedia.org/wiki/Gangsta_rap
 https://en.wikipedia.org/wiki/N.W.A
 https://en.wikipedia.org/wiki/Fuck_tha_Police
 emo:
 https://en.wikipedia.org/wiki/Emo
+}
 
-
-Tools, wares, compounds & usage, by type, sector (universal):
+{ Tools, wares, compounds & usage, by type, sector (universal):
 ware:
 https://en.wikipedia.org/wiki/Vase
 https://en.wikipedia.org/wiki/Kitchenware
@@ -723,6 +764,7 @@ https://en.wikipedia.org/wiki/Night-vision_device
 sex:
 https://en.wikipedia.org/wiki/Dildo
 https://en.wikipedia.org/wiki/Vibrator_(sex_toy)
+https://en.wikipedia.org/wiki/Nipple_clamp
 drug:
 https://en.wikipedia.org/wiki/Cannabis_(drug)
 cig:
@@ -735,9 +777,9 @@ https://en.wikipedia.org/wiki/Tobacco_smoking
 narc:
 https://en.wikipedia.org/wiki/Heroin
 https://en.wikipedia.org/wiki/Cocaine
+}
 
-
-Clothes, wears & fashion, by piece, fit, style (design, era):
+{ Clothes, wears & fashion, by piece, fit, style (design, era):
 head:
 https://en.wikipedia.org/wiki/Balaclava_(clothing)
 hand:
@@ -751,9 +793,9 @@ https://en.wikipedia.org/wiki/Footwear
 https://en.wikipedia.org/wiki/Shoemaking
 code:
 https://en.wikipedia.org/wiki/Religious_habit
+}
 
-
-Nature, geography, materials & weather, by conditions (life):
+{ Nature, geography, materials & weather, by conditions (life):
 atmo:
 https://en.wikipedia.org/wiki/Summer
 https://en.wikipedia.org/wiki/Winter
@@ -764,8 +806,9 @@ https://en.wikipedia.org/wiki/Sunlight
 https://en.wikipedia.org/wiki/Snowflake
 https://en.wikipedia.org/wiki/Slush
 https://en.wikipedia.org/wiki/Fossil_fuel
+}
 
-Nature, geography & animals, by family, species (life):
+{ Nature, geography & animals, by family, species (life):
 https://en.wikipedia.org/wiki/Species
 https://en.wikipedia.org/wiki/Taxonomy
 https://en.wikipedia.org/wiki/Taxonomic_rank
@@ -774,37 +817,40 @@ bird:
 https://en.wikipedia.org/wiki/Owl
 hoof:
 https://en.wikipedia.org/wiki/North_African_elephant
+}
 
-Nature, geography & plants, by family, species (life):
+{ Nature, geography & plants, by family, species (life):
 https://en.wikipedia.org/wiki/Plant
+}
 
-
-Geographical areas, countries & territories, by continent, zone:
+{ Geographical areas, countries & territories, by continent, zone:
 https://en.wikipedia.org/wiki/Africa
 https://en.wikipedia.org/wiki/Oceania
+}
 
-Geographical areas, sites & monuments, by country (modern): -
+{ Geographical areas, sites & monuments, by country (modern): -
 spa:
 https://en.wikipedia.org/wiki/Spain
 cub:
 https://en.wikipedia.org/wiki/Cuba
 https://en.wikipedia.org/wiki/Havana
+}
 
-Geographical areas, sites & monuments, by country (historic):
+{ Geographical areas, sites & monuments, by country (historic):
 https://en.wikipedia.org/wiki/Spanish_Empire
 https://en.wikipedia.org/wiki/Library_of_Alexandria
+}
 
-
-Building, urban planning & architecture, by country, era: -
+{ Building, urban planning & architecture, by country, era: -
 https://en.wikipedia.org/wiki/Moroccan_architecture
+}
 
-
-Building, construction industry & zoning (universal):
+{ Building, construction industry & zoning (universal):
 https://en.wikipedia.org/wiki/Construction
 https://en.wikipedia.org/wiki/Zoning
+}
 
-
-Economics, banking & trade (universal):
+{ Economics, banking & trade (universal):
 https://en.wikipedia.org/wiki/Currency
 https://en.wikipedia.org/wiki/Bank
 https://en.wikipedia.org/wiki/Economy
@@ -824,19 +870,22 @@ https://en.wikipedia.org/wiki/Payment_card
 https://en.wikipedia.org/wiki/Cryptocurrency
 usa:
 https://en.wikipedia.org/wiki/Banking_in_the_United_States
+}
 
-Economics, banking & trade (historic):
+{ Economics, banking & trade (historic):
 curr:  https://en.wikipedia.org/wiki/Finnish_markka
+}
 
 
-Law, order & recordkeeping, by rights & freedoms (legacy):
+{ Law, order & recordkeeping, by rights & freedoms (legacy):
 https://en.wikipedia.org/wiki/Human_rights
 https://en.wikipedia.org/wiki/International_human_rights_law
 https://en.wikipedia.org/wiki/Social_order
 https://en.wikipedia.org/wiki/History_of_the_legal_profession
 https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights
+}
 
-Law, order & legislation, by party, type, rule (universal):
+{ Law, order & legislation, by party, type, rule (universal):
 https://en.wikipedia.org/wiki/Law
 https://en.wikipedia.org/wiki/Court
 https://en.wikipedia.org/wiki/Judge
@@ -849,21 +898,21 @@ https://en.wikipedia.org/wiki/De_jure
 arm:
 https://en.wikipedia.org/wiki/Firearms_license
 https://en.wikipedia.org/wiki/Overview_of_gun_laws_by_nation
+}
 
-Law, order & criminal justice, by party, case:
+{ Law, order & criminal justice, by type, party, case:
 https://en.wikipedia.org/wiki/Corruption
 https://en.wikipedia.org/wiki/Bribery
 https://en.wikipedia.org/wiki/Embezzlement
 https://en.wikipedia.org/wiki/Intention_(criminal_law)
 https://en.wikipedia.org/wiki/Dummy_corporation
+}
 
-
--
-Populations, historical eras & ages, by country, place, faction (legacy):
+{ Populations, historical eras & ages, by country, place, faction (legacy):
 "old":
 https://en.wikipedia.org/wiki/Mesopotamia
 https://en.wikipedia.org/wiki/Babylonia
-https://en.wikipedia.org/wiki/House_of_Wisdom  "mon"
+https://en.wikipedia.org/wiki/House_of_Wisdom   ( mon )
 "new":
 https://en.wikipedia.org/wiki/Pre-industrial_society
 usa:
@@ -883,18 +932,18 @@ mon:
 https://en.wikipedia.org/wiki/Siege_of_Baghdad
 ukr:
 https://en.wikipedia.org/wiki/History_of_Ukraine
+}
 
-
-Populations, plants & installations, by type, sector:   civ,gov
+{ Populations, plants & installations, by type, sector:   civ,gov
 pow:
 https://en.wikipedia.org/wiki/Power_station
 rad:
 https://en.wikipedia.org/wiki/Nuclear_reactor
 camp:
 https://en.wikipedia.org/wiki/Refugee_camp
+}
 
-
-Populations, settlements, by country, state ... (citizenship):  all,gov
+{ Populations, settlements, by country, state ... (citizenship):  all,gov
 root:
 https://en.wikipedia.org/wiki/Stateless_nation
 usa:
@@ -915,16 +964,16 @@ https://en.wikipedia.org/wiki/Warsaw
 rus:
 https://en.wikipedia.org/wiki/Moscow
 https://en.wikipedia.org/wiki/Saint_Petersburg
+}
 
-
-Populations, structures, spaces & living quarters by type, object:
+{ Populations, structures, spaces & living quarters by type, object:
 room:
 https://en.wikipedia.org/wiki/Sauna
 hvac:
 https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning
+}
 
-
-Populations, citizenry, cultures & trade, by sector, balance, design (modern):
+{ Populations, citizenry, cultures & trade, by sector, balance, design (modern):
 civ:
 https://en.wikipedia.org/wiki/Citizenship
 sect:
@@ -941,9 +990,9 @@ https://en.wikipedia.org/wiki/Satanic_panic
 nor:
 https://en.wikipedia.org/wiki/Norwegian_Social_Security_scandal
 ...
+}
 
-
-Populations, civilian communities & organizations, by type, class:
+{ Populations, civilian communities & organizations, by type, class:
 https://en.wikipedia.org/wiki/Kindergarten
 https://en.wikipedia.org/wiki/School
 https://en.wikipedia.org/wiki/Secondary_school
@@ -952,9 +1001,9 @@ https://en.wikipedia.org/wiki/University
 hood:
 https://en.wikipedia.org/wiki/Slum
 https://en.wikipedia.org/wiki/Ghetto
+}
 
-
-Populations - criminal & terrorist organizations, by faction, sector, case:
+{ Populations - criminal & terrorist organizations, by faction, sector, case:
 face:
 https://en.wikipedia.org/wiki/Larry_Hoover
 mob:
@@ -967,9 +1016,9 @@ cell:
 https://en.wikipedia.org/wiki/Terrorism
 https://en.wikipedia.org/wiki/November_2015_Paris_attacks#Bataclan_theatre_massacre
 https://en.wikipedia.org/wiki/Paris_attacks_trial
+}
 
-
-Populations, interactivity & relationships, by system, entity (cultural):
+{ Populations, interactivity & relationships, by system, entity (cultural):
 fam:
 https://en.wikipedia.org/wiki/Mother
 https://en.wikipedia.org/wiki/Father
@@ -981,9 +1030,9 @@ https://en.wikipedia.org/wiki/Interpersonal_relationship
 https://en.wikipedia.org/wiki/Friendship
 pro:
 https://en.wikipedia.org/wiki/Professionalism
+}
 
-
-Populations, traditions & rituals, by experience, culture:
+{ Populations, traditions & rituals, by experience, culture:
 fun:
 https://en.wikipedia.org/wiki/Fun
 https://en.wikipedia.org/wiki/Birthday
@@ -992,18 +1041,18 @@ sad:
 https://en.wikipedia.org/wiki/Cremation
 https://en.wikipedia.org/wiki/Funeral
 https://en.wikipedia.org/wiki/Burial_at_sea
+}
 
-
-Populations, life, environment & experiences, by system, traits (universal):
+{ Populations, life, environment & experiences, by system, traits (universal):
 bio:
 https://en.wikipedia.org/wiki/Biography
 https://en.wikipedia.org/wiki/Female
 https://en.wikipedia.org/wiki/Male
 https://en.wikipedia.org/wiki/Gender_modality
 https://en.wikipedia.org/wiki/Transgender
+}
 
-
-Populations, life, environment & experiences, by system, traits (modern):
+{ Populations, life, environment & experiences, by system, traits, properties (modern):
 https://en.wikipedia.org/wiki/Conformity
 https://en.wikipedia.org/wiki/Normie_(slang)
 path:
@@ -1028,9 +1077,10 @@ act:
 https://en.wikipedia.org/wiki/Autoeroticism
 https://en.wikipedia.org/wiki/Conventional_sex
 ...
+}
 
-
-Populations, life, environment & experiences, by system, traits (solo, al):
+{ Populations, life, environment & experiences, by system, traits, properties (solo, al):
+https://en.wikipedia.org/wiki/Aleksi
 https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy)
 https://en.wikipedia.org/wiki/Solitude
 https://en.wikipedia.org/wiki/Solidarity
@@ -1042,8 +1092,11 @@ https://en.wikipedia.org/wiki/Finnish_language
 9999:
 https://en.wikipedia.org/wiki/Sensei
 mind:
+https://en.wikipedia.org/wiki/Sleep					" too much or little gives me brain fog, headaches "
+https://en.wikipedia.org/wiki/Nap
 https://en.wikipedia.org/wiki/He_(pronoun)
 https://en.wikipedia.org/wiki/Asociality
+https://en.wikipedia.org/wiki/Minimalism
 https://en.wikipedia.org/wiki/Neurosis					" volume control "
 https://en.wikipedia.org/wiki/Mental_disorder    			" meds are not cutting it, refusal to pay or use "
 https://en.wikipedia.org/wiki/Depression_(mood)
@@ -1077,9 +1130,13 @@ https://en.wikipedia.org/wiki/Rye_bread
 slug:
 https://en.wikipedia.org/wiki/Water
 https://en.wikipedia.org/wiki/Milk
-https://en.wikipedia.org/wiki/Coffee
+https://en.wikipedia.org/wiki/Coffee					" caffeine withdrawal (puke) "
 https://en.wikipedia.org/wiki/Juice
 https://en.wikipedia.org/wiki/Soft_drink
+eat:
+https://en.wikipedia.org/wiki/Paracetamol
+https://en.wikipedia.org/wiki/Ibuprofen
+https://en.wikipedia.org/wiki/Candy
 wear:
 https://en.wikipedia.org/wiki/Headgear
   https://en.wikipedia.org/wiki/Cap
@@ -1091,6 +1148,7 @@ https://en.wikipedia.org/wiki/Top_(clothing)
   https://en.wikipedia.org/wiki/Hoodie
   https://en.wikipedia.org/wiki/Sweatshirt
   https://en.wikipedia.org/wiki/Jacket
+https://en.wikipedia.org/wiki/Glove
 https://en.wikipedia.org/wiki/Trousers
   https://en.wikipedia.org/wiki/Boxer_shorts
   https://en.wikipedia.org/wiki/Shorts
@@ -1135,7 +1193,7 @@ https://en.wikipedia.org/wiki/Film
 https://en.wikipedia.org/wiki/Reading
 https://en.wikipedia.org/wiki/Writing
 https://en.wikipedia.org/wiki/Gameplay					" c64, nes, psx .. :P "
-  https://en.wikipedia.org/wiki/Donkey_Kong_Country			"favs"
+  https://en.wikipedia.org/wiki/Donkey_Kong_Country			favs
   https://en.wikipedia.org/wiki/Final_Fantasy_Tactics
   https://en.wikipedia.org/wiki/Final_Fantasy_VII
   https://en.wikipedia.org/wiki/Fallout_2
@@ -1150,15 +1208,27 @@ https://en.wikipedia.org/wiki/Gameplay					" c64, nes, psx .. :P "
   https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell
   https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)
 https://en.wikipedia.org/wiki/Role-playing_game
-  https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)   	"fav"
+  https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)   	fav
 https://en.wikipedia.org/wiki/Music
 https://en.wikipedia.org/wiki/Computer
+https://en.wikipedia.org/wiki/Minimalism_(computing)
 https://en.wikipedia.org/wiki/Computer-generated_imagery
 https://en.wikipedia.org/wiki/Free_Pascal
 https://en.wikipedia.org/wiki/User_interface
 https://en.wikipedia.org/wiki/User_interface_design
 den:
-
+https://en.wikipedia.org/wiki/Shelf_(storage)
+https://en.wikipedia.org/wiki/Desk
+https://en.wikipedia.org/wiki/Vacuum_flask
+https://en.wikipedia.org/wiki/Dice					" chessex d6, d10 "
+https://en.wikipedia.org/wiki/Desktop_computer
+laptop
+https://en.wikipedia.org/wiki/Computer_monitor				" The dying 1 "
+https://en.wikipedia.org/wiki/Computer_speakers
+https://en.wikipedia.org/wiki/Loudspeaker
+https://en.wikipedia.org/wiki/ThinkPad					" x220, t495 (touch screens) "
+https://en.wikipedia.org/wiki/Smartphone
+https://en.wikipedia.org/wiki/Houseplant				" The dead 1s, to be cremated "
 want:
 https://en.wikipedia.org/wiki/Kimono
 https://en.wikipedia.org/wiki/Bō
@@ -1201,18 +1271,21 @@ https://en.wikipedia.org/wiki/Starvation
   https://en.wikipedia.org/wiki/Food
 https://en.wikipedia.org/wiki/Running
 https://en.wikipedia.org/wiki/Skateboarding
+}
 
 
-Populations, incidents, risks & predictions, by chronology, prominence:
+{ Populations, incidents, risks & predictions, by chronology, prominence:
 https://en.wikipedia.org/wiki/Epidemic
 rare:
 https://en.wikipedia.org/wiki/Global_catastrophic_risk
+}
 
-
-Populations, activities, work & hazards, by state, level, sector (effect):
+{ Populations, activities, work & hazards, by state, level, sector (effect):
 proj:
 https://en.wikipedia.org/wiki/Ripple_effect
 https://en.wikipedia.org/wiki/Neglect
+hand:
+https://en.wikipedia.org/wiki/Hand_washing
 haz:
 https://en.wikipedia.org/wiki/Pollution
 job:
@@ -1221,14 +1294,13 @@ ban:
 https://en.wikipedia.org/wiki/Manslaughter
 https://en.wikipedia.org/wiki/Murder
 https://en.wikipedia.org/wiki/Proxy_murder
+}
+
+{ Populations, world views, codes & ethics, by virtue, domain (affect):
+}
 
 
-Populations, world views, codes & ethics, by virtue, domain (affect):
-.
-
-
-
-Statecraft (universal):
+{ Statecraft (universal):
 https://en.wikipedia.org/wiki/Statecraft
 https://en.wikipedia.org/wiki/Independence
 https://en.wikipedia.org/wiki/Constitutional_law
@@ -1246,8 +1318,9 @@ https://en.wikipedia.org/wiki/Patriotism
 https://en.wikipedia.org/wiki/Neutral_country
 https://en.wikipedia.org/wiki/Statelessness
 https://en.wikipedia.org/wiki/Universal_basic_income
+}
 
-Statecraft, political systems & ideologies, by era, rule, system:
+{ Statecraft, political systems & ideologies, by era, rule, system:
 https://en.wikipedia.org/wiki/Modernity
 https://en.wikipedia.org/wiki/Democracy
 https://en.wikipedia.org/wiki/Meritocracy
@@ -1263,16 +1336,19 @@ https://en.wikipedia.org/wiki/Anarchism
 https://en.wikipedia.org/wiki/Election_law
 https://en.wikipedia.org/wiki/Decommunization
 https://en.wikipedia.org/wiki/Red_Scare
+}
 
-Statecraft, security & intelligence services, by type, practice (universal):
+{ Statecraft, security & intelligence services, by type, practice (universal):
 https://en.wikipedia.org/wiki/Tradecraft
 https://en.wikipedia.org/wiki/Counterintelligence
+}
 
-Statecraft, government institutions & services, by practice, type (common):  gov
+{ Statecraft, government institutions & services, by practice, type (common):  gov
 https://en.wikipedia.org/wiki/Institute
 https://en.wikipedia.org/wiki/Bureau
+}
 
-Statecraft, government, military orders & areas, by practice, faction:
+{ Statecraft, government, military orders & areas, by practice, faction:
 type:
 https://en.wikipedia.org/wiki/Counterterrorism
 area:
@@ -1280,8 +1356,9 @@ https://en.wikipedia.org/wiki/Proving_ground
 https://en.wikipedia.org/wiki/Kill_house
 para:
 https://en.wikipedia.org/wiki/Paratrooper
+}
 
-Statecraft & world leaders, by country, order:
+{ Statecraft & world leaders, by country, order:
 usa:
 https://en.wikipedia.org/wiki/George_Washington
 https://en.wikipedia.org/wiki/John_Adams
@@ -1330,6 +1407,9 @@ https://en.wikipedia.org/wiki/Barack_Obama
 https://en.wikipedia.org/wiki/Donald_Trump
 https://en.wikipedia.org/wiki/Joe_Biden
 https://en.wikipedia.org/wiki/Donald_Trump
+cub:
+https://en.wikipedia.org/wiki/Fidel_Castro
+https://en.wikipedia.org/wiki/Che_Guevara
 fin:
 https://en.wikipedia.org/wiki/Kaarlo_Juho_Ståhlberg
 https://en.wikipedia.org/wiki/Lauri_Kristian_Relander
@@ -1344,11 +1424,15 @@ https://en.wikipedia.org/wiki/Martti_Ahtisaari
 https://en.wikipedia.org/wiki/Tarja_Halonen
 https://en.wikipedia.org/wiki/Sauli_Niinistö
 https://en.wikipedia.org/wiki/Alexander_Stubb
+}
 
-Statecraft & internal affairs, by issue, role: -
-Statecraft & foreign affairs, by issue, role: -
+{ Statecraft & internal affairs, by issue, role: -
+{ 
 
-Statecraft, armed conflicts & strategies, by campaign, scenario, territory:
+{ Statecraft & foreign affairs, by issue, role: -
+}
+
+{ Statecraft, armed conflicts & strategies, by campaign, scenario, territory:
 war:
 https://en.wikipedia.org/wiki/World_War_I
 https://en.wikipedia.org/wiki/World_War_II
@@ -1360,14 +1444,14 @@ game:
 https://en.wikipedia.org/wiki/Hobbesian_trap
 rare:
 https://en.wikipedia.org/wiki/World_War_III
+}
 
 
-
-Statecraft (Afghan):  afg,gov
+{ Statecraft (Afghan):  afg,gov
 https://en.wikipedia.org/wiki/Afghanistan
+}
 
-
-Statecraft (American):  usa,gov
+{ Statecraft (American):  usa,gov
 https://en.wikipedia.org/wiki/United_States
 https://en.wikipedia.org/wiki/Constitution_of_the_United_States
 https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution
@@ -1385,21 +1469,19 @@ list:  https://en.wikipedia.org/wiki/World_Leaders
 ...
 https://en.wikipedia.org/wiki/American_Finnish
 https://en.wikipedia.org/wiki/American_imperialism
+}
 
-
-Statecraft, figures (Cuban):  cub,gov
+{ Statecraft (Cuban):  cub,gov
 https://en.wikipedia.org/wiki/Cuba
-https://en.wikipedia.org/wiki/Fidel_Castro
-https://en.wikipedia.org/wiki/Che_Guevara
+}
 
-
-Statecraft, figures (British):  uk,gov
+{ Statecraft, figures (British):  uk,gov
 https://en.wikipedia.org/wiki/United_Kingdom
 https://en.wikipedia.org/wiki/Special_Air_Service
 https://en.wikipedia.org/wiki/MI6
+}
 
-
-Statecraft (Finnish):  fin,gov
+{ Statecraft (Finnish):  fin,gov
 https://en.wikipedia.org/wiki/Finland
 https://en.wikipedia.org/wiki/Constitution_of_Finland
 https://en.wikipedia.org/wiki/List_of_presidents_of_Finland
@@ -1414,80 +1496,80 @@ https://en.wikipedia.org/wiki/Police_Rapid_Response_Unit_(Finland)
 https://en.wikipedia.org/wiki/Sweden_Finnish
 https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland
 https://en.wikipedia.org/wiki/Finnish_Americans
+}
 
-
-Statecraft (French):  fra,gov
+{ Statecraft (French):  fra,gov
 https://en.wikipedia.org/wiki/France
+}
 
-
-Statecraft (Georgian):  grg,gov
+{ Statecraft (Georgian):  grg,gov
 https://en.wikipedia.org/wiki/Georgia_(country)
 https://en.wikipedia.org/wiki/Defence_Forces_of_Georgia
 https://en.wikipedia.org/wiki/Georgian_Special_Operations_Command
+}
 
-
-Statecraft (Indian):  ind,gov
+{ Statecraft (Indian):  ind,gov
 https://en.wikipedia.org/wiki/India
+}
 
-
-Statecraft (Israeli):  isr,gov
+{ Statecraft (Israeli):  isr,gov
 https://en.wikipedia.org/wiki/Israel
 https://en.wikipedia.org/wiki/Basic_Laws_of_Israel
 shin:  https://en.wikipedia.org/wiki/Shin_Bet
 moss:  https://en.wikipedia.org/wiki/Mossad
+}
 
-
-Statecraft (Iranian):  ira,gov
+{ Statecraft (Iranian):  ira,gov
 https://en.wikipedia.org/wiki/Iran
+}
 
-
-Statecraft (Iraqi):  irq,gov
+{ Statecraft (Iraqi):  irq,gov
 https://en.wikipedia.org/wiki/Iraq
 "old"
+}
 
-
-Statecraft (Japanese):  jap,gov
+{ Statecraft (Japanese):  jap,gov
 https://en.wikipedia.org/wiki/Japan
 https://en.wikipedia.org/wiki/Special_Forces_Group_(Japan)
+}
 
-
-Statecraft (Moldovan):  mol,gov
+{ Statecraft (Moldovan):  mol,gov
 https://en.wikipedia.org/wiki/Moldova
 https://en.wikipedia.org/wiki/Armed_Forces_of_the_Republic_of_Moldova
 ...
 https://en.wikipedia.org/wiki/Treaty_on_Conventional_Armed_Forces_in_Europe
+}
 
-
-Statecraft (Moroccan):  mor,gov
+{ Statecraft (Moroccan):  mor,gov
 https://en.wikipedia.org/wiki/Morocco
+}
 
-
-Statecraft (Mongolian):  mon,gov
+{ Statecraft (Mongolian):  mon,gov
 https://en.wikipedia.org/wiki/Mongolia
+}
 
-
-Statecraft (Norwegian):  nor,gov
+{ Statecraft (Norwegian):  nor,gov
 https://en.wikipedia.org/wiki/Norway
 https://en.wikipedia.org/wiki/Norwegian_special_forces_and_elite_units
 https://en.wikipedia.org/wiki/Forsvarets_Spesialkommando
 https://en.wikipedia.org/wiki/Forsvarets_spesialstyrker
+}
 
-
-Statecraft (Pakistani):  pak,gov
+{ Statecraft (Pakistani):  pak,gov
 https://en.wikipedia.org/wiki/Pakistan
+}
 
-
-Statecraft (Polish):  pol,gov
+{ Statecraft (Polish):  pol,gov
 https://en.wikipedia.org/wiki/Poland
 https://en.wikipedia.org/wiki/Polish_Armed_Forces
 https://en.wikipedia.org/wiki/GROM_Military_Unit
+}
 
-
-Statecraft (Romanian):  rom,gov
+{ Statecraft (Romanian):  rom,gov
 https://en.wikipedia.org/wiki/Romania
+}
 
-
-Statecraft (Russian):  rus,gov
+{ Statecraft (Russian):  rus,gov
 https://en.wikipedia.org/wiki/Russia
 https://en.wikipedia.org/wiki/Constitution_of_Russia
 https://en.wikipedia.org/wiki/List_of_leaders_of_Russia
@@ -1504,73 +1586,81 @@ fsb:  https://en.wikipedia.org/wiki/Federal_Security_Service
 https://en.wikipedia.org/wiki/Russians_in_Finland
 https://en.wikipedia.org/wiki/Karelia
 https://en.wikipedia.org/wiki/Russian_imperialism
+}
 
-
-Statecraft (Russian, historic):  old, ussr,gov
+{ Statecraft (Russian, historic):  old, ussr,gov
 old:  https://en.wikipedia.org/wiki/Russian_Empire
 https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic
 https://en.wikipedia.org/wiki/Soviet_Union
 kgb:  https://en.wikipedia.org/wiki/KGB
+}
 
-
-Statecraft (Sri Lankan):  sri,gov
+{ Statecraft (Sri Lankan):  sri,gov
 https://en.wikipedia.org/wiki/Sri_Lanka
 ...
 https://en.wikipedia.org/wiki/List_of_assassinations_of_the_Sri_Lankan_civil_war
+}
 
-
-Statecraft (Swedish):  swe,gov
+{ Statecraft (Swedish):  swe,gov
 https://en.wikipedia.org/wiki/Sweden
 https://en.wikipedia.org/wiki/Swedish_Security_Service
 ...
 https://en.wikipedia.org/wiki/Swedish_nuclear_weapons_program
+}
 
-
-Statectaft (Syrian):  syr,gov
+{ Statectaft (Syrian):  syr,gov
 https://en.wikipedia.org/wiki/Syria
+}
 
-
-Statecraft (Tanzanian):  tnz,gov
+{ Statecraft (Tanzanian):  tnz,gov
 https://en.wikipedia.org/wiki/Tanzania
+}
 
-
-Statecraft (Ukrainian):  ukr,gov
+{ Statecraft (Ukrainian):  ukr,gov
 https://en.wikipedia.org/wiki/Ukraine
 https://en.wikipedia.org/wiki/Security_Service_of_Ukraine
+}
 
+{ Arms & armory - weapon technologies, by type, party: -
+}
 
-Arms & armory - weapon technologies, by type, party: -
-
-Arms & armory - WMD, chemical and bio weapons (platforms):
+{ Arms & armory - WMD, chemical and bio weapons (platforms):
 https://en.wikipedia.org/wiki/Mutual_assured_destruction
 https://en.wikipedia.org/wiki/Weapon_of_mass_destruction
 https://en.wikipedia.org/wiki/Nuclear_weapon
+}
 
-Arms & armory - ballistic heavy weapons (platforms):
+{ Arms & armory - ballistic heavy weapons (platforms):
 https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile
+}
 
-Arms & armory - unmanned heavy weapons (platforms): gear, tact
+{ Arms & armory - unmanned heavy weapons (platforms): gear, tact
 https://en.wikipedia.org/wiki/Metal_Gear_(mecha)
+}
 
-Arms & armory - unmanned weapons (platforms):
+{ Arms & armory - unmanned weapons (platforms):
 https://en.wikipedia.org/wiki/Drone_warfare
+}
 
-Arms & armory - motorized heavy weapons (manned):
+{ Arms & armory - motorized heavy weapons (manned):
 https://en.wikipedia.org/wiki/Armoured_fighting_vehicle
 https://en.wikipedia.org/wiki/Tank
 https://en.wikipedia.org/wiki/Air_superiority_fighter
 https://en.wikipedia.org/wiki/Fighter_aircraft
 https://en.wikipedia.org/wiki/Military_aircraft
+}
 
-Arms & armory - bombs, shrapnel propellents (portable):
+{ Arms & armory - bombs, shrapnel propellents (portable):
 https://en.wikipedia.org/wiki/Grenade
 https://en.wikipedia.org/wiki/C-4_(explosive)
 https://en.wikipedia.org/wiki/Pipe_bomb
+}
 
-Arms & armory - light personnel weapons (portable):
+{ Arms & armory - light personnel weapons (portable):
 https://en.wikipedia.org/wiki/RPG-7
+}
 
-Arms & armory - guns (small arms):
+{ Arms & armory - guns (small arms):
 https://en.wikipedia.org/wiki/Small_arms_and_light_weapons
 https://en.wikipedia.org/wiki/Firearm
 https://en.wikipedia.org/wiki/Short-barrelled_shotgun
@@ -1583,12 +1673,14 @@ https://en.wikipedia.org/wiki/Dragunov_SVU
 https://en.wikipedia.org/wiki/Small_arms_trade
 https://en.wikipedia.org/wiki/
 Estimated_number_of_civilian_guns_per_capita_by_country
+}
 
-Arms & armory - lethal, improvised devices (uncommon):
+{ Arms & armory - lethal, improvised devices (uncommon):
 https://en.wikipedia.org/wiki/Suicide_pill
 https://en.wikipedia.org/wiki/Garrote
+}
 
-Arms & armory - non-lethal, special-purpose devices & munitions:
+{ Arms & armory - non-lethal, special-purpose devices & munitions:
 aoe:
 https://en.wikipedia.org/wiki/Caltrop
 ,
@@ -1596,8 +1688,9 @@ https://en.wikipedia.org/wiki/Taser
 https://en.wikipedia.org/wiki/Dart_gun
 https://en.wikipedia.org/wiki/Flash-bang
 https://en.wikipedia.org/wiki/Stun_grenade
+}
 
-Arms & armory - martial arts & projectile weapons (training):  exo
+{ Arms & armory - martial arts & projectile weapons (training):  exo
 https://en.wikipedia.org/wiki/Suburi
 https://en.wikipedia.org/wiki/Hand-to-hand_combat
 https://en.wikipedia.org/wiki/List_of_martial_arts_weapons
@@ -1610,8 +1703,9 @@ https://en.wikipedia.org/wiki/Flail_(weapon)
 https://en.wikipedia.org/wiki/Batarang
 afr:
 https://en.wikipedia.org/wiki/Throwing_knife
+}
 
-Arms & armory - protective wear & guards (historic):  jap,eur
+{ Arms & armory - protective wear & guards (historic):  jap,eur
 https://en.wikipedia.org/wiki/Plate_armour
 https://en.wikipedia.org/wiki/Japanese_armour
 head:
@@ -1620,28 +1714,31 @@ neck:
 https://en.wikipedia.org/wiki/Aventail
 arm:
 https://en.wikipedia.org/wiki/Pauldron
+}
 
-
-Biomedical science, research & practices (universal):  hard
+{ Biomedical science, research & practices (universal):  hard
 life:
 https://en.wikipedia.org/wiki/Childbirth
 rip:
 https://en.wikipedia.org/wiki/Cancer
+}
 
-Biomedical science, physical trauma & disability by part, organ, injury:  hard
+{ Biomedical science, physical trauma & disability by part, organ, injury:  hard
+}
 
-Biomedical science, conditions, symptoms & diseases, by system, scope:  hard, soft
+{ Biomedical science, conditions, symptoms & diseases, by system, scope:  hard, soft
 https://en.wikipedia.org/wiki/Stress_(biology)
+}
 
-
-Nautical mapping, exploration & sailing, by measure, mission (historic):  aqua
+{ Nautical mapping, exploration & sailing, by measure, mission (historic):  aqua
 https://en.wikipedia.org/wiki/Galleon
 https://en.wikipedia.org/wiki/Warship
+}
 
+{ To-do: Deep sea ...
+}
 
-To-do: Deep sea ...
-
-Deep space technologies, research & knowledge, by measure, plan, mission:  deep
+{ Deep space technologies, research & knowledge, by measure, plan, mission:  deep
 comm:
 https://en.wikipedia.org/wiki/Deep_Space_Network_(disambiguation)
 race:
@@ -1654,9 +1751,9 @@ https://en.wikipedia.org/wiki/Interplanetary_spaceflight
 ...
 https://en.wikipedia.org/wiki/Interplanetary_contamination
 https://en.wikipedia.org/wiki/Interplanetary_Internet
+}
 
-
-Scientific fields, techniques & knowledge, by objectivity:  hard, soft
+{ Scientific fields, techniques & knowledge, by objectivity:  hard, soft
 https://en.wikipedia.org/wiki/Integrity
 https://en.wikipedia.org/wiki/Empirical_evidence
 https://en.wikipedia.org/wiki/Credibility
@@ -1679,33 +1776,48 @@ deep:
 https://en.wikipedia.org/wiki/Solar_System
 https://en.wikipedia.org/wiki/Light-year
 https://en.wikipedia.org/wiki/Exoplanet
+}
 
-Physics - theoretical scientists & knowledge:  hard
+{ Physics - theoretical scientists & knowledge:  hard
 https://en.wikipedia.org/wiki/Theoretical_physics
+}
 
-Physics - experimental scientists & knowledge, by figures, labs:  hard
+{ Physics - experimental scientists & knowledge, by figures, labs:  hard
 https://en.wikipedia.org/wiki/Experimental_physics
+}
 
-Mathematical areas, techniques & knowledge:  hard
-https://en.wikipedia.org/wiki/Mathematical_proof
+
+{ Mathematical areas, techniques & knowledge:  hard
 https://en.wikipedia.org/wiki/Mathematics
+https://en.wikipedia.org/wiki/Mathematical_proof
 https://en.wikipedia.org/wiki/Algorithm
+tech:
+https://en.wikipedia.org/wiki/Dice_notation
+math:
 https://en.wikipedia.org/wiki/Eventually_(mathematics)
-"carm"
+carm
+}
 
 
-Hardware, science research & institutions, by figure: -
-Software, science research & institutions, by figure:
+{ Hardware, science research & institutions, by figure: - 
+}
+
+
+{ Software, science research & institutions, by figure:
+}
 
 
 To-do: neuroscience, neurology
 
 
-Strategic studies & human coordination, by type, role, analysis:
+{ Strategic studies & human coordination, by type, role, analysis:
+https://en.wikipedia.org/wiki/Labor_relations
+https://en.wikipedia.org/wiki/Brinkmanship
 https://en.wikipedia.org/wiki/Escalation_of_commitment
+}
 
 
-Psychology, human thinking & behavior (academics):  soft
+{ Psychology, human thinking & behavior (academics):  soft
 https://en.wikipedia.org/wiki/Psychology
 https://en.wikipedia.org/wiki/Mind
 https://en.wikipedia.org/wiki/Intelligence
@@ -1716,16 +1828,18 @@ https://en.wikipedia.org/wiki/Intelligence_quotient
 https://en.wikipedia.org/wiki/Empathy_quotient
 https://en.wikipedia.org/wiki/Learning_disability
 https://en.wikipedia.org/wiki/Intellectual_disability
+}
 
-Psychology, socialization, habits & personality traits:  soft
+{ Psychology, socialization, habits & personality traits:  soft
 https://en.wikipedia.org/wiki/Socialization
 https://en.wikipedia.org/wiki/Asociality
 https://en.wikipedia.org/wiki/Extraversion_and_introversion
 https://en.wikipedia.org/wiki/Love
 https://en.wikipedia.org/wiki/Hatred
 https://en.wikipedia.org/wiki/Conscientiousness
+}
 
-Psychology, mental conditions & characterization:  soft
+{ Psychology, mental conditions & characterization:  soft
 https://en.wikipedia.org/wiki/Psychopathology
 https://en.wikipedia.org/wiki/Depression_(mood)
 https://en.wikipedia.org/wiki/Major_depressive_disorder
@@ -1736,12 +1850,14 @@ https://en.wikipedia.org/wiki/Catatonia
 ...
 https://en.wikipedia.org/wiki/Cognitive_dissonance
 https://en.wikipedia.org/wiki/God_complex
+}
 
-Psychiatry, diagnostics, therapy & medical treatment:  soft
+{ Psychiatry, diagnostics, therapy & medical treatment:  soft
 https://en.wikipedia.org/wiki/Occupational_burnout
+}
 
 
-Linquistics, language & writing systems (alphabet):
+{ Linquistics, language & writing systems (alphabet):
 https://en.wikipedia.org/wiki/Language
 https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Alphabet
@@ -1751,13 +1867,17 @@ https://en.wikipedia.org/wiki/Vocabulary
 https://en.wikipedia.org/wiki/Grammar
 jap:
 https://en.wikipedia.org/wiki/Japanese_honorifics
+}
 
-Linquistics & language studies:  soft
+{ Linquistics & language studies:  soft
 https://en.wikipedia.org/wiki/Linguistics
+}
 
 To-do:  poetry ...
+}
 
-Books, literature & fiction, figure(s), opus(es) (author):
+
+{ Books, literature & fiction, figure(s), opus(es) (author):
 epic:
 https://en.wikipedia.org/wiki/Herman_Melville
 https://en.wikipedia.org/wiki/Moby-Dick
@@ -1766,19 +1886,23 @@ https://en.wikipedia.org/wiki/Gary_Gygax
 fan:  
 https://en.wikipedia.org/wiki/Terry_Pratchett
 https://en.wikipedia.org/wiki/Discworld
+}
 
 
-Sports, events & competitions, by size: -
+{ Sports, events & competitions, by size: -
 https://en.wikipedia.org/wiki/Olympic_Games
+}
 
-Sports & training, by physicality, goal (solo):
+{ Sports & training, by physicality, goal (solo):
 https://en.wikipedia.org/wiki/Walking
 https://en.wikipedia.org/wiki/Running
 https://en.wikipedia.org/wiki/Sprint_(running)
+}
 
-Sports & training, by physicality, goal (team): -
+{ Sports & training, by physicality, goal (team): -
+}
 
-Martial arts & combat sports, by system, arm:  exo
+{ Martial arts & combat sports training, by system, arm:  exo
 https://en.wikipedia.org/wiki/Karate
 https://en.wikipedia.org/wiki/Judo
 https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu
@@ -1786,9 +1910,10 @@ https://en.wikipedia.org/wiki/Boxing
 arm:
 https://en.wikipedia.org/wiki/Tantojutsu
 https://en.wikipedia.org/wiki/Historical_European_martial_arts
+}
 
 
-Games - social & analog, by type, product: - card,tcg,pawn,sim,bet
+{ Games - social & analog, by type, product: - card,tcg,pawn,sim,bet
  - sorted by year
 card:  https://en.wikipedia.org/wiki/Blackjack
 pawn:  https://en.wikipedia.org/wiki/Risk_(game)
@@ -1799,8 +1924,9 @@ ip:    https://en.wikipedia.org/wiki/Warhammer_Fantasy_(setting)
 pawn:  https://en.wikipedia.org/wiki/HeroQuest
 tcg:   https://en.wikipedia.org/wiki/Magic:_The_Gathering
 bet:   https://en.wikipedia.org/wiki/Roulette
+}
 
-Games - simulations design, literature & studies:
+{ Games - simulations design, literature & studies:
 https://en.wikipedia.org/wiki/Game_theory
 https://en.wikipedia.org/wiki/Game_design
 https://en.wikipedia.org/wiki/Game_studies
@@ -1812,8 +1938,9 @@ bet:   https://en.wikipedia.org/wiki/Gambling
 bet:   https://en.wikipedia.org/wiki/Online_gambling
 net:
 https://en.wikipedia.org/wiki/Polycount
+}
 
-Games - immersive role-playing design & literature:  rpg
+{ Games - immersive role-playing design & literature:  rpg
 tsr:
 https://en.wikipedia.org/wiki/TSR,_Inc.
 https://en.wikipedia.org/wiki/Dungeons_&_Dragons
@@ -1825,9 +1952,10 @@ https://en.wikipedia.org/wiki/Rolemaster
 rtg:
 https://en.wikipedia.org/wiki/R._Talsorian_Games
 https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
+}
 
 
-Artistic formats, symbolism & cultural phenomena (mediums):
+{ Artistic formats, symbolism & cultural phenomena (mediums):
 https://en.wikipedia.org/wiki/Cultural_reproduction
 https://en.wikipedia.org/wiki/Hero
 https://en.wikipedia.org/wiki/Antihero
@@ -1852,27 +1980,33 @@ mech:
 https://en.wikipedia.org/wiki/Power-up
 net:
 https://en.wikipedia.org/wiki/Pepe_the_Frog
+}
 
-Artistic formats, styles & visual design:
+{ Artistic formats, styles & visual design:
 https://en.wikipedia.org/wiki/Canvas
 https://en.wikipedia.org/wiki/Art_film
 https://en.wikipedia.org/wiki/Expressionism
 https://en.wikipedia.org/wiki/Skeuomorph
+}
 
-Artists, painters (historic, masters):
+
+{ Artists, painters (historic, masters):
 https://en.wikipedia.org/wiki/Leonardo_da_Vinci
 https://en.wikipedia.org/wiki/Michelangelo
 https://en.wikipedia.org/wiki/Egon_Schiele
+}
 
-Musicians, composers (historic, masters):
+{ Musicians, composers (historic, masters):
 https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
+}
 
-Musicians, composers (modern):
+{ Musicians, composers (modern):
 https://en.wikipedia.org/wiki/Jean_Sibelius
 https://en.wikipedia.org/wiki/David_Wilde
+}
 
 
-Religious schools & theology, by system, mythology (universal):
+{ Religious schools & theology, by system, mythology (universal):
 https://en.wikipedia.org/wiki/Religion
 https://en.wikipedia.org/wiki/Faith
 https://en.wikipedia.org/wiki/Theology
@@ -1896,8 +2030,9 @@ cult:
 https://en.wikipedia.org/wiki/Cult
 pit:
 https://en.wikipedia.org/wiki/Inferno_(Dante)
+}
 
-Religious schools & theology, by figure(s), group(s):
+{ Religious schools & theology, by figure(s), group(s):
 fig:
 https://en.wikipedia.org/wiki/Jesus
 https://en.wikipedia.org/wiki/Pope
@@ -1917,11 +2052,13 @@ folk:
 https://en.wikipedia.org/wiki/Mongolian_shamanism
 cult:  
 https://en.wikipedia.org/wiki/Satanism
+}
 
-Religious schools & theology, by system, tradition (cultural):
+{ Religious schools & theology, by system, tradition (cultural):
 https://en.wikipedia.org/wiki/Cultural_system
 https://en.wikipedia.org/wiki/Baptism
 https://en.wikipedia.org/wiki/Liturgy
+https://en.wikipedia.org/wiki/Prayer
 https://en.wikipedia.org/wiki/Worship
 holy:
 https://en.wikipedia.org/wiki/Religious_text
@@ -1934,9 +2071,10 @@ https://en.wikipedia.org/wiki/New_Testament
 https://en.wikipedia.org/wiki/Bible
 https://en.wikipedia.org/wiki/Quran
 https://en.wikipedia.org/wiki/Hadith
+}
 
 
-Philosophical fields & wisdom, by semantic, virtue (universal):
+{ Philosophical fields & wisdom, by semantic, virtue (universal):
 https://en.wikipedia.org/wiki/Philosophy
 https://en.wikipedia.org/wiki/Everything
 https://en.wikipedia.org/wiki/Nothing
@@ -1947,21 +2085,26 @@ https://en.wikipedia.org/wiki/Empiricism
 https://en.wikipedia.org/wiki/Positivism
 https://en.wikipedia.org/wiki/Universalism
 
-Philosophical fields & wisdom, by scholar(s), works:
+{ Philosophical fields & wisdom, by scholar(s), works:
 https://en.wikipedia.org/wiki/Martin_Heidegger
+}
 
-Metaphysical fields & theology (transcendent):
+{ Metaphysical fields & theology (transcendent):
 https://en.wikipedia.org/wiki/Metaphysics
-.
+}
 
 
-Draft editing:
+
+// Draft editing:
+{
 prehistory
 Training & education techniques, by system, role (universal): -
 Training & education, by system, role: -
+}
 
 
 
+{
 Temporarily unsorted:
 https://en.wikipedia.org/wiki/Underdog
 https://en.wikipedia.org/wiki/Peaceful_Revolution
@@ -2580,7 +2723,6 @@ https://en.wikipedia.org/wiki/Rigour
 https://en.wikipedia.org/wiki/Morgue_file
 https://en.wikipedia.org/wiki/Piecemeal
 https://en.wikipedia.org/wiki/Feature_phone
-https://en.wikipedia.org/wiki/Smartphone
 
 https://en.wikipedia.org/wiki/Glow_stick
 https://en.wikipedia.org/wiki/Presentation_timestamp
@@ -3274,7 +3416,6 @@ https://en.wikipedia.org/wiki/Interpersonal_communication
 https://en.wikipedia.org/wiki/Johannes_Kepler
 https://en.wikipedia.org/wiki/Eugénie_Hamer 
 https://en.wikipedia.org/wiki/Howard_Baker
-https://en.wikipedia.org/wiki/Timeline_of_the_Gaza_war
 https://en.wikipedia.org/wiki/Gaza_genocide
 https://en.wikipedia.org/wiki/Secondary_source
 https://en.wikipedia.org/wiki/Scholarly_method
@@ -3802,18 +3943,15 @@ https://en.wikipedia.org/wiki/Eastern_Uusimaa
 https://en.wikipedia.org/wiki/Near-death_experience
 https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software
 https://en.wikipedia.org/wiki/Growing_pains
-https://en.wikipedia.org/wiki/Aleksi
 https://en.wikipedia.org/wiki/Dennis_the_Menace_and_Gnasher
 https://en.wikipedia.org/wiki/Institutionalization_(disambiguation)
 https://en.wikipedia.org/wiki/Institutionalized_discrimination_in_the_United_States
 https://en.wikipedia.org/wiki/Involuntary_commitment
 https://en.wikipedia.org/wiki/Institutional_syndrome
-https://en.wikipedia.org/wiki/Nipple_clamp
 https://en.wikipedia.org/wiki/BDSM
 https://en.wikipedia.org/wiki/Eroticism
 https://en.wikipedia.org/wiki/Claw
 https://en.wikipedia.org/wiki/Umaro_Sissoco_Embaló
-https://en.wikipedia.org/wiki/Timeline_of_the_Gaza_war
 https://en.wikipedia.org/wiki/Assisted_suicide
 https://en.wikipedia.org/wiki/Guru
 https://en.wikipedia.org/wiki/Sex_symbol
@@ -3842,17 +3980,27 @@ https://en.wikipedia.org/wiki/Vagrancy
 https://en.wikipedia.org/wiki/Ultima_I:_The_First_Age_of_Darkness
 https://en.wikipedia.org/wiki/Skeletal_muscle
 https://en.wikipedia.org/wiki/Jacket_matrix
-.
 
+https://en.wikipedia.org/wiki/Catechism
+https://en.wikipedia.org/wiki/Codex
+https://en.wikipedia.org/wiki/Catechesis
+https://en.wikipedia.org/wiki/Shelf_life
+https://en.wikipedia.org/wiki/Pocket_PC
+https://en.wikipedia.org/wiki/Minimalist_program
 
+https://en.wikipedia.org/wiki/Tourism
+https://en.wikipedia.org/wiki/Paracetamol/metoclopramide
+}
+
+{
 name:
 carm:		John Carmack
+}
 
-
+{
 corp:
 https://en.wikipedia.org/wiki/Unity_(game_engine)
 https://en.wikipedia.org/wiki/Spatial_(platform)
-
 
 bark:
 https://en.wikipedia.org/wiki/Finnish_profanity#Paska
@@ -3860,8 +4008,10 @@ https://en.wikipedia.org/wiki/Finnish_profanity#vittu
 https://en.wikipedia.org/wiki/Finnish_profanity#Runkata
 https://en.wikipedia.org/wiki/Finnish_profanity#Saatana
 https://en.wikipedia.org/wiki/Finnish_profanity#Perkele
-.
 
+slur:
+https://en.wikipedia.org/wiki/Mongoloid
+}
 
 pit:
 https://en.wikipedia.org/wiki/Sergey_Lavrov
