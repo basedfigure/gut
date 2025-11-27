@@ -121,6 +121,7 @@ game:		  game theory, causality,
 war:		  conflict, wars,
 solo:		  solitude, individualistic,
 play:		  hobby, work,
+den:		  objects, loot,
 mind:		  brain, mentality,
 job:		  work, hobby,
 take:		  hot,
@@ -159,7 +160,10 @@ irl:		  in real life,
 want:		  gimme,
 area:		  territory,
 atmo:		  atmospheric conditions, seasons,
-cast:		  weather, nature, phenomena
+cast:		  weather, nature, phenomena,
+rad:		  radiating, radiation, waste,
+mech:		  mechanic, mechanism, design, machination,
+plot:		  plot device, story, narrative
 .
 
 
@@ -196,7 +200,7 @@ pre, dead:
 https://en.wikipedia.org/wiki/Neanderthal
 
 Humans, cognition, psyche & emotions, by structure, stimuli, sense (brain)
-https://en.wikipedia.org/wiki/Autobiographical_memory     " iirc,   trained chimpanzees may do memorization, sequencing better because their brains have less noise due to this type of memory "
+https://en.wikipedia.org/wiki/Autobiographical_memory     " iirc,   trained chimpanzees may do memorization, sequencing better because their brains have less noise due to this type of memory lacking "
 https://en.wikipedia.org/wiki/Emotion
 https://en.wikipedia.org/wiki/Fear
 https://en.wikipedia.org/wiki/Happiness
@@ -832,7 +836,7 @@ https://en.wikipedia.org/wiki/Social_order
 https://en.wikipedia.org/wiki/History_of_the_legal_profession
 https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights
 
-Law, order & legislation, by party, type (universal):
+Law, order & legislation, by party, type, rule (universal):
 https://en.wikipedia.org/wiki/Law
 https://en.wikipedia.org/wiki/Court
 https://en.wikipedia.org/wiki/Judge
@@ -840,6 +844,8 @@ https://en.wikipedia.org/wiki/Jury
 https://en.wikipedia.org/wiki/Lawyer
 https://en.wikipedia.org/wiki/Legal_person
 https://en.wikipedia.org/wiki/Attorney_at_law
+rule:
+https://en.wikipedia.org/wiki/De_jure
 arm:
 https://en.wikipedia.org/wiki/Firearms_license
 https://en.wikipedia.org/wiki/Overview_of_gun_laws_by_nation
@@ -1151,6 +1157,8 @@ https://en.wikipedia.org/wiki/Computer-generated_imagery
 https://en.wikipedia.org/wiki/Free_Pascal
 https://en.wikipedia.org/wiki/User_interface
 https://en.wikipedia.org/wiki/User_interface_design
+den:
+
 want:
 https://en.wikipedia.org/wiki/Kimono
 https://en.wikipedia.org/wiki/Bō
@@ -1165,6 +1173,7 @@ https://en.wikipedia.org/wiki/Throwing_knife
 https://en.wikipedia.org/wiki/Yumi
 https://en.wikipedia.org/wiki/Mail_coif
 https://en.wikipedia.org/wiki/Chain_mail
+https://en.wikipedia.org/wiki/Japanese_armour
 https://en.wikipedia.org/wiki/Dojo
 uchikomi-dai
 tanrenbo
@@ -1614,7 +1623,10 @@ https://en.wikipedia.org/wiki/Pauldron
 
 
 Biomedical science, research & practices (universal):  hard
+life:
 https://en.wikipedia.org/wiki/Childbirth
+rip:
+https://en.wikipedia.org/wiki/Cancer
 
 Biomedical science, physical trauma & disability by part, organ, injury:  hard
 
@@ -1821,6 +1833,9 @@ https://en.wikipedia.org/wiki/Hero
 https://en.wikipedia.org/wiki/Antihero
 https://en.wikipedia.org/wiki/Enemy
 https://en.wikipedia.org/wiki/Meme
+plot:
+https://en.wikipedia.org/wiki/Plot_device
+https://en.wikipedia.org/wiki/Deus_ex_machina
 anti:  
 https://en.wikipedia.org/wiki/Spawn_(character)
 https://en.wikipedia.org/wiki/Hellboy
@@ -1833,6 +1848,8 @@ https://en.wikipedia.org/wiki/Liquid_Snake
 https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#The_Patriots
 https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Cobra_Unit
 https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Sokolov
+mech:
+https://en.wikipedia.org/wiki/Power-up
 net:
 https://en.wikipedia.org/wiki/Pepe_the_Frog
 
