@@ -113,7 +113,7 @@ math:		  mathematics, intrinsics,
 stat:		  statistics,
 rare:		  statz, predictor,
 hard:		  hard science, empirical,
-soft:		  soft, pseudoscience,
+soft:		  soft, theory, pseudoscience,
 magi:		  for magi,
 al:		  alien,
 vis:		  vision, imaging,
@@ -195,13 +195,24 @@ fav:		  "favs",
 tech:		  technique, technology,
 sex:		  magic,
 love:		  rainbows, unicorns,
-far:		  far future, hard & soft scifi
+life:		  y'all,
+exp:		  immersive, experience, experiment, clinical,
+stud:		  study,
+far:		  far future, hard & soft scifi,
 }
 
 {
 Jumpcuts:	  "old,new",
 }
 
+
+// Draft editing:
+{
+https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System
+https://en.wikipedia.org/wiki/Interplanetary_medium
+https://en.wikipedia.org/wiki/Disk_formatting
+https://en.wikipedia.org/wiki/Moore's_law
+}
 
 
 { Humans, evolution & genetics, by origin, feature, survival (universal):
@@ -234,7 +245,17 @@ https://en.wikipedia.org/wiki/Caribbean_people
 pre, dead:  
 https://en.wikipedia.org/wiki/Neanderthal
 
-{ Humans, cognition, psyche & emotions, by structure, stimuli, sense (brain)
+{ Humans, biology, anatomy & organs by system, part, function (life):
+https://en.wikipedia.org/wiki/Cell_(biology)
+https://en.wikipedia.org/wiki/Human_body
+https://en.wikipedia.org/wiki/Biological_system
+https://en.wikipedia.org/wiki/Organ_system
+https://en.wikipedia.org/wiki/Organ_(biology)
+pose:
+https://en.wikipedia.org/wiki/Fetal_position 
+}
+
+{ Humans, cognition, psyche & emotions, by structure, sense, stimuli (brain)
 https://en.wikipedia.org/wiki/Autobiographical_memory     " iirc,   trained chimpanzees may do memorization, sequencing better because their brains have less noise due to this type of memory lacking "
 https://en.wikipedia.org/wiki/Emotion
 https://en.wikipedia.org/wiki/Fear
@@ -247,6 +268,7 @@ mag:
 https://en.wikipedia.org/wiki/Neurobiology_of_Learning_and_Memory
 }
 
+To-do:  dinosaurs
 
 { Language, communication, interactions (data, transient):
 https://en.wikipedia.org/wiki/Logic 		
@@ -1213,16 +1235,24 @@ https://en.wikipedia.org/wiki/Reading
 https://en.wikipedia.org/wiki/Writing
 https://en.wikipedia.org/wiki/Gameplay					" c64, nes, psx .. :P "
   https://en.wikipedia.org/wiki/Donkey_Kong_Country			favs
+  https://en.wikipedia.org/wiki/Metal_Slug
   https://en.wikipedia.org/wiki/Final_Fantasy_Tactics
   https://en.wikipedia.org/wiki/Final_Fantasy_VII
+  https://en.wikipedia.org/wiki/Final_Fantasy_VIII
+  https://en.wikipedia.org/wiki/Final_Fantasy_IX
+  https://en.wikipedia.org/wiki/Final_Fantasy_X
   https://en.wikipedia.org/wiki/Fallout_2
+  https://en.wikipedia.org/wiki/Guilty_Gear
   https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)
   https://en.wikipedia.org/wiki/Street_Fighter_Alpha_3
   https://en.wikipedia.org/wiki/Star_Ocean:_The_Second_Story
-  https://en.wikipedia.org/wiki/Suikoden_II		
+  https://en.wikipedia.org/wiki/Suikoden_II
+  https://en.wikipedia.org/wiki/Planescape:_Torment
   https://en.wikipedia.org/wiki/Deus_Ex_(video_game)
   https://en.wikipedia.org/wiki/Baldur's_Gate_II:_Shadows_of_Amn
   https://en.wikipedia.org/wiki/Vagrant_Story
+  https://en.wikipedia.org/wiki/Parasite_Eve_II
+  https://en.wikipedia.org/wiki/Ehrgeiz
   https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind
   https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell
   https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)
@@ -1315,6 +1345,7 @@ ban:
 https://en.wikipedia.org/wiki/Manslaughter
 https://en.wikipedia.org/wiki/Murder
 https://en.wikipedia.org/wiki/Proxy_murder
+https://en.wikipedia.org/wiki/Enhanced_interrogation_techniques
 }
 
 { Populations, world views, codes & ethics, by virtue, domain (affect):
@@ -1486,6 +1517,7 @@ cia:
 https://en.wikipedia.org/wiki/Central_Intelligence_Agency
 https://en.wikipedia.org/wiki/Director_of_the_Central_Intelligence_Agency
 sac:   https://en.wikipedia.org/wiki/Special_Activities_Center
+nsa:   https://en.wikipedia.org/wiki/National_Security_Agency
 list:  https://en.wikipedia.org/wiki/World_Leaders
 ...
 https://en.wikipedia.org/wiki/American_Finnish
@@ -1831,6 +1863,13 @@ carm
 To-do: neuroscience, neurology
 
 
+{ Training & education, by ability, knowledge (intellect):  stud,inst
+}
+
+{ Training & education techniques, by system, role (school):  stud,inst
+}
+
+
 { Strategic studies & human coordination, by type, role, analysis:
 https://en.wikipedia.org/wiki/Labor_relations
 https://en.wikipedia.org/wiki/Brinkmanship
@@ -1838,7 +1877,7 @@ https://en.wikipedia.org/wiki/Escalation_of_commitment
 }
 
 
-{ Psychology, human thinking & behavior (academics):  soft
+{ Psychology, human thinking & behavior, by ability, trait (academics):  soft
 https://en.wikipedia.org/wiki/Psychology
 https://en.wikipedia.org/wiki/Mind
 https://en.wikipedia.org/wiki/Intelligence
@@ -1874,6 +1913,9 @@ https://en.wikipedia.org/wiki/God_complex
 }
 
 { Psychiatry, diagnostics, therapy & medical treatment:  soft
+exp:
+https://en.wikipedia.org/wiki/Learned_helplessness
+https://en.wikipedia.org/wiki/Institutional_syndrome
 https://en.wikipedia.org/wiki/Occupational_burnout
 }
 
@@ -2115,15 +2157,6 @@ https://en.wikipedia.org/wiki/Martin_Heidegger
 
 { Metaphysical fields & theology (transcendent):
 https://en.wikipedia.org/wiki/Metaphysics
-}
-
-
-
-// Draft editing:
-{
-prehistory
-Training & education techniques, by system, role (universal): -
-Training & education, by system, role: -
 }
 
 
@@ -3897,7 +3930,6 @@ https://en.wikipedia.org/wiki/Modern_flat_Earth_beliefs
 https://en.wikipedia.org/wiki/Antiscience
 https://en.wikipedia.org/wiki/Spokesperson
 https://en.wikipedia.org/wiki/Michael_Rubin_(author)
-https://en.wikipedia.org/wiki/Moore's_law
 https://en.wikipedia.org/wiki/Saving
 https://en.wikipedia.org/wiki/Red_pill_and_blue_pill
 https://en.wikipedia.org/wiki/Moroccan_Jews
@@ -3968,7 +4000,6 @@ https://en.wikipedia.org/wiki/Dennis_the_Menace_and_Gnasher
 https://en.wikipedia.org/wiki/Institutionalization_(disambiguation)
 https://en.wikipedia.org/wiki/Institutionalized_discrimination_in_the_United_States
 https://en.wikipedia.org/wiki/Involuntary_commitment
-https://en.wikipedia.org/wiki/Institutional_syndrome
 https://en.wikipedia.org/wiki/BDSM
 https://en.wikipedia.org/wiki/Eroticism
 https://en.wikipedia.org/wiki/Claw
@@ -4013,6 +4044,10 @@ https://en.wikipedia.org/wiki/Paracetamol/metoclopramide
 https://en.wikipedia.org/wiki/Superimposition
 https://en.wikipedia.org/wiki/Reachability
 https://en.wikipedia.org/wiki/Tangibility
+
+https://en.wikipedia.org/wiki/Biopharmaceutical
+https://en.wikipedia.org/wiki/Edward_Studd_(cricketer,_born_1849)
+https://en.wikipedia.org/wiki/Dogma
 }
 
 {
