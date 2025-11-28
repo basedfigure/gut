@@ -15,19 +15,27 @@ Font used:	  Less Perfect DOS, monospace,
 
 Tools & usage (rough,wip):
 This handcranked database is tools agnostic,  but is designed for Sage and Punk!
-Sage gives you different text modes to view it in, and Punk gives 2D modes to v-
-iew it in. You can also plug both into any SAK file on the internet,  and expand
+Sage gives you different text modes to view it in, and Punk gives 2D modes to vi
+ew it in. You can also plug both into any SAK file on the internet,   and expand
 the capabilities from simple lookups to more advanced behaviors.  I use it as an 
 immersive learning project to see my own weaknesses in how I  use any techniques
-available to me. 
-So, it's me creating my own self contained internet, over a LAN,  to unplug from 
-the freight train forever.
+available to me.
+  The conjunction of Sage, SAK and Punk also comes down to compositing and morph
+ing data as it evolves,  but not losing sight of its legacy of expandability and 
+explorative prospects. The first thing you might want to do with Sage is to conv
+ert this document to a text version, instead of seeing so many URL addresses, bu
+t scope it how you want to.
+So, it's still me creating my own self contained internet, over a LAN, to unplug 
+from the freight train forever.
 
+FU! For The Barbarian Hoard!
+}
 
-Denotation syntax,  by symbol, whitespace:
+// Denotation syntax,  by symbol, whitespace:
+{
 Jumpcut   = "old",
-Comment   = " surrounded by whitespaces "
-Arbitrary = ( mon,gol )
+Comment   = " surrounded by whitespaces ",
+Arbitrary = ( mon,gol ),
 ...	  = to be continued, or not, split
 }
 
@@ -38,7 +46,7 @@ sys:		  System, cogs, prominence, path, all,
 data:		  type, id,
 list:		  name, version,
 holy:		  scriptura,
-code:             garb, moral
+code:             garb, moral, stat
 }
 
 {
@@ -156,7 +164,7 @@ hoof:		  hoof, hooflike, padded foot,
 scam:		  ~ targetting, shilling,
 tool:		  device, utility, utensil,
 fx:		  sound, visual
-art:		  fx, text, 2d, 3d,
+art:		  fx, text, 2d, 3d, garb,
 food:		  nutrition,
 slug:		  hydration, drink,
 mag:		  magazine, academic journal,
@@ -175,8 +183,9 @@ pre:		  prehistoric,
 face:		  head honcho, mastermind,
 irl:		  in real life,
 9999:		  over 9000,
-want:		  gimme,
+want:		  gimme, plz,
 area:		  territory,
+turf:		  home,
 atmo:		  atmospheric conditions, seasons,
 cast:		  weather, nature, phenomena,
 rad:		  radiating, radiation, waste,
@@ -184,7 +193,9 @@ mech:		  mechanic, mechanism, design, machination,
 plot:		  design, story, narrative,
 fav:		  "favs",
 tech:		  technique, technology,
-sex:		  magic
+sex:		  magic,
+love:		  rainbows, unicorns,
+far:		  far future, hard & soft scifi
 }
 
 {
@@ -793,6 +804,9 @@ https://en.wikipedia.org/wiki/Footwear
 https://en.wikipedia.org/wiki/Shoemaking
 code:
 https://en.wikipedia.org/wiki/Religious_habit
+art:
+https://en.wikipedia.org/wiki/Drag_queen
+https://en.wikipedia.org/wiki/Wearable_art
 }
 
 { Nature, geography, materials & weather, by conditions (life):
@@ -1020,6 +1034,8 @@ https://en.wikipedia.org/wiki/Paris_attacks_trial
 
 { Populations, interactivity & relationships, by system, entity (cultural):
 fam:
+https://en.wikipedia.org/wiki/Monogamy
+https://en.wikipedia.org/wiki/Polygamy
 https://en.wikipedia.org/wiki/Mother
 https://en.wikipedia.org/wiki/Father
 https://en.wikipedia.org/wiki/Marriage
@@ -1072,6 +1088,8 @@ https://en.wikipedia.org/wiki/Bisexuality
 https://en.wikipedia.org/wiki/Pansexuality
 https://en.wikipedia.org/wiki/Demisexuality
 https://en.wikipedia.org/wiki/Queer
+https://en.wikipedia.org/wiki/Polyamory
+https://en.wikipedia.org/wiki/Gray_asexuality
 https://en.wikipedia.org/wiki/LGBTQ_people
 act:
 https://en.wikipedia.org/wiki/Autoeroticism
@@ -1134,8 +1152,8 @@ https://en.wikipedia.org/wiki/Coffee					" caffeine withdrawal (puke) "
 https://en.wikipedia.org/wiki/Juice
 https://en.wikipedia.org/wiki/Soft_drink
 eat:
-https://en.wikipedia.org/wiki/Paracetamol
-https://en.wikipedia.org/wiki/Ibuprofen
+https://en.wikipedia.org/wiki/Paracetamol				" taking both .. "
+https://en.wikipedia.org/wiki/Ibuprofen					" cures persistent headaches, even with my extreme resistance "
 https://en.wikipedia.org/wiki/Candy
 wear:
 https://en.wikipedia.org/wiki/Headgear
@@ -1161,12 +1179,13 @@ https://en.wikipedia.org/wiki/Footwear
   https://en.wikipedia.org/wiki/Sock
   https://en.wikipedia.org/wiki/Sneakers
   https://en.wikipedia.org/wiki/Boot
-path:
+turf:
 https://en.wikipedia.org/wiki/Uusimaa
 https://en.wikipedia.org/wiki/Porvoo					" current "
 https://en.wikipedia.org/wiki/Kymenlaakso
 https://en.wikipedia.org/wiki/Iitti
 https://en.wikipedia.org/wiki/Kausala
+path:
 https://en.wikipedia.org/wiki/House
 https://en.wikipedia.org/wiki/Hermit    				" since a 12 yo "
 https://en.wikipedia.org/wiki/Kindergarten
@@ -1219,6 +1238,8 @@ https://en.wikipedia.org/wiki/User_interface_design
 den:
 https://en.wikipedia.org/wiki/Shelf_(storage)
 https://en.wikipedia.org/wiki/Desk
+https://en.wikipedia.org/wiki/Bed
+https://en.wikipedia.org/wiki/Mug
 https://en.wikipedia.org/wiki/Vacuum_flask
 https://en.wikipedia.org/wiki/Dice					" chessex d6, d10 "
 https://en.wikipedia.org/wiki/Desktop_computer
@@ -1280,7 +1301,7 @@ rare:
 https://en.wikipedia.org/wiki/Global_catastrophic_risk
 }
 
-{ Populations, activities, work & hazards, by state, level, sector (effect):
+{ Populations, activities, work & hazards, by state, measure, sector (effect):
 proj:
 https://en.wikipedia.org/wiki/Ripple_effect
 https://en.wikipedia.org/wiki/Neglect
@@ -1886,8 +1907,9 @@ https://en.wikipedia.org/wiki/Gary_Gygax
 fan:  
 https://en.wikipedia.org/wiki/Terry_Pratchett
 https://en.wikipedia.org/wiki/Discworld
+far:
+https://en.wikipedia.org/wiki/Grey_alien
 }
-
 
 { Sports, events & competitions, by size: -
 https://en.wikipedia.org/wiki/Olympic_Games
@@ -2016,8 +2038,10 @@ https://en.wikipedia.org/wiki/Legend
 https://en.wikipedia.org/wiki/Meta-religion
 sys:
 https://en.wikipedia.org/wiki/Goddess
+https://en.wikipedia.org/wiki/Soul
 https://en.wikipedia.org/wiki/God
 rip:
+https://en.wikipedia.org/wiki/Reincarnation
 https://en.wikipedia.org/wiki/Salvation
 https://en.wikipedia.org/wiki/Heaven
 myth:
@@ -2227,7 +2251,6 @@ https://en.wikipedia.org/wiki/Psychological_warfare
 https://en.wikipedia.org/wiki/Brainwashing
 https://en.wikipedia.org/wiki/Propaganda
 https://en.wikipedia.org/wiki/Propaganda_through_media
-https://en.wikipedia.org/wiki/Grey_alien
 https://en.wikipedia.org/wiki/Pathfinding
 https://en.wikipedia.org/wiki/Artificial_intelligence_in_video_games
 https://en.wikipedia.org/wiki/A*
@@ -3050,9 +3073,7 @@ https://en.wikipedia.org/wiki/Spatial_database
 https://en.wikipedia.org/wiki/MySQL
 https://en.wikipedia.org/wiki/Human_sexual_activity
 https://en.wikipedia.org/wiki/The_Year_of_the_Sex_Olympics
-https://en.wikipedia.org/wiki/Polyamory
 https://en.wikipedia.org/wiki/Polyamory_in_the_United_States
-https://en.wikipedia.org/wiki/Polygamy
 https://en.wikipedia.org/wiki/Three-dimensional_space
 https://en.wikipedia.org/wiki/Dimension
 https://en.wikipedia.org/wiki/Space
@@ -3957,7 +3978,6 @@ https://en.wikipedia.org/wiki/Guru
 https://en.wikipedia.org/wiki/Sex_symbol
 https://en.wikipedia.org/wiki/Sex_Rules
 https://en.wikipedia.org/wiki/Scientology
-https://en.wikipedia.org/wiki/Reincarnation
 https://en.wikipedia.org/wiki/ARPANET
 https://en.wikipedia.org/wiki/Branch
 https://en.wikipedia.org/wiki/Botany
@@ -3967,7 +3987,6 @@ https://en.wikipedia.org/wiki/Coat
 https://en.wikipedia.org/wiki/Wear
 https://en.wikipedia.org/wiki/Wearable_technology
 https://en.wikipedia.org/wiki/Wearable_computer
-https://en.wikipedia.org/wiki/Wearable_art
 https://en.wikipedia.org/wiki/Ring_of_Fire
 https://en.wikipedia.org/wiki/Woodcock
 https://en.wikipedia.org/wiki/Favoritism
@@ -3990,6 +4009,10 @@ https://en.wikipedia.org/wiki/Minimalist_program
 
 https://en.wikipedia.org/wiki/Tourism
 https://en.wikipedia.org/wiki/Paracetamol/metoclopramide
+
+https://en.wikipedia.org/wiki/Superimposition
+https://en.wikipedia.org/wiki/Reachability
+https://en.wikipedia.org/wiki/Tangibility
 }
 
 {
