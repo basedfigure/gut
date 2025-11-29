@@ -77,6 +77,7 @@ an:		  Antarctica
 Countries:	  gov,
 afg:		  Afghanistan,
 usa:		  United States of America,
+chi:		  China,
 cub:		  Cuba,
 uk:		  United Kingdom,
 fin:		  Finland,
@@ -146,7 +147,7 @@ tact:		  tactical placement deployment,border patrol,ambush,in/exfil,
 myth:		  legends, mythology,
 fam:		  family,
 pro:		  professional, career,
-pit:		  crawlspace or 9th circle,
+pit:		  crawlspace, 9th circle, spikes,
 hero:		  hero,
 anti:		  antihero,
 net:		  internet, portal,
@@ -221,7 +222,9 @@ evo:		  evolution,
 mat:		  material, organic, synthetic,
 sick:		  sickness, illness, disease,
 star:		  speck, dust, systems,
-cook:		  let
+cook:		  let,
+mil:		  armed forces, army, military,
+spy:		  espionage, tradecraft, intel
 }
 
 {
@@ -742,7 +745,7 @@ https://en.wikipedia.org/wiki/Indie_Game:_The_Movie
 corp:  -v
 }
 
-{ Software, reverse engineering & modding (hacks): -
+{ Software, reverse engineering & modding (hacks):
 }
 
 { Sofware, machine learning & artificial intelligence (simulation):  ai, sim
@@ -1603,6 +1606,17 @@ list:  https://en.wikipedia.org/wiki/World_Leaders
 ...
 https://en.wikipedia.org/wiki/American_Finnish
 https://en.wikipedia.org/wiki/American_imperialism
+}
+
+{ Statecraft (Chinese):  chi,gov
+https://en.wikipedia.org/wiki/China
+mil:
+https://en.wikipedia.org/wiki/78th_Group_Army
+https://en.wikipedia.org/wiki/People's_Liberation_Army_Special_Operations_Forces
+spy:
+https://en.wikipedia.org/wiki/Chinese_intelligence_activity_abroad
+https://en.wikipedia.org/wiki/Chinese_espionage_in_the_United_States
+https://en.wikipedia.org/wiki/Chinese_espionage_in_Hawaii
 }
 
 { Statecraft (Cuban):  cub,gov
