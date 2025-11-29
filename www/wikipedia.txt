@@ -224,7 +224,11 @@ sick:		  sickness, illness, disease,
 star:		  speck, dust, systems,
 cook:		  let,
 mil:		  armed forces, army, military,
-spy:		  espionage, tradecraft, intel
+spy:		  espionage, tradecraft, intel,
+psy:		  ops,
+hunt:		  spear, bow, arrow, game,
+lure:		  pond, rod, dynamite,
+agri:		  farm, butchery
 }
 
 {
@@ -238,6 +242,16 @@ Jumpcuts:	  "old,new",
 tech:
 https://en.wikipedia.org/wiki/Radio_broadcasting
 
+psy:
+https://en.wikipedia.org/wiki/Self-control
+https://en.wikipedia.org/wiki/Emotional_self-regulation
+https://en.wikipedia.org/wiki/Self-regulated_learning
+https://en.wikipedia.org/wiki/Self-regulation_theory
+https://en.wikipedia.org/wiki/Industry_self-regulation
+https://en.wikipedia.org/wiki/Self-regulatory_organization
+https://en.wikipedia.org/wiki/Self-limiting
+https://en.wikipedia.org/wiki/Self-realization
+https://en.wikipedia.org/wiki/Freudian_slip
 
 
 https://en.wikipedia.org/wiki/Disk_formatting
@@ -299,6 +313,10 @@ https://en.wikipedia.org/wiki/Emotion
 https://en.wikipedia.org/wiki/Fear
 https://en.wikipedia.org/wiki/Happiness
 https://en.wikipedia.org/wiki/Sadness
+}
+
+{ Humans, evolution, survival & practices (legacy):  bush,hunt,lure,agri,garb
+https://en.wikipedia.org/wiki/Fishing
 }
 
 { Humans, evolution & neurobiology, by study (brain):
@@ -1214,7 +1232,8 @@ mind:
 https://en.wikipedia.org/wiki/Sleep					" too much or little gives me brain fog, headaches "
 https://en.wikipedia.org/wiki/Nap
 https://en.wikipedia.org/wiki/He_(pronoun)
-https://en.wikipedia.org/wiki/Asociality
+https://en.wikipedia.org/wiki/Asociality				
+  ^- " i've gotten used to talking, but it still feels like a parallel universe to transition from a convo to my cloistered bubble,  i used to force it both ways too, but it traumatizes me "
 https://en.wikipedia.org/wiki/Minimalism
 https://en.wikipedia.org/wiki/Neurosis					" volume control "
 https://en.wikipedia.org/wiki/Mental_disorder    			" meds are not cutting it, refusal to pay or use "
@@ -4155,6 +4174,16 @@ https://en.wikipedia.org/wiki/Dogma
 https://en.wikipedia.org/wiki/Rent_regulation
 https://en.wikipedia.org/wiki/Rent-seeking
 https://en.wikipedia.org/wiki/Economic_rent
+
+https://en.wikipedia.org/wiki/The_Hitchhiker'ss_Guide_to_the_Galaxy
+https://en.wikipedia.org/wiki/Neptune
+https://en.wikipedia.org/wiki/Rebreather
+https://en.wikipedia.org/wiki/Geostrategy
+https://en.wikipedia.org/wiki/Anton_LaVey
+https://en.wikipedia.org/wiki/Homeostasis
+https://en.wikipedia.org/wiki/Emergence
+https://en.wikipedia.org/wiki/Spontaneous_order
+https://en.wikipedia.org/wiki/Free_content
 }
 
 {
@@ -4176,6 +4205,7 @@ https://en.wikipedia.org/wiki/Finnish_profanity#Perkele
 
 slur:
 https://en.wikipedia.org/wiki/Mongoloid
+https://en.wikipedia.org/wiki/Nigger
 }
 
 pit:
