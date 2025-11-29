@@ -29,7 +29,20 @@ So, it's still me creating my own self contained internet, over a LAN, to unplug
 from the freight train forever.
 
 FU! For The Barbarian Hoard!
+
+
+Sage's editor wishlist:
+1.
+Sage should let you move lines and blocks of text between curly braces,  without 
+having to cut text out, but just by tabbing through a mini map on the side. It's 
+good in a large document like this, that is really painful to navigate with a ba
+sic editor, and even so with a highly fitted modal editor, like Vim.
+
+Notes:
+Splitting would make the file searching less useful and text collapse controls w
+ould be intensive when cranked manually.
 }
+
 
 // Denotation syntax,  by symbol, whitespace:
 {
@@ -198,7 +211,12 @@ love:		  rainbows, unicorns,
 life:		  y'all,
 exp:		  immersive, experience, experiment, clinical,
 stud:		  study,
+inst:		  institution,
 far:		  far future, hard & soft scifi,
+wait:		  here,
+bare:		  metal, hardware,
+evo:		  evolution,
+mat:		  material, organic, synthetic
 }
 
 {
@@ -206,12 +224,24 @@ Jumpcuts:	  "old,new",
 }
 
 
+
 // Draft editing:
 {
-https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System
-https://en.wikipedia.org/wiki/Interplanetary_medium
+tech:
+https://en.wikipedia.org/wiki/Radio_broadcasting
+
+
+
 https://en.wikipedia.org/wiki/Disk_formatting
 https://en.wikipedia.org/wiki/Moore's_law
+https://en.wikipedia.org/wiki/Internet_culture
+https://en.wikipedia.org/wiki/Committee
+https://en.wikipedia.org/wiki/Community
+https://en.wikipedia.org/wiki/Obscurities
+https://en.wikipedia.org/wiki/Obscure
+https://en.wikipedia.org/wiki/Obscurantism
+https://en.wikipedia.org/wiki/Security_through_obscurity
+https://en.wikipedia.org/wiki/Litmus_test_(politics)
 }
 
 
@@ -301,6 +331,12 @@ Related shortcuts:  bark
 
 
 { Hall of Fame for the greatest legacies & prolificity (figures):
+wait:
+https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson
+https://en.wikipedia.org/wiki/Kimi_Räikkönen
+https://en.wikipedia.org/wiki/Michael_Schumacher
+https://en.wikipedia.org/wiki/Mika_Häkkinen
+
 born:
        https://en.wikipedia.org/wiki/Jesus
        https://en.wikipedia.org/wiki/Robin_Hood
@@ -658,13 +694,16 @@ https://en.wikipedia.org/wiki/Apple_Inc.
 https://en.wikipedia.org/wiki/Software_as_a_service
 }
 
-{ Software technologies (legacy): -
+{ Software technologies & tools, by purpose (legacy):
+net:
 https://en.wikipedia.org/wiki/Gopher_(protocol)
 }
 
 { Software technologies & tools (modern):
+bare:
 https://en.wikipedia.org/wiki/Machine_code
 https://en.wikipedia.org/wiki/Assembly_language
+lang:
 https://en.wikipedia.org/wiki/Pascal_(programming_language)
 https://en.wikipedia.org/wiki/Object_Pascal
 https://en.wikipedia.org/wiki/Free_Pascal
@@ -675,6 +714,7 @@ https://en.wikipedia.org/wiki/RSS
 
 { Software systems, networks & web development (internet):
 tech:
+https://en.wikipedia.org/wiki/Internet
 https://en.wikipedia.org/wiki/Web_server
 meta:
 https://en.wikipedia.org/wiki/Data_mining
@@ -831,6 +871,20 @@ https://en.wikipedia.org/wiki/Drag_queen
 https://en.wikipedia.org/wiki/Wearable_art
 }
 
+
+{ The Universe, galaxies & systems, by research (life):  deep
+turf:
+https://en.wikipedia.org/wiki/Milky_Way
+https://en.wikipedia.org/wiki/Sun
+hood:
+https://en.wikipedia.org/wiki/Andromeda_Galaxy
+evo:
+https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System
+https://en.wikipedia.org/wiki/Interplanetary_medium
+rip:
+https://en.wikipedia.org/wiki/Heat_death_of_the_universe
+}
+
 { Nature, geography, materials & weather, by conditions (life):
 atmo:
 https://en.wikipedia.org/wiki/Summer
@@ -841,6 +895,7 @@ https://en.wikipedia.org/wiki/Rain
 https://en.wikipedia.org/wiki/Sunlight
 https://en.wikipedia.org/wiki/Snowflake
 https://en.wikipedia.org/wiki/Slush
+mat:
 https://en.wikipedia.org/wiki/Fossil_fuel
 }
 
@@ -858,6 +913,7 @@ https://en.wikipedia.org/wiki/North_African_elephant
 { Nature, geography & plants, by family, species (life):
 https://en.wikipedia.org/wiki/Plant
 }
+
 
 { Geographical areas, countries & territories, by continent, zone:
 https://en.wikipedia.org/wiki/Africa
@@ -877,6 +933,7 @@ https://en.wikipedia.org/wiki/Spanish_Empire
 https://en.wikipedia.org/wiki/Library_of_Alexandria
 }
 
+
 { Building, urban planning & architecture, by country, era: -
 https://en.wikipedia.org/wiki/Moroccan_architecture
 }
@@ -885,6 +942,7 @@ https://en.wikipedia.org/wiki/Moroccan_architecture
 https://en.wikipedia.org/wiki/Construction
 https://en.wikipedia.org/wiki/Zoning
 }
+
 
 { Economics, banking & trade (universal):
 https://en.wikipedia.org/wiki/Currency
@@ -1253,6 +1311,7 @@ https://en.wikipedia.org/wiki/Gameplay					" c64, nes, psx .. :P "
   https://en.wikipedia.org/wiki/Vagrant_Story
   https://en.wikipedia.org/wiki/Parasite_Eve_II
   https://en.wikipedia.org/wiki/Ehrgeiz
+  https://en.wikipedia.org/wiki/Tomba!_2:_The_Evil_Swine_Return
   https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind
   https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell
   https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)
@@ -1284,6 +1343,7 @@ want:
 https://en.wikipedia.org/wiki/Kimono
 https://en.wikipedia.org/wiki/Bō
 https://en.wikipedia.org/wiki/Quarterstaff
+https://en.wikipedia.org/wiki/Nunchaku
 https://en.wikipedia.org/wiki/Japanese_sword				" joka kodin sankari "
 https://en.wikipedia.org/wiki/Tanto
 https://en.wikipedia.org/wiki/Katana
@@ -1306,7 +1366,8 @@ https://en.wikipedia.org/wiki/Crash_test_dummy
 https://en.wikipedia.org/wiki/Last_words    				" no qualms - lie beyond your masters "
 take:
 https://en.wikipedia.org/wiki/Advocacy_of_suicide
-https://en.wikipedia.org/wiki/Euthanasia
+https://en.wikipedia.org/wiki/Assisted_suicide				" let the christians summon and fight their own demons "
+https://en.wikipedia.org/wiki/Euthanasia				" shed your corporeal form    mortal "
 rip:
 https://en.wikipedia.org/wiki/Suicide					" dunno,  an option "
 https://en.wikipedia.org/wiki/Seppuku
@@ -1769,6 +1830,7 @@ arm:
 https://en.wikipedia.org/wiki/Pauldron
 }
 
+
 { Biomedical science, research & practices (universal):  hard
 life:
 https://en.wikipedia.org/wiki/Childbirth
@@ -1783,15 +1845,20 @@ https://en.wikipedia.org/wiki/Cancer
 https://en.wikipedia.org/wiki/Stress_(biology)
 }
 
+
+{ Nautical mapping, exploration & sailing, by measure, mission (modern):  aqua
+}
+
 { Nautical mapping, exploration & sailing, by measure, mission (historic):  aqua
 https://en.wikipedia.org/wiki/Galleon
 https://en.wikipedia.org/wiki/Warship
 }
 
+
 { To-do: Deep sea ...
 }
 
-{ Deep space technologies, research & knowledge, by measure, plan, mission:  deep
+{ Deep space technologies, research & knowledge, by measure, plan, mission: deep
 comm:
 https://en.wikipedia.org/wiki/Deep_Space_Network_(disambiguation)
 race:
@@ -1805,6 +1872,7 @@ https://en.wikipedia.org/wiki/Interplanetary_spaceflight
 https://en.wikipedia.org/wiki/Interplanetary_contamination
 https://en.wikipedia.org/wiki/Interplanetary_Internet
 }
+
 
 { Scientific fields, techniques & knowledge, by objectivity:  hard, soft
 https://en.wikipedia.org/wiki/Integrity
@@ -2809,7 +2877,14 @@ https://en.wikipedia.org/wiki/Chokehold
 
 https://en.wikipedia.org/wiki/Attack_dog
 https://en.wikipedia.org/wiki/Police_dog
-https://en.wikipedia.org/wiki/Internet_culture
+https://en.wikipedia.org/wiki/Shapeshifting
+https://en.wikipedia.org/wiki/Tangibility
+https://en.wikipedia.org/wiki/Cargo_ship
+https://en.wikipedia.org/wiki/Gaza-Israel_conflict
+https://en.wikipedia.org/wiki/Checkbox
+https://en.wikipedia.org/wiki/Snow_goose
+https://en.wikipedia.org/wiki/Snow_globe
+https://en.wikipedia.org/wiki/Scientology
 https://en.wikipedia.org/wiki/Computer-mediated_communication
 https://en.wikipedia.org/wiki/Multi-user_dungeon
 https://en.wikipedia.org/wiki/Multi-user_software
@@ -3030,9 +3105,6 @@ https://en.wikipedia.org/wiki/Debugging
 https://en.wikipedia.org/wiki/Telephone_game
 https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)
 https://en.wikipedia.org/wiki/Cheek_(rapper)_discography
-https://en.wikipedia.org/wiki/Kimi_Räikkönen
-https://en.wikipedia.org/wiki/Michael_Schumacher
-https://en.wikipedia.org/wiki/Mika_Häkkinen
 https://en.wikipedia.org/wiki/Deaf-mute
 https://en.wikipedia.org/wiki/Muteness
 https://en.wikipedia.org/wiki/Human_error
@@ -3654,7 +3726,6 @@ https://en.wikipedia.org/wiki/Stratosphere
 https://en.wikipedia.org/wiki/Xenophobia
 https://en.wikipedia.org/wiki/Theory
 https://en.wikipedia.org/wiki/Causality
-https://en.wikipedia.org/wiki/Heat_death_of_the_universe
 
 https://en.wikipedia.org/wiki/Systematic_review
 https://en.wikipedia.org/wiki/Systemic
@@ -3787,7 +3858,6 @@ https://en.wikipedia.org/wiki/Status_quo
 
 https://en.wikipedia.org/wiki/Civil_service
 https://en.wikipedia.org/wiki/Despotism
-https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson
 https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory
 https://en.wikipedia.org/wiki/Underground_press
 https://en.wikipedia.org/wiki/Spike_(missile)
@@ -3858,7 +3928,6 @@ https://en.wikipedia.org/wiki/Dejima
 https://en.wikipedia.org/wiki/South_Korea
 https://en.wikipedia.org/wiki/Afghanistan
 https://en.wikipedia.org/wiki/Isis
-https://en.wikipedia.org/wiki/Sun
 https://en.wikipedia.org/wiki/Osiris
 https://en.wikipedia.org/wiki/Fertility
 https://en.wikipedia.org/wiki/Demigod
@@ -4004,7 +4073,6 @@ https://en.wikipedia.org/wiki/BDSM
 https://en.wikipedia.org/wiki/Eroticism
 https://en.wikipedia.org/wiki/Claw
 https://en.wikipedia.org/wiki/Umaro_Sissoco_Embaló
-https://en.wikipedia.org/wiki/Assisted_suicide
 https://en.wikipedia.org/wiki/Guru
 https://en.wikipedia.org/wiki/Sex_symbol
 https://en.wikipedia.org/wiki/Sex_Rules
