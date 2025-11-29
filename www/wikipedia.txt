@@ -228,7 +228,8 @@ spy:		  espionage, tradecraft, intel,
 psy:		  ops,
 hunt:		  spear, bow, arrow, game,
 lure:		  pond, rod, dynamite,
-agri:		  farm, butchery
+agri:		  farm, butchery,
+ide:		  integrated development environment
 }
 
 {
@@ -363,7 +364,12 @@ https://en.wikipedia.org/wiki/Kimi_Räikkönen
 https://en.wikipedia.org/wiki/Michael_Schumacher
 https://en.wikipedia.org/wiki/Mika_Häkkinen
 https://en.wikipedia.org/wiki/Stephen_Hawking
-
+https://en.wikipedia.org/wiki/Tim_Sweeney
+https://en.wikipedia.org/wiki/Warren_Spector
+https://en.wikipedia.org/wiki/Gabe_Newell
+https://en.wikipedia.org/wiki/Chris_Avellone
+https://en.wikipedia.org/wiki/Josh_Sawyer
+https://en.wikipedia.org/wiki/Tim_Cain
 
 born:
        https://en.wikipedia.org/wiki/Jesus
@@ -710,6 +716,9 @@ prj:
 https://en.wikipedia.org/wiki/FFmpeg
 https://en.wikipedia.org/wiki/Git
 https://en.wikipedia.org/wiki/Fossil_(software)
+ide:
+https://en.wikipedia.org/wiki/Lazarus_(software)
+ed:
 plug:
 https://en.wikipedia.org/wiki/SyFlex
 lib:
@@ -3666,16 +3675,9 @@ https://en.wikipedia.org/wiki/Compiled_language
 https://en.wikipedia.org/wiki/ANSI_C#C89
 https://en.wikipedia.org/wiki/C99
 https://en.wikipedia.org/wiki/Compatibility_of_C_and_C++
-https://en.wikipedia.org/wiki/Lazarus_(software)
 https://en.wikipedia.org/wiki/Component_Object_Model
 https://en.wikipedia.org/wiki/Visual_Basic_(classic)
-https://en.wikipedia.org/wiki/Tim_Sweeney
-https://en.wikipedia.org/wiki/Warren_Spector
-https://en.wikipedia.org/wiki/Gabe_Newell
-https://en.wikipedia.org/wiki/Chris_Avellone
 https://en.wikipedia.org/wiki/Van_Buren_(video_game)
-https://en.wikipedia.org/wiki/Josh_Sawyer
-https://en.wikipedia.org/wiki/Tim_Cain
 https://en.wikipedia.org/wiki/Leonard_Boyarsky
 https://en.wikipedia.org/wiki/Bethesda_Softworks
 https://en.wikipedia.org/wiki/Fallout_2
