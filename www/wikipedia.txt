@@ -9,7 +9,7 @@ Techniques used:  Hard to soft analysis, accessibility, preservation, creativity
 
 Say:		  "Naked thought", "Stay a while and read", "Word 4 hire", "Down 
                   this beast!", "Split into pieces", "Scatter",
-Sayeth:		  " The brain dump ", " Lineage "
+Sayeth:		  " The brain dump ", " Lineage ", " Alone "
 
 Font used:	  Less Perfect DOS, monospace,
 
@@ -21,7 +21,7 @@ the capabilities from simple lookups to more advanced behaviors.  I use it as an
 immersive learning project to see my own weaknesses in how I  use any techniques
 available to me.
   The conjunction of Sage, SAK and Punk also comes down to compositing and morph
-ing data as it evolves,  but not losing sight of its legacy of expandability and 
+ing data as it evolves,  but not losing sight of the legacy of expandability and 
 explorative prospects. The first thing you might want to do with Sage is to conv
 ert this document to a text version, instead of seeing so many URL addresses, bu
 t scope it how you want to.
@@ -138,7 +138,7 @@ curr:  		  currency,
 cult:		  cultist, occultist, philosophic/religious/spiritual,
 exo:		  culture (arts, history, legacy), training, exoticism,
 arm:		  weapon, shield etc,
-mass:		  majority group,
+mass:		  majority group,    embryonic, doomerism, surveillance, abundance,   flock,
 gov:		  government,
 popo:		  police,
 fan:		  fantasy,
@@ -166,7 +166,7 @@ mind:		  brain, mentality,
 job:		  work, hobby,
 take:		  hot,
 rip:		  piece out,
-body:		  human, corpse, condition,
+body:		  human, corpse, condition, full,
 meta:		  metadata, status quo, reality,
 real:		  physical, existence,
 deep:		  space, science,
@@ -177,7 +177,7 @@ comm:		  radar, satellite comms,
 aoe:		  area of effect, denial,
 hoof:		  hoof, hooflike, padded foot,
 scam:		  ~ targetting, shilling,
-tool:		  device, utility, utensil, 
+tool:		  device, utility, utensil,
 util:		  utility, small program, script,
 fx:		  sound, visual
 art:		  fx, text, 2d, 3d, garb,
@@ -209,7 +209,7 @@ rad:		  radiating, radiation, waste,
 mech:		  mechanic, mechanism, design, machination,
 plot:		  design, story, narrative,
 fav:		  "favs",
-tech:		  technique, technology,
+tech:		  technique, technology, demonstrative,
 sex:		  magic,
 love:		  rainbows, unicorns,
 life:		  y'all,
@@ -226,7 +226,7 @@ star:		  speck, dust, systems,
 cook:		  let,
 mil:		  armed forces, army, military,
 spy:		  espionage, tradecraft, intel,
-psy:		  ops,
+psy:		  psyche, ops, duck,
 bush:		  bushcraft, trapping,  		  
 hunt:		  spear, bow, arrow, game,
 lure:		  pond, rod, dynamite,
@@ -235,11 +235,17 @@ agri:		  farming, animal husbandry,
 meat:		  butchery,
 veg:		  vegetation, plants, foliage,
 ide:		  integrated development environment,
-jest:		  jester, court, joke
+jest:		  jester, court, joke,
+bank:		  money, finances,
+phys:		  physical exercise, sport, training,
+prod:		  side, product, byproduct,
+miss:		  ranges between ambiguous, arbitrary, contested, wrong,
+act:		  activity, sport, action,
+wood:		  wood, pusher
 }
 
 {
-Jumpcuts:	  "old,new",
+Jumpcuts:	  "old,new,fame",
 }
 
 
@@ -322,7 +328,7 @@ https://en.wikipedia.org/wiki/Happiness
 https://en.wikipedia.org/wiki/Sadness
 }
 
-{ Humans, evolution, survival & practices (legacy):  bush,hunt,lure,agri,garb
+{ Humans, evolution, survival & practices (legacy):  bush,hunt,lure,agri,garb,veg,meat
 https://en.wikipedia.org/wiki/Fishing
 }
 
@@ -362,207 +368,24 @@ Related shortcuts:  bark
 ...
 }
 
-
-{ Hall of Fame for the greatest legacies & prolificity (figures):
-wait:
-https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson
-https://en.wikipedia.org/wiki/Kimi_Räikkönen
-https://en.wikipedia.org/wiki/Michael_Schumacher
-https://en.wikipedia.org/wiki/Mika_Häkkinen
-https://en.wikipedia.org/wiki/Stephen_Hawking
-https://en.wikipedia.org/wiki/Tim_Sweeney
-https://en.wikipedia.org/wiki/Warren_Spector
-https://en.wikipedia.org/wiki/Gabe_Newell
-https://en.wikipedia.org/wiki/Chris_Avellone
-https://en.wikipedia.org/wiki/Josh_Sawyer
-https://en.wikipedia.org/wiki/Tim_Cain
-
-born:
-       https://en.wikipedia.org/wiki/Jesus
-       https://en.wikipedia.org/wiki/Robin_Hood
-1157:  https://en.wikipedia.org/wiki/Richard_I_of_England
-1451:  https://en.wikipedia.org/wiki/Christopher_Columbus
-1452:  https://en.wikipedia.org/wiki/Leonardo_da_Vinci
-1564:  https://en.wikipedia.org/wiki/William_Shakespeare
-1706:  https://en.wikipedia.org/wiki/Benjamin_Franklin
-1815:  https://en.wikipedia.org/wiki/Ada_Lovelace
-1819:  https://en.wikipedia.org/wiki/Herman_Melville
-1828:  https://en.wikipedia.org/wiki/Leo_Tolstoy
-1850:  https://en.wikipedia.org/wiki/Sofya_Kovalevskaya
-1859:  https://en.wikipedia.org/wiki/Fusajiro_Yamauchi
-1867:  https://en.wikipedia.org/wiki/Marie_Curie
-1869:  https://en.wikipedia.org/wiki/Mahatma_Gandhi
-1874:  https://en.wikipedia.org/wiki/Winston_Churchill
-1879:  https://en.wikipedia.org/wiki/Albert_Einstein
-1889:  https://en.wikipedia.org/wiki/Charlie_Chaplin
-1895:  https://en.wikipedia.org/wiki/Babe_Ruth
-1900:  https://en.wikipedia.org/wiki/Queen_Elizabeth_The_Queen_Mother
-       https://en.wikipedia.org/wiki/Urho_Kekkonen
-1901:  https://en.wikipedia.org/wiki/Walt_Disney
-1912:  https://en.wikipedia.org/wiki/Alan_Turing
-1913:  https://en.wikipedia.org/wiki/Maurice_Wilkes
-1914:  https://en.wikipedia.org/wiki/Tove_Jansson
-1915:  https://en.wikipedia.org/wiki/Alan_Watts
-1921:  https://en.wikipedia.org/wiki/Violette_Szabo
-1922:  https://en.wikipedia.org/wiki/Christopher_Lee
-1924:  https://en.wikipedia.org/wiki/Marlon_Brando
-1925:  https://en.wikipedia.org/wiki/Malcolm_X
-1926:  https://en.wikipedia.org/wiki/Stanley_Gill
-       https://en.wikipedia.org/wiki/Elizabeth_II
-1927:  https://en.wikipedia.org/wiki/Roger_Moore
-1928:  https://en.wikipedia.org/wiki/Stanley_Kubrick
-       https://en.wikipedia.org/wiki/David_Wheeler_(computer_scientist)
-1929:  https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.
-1930:  https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
-       https://en.wikipedia.org/wiki/Sean_Connery
-1931:  https://en.wikipedia.org/wiki/Leonard_Nimoy
-1934:  https://en.wikipedia.org/wiki/Niklaus_Wirth
-       https://en.wikipedia.org/wiki/Carl_Sagan
-1937:  https://en.wikipedia.org/wiki/Hunter_S._Thompson
-       https://en.wikipedia.org/wiki/Jack_Nicholson
-1938:  https://en.wikipedia.org/wiki/Gary_Gygax
-       https://en.wikipedia.org/wiki/Donald_Knuth
-1939:  https://en.wikipedia.org/wiki/Francis_Ford_Coppola
-1941:  https://en.wikipedia.org/wiki/Hayao_Miyazaki
-       https://en.wikipedia.org/wiki/Dennis_Ritchie
-1942:  https://en.wikipedia.org/wiki/Bob_Ross
-       https://en.wikipedia.org/wiki/Hannu_Karpo
-       https://en.wikipedia.org/wiki/Jimi_Hendrix
-       https://en.wikipedia.org/wiki/Brian_Kernighan
-1943:  https://en.wikipedia.org/wiki/Irwin_Goodman
-       https://en.wikipedia.org/wiki/Ken_Thompson
-       https://en.wikipedia.org/wiki/Robert_De_Niro
-1944:  https://en.wikipedia.org/wiki/George_Lucas
-1945:  https://en.wikipedia.org/wiki/Edwin_Catmull
-1946:  https://en.wikipedia.org/wiki/Sylvester_Stallone
-1947:  https://en.wikipedia.org/wiki/Arnold_Schwarzenegger
-1948:  https://en.wikipedia.org/wiki/Samuel_L._Jackson
-       https://en.wikipedia.org/wiki/Terry_Pratchett
-1951:  https://en.wikipedia.org/wiki/Mamoru_Oshii
-       https://en.wikipedia.org/wiki/Robin_Williams
-1952:  https://en.wikipedia.org/wiki/Yoshitaka_Amano
-       https://en.wikipedia.org/wiki/Shigeru_Miyamoto
-       https://en.wikipedia.org/wiki/Liam_Neeson
-1953:  https://en.wikipedia.org/wiki/Pierce_Brosnan
-       https://en.wikipedia.org/wiki/James_Bond
-       https://en.wikipedia.org/wiki/Richard_Stallman
-1954:  https://en.wikipedia.org/wiki/Izo_Hashimoto
-       https://en.wikipedia.org/wiki/Mike_Pondsmith
-       https://en.wikipedia.org/wiki/Heikki_Silvennoinen
-       https://en.wikipedia.org/wiki/Katsuhiro_Otomo
-       https://en.wikipedia.org/wiki/James_Cameron
-       https://en.wikipedia.org/wiki/Kazunori_Ito
-       https://en.wikipedia.org/wiki/John_Travolta
-       https://en.wikipedia.org/wiki/Akira_Toriyama
-       https://en.wikipedia.org/wiki/Bruce_Willis
-1955:  https://en.wikipedia.org/wiki/Steve_Jobs
-       https://en.wikipedia.org/wiki/Bill_Gates
-1956:  https://en.wikipedia.org/wiki/Mel_Gibson
-       https://en.wikipedia.org/wiki/Tom_Hanks
-1957:  https://en.wikipedia.org/wiki/John_Lasseter
-1958:  https://en.wikipedia.org/wiki/Michael_Jackson
-       https://en.wikipedia.org/wiki/Gary_Oldman
-1959:  https://en.wikipedia.org/wiki/Nobuo_Uematsu
-1961:  https://en.wikipedia.org/wiki/Peter_Jackson
-       https://en.wikipedia.org/wiki/Richard_Garriott
-       https://en.wikipedia.org/wiki/Masamune_Shirow
-       https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales
-1962:  https://en.wikipedia.org/wiki/Tom_Cruise
-       https://en.wikipedia.org/wiki/Hironobu_Sakaguchi
-1963:  https://en.wikipedia.org/wiki/Garry_Kasparov
-       https://en.wikipedia.org/wiki/Hideo_Kojima
-       https://en.wikipedia.org/wiki/Brad_Pitt
-       https://en.wikipedia.org/wiki/Johnny_Depp
-       https://en.wikipedia.org/wiki/Russell_Crowe
-       https://en.wikipedia.org/wiki/Michael_Jordan
-1964:  https://en.wikipedia.org/wiki/Eazy-E
-1965:  https://en.wikipedia.org/wiki/Dr._Dre
-1966:  https://en.wikipedia.org/wiki/Brenda_Romero
-1967:  https://en.wikipedia.org/wiki/John_Romero
-       https://en.wikipedia.org/wiki/Kurt_Cobain
-1968:  https://en.wikipedia.org/wiki/Daniel_Craig
-1969:  https://en.wikipedia.org/wiki/Dead_(musician)
-       https://en.wikipedia.org/wiki/Linus_Torvalds
-       https://en.wikipedia.org/wiki/Ice_Cube
-       https://en.wikipedia.org/wiki/MC_Ren
-1970:  https://en.wikipedia.org/wiki/John_Carmack
-       https://en.wikipedia.org/wiki/Teemu_Selänne
-1971:  https://en.wikipedia.org/wiki/Yoji_Shinkawa
-       https://en.wikipedia.org/wiki/Snoop_Dogg
-       https://en.wikipedia.org/wiki/Jari_Litmanen
-1972:  https://en.wikipedia.org/wiki/Eminem
-1974:  https://en.wikipedia.org/wiki/Christian_Bale
-       https://en.wikipedia.org/wiki/Jani_Sievinen
-1975:  https://en.wikipedia.org/wiki/50_Cent
-       https://en.wikipedia.org/wiki/Leonardo_DiCaprio
-1975:  https://en.wikipedia.org/wiki/Angelina_Jolie
-       https://en.wikipedia.org/wiki/Allen_Iverson
-1976:  https://en.wikipedia.org/wiki/Alexei_Navalny
-1977:  https://en.wikipedia.org/wiki/Vinnie_Paz
-1978:  https://en.wikipedia.org/wiki/Tony_Yayo
-       https://en.wikipedia.org/wiki/Kobe_Bryant
-1979:  https://en.wikipedia.org/wiki/Heath_Ledger
-       https://en.wikipedia.org/wiki/The_Game_(rapper)
-1980:  https://en.wikipedia.org/wiki/Macaulay_Culkin
-       https://en.wikipedia.org/wiki/Ezkimo
-1981:  https://en.wikipedia.org/wiki/Natalie_Portman
-       https://en.wikipedia.org/wiki/Young_Buck
-       https://en.wikipedia.org/wiki/Elastinen
-       https://en.wikipedia.org/wiki/Serena_Williams
-1982:  https://en.wikipedia.org/wiki/Lloyd_Banks
-1983:  https://en.wikipedia.org/wiki/Josh_Ruben
-1984:  https://en.wikipedia.org/wiki/Scarlett_Johansson
-       https://en.wikipedia.org/wiki/LeBron_James
-       https://en.wikipedia.org/wiki/Carmelo_Anthony
-1985:  https://en.wikipedia.org/wiki/Hopsin
-       https://en.wikipedia.org/wiki/Michael_Phelps
-1986:  https://en.wikipedia.org/wiki/Usain_Bolt
-1989:  https://en.wikipedia.org/wiki/Daniel_Radcliffe
-       https://en.wikipedia.org/wiki/Lil_B
-1999:  https://en.wikipedia.org/wiki/Harambe
-    ^- " one life began, mine ended "
-...
+{ Disciplines, skills & expertise, by product (action):
+https://en.wikipedia.org/wiki/Cooking
 }
 
-{ Hall of Fame for masterpieces of artistic greatness & recognition:
-https://en.wikipedia.org/wiki/Masterpiece
-film:
-1977:  https://en.wikipedia.org/wiki/Darth_Vader
-1980:  https://en.wikipedia.org/wiki/Yoda
-       https://en.wikipedia.org/wiki/Palpatine
-1999:  https://en.wikipedia.org/wiki/Darth_Maul
-art:
-1981:  https://en.wikipedia.org/wiki/Donkey_Kong_(character)
-       https://en.wikipedia.org/wiki/Mario
-1984:  https://en.wikipedia.org/wiki/Splinter_(Teenage_Mutant_Ninja_Turtles)
-1983:  https://en.wikipedia.org/wiki/Luigi_(character)
-1985:  https://en.wikipedia.org/wiki/Princess_Peach
-1986:  https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)
-       https://en.wikipedia.org/wiki/Princess_Zelda
-1992:  https://en.wikipedia.org/wiki/Wario
-1995:  https://en.wikipedia.org/wiki/Motoko_Kusanagi
-1997:  https://en.wikipedia.org/wiki/Cloud_Strife
-       https://en.wikipedia.org/wiki/Tifa_Lockhart
-       https://en.wikipedia.org/wiki/Aerith_Gainsborough
-       https://en.wikipedia.org/wiki/Sephiroth_(Final_Fantasy)
-1998:  https://en.wikipedia.org/wiki/Minsc
-       https://en.wikipedia.org/wiki/Solid_Snake
-       https://en.wikipedia.org/wiki/Liquid_Snake
-       https://en.wikipedia.org/wiki/Revolver_Ocelot
-       https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Otacon
-       https://en.wikipedia.org/wiki/The_Boss_(Metal_Gear)
-...
-}
-
-{ Disciplines, professions & paths (universal):
+{ Disciplines, professions & career paths, not by historicity (legacy):
+https://en.wikipedia.org/wiki/Historicity
 https://en.wikipedia.org/wiki/Butcher
+https://en.wikipedia.org/wiki/Cook_(profession)
 https://en.wikipedia.org/wiki/Hacker
 https://en.wikipedia.org/wiki/Woodcutter
+https://en.wikipedia.org/wiki/Watchman_(law_enforcement)
+https://en.wikipedia.org/wiki/Police
 https://en.wikipedia.org/wiki/Intellectual
 https://en.wikipedia.org/wiki/Historian
 https://en.wikipedia.org/wiki/Librarian
 https://en.wikipedia.org/wiki/Bureaucrat
 https://en.wikipedia.org/wiki/Quartermaster
+https://en.wikipedia.org/wiki/Rag-and-bone_man
 https://en.wikipedia.org/wiki/Waste_collector
 https://en.wikipedia.org/wiki/Professor
 https://en.wikipedia.org/wiki/Neuroscientist
@@ -570,19 +393,24 @@ https://en.wikipedia.org/wiki/Handyman
 https://en.wikipedia.org/wiki/Plumber
 }
 
-{ Disciplines, techniques & proficiencies (universal):
-https://en.wikipedia.org/wiki/Not_invented_here
+
+{ Disciplines, techniques & proficiencies (self):
+mov:  https://en.wikipedia.org/wiki/Not_invented_here
 https://en.wikipedia.org/wiki/Hacking
 https://en.wikipedia.org/wiki/Heuristic
 https://en.wikipedia.org/wiki/Mnemonic
 https://en.wikipedia.org/wiki/Research_and_development
 https://en.wikipedia.org/wiki/Mastery_learning
 https://en.wikipedia.org/wiki/Subject-matter_expert
-https://en.wikipedia.org/wiki/Misinformation
-https://en.wikipedia.org/wiki/Disinformation
-https://en.wikipedia.org/wiki/Information_warfare
 ...
 https://en.wikipedia.org/wiki/Creative_problem-solving
+}
+
+{ Disciplines, techniques & tactics, by product (mass):
+https://en.wikipedia.org/wiki/Information_warfare
+prod:
+https://en.wikipedia.org/wiki/Misinformation
+https://en.wikipedia.org/wiki/Disinformation
 }
 
 { Disciplines & professions (historic):
@@ -590,6 +418,7 @@ https://en.wikipedia.org/wiki/Hunter-gatherer
 https://en.wikipedia.org/wiki/Peasant
 ...
 }
+
 
 { Electronics & hardware technologies (universal):  hw
 https://en.wikipedia.org/wiki/Low_technology
@@ -777,6 +606,8 @@ https://en.wikipedia.org/wiki/Demogroup
 https://en.wikipedia.org/wiki/Indie_game
 app:
 https://en.wikipedia.org/wiki/Godot_(game_engine)
+tech:
+https://en.wikipedia.org/wiki/Love_(2010_video_game)
 film:
 https://en.wikipedia.org/wiki/Indie_Game:_The_Movie
 corp:  -v
@@ -812,6 +643,7 @@ https://en.wikipedia.org/wiki/Machine
 https://en.wikipedia.org/wiki/Mechanical_engineering
 https://en.wikipedia.org/wiki/Clockwork
 https://en.wikipedia.org/wiki/Gear_train
+https://en.wikipedia.org/wiki/Lottery_machine
 }
 
 { Entertainment, games & interactive media productions:  aaa,saas,vr,scam
@@ -839,6 +671,7 @@ https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)
 https://en.wikipedia.org/wiki/Independence_Day_(1996_film)
 https://en.wikipedia.org/wiki/The_Fifth_Element
 https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
+https://en.wikipedia.org/wiki/The_Last_Samurai
 jap:
 https://en.wikipedia.org/wiki/Harakiri_(1962_film)
 }
@@ -864,13 +697,17 @@ https://en.wikipedia.org/wiki/Julmahuvi
 ad:  https://en.wikipedia.org/wiki/Kari_Grandi
 }
 
-{ Entertainment, audio & music productions, by genre, artist, song (pop culture):
-rap:
+{ Entertainment, audio & music productions, by genre, artist(s), song (pop culture):
+band:
+https://en.wikipedia.org/wiki/Hip-hop
+  https://en.wikipedia.org/wiki/Wu-Tang_Clan
+  https://en.wikipedia.org/wiki/Fintelligens
+  https://en.wikipedia.org/wiki/Bomfunk_MC's
 https://en.wikipedia.org/wiki/Gangsta_rap
-https://en.wikipedia.org/wiki/N.W.A
-https://en.wikipedia.org/wiki/Fuck_tha_Police
-emo:
+  https://en.wikipedia.org/wiki/N.W.A
+  https://en.wikipedia.org/wiki/Fuck_tha_Police
 https://en.wikipedia.org/wiki/Emo
+solo:
 }
 
 { Tools, wares, compounds & usage, by type, sector (universal):
@@ -1029,12 +866,13 @@ curr:  https://en.wikipedia.org/wiki/Finnish_markka
 }
 
 
-{ Law, order & recordkeeping, by rights & freedoms (legacy):
+{ Law, order & recordkeeping, by rights & freedoms, group (legacy):
 https://en.wikipedia.org/wiki/Human_rights
 https://en.wikipedia.org/wiki/International_human_rights_law
 https://en.wikipedia.org/wiki/Social_order
 https://en.wikipedia.org/wiki/History_of_the_legal_profession
 https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights
+https://en.wikipedia.org/wiki/Abortion-rights_movement
 }
 
 { Law, order & legislation, by party, type, rule (universal):
@@ -1277,11 +1115,17 @@ https://en.wikipedia.org/wiki/Walking
 https://en.wikipedia.org/wiki/Penis
 https://en.wikipedia.org/wiki/Autoeroticism
 https://en.wikipedia.org/wiki/Sexual_intercourse			" count to 6 "
-https://en.wikipedia.org/wiki/Push-up
 https://en.wikipedia.org/wiki/Atrophy
 https://en.wikipedia.org/wiki/Pattern_hair_loss
+phys:
+https://en.wikipedia.org/wiki/Push-up
+https://en.wikipedia.org/wiki/Kettlebell
+https://en.wikipedia.org/wiki/Stretching
+  https://en.wikipedia.org/wiki/Posture
 food:
+https://en.wikipedia.org/wiki/Ground_meat
 https://en.wikipedia.org/wiki/Macaroni
+https://en.wikipedia.org/wiki/Potato
 https://en.wikipedia.org/wiki/Lentil
 https://en.wikipedia.org/wiki/Rye_bread
 slug:
@@ -1386,20 +1230,28 @@ https://en.wikipedia.org/wiki/Free_Pascal
 https://en.wikipedia.org/wiki/User_interface
 https://en.wikipedia.org/wiki/User_interface_design
 den:
+
 https://en.wikipedia.org/wiki/Shelf_(storage)
 https://en.wikipedia.org/wiki/Desk
+
+https://en.wikipedia.org/wiki/Houseplant				" The dead 1s, to be cremated "
 https://en.wikipedia.org/wiki/Bed
-https://en.wikipedia.org/wiki/Mug
+https://en.wikipedia.org/wiki/Mug					" 8 "
 https://en.wikipedia.org/wiki/Vacuum_flask
 https://en.wikipedia.org/wiki/Dice					" chessex d6, d10 "
 https://en.wikipedia.org/wiki/Desktop_computer
-laptop
-https://en.wikipedia.org/wiki/Computer_monitor				" The dying 1 "
+https://en.wikipedia.org/wiki/Keyboard
+https://en.wikipedia.org/wiki/Computer_mouse
+https://en.wikipedia.org/wiki/Laptop
+https://en.wikipedia.org/wiki/ThinkPad					" x220, t495 (touch screens) "
+https://en.wikipedia.org/wiki/Computer_monitor				" The dying 1, 2 stored "
 https://en.wikipedia.org/wiki/Computer_speakers
 https://en.wikipedia.org/wiki/Loudspeaker
-https://en.wikipedia.org/wiki/ThinkPad					" x220, t495 (touch screens) "
 https://en.wikipedia.org/wiki/Smartphone
-https://en.wikipedia.org/wiki/Houseplant				" The dead 1s, to be cremated "
+https://en.wikipedia.org/wiki/Television
+https://en.wikipedia.org/wiki/Statue					" eagle with left wing snapped, turtle "
+https://en.wikipedia.org/wiki/Chessboard				" marble, metal pieces "
+https://en.wikipedia.org/wiki/Skateboard
 want:
 https://en.wikipedia.org/wiki/Kimono
 https://en.wikipedia.org/wiki/Bō
@@ -1443,7 +1295,6 @@ https://en.wikipedia.org/wiki/Social_death
 https://en.wikipedia.org/wiki/Starvation
   https://en.wikipedia.org/wiki/Food
 https://en.wikipedia.org/wiki/Running
-https://en.wikipedia.org/wiki/Skateboarding
 }
 
 
@@ -1909,6 +1760,10 @@ https://en.wikipedia.org/wiki/Childbirth
 }
 
 { Biomedical science, physical trauma & disability by part, organ, injury:  hard
+body:
+https://en.wikipedia.org/wiki/Tetraplegia
+tool:
+https://en.wikipedia.org/wiki/Wheelchair
 }
 
 { Biomedical science, conditions, symptoms & diseases, by system, scope:  hard, soft
@@ -2108,7 +1963,18 @@ https://en.wikipedia.org/wiki/Running
 https://en.wikipedia.org/wiki/Sprint_(running)
 }
 
-{ Sports & training, by physicality, goal (team): -
+{ Sports & training, by physicality, goal (team):
+ball:
+https://en.wikipedia.org/wiki/Pétanque
+https://en.wikipedia.org/wiki/Slam_Dunk_Contest
+bat:
+https://en.wikipedia.org/wiki/Cricket
+slam:
+https://en.wikipedia.org/wiki/Hockey
+wood:
+https://en.wikipedia.org/wiki/Skateboarding
+snow:
+https://en.wikipedia.org/wiki/Snowboarding
 }
 
 { Martial arts & combat sports training, by system, arm:  exo
@@ -2174,12 +2040,14 @@ plot:
 https://en.wikipedia.org/wiki/Plot_device
 https://en.wikipedia.org/wiki/Deus_ex_machina
 toon:
+https://en.wikipedia.org/wiki/Mickey_Mouse
 https://en.wikipedia.org/wiki/Donald_Duck
 https://en.wikipedia.org/wiki/Scrooge_McDuck
 https://en.wikipedia.org/wiki/Garfield
 hero:
 https://en.wikipedia.org/wiki/Big_Boss_(Metal_Gear)
 https://en.wikipedia.org/wiki/Solid_Snake
+https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Roy_Campbell
 https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Otacon
 anti:  
 https://en.wikipedia.org/wiki/Spawn_(character)
@@ -2490,7 +2358,6 @@ https://en.wikipedia.org/wiki/Font
 https://en.wikipedia.org/wiki/Graphics
 https://en.wikipedia.org/wiki/Font_embedding
 https://en.wikipedia.org/wiki/Clip_font
-https://en.wikipedia.org/wiki/Abortion-rights_movement
 https://en.wikipedia.org/wiki/Depth
 https://en.wikipedia.org/wiki/Breadth-first_search
 https://en.wikipedia.org/wiki/Industrial_Light_&_Magic
@@ -2623,7 +2490,6 @@ https://en.wikipedia.org/wiki/Nuclear_proliferation
 https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons
 https://en.wikipedia.org/wiki/Minority_group
 https://en.wikipedia.org/wiki/Minority_group#Racial_or_ethnic_minorities
-https://en.wikipedia.org/wiki/Aleksis_Kivi
 https://en.wikipedia.org/wiki/Seitsemän_veljestä
 https://en.wikipedia.org/wiki/Salatut_elämät
 https://en.wikipedia.org/wiki/Soap_opera
@@ -3155,7 +3021,6 @@ https://en.wikipedia.org/wiki/Lawful_interception
 https://en.wikipedia.org/wiki/Phone_hacking
 https://en.wikipedia.org/wiki/Threat_(computer_security)
 https://en.wikipedia.org/wiki/Imprisonment
-https://en.wikipedia.org/wiki/Posture
 https://en.wikipedia.org/wiki/Best_friends_forever
 https://en.wikipedia.org/wiki/Terry_A._Davis#"Glowies"
 https://en.wikipedia.org/wiki/Schizophrenia
@@ -3333,8 +3198,6 @@ https://en.wikipedia.org/wiki/Fable
 https://en.wikipedia.org/wiki/Metaphor
 https://en.wikipedia.org/wiki/Allegory
 https://en.wikipedia.org/wiki/Analog_television
-https://en.wikipedia.org/wiki/Väinämöinen
-https://en.wikipedia.org/wiki/Akseli_Gallen-Kallela
 https://en.wikipedia.org/wiki/Watcom_C/C++
 https://en.wiktionary.org/wiki/smart_aleck
 https://en.wikipedia.org/wiki/Victim_cache
@@ -4201,11 +4064,322 @@ https://en.wikipedia.org/wiki/Homeostasis
 https://en.wikipedia.org/wiki/Emergence
 https://en.wikipedia.org/wiki/Spontaneous_order
 https://en.wikipedia.org/wiki/Free_content
+
+https://en.wikipedia.org/wiki/PSXLinux
+https://en.wikipedia.org/wiki/Self-control
+https://en.wikipedia.org/wiki/Emotional_self-regulation
+https://en.wikipedia.org/wiki/Self-regulated_learning
+https://en.wikipedia.org/wiki/Self-regulation_theory
+https://en.wikipedia.org/wiki/Industry_self-regulation
+https://en.wikipedia.org/wiki/Self-regulatory_organization
+https://en.wikipedia.org/wiki/Homeostasis
+https://en.wikipedia.org/wiki/Emergence
+https://en.wikipedia.org/wiki/Spontaneous_order
+https://en.wikipedia.org/wiki/Self-limiting
+https://en.wikipedia.org/wiki/Self-realization
+https://en.wikipedia.org/wiki/Free_content
+https://en.wikipedia.org/wiki/Freudian_slip
+https://en.wikipedia.org/wiki/Online_piracy
+https://en.wikipedia.org/wiki/Patch_(computing)#Binary_patching
+https://en.wikipedia.org/wiki/Warez_scene#Crackers_and_reverse_engineers
+https://en.wikipedia.org/wiki/Software_cracking
+https://en.wikipedia.org/wiki/Digital_rights_management
+https://en.wikipedia.org/wiki/Magnus_Carlsen
+https://en.wikipedia.org/wiki/Jester
+https://en.wikipedia.org/wiki/Anti-Corruption_Foundation
+https://en.wikipedia.org/wiki/Russian_foreign_agent_law
+https://en.wikipedia.org/wiki/Judas_Priest
+https://en.wikipedia.org/wiki/The_Body_Keeps_the_Score
+https://en.wikipedia.org/wiki/Steve_Crompton
+https://en.wikipedia.org/wiki/Freestyle_skateboarding
+https://en.wikipedia.org/wiki/Lock_'n_Load_Publishing
+https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans
+https://en.wikipedia.org/wiki/Embryonic_stem_cell
+https://en.wikipedia.org/wiki/Archetype
+https://en.wikipedia.org/wiki/Jopie_Huisman
+https://en.wikipedia.org/wiki/Samurai_cinema
+https://en.wikipedia.org/wiki/Guild
+miss:  https://en.wikipedia.org/wiki/Feudalism
+https://en.wikipedia.org/wiki/Tables_game
+https://en.wikipedia.org/wiki/Counterinsurgency
+https://en.wikipedia.org/wiki/Table_of_contents
+https://en.wikipedia.org/wiki/Speedrunning
+https://en.wikipedia.org/wiki/Spectral_sequence
+https://en.wikipedia.org/wiki/Heteronomy
+https://en.wikipedia.org/wiki/Video_game_crash_of_1983
+https://en.wikipedia.org/wiki/Y2K_aesthetic
+https://en.wikipedia.org/wiki/Year_2000_problem
+https://en.wikipedia.org/wiki/Black-footed_ferret
+https://en.wikipedia.org/wiki/Tero_Puha
+https://en.wikipedia.org/wiki/Pelit
+https://en.wikipedia.org/wiki/MikroBitti
+https://en.wikipedia.org/wiki/C-lehti
 }
 
 {
 name:
 carm:		John Carmack
+}
+
+{ Hall of Fame for the greatest legacies & prolificity (figures):  fame
+wait:
+https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson
+https://en.wikipedia.org/wiki/Kimi_Räikkönen
+https://en.wikipedia.org/wiki/Michael_Schumacher
+https://en.wikipedia.org/wiki/Mika_Häkkinen
+https://en.wikipedia.org/wiki/Stephen_Hawking
+https://en.wikipedia.org/wiki/Tim_Sweeney
+https://en.wikipedia.org/wiki/Warren_Spector
+https://en.wikipedia.org/wiki/Gabe_Newell
+https://en.wikipedia.org/wiki/Chris_Avellone
+https://en.wikipedia.org/wiki/Josh_Sawyer
+https://en.wikipedia.org/wiki/Tim_Cain
+https://en.wikipedia.org/wiki/Tupac_Shakur
+https://en.wikipedia.org/wiki/DMX
+https://en.wikipedia.org/wiki/Logic_(rapper)
+https://en.wikipedia.org/wiki/Elon_Musk
+https://en.wikipedia.org/wiki/Method_Man
+https://en.wikipedia.org/wiki/Redman_(rapper)
+https://en.wikipedia.org/wiki/Väinämöinen
+https://en.wikipedia.org/wiki/Akseli_Gallen-Kallela
+https://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg
+https://en.wikipedia.org/wiki/Jean_Sibelius
+https://en.wikipedia.org/wiki/Zinedine_Zidane
+https://en.wikipedia.org/wiki/Ronaldinho
+https://en.wikipedia.org/wiki/Cristiano_Ronaldo
+https://en.wikipedia.org/wiki/Antero_Mertaranta
+https://en.wikipedia.org/wiki/Jari_Kurri
+https://en.wikipedia.org/wiki/Matti_Nykänen
+https://en.wikipedia.org/wiki/Johanna_Tukiainen
+https://en.wikipedia.org/wiki/Terry_A._Davis
+https://en.wikipedia.org/wiki/Ken_Block
+https://en.wikipedia.org/wiki/Tony_Hawk
+https://en.wikipedia.org/wiki/Chad_Muska
+https://en.wikipedia.org/wiki/Andy_Anderson_(skateboarder)
+https://en.wikipedia.org/wiki/Aki_Sirkesalo
+https://en.wikipedia.org/wiki/Colin_McRae
+https://en.wikipedia.org/wiki/Tommi_Mäkinen
+https://en.wikipedia.org/wiki/Marja-Liisa_Kirvesniemi
+https://en.wikipedia.org/wiki/Eddie_Van_Halen
+https://en.wikipedia.org/wiki/Eddie_Murphy
+https://en.wikipedia.org/wiki/Jim_Carrey
+https://en.wikipedia.org/wiki/David_Hasselhoff
+https://en.wikipedia.org/wiki/Christopher_Lloyd
+https://en.wikipedia.org/wiki/Robert_Zemeckis
+https://en.wikipedia.org/wiki/Michael_J._Fox
+https://en.wikipedia.org/wiki/Michelangelo
+https://en.wikipedia.org/wiki/Shia_LaBeouf
+https://en.wikipedia.org/wiki/Matt_Damon
+https://en.wikipedia.org/wiki/Harry_Mack
+https://en.wikipedia.org/wiki/Axl_Rose
+https://en.wikipedia.org/wiki/Alexander_Brandon
+https://en.wikipedia.org/wiki/Casey_Muratori
+https://en.wikipedia.org/wiki/Sam_Lake
+https://en.wikipedia.org/wiki/Jaana_Pelkonen           
+                                        
+born:
+       https://en.wikipedia.org/wiki/Jesus
+       https://en.wikipedia.org/wiki/Robin_Hood
+1157:  https://en.wikipedia.org/wiki/Richard_I_of_England
+1451:  https://en.wikipedia.org/wiki/Christopher_Columbus
+1452:  https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+1564:  https://en.wikipedia.org/wiki/William_Shakespeare
+1706:  https://en.wikipedia.org/wiki/Benjamin_Franklin
+1728:  https://en.wikipedia.org/wiki/James_Cook
+1732:  https://en.wikipedia.org/wiki/George_Washington
+1735:  https://en.wikipedia.org/wiki/John_Adams
+1739:  https://en.wikipedia.org/wiki/George_Clinton_(vice_president)
+1743:  https://en.wikipedia.org/wiki/Thomas_Jefferson
+1751:  https://en.wikipedia.org/wiki/James_Madison
+1755:  https://en.wikipedia.org/wiki/Alexander_Hamilton
+1756:  https://en.wikipedia.org/wiki/Aaron_Burr
+1809:  https://en.wikipedia.org/wiki/Abraham_Lincoln
+1815:  https://en.wikipedia.org/wiki/Ada_Lovelace
+1819:  https://en.wikipedia.org/wiki/Herman_Melville
+1828:  https://en.wikipedia.org/wiki/Leo_Tolstoy
+1834:  https://en.wikipedia.org/wiki/Aleksis_Kivi
+1850:  https://en.wikipedia.org/wiki/Sofya_Kovalevskaya
+1859:  https://en.wikipedia.org/wiki/Fusajiro_Yamauchi
+1867:  https://en.wikipedia.org/wiki/Marie_Curie
+1869:  https://en.wikipedia.org/wiki/Mahatma_Gandhi
+1874:  https://en.wikipedia.org/wiki/Winston_Churchill
+1879:  https://en.wikipedia.org/wiki/Albert_Einstein
+1889:  https://en.wikipedia.org/wiki/Charlie_Chaplin
+1895:  https://en.wikipedia.org/wiki/Babe_Ruth
+1900:  https://en.wikipedia.org/wiki/Queen_Elizabeth_The_Queen_Mother
+       https://en.wikipedia.org/wiki/Urho_Kekkonen
+1901:  https://en.wikipedia.org/wiki/Walt_Disney
+1912:  https://en.wikipedia.org/wiki/Alan_Turing
+1913:  https://en.wikipedia.org/wiki/Maurice_Wilkes
+1914:  https://en.wikipedia.org/wiki/Tove_Jansson
+1915:  https://en.wikipedia.org/wiki/Alan_Watts
+1921:  https://en.wikipedia.org/wiki/Violette_Szabo
+1922:  https://en.wikipedia.org/wiki/Christopher_Lee
+1924:  https://en.wikipedia.org/wiki/Marlon_Brando
+1925:  https://en.wikipedia.org/wiki/Malcolm_X
+1926:  https://en.wikipedia.org/wiki/Stanley_Gill
+       https://en.wikipedia.org/wiki/Elizabeth_II
+1927:  https://en.wikipedia.org/wiki/Roger_Moore
+1928:  https://en.wikipedia.org/wiki/Stanley_Kubrick
+       https://en.wikipedia.org/wiki/David_Wheeler_(computer_scientist)
+1929:  https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.
+1930:  https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
+       https://en.wikipedia.org/wiki/Sean_Connery
+1931:  https://en.wikipedia.org/wiki/Leonard_Nimoy
+1934:  https://en.wikipedia.org/wiki/Niklaus_Wirth
+       https://en.wikipedia.org/wiki/Carl_Sagan
+1937:  https://en.wikipedia.org/wiki/Hunter_S._Thompson
+       https://en.wikipedia.org/wiki/Jack_Nicholson
+1938:  https://en.wikipedia.org/wiki/Gary_Gygax
+       https://en.wikipedia.org/wiki/Donald_Knuth
+1939:  https://en.wikipedia.org/wiki/Francis_Ford_Coppola
+1941:  https://en.wikipedia.org/wiki/Hayao_Miyazaki
+       https://en.wikipedia.org/wiki/Dennis_Ritchie
+1942:  https://en.wikipedia.org/wiki/Bob_Ross
+       https://en.wikipedia.org/wiki/Hannu_Karpo
+       https://en.wikipedia.org/wiki/Jimi_Hendrix
+       https://en.wikipedia.org/wiki/Brian_Kernighan
+1943:  https://en.wikipedia.org/wiki/Irwin_Goodman
+       https://en.wikipedia.org/wiki/Ken_Thompson
+       https://en.wikipedia.org/wiki/Robert_De_Niro
+1944:  https://en.wikipedia.org/wiki/George_Lucas
+1945:  https://en.wikipedia.org/wiki/Edwin_Catmull
+1946:  https://en.wikipedia.org/wiki/Sylvester_Stallone
+1947:  https://en.wikipedia.org/wiki/Arnold_Schwarzenegger
+1948:  https://en.wikipedia.org/wiki/Samuel_L._Jackson
+       https://en.wikipedia.org/wiki/Terry_Pratchett
+1951:  https://en.wikipedia.org/wiki/Mamoru_Oshii
+       https://en.wikipedia.org/wiki/Robin_Williams
+1952:  https://en.wikipedia.org/wiki/Yoshitaka_Amano
+       https://en.wikipedia.org/wiki/Shigeru_Miyamoto
+       https://en.wikipedia.org/wiki/Liam_Neeson
+1953:  https://en.wikipedia.org/wiki/Pierce_Brosnan
+       https://en.wikipedia.org/wiki/James_Bond
+       https://en.wikipedia.org/wiki/Richard_Stallman
+1954:  https://en.wikipedia.org/wiki/Izo_Hashimoto
+       https://en.wikipedia.org/wiki/Mike_Pondsmith
+       https://en.wikipedia.org/wiki/Heikki_Silvennoinen
+       https://en.wikipedia.org/wiki/Katsuhiro_Otomo
+       https://en.wikipedia.org/wiki/James_Cameron
+       https://en.wikipedia.org/wiki/Kazunori_Ito
+       https://en.wikipedia.org/wiki/John_Travolta
+       https://en.wikipedia.org/wiki/Akira_Toriyama
+       https://en.wikipedia.org/wiki/Bruce_Willis
+1955:  https://en.wikipedia.org/wiki/Steve_Jobs
+       https://en.wikipedia.org/wiki/Bill_Gates
+1956:  https://en.wikipedia.org/wiki/Mel_Gibson
+       https://en.wikipedia.org/wiki/Tom_Hanks
+1957:  https://en.wikipedia.org/wiki/John_Lasseter
+1958:  https://en.wikipedia.org/wiki/Michael_Jackson
+       https://en.wikipedia.org/wiki/Gary_Oldman
+1959:  https://en.wikipedia.org/wiki/Nobuo_Uematsu
+1961:  https://en.wikipedia.org/wiki/Peter_Jackson
+       https://en.wikipedia.org/wiki/Richard_Garriott
+       https://en.wikipedia.org/wiki/Masamune_Shirow
+       https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales
+1962:  https://en.wikipedia.org/wiki/Tom_Cruise
+       https://en.wikipedia.org/wiki/Hironobu_Sakaguchi
+1963:  https://en.wikipedia.org/wiki/Garry_Kasparov
+       https://en.wikipedia.org/wiki/Hideo_Kojima
+       https://en.wikipedia.org/wiki/Brad_Pitt
+       https://en.wikipedia.org/wiki/Johnny_Depp
+       https://en.wikipedia.org/wiki/Russell_Crowe
+       https://en.wikipedia.org/wiki/Michael_Jordan
+1964:  https://en.wikipedia.org/wiki/Eazy-E
+       https://en.wikipedia.org/wiki/Adam_Yauch
+1965:  https://en.wikipedia.org/wiki/Dr._Dre
+1966:  https://en.wikipedia.org/wiki/Brenda_Romero
+1967:  https://en.wikipedia.org/wiki/John_Romero
+       https://en.wikipedia.org/wiki/Kurt_Cobain
+1968:  https://en.wikipedia.org/wiki/Daniel_Craig
+1969:  https://en.wikipedia.org/wiki/Dead_(musician)
+       https://en.wikipedia.org/wiki/Linus_Torvalds
+       https://en.wikipedia.org/wiki/Ice_Cube
+       https://en.wikipedia.org/wiki/MC_Ren
+1970:  https://en.wikipedia.org/wiki/John_Carmack
+       https://en.wikipedia.org/wiki/Teemu_Selänne
+1971:  https://en.wikipedia.org/wiki/Yoji_Shinkawa
+       https://en.wikipedia.org/wiki/Snoop_Dogg
+       https://en.wikipedia.org/wiki/Jari_Litmanen
+1972:  https://en.wikipedia.org/wiki/Eminem
+1974:  https://en.wikipedia.org/wiki/Christian_Bale
+       https://en.wikipedia.org/wiki/Jani_Sievinen
+1975:  https://en.wikipedia.org/wiki/50_Cent
+       https://en.wikipedia.org/wiki/Leonardo_DiCaprio
+1975:  https://en.wikipedia.org/wiki/Angelina_Jolie
+       https://en.wikipedia.org/wiki/Allen_Iverson
+1976:  https://en.wikipedia.org/wiki/Alexei_Navalny
+1977:  https://en.wikipedia.org/wiki/Vinnie_Paz
+1978:  https://en.wikipedia.org/wiki/Tony_Yayo
+       https://en.wikipedia.org/wiki/Kobe_Bryant
+1979:  https://en.wikipedia.org/wiki/Heath_Ledger
+       https://en.wikipedia.org/wiki/The_Game_(rapper)
+1980:  https://en.wikipedia.org/wiki/Macaulay_Culkin
+       https://en.wikipedia.org/wiki/Ezkimo
+1981:  https://en.wikipedia.org/wiki/Natalie_Portman
+       https://en.wikipedia.org/wiki/Young_Buck
+       https://en.wikipedia.org/wiki/Elastinen
+       https://en.wikipedia.org/wiki/Serena_Williams
+1982:  https://en.wikipedia.org/wiki/Lloyd_Banks
+1983:  https://en.wikipedia.org/wiki/Josh_Ruben
+1984:  https://en.wikipedia.org/wiki/Scarlett_Johansson
+       https://en.wikipedia.org/wiki/LeBron_James
+       https://en.wikipedia.org/wiki/Carmelo_Anthony
+1985:  https://en.wikipedia.org/wiki/Hopsin
+       https://en.wikipedia.org/wiki/Michael_Phelps
+1986:  https://en.wikipedia.org/wiki/Usain_Bolt
+1989:  https://en.wikipedia.org/wiki/Daniel_Radcliffe
+       https://en.wikipedia.org/wiki/Lil_B
+1999:  https://en.wikipedia.org/wiki/Harambe
+    ^- " one life began, mine ended "
+...
+}
+
+{ Hall of Fame for masterpieces of artistic greatness & recognition:  fame
+https://en.wikipedia.org/wiki/Masterpiece
+film:
+1977:  https://en.wikipedia.org/wiki/Darth_Vader
+1980:  https://en.wikipedia.org/wiki/Yoda
+       https://en.wikipedia.org/wiki/Palpatine
+1999:  https://en.wikipedia.org/wiki/Darth_Maul
+art:
+1928:  https://en.wikipedia.org/wiki/Mickey_Mouse
+       https://en.wikipedia.org/wiki/Minnie_Mouse
+1932:  https://en.wikipedia.org/wiki/Goofy
+1934:  https://en.wikipedia.org/wiki/Donald_Duck
+1947:  https://en.wikipedia.org/wiki/Scrooge_McDuck
+1978:  https://en.wikipedia.org/wiki/Garfield
+1981:  https://en.wikipedia.org/wiki/Donkey_Kong_(character)
+       https://en.wikipedia.org/wiki/Mario
+1984:  https://en.wikipedia.org/wiki/Splinter_(Teenage_Mutant_Ninja_Turtles)
+       https://en.wikipedia.org/wiki/Leonardo_(Teenage_Mutant_Ninja_Turtles)
+       https://en.wikipedia.org/wiki/Donatello_(Teenage_Mutant_Ninja_Turtles)
+       https://en.wikipedia.org/wiki/Raphael_(Teenage_Mutant_Ninja_Turtles)
+       https://en.wikipedia.org/wiki/Michelangelo_(Teenage_Mutant_Ninja_Turtles)
+       https://en.wikipedia.org/wiki/Shredder_(Teenage_Mutant_Ninja_Turtles)
+1987:  https://en.wikipedia.org/wiki/Krang
+       https://en.wikipedia.org/wiki/Bart_Simpson
+       https://en.wikipedia.org/wiki/Homer_Simpson
+       https://en.wikipedia.org/wiki/Marge_Simpson
+       https://en.wikipedia.org/wiki/Lisa_Simpson
+       https://en.wikipedia.org/wiki/Maggie_Simpson
+1983:  https://en.wikipedia.org/wiki/Luigi_(character)
+1985:  https://en.wikipedia.org/wiki/Princess_Peach
+1986:  https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)
+       https://en.wikipedia.org/wiki/Princess_Zelda
+1992:  https://en.wikipedia.org/wiki/Wario
+1995:  https://en.wikipedia.org/wiki/Motoko_Kusanagi
+1997:  https://en.wikipedia.org/wiki/Cloud_Strife
+       https://en.wikipedia.org/wiki/Tifa_Lockhart
+       https://en.wikipedia.org/wiki/Aerith_Gainsborough
+       https://en.wikipedia.org/wiki/Sephiroth_(Final_Fantasy)
+1998:  https://en.wikipedia.org/wiki/Minsc
+       https://en.wikipedia.org/wiki/Solid_Snake
+       https://en.wikipedia.org/wiki/Liquid_Snake
+       https://en.wikipedia.org/wiki/Revolver_Ocelot
+       https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Otacon
+       https://en.wikipedia.org/wiki/The_Boss_(Metal_Gear)
+...
 }
 
 {
