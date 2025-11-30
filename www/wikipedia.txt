@@ -235,6 +235,7 @@ agri:		  farming, animal husbandry,
 meat:		  butchery,
 veg:		  vegetation, plants, foliage,
 ide:		  integrated development environment,
+jest:		  jester, court, joke
 }
 
 {
@@ -496,6 +497,7 @@ born:
        https://en.wikipedia.org/wiki/Leonardo_DiCaprio
 1975:  https://en.wikipedia.org/wiki/Angelina_Jolie
        https://en.wikipedia.org/wiki/Allen_Iverson
+1976:  https://en.wikipedia.org/wiki/Alexei_Navalny
 1977:  https://en.wikipedia.org/wiki/Vinnie_Paz
 1978:  https://en.wikipedia.org/wiki/Tony_Yayo
        https://en.wikipedia.org/wiki/Kobe_Bryant
