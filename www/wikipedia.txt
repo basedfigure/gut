@@ -184,6 +184,7 @@ art:		  fx, text, 2d, 3d, garb,
 food:		  nutrition,
 slug:		  hydration, drink,
 mag:		  magazine, academic journal,
+toon:		  cartoon, comic, strip,
 mob:		  criminal org, act,
 crew:		  pirates, yarr!
 cell:		  terrorist org, act,
@@ -228,8 +229,11 @@ spy:		  espionage, tradecraft, intel,
 psy:		  ops,
 hunt:		  spear, bow, arrow, game,
 lure:		  pond, rod, dynamite,
-agri:		  farm, butchery,
-ide:		  integrated development environment
+agri:		  farm,
+meat:		  butchery,
+veg:		  vegetation, plants, foliage,
+bush:		  
+ide:		  integrated development environment,
 }
 
 {
@@ -381,6 +385,8 @@ born:
 1706:  https://en.wikipedia.org/wiki/Benjamin_Franklin
 1815:  https://en.wikipedia.org/wiki/Ada_Lovelace
 1819:  https://en.wikipedia.org/wiki/Herman_Melville
+1828:  https://en.wikipedia.org/wiki/Leo_Tolstoy
+1850:  https://en.wikipedia.org/wiki/Sofya_Kovalevskaya
 1859:  https://en.wikipedia.org/wiki/Fusajiro_Yamauchi
 1867:  https://en.wikipedia.org/wiki/Marie_Curie
 1869:  https://en.wikipedia.org/wiki/Mahatma_Gandhi
@@ -461,7 +467,8 @@ born:
        https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales
 1962:  https://en.wikipedia.org/wiki/Tom_Cruise
        https://en.wikipedia.org/wiki/Hironobu_Sakaguchi
-1963:  https://en.wikipedia.org/wiki/Hideo_Kojima
+1963:  https://en.wikipedia.org/wiki/Garry_Kasparov
+       https://en.wikipedia.org/wiki/Hideo_Kojima
        https://en.wikipedia.org/wiki/Brad_Pitt
        https://en.wikipedia.org/wiki/Johnny_Depp
        https://en.wikipedia.org/wiki/Russell_Crowe
@@ -2163,13 +2170,17 @@ https://en.wikipedia.org/wiki/Meme
 plot:
 https://en.wikipedia.org/wiki/Plot_device
 https://en.wikipedia.org/wiki/Deus_ex_machina
-anti:  
-https://en.wikipedia.org/wiki/Spawn_(character)
-https://en.wikipedia.org/wiki/Hellboy
+toon:
+https://en.wikipedia.org/wiki/Donald_Duck
+https://en.wikipedia.org/wiki/Scrooge_McDuck
+https://en.wikipedia.org/wiki/Garfield
 hero:
 https://en.wikipedia.org/wiki/Big_Boss_(Metal_Gear)
 https://en.wikipedia.org/wiki/Solid_Snake
 https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#Otacon
+anti:  
+https://en.wikipedia.org/wiki/Spawn_(character)
+https://en.wikipedia.org/wiki/Hellboy
 foe:
 https://en.wikipedia.org/wiki/Liquid_Snake
 https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series#The_Patriots
@@ -4181,7 +4192,8 @@ https://en.wikipedia.org/wiki/The_Hitchhiker'ss_Guide_to_the_Galaxy
 https://en.wikipedia.org/wiki/Neptune
 https://en.wikipedia.org/wiki/Rebreather
 https://en.wikipedia.org/wiki/Geostrategy
-https://en.wikipedia.org/wiki/Anton_LaVey
+https://en.wikipedia.org/wiki/Anton_LaVey
+
 https://en.wikipedia.org/wiki/Homeostasis
 https://en.wikipedia.org/wiki/Emergence
 https://en.wikipedia.org/wiki/Spontaneous_order
