@@ -227,12 +227,13 @@ cook:		  let,
 mil:		  armed forces, army, military,
 spy:		  espionage, tradecraft, intel,
 psy:		  ops,
+bush:		  bushcraft, trapping,  		  
 hunt:		  spear, bow, arrow, game,
 lure:		  pond, rod, dynamite,
-agri:		  farm,
+camp:		  outdoors, camping, outpost,
+agri:		  farming, animal husbandry,
 meat:		  butchery,
 veg:		  vegetation, plants, foliage,
-bush:		  
 ide:		  integrated development environment,
 }
 
