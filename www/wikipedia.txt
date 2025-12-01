@@ -241,9 +241,11 @@ phys:		  physical exercise, sport, training,
 prod:		  side, product, byproduct,
 miss:		  ranges between ambiguous, arbitrary, contested, wrong,
 act:		  activity, sport, action,
-wood:		  wood, material, pusher,
+wood:		  material, pusher,
 dev:		  granularity, development, maintenance, branch,
-know:		  seed, knowledge, structure
+know:		  seed, knowledge, structure,
+way:		  technical, style, stylistic,
+bat:		  man, bat, slammer
 }
 
 {
@@ -408,6 +410,9 @@ https://en.wikipedia.org/wiki/Hacker
 https://en.wikipedia.org/wiki/Woodcutter
 https://en.wikipedia.org/wiki/Watchman_(law_enforcement)
 https://en.wikipedia.org/wiki/Police
+https://en.wikipedia.org/wiki/Medical_doctor
+https://en.wikipedia.org/wiki/Doctor
+https://en.wikipedia.org/wiki/Dentist
 https://en.wikipedia.org/wiki/Intellectual
 https://en.wikipedia.org/wiki/Historian
 https://en.wikipedia.org/wiki/Librarian
@@ -535,6 +540,8 @@ https://en.wikipedia.org/wiki/Functional_programming
 https://en.wikipedia.org/wiki/Object-oriented_programming
 https://en.wikipedia.org/wiki/Data-oriented_design
 https://en.wikipedia.org/wiki/Visual_programming_language
+way:
+https://en.wikipedia.org/wiki/Hungarian_notation
 tech:
 https://en.wikipedia.org/wiki/Debugging
 https://en.wikipedia.org/wiki/Library_(computing)
@@ -1014,12 +1021,14 @@ https://en.wikipedia.org/wiki/Norwegian_Social_Security_scandal
 ...
 }
 
-{ Populations, civilian communities & organizations, by type, class:
+{ Populations, civilian communities & organizations, by type, name, class:
 https://en.wikipedia.org/wiki/Kindergarten
 https://en.wikipedia.org/wiki/School
 https://en.wikipedia.org/wiki/Secondary_school
 https://en.wikipedia.org/wiki/Vocational_school
 https://en.wikipedia.org/wiki/University
+name:
+https://en.wikipedia.org/wiki/Gnomon_School_of_Visual_Effects
 hood:
 https://en.wikipedia.org/wiki/Slum
 https://en.wikipedia.org/wiki/Ghetto
@@ -1230,6 +1239,8 @@ https://en.wikipedia.org/wiki/Reading
 https://en.wikipedia.org/wiki/Writing
 https://en.wikipedia.org/wiki/Gameplay					" c64, nes, psx .. :P "
   https://en.wikipedia.org/wiki/Donkey_Kong_Country			favs
+  https://en.wikipedia.org/wiki/Donkey_Kong_Country_2
+  https://en.wikipedia.org/wiki/Donkey_Kong_Country_3
   https://en.wikipedia.org/wiki/Metal_Slug
   https://en.wikipedia.org/wiki/Final_Fantasy_Tactics
   https://en.wikipedia.org/wiki/Final_Fantasy_VII
@@ -1259,6 +1270,7 @@ https://en.wikipedia.org/wiki/Computer
 https://en.wikipedia.org/wiki/Minimalism_(computing)
 https://en.wikipedia.org/wiki/Computer-generated_imagery
 https://en.wikipedia.org/wiki/Free_Pascal
+  https://en.wikipedia.org/wiki/Inline_assembler
 https://en.wikipedia.org/wiki/User_interface
 https://en.wikipedia.org/wiki/User_interface_design
 den:
@@ -1285,7 +1297,7 @@ https://en.wikipedia.org/wiki/Xbox_(console)
 https://en.wikipedia.org/wiki/GameCube
 https://en.wikipedia.org/wiki/Statue					" eagle with left wing snapped, turtle "
 https://en.wikipedia.org/wiki/Chessboard				" marble, metal pieces "
-https://en.wikipedia.org/wiki/Skateboard
+https://en.wikipedia.org/wiki/Skateboard				" best art goes to my deck "
 gift:
 https://en.wikipedia.org/wiki/PlayStation_4				" both fr.. "
 https://en.wikipedia.org/wiki/PlayStation_5				" bro "
@@ -1404,8 +1416,10 @@ https://en.wikipedia.org/wiki/Decommunization
 https://en.wikipedia.org/wiki/Red_Scare
 }
 
-{ Statecraft, security & intelligence services, by type, practice (universal):
+{ Statecraft, security & intelligence services, by type, practice (espionage):
 https://en.wikipedia.org/wiki/Tradecraft
+https://en.wikipedia.org/wiki/Espionage
+https://en.wikipedia.org/wiki/Cyber_espionage
 https://en.wikipedia.org/wiki/Counterintelligence
 }
 
@@ -1414,14 +1428,18 @@ https://en.wikipedia.org/wiki/Institute
 https://en.wikipedia.org/wiki/Bureau
 }
 
-{ Statecraft, government, military orders & areas, by practice, faction:
+{ Statecraft, government, military orders & areas, by type, practice, faction:
 type:
 https://en.wikipedia.org/wiki/Counterterrorism
-area:
-https://en.wikipedia.org/wiki/Proving_ground
-https://en.wikipedia.org/wiki/Kill_house
+air:
+https://en.wikipedia.org/wiki/Military_aviation
+https://en.wikipedia.org/wiki/Air_superiority_fighter
 para:
 https://en.wikipedia.org/wiki/Paratrooper
+area:
+https://en.wikipedia.org/wiki/Barracks
+https://en.wikipedia.org/wiki/Proving_ground
+https://en.wikipedia.org/wiki/Kill_house
 }
 
 { Statecraft & world leaders, by country, order:
@@ -1727,8 +1745,6 @@ https://en.wikipedia.org/wiki/Remote_controlled_weapon_station
 { Arms & armory - motorized heavy weapons (manned):
 https://en.wikipedia.org/wiki/Armoured_fighting_vehicle
 https://en.wikipedia.org/wiki/Tank
-https://en.wikipedia.org/wiki/Military_aviation
-https://en.wikipedia.org/wiki/Air_superiority_fighter
 https://en.wikipedia.org/wiki/Fighter_aircraft
 https://en.wikipedia.org/wiki/Military_aircraft
 }
@@ -1874,6 +1890,7 @@ https://en.wikipedia.org/wiki/Cosmology
 https://en.wikipedia.org/wiki/Computer_science
 https://en.wikipedia.org/wiki/Social_science
 https://en.wikipedia.org/wiki/Psychology
+psychiatry
 deep:
 https://en.wikipedia.org/wiki/Solar_System
 https://en.wikipedia.org/wiki/Light-year
@@ -2361,7 +2378,6 @@ https://en.wikipedia.org/wiki/Artificial_intelligence
 https://en.wikipedia.org/wiki/Logic
 https://en.wikipedia.org/wiki/Systems_science
 https://en.wikipedia.org/wiki/Coal_mining
-https://en.wikipedia.org/wiki/Espionage
 https://en.wikipedia.org/wiki/Spyware
 https://en.wikipedia.org/wiki/Information_security
 https://en.wikipedia.org/wiki/Spaceflight#Spacefaring_nations
@@ -3456,7 +3472,6 @@ https://en.wikipedia.org/wiki/Supercell
 https://en.wikipedia.org/wiki/Remedy_Entertainment
 https://en.wikipedia.org/wiki/Markus_Persson
 https://en.wikipedia.org/wiki/Kim_Dotcom
-https://en.wikipedia.org/wiki/Cyber_espionage
 https://en.wikipedia.org/wiki/Elon_Musk
 https://en.wikipedia.org/wiki/Bill_Gates
 https://en.wikipedia.org/wiki/Steve_Jobs
@@ -3774,7 +3789,6 @@ https://en.wikipedia.org/wiki/Nonconformity_to_the_world
 https://en.wikipedia.org/wiki/Bohemianism
 https://en.wikipedia.org/wiki/Aphorism
 https://en.wikipedia.org/wiki/Protectionism#Current_world_trends
-https://en.wikipedia.org/wiki/Hungarian_notation
 https://en.wikipedia.org/wiki/Miyamoto_Musashi
 https://en.wikipedia.org/wiki/Drunken_boxing
 https://en.wikipedia.org/wiki/Androgyny
@@ -4159,6 +4173,9 @@ https://en.wikipedia.org/wiki/MikroBitti
 https://en.wikipedia.org/wiki/C-lehti
 
 https://en.wikipedia.org/wiki/Botulinum_toxin
+
+https://en.wikipedia.org/wiki/Sundial_(weapon)
+https://en.wikipedia.org/wiki/Visigoths
 }
 
 {
