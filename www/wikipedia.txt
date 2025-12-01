@@ -1658,7 +1658,9 @@ https://en.wikipedia.org/wiki/Ukraine
 https://en.wikipedia.org/wiki/Security_Service_of_Ukraine
 }
 
-{ Arms & armory - weapon technologies, by type, party: -
+{ Arms & armory - weapon systems & , by type, party:
+https://en.wikipedia.org/wiki/Kalashnikov_Concern
+https://en.wikipedia.org/wiki/SOPMOD
 }
 
 { Arms & armory - WMD, chemical and bio weapons (platforms):
@@ -1667,16 +1669,18 @@ https://en.wikipedia.org/wiki/Weapon_of_mass_destruction
 https://en.wikipedia.org/wiki/Nuclear_weapon
 }
 
-{ Arms & armory - ballistic heavy weapons (platforms):
+{ Arms & armory - ballistic heavy weapons, by reach (platforms):
 https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile
 }
 
-{ Arms & armory - unmanned heavy weapons (platforms): gear, tact
+{ Arms & armory - unmanned heavy weapons, by mass (platforms): gear, tact
 https://en.wikipedia.org/wiki/Metal_Gear_(mecha)
 }
 
-{ Arms & armory - unmanned weapons (platforms):
+{ Arms & armory - unmanned weapons, by mass (platforms):
 https://en.wikipedia.org/wiki/Drone_warfare
+https://en.wikipedia.org/wiki/Uncrewed_vehicle
+https://en.wikipedia.org/wiki/Remote_controlled_weapon_station
 }
 
 { Arms & armory - motorized heavy weapons (manned):
@@ -1701,11 +1705,14 @@ https://en.wikipedia.org/wiki/RPG-7
 https://en.wikipedia.org/wiki/Small_arms_and_light_weapons
 https://en.wikipedia.org/wiki/Firearm
 https://en.wikipedia.org/wiki/Short-barrelled_shotgun
+https://en.wikipedia.org/wiki/Kalashnikov_rifle
 https://en.wikipedia.org/wiki/AK-47
+https://en.wikipedia.org/wiki/AK-74
 https://en.wikipedia.org/wiki/AKS-74U
 https://en.wikipedia.org/wiki/RPK
 https://en.wikipedia.org/wiki/SVD_(rifle)
 https://en.wikipedia.org/wiki/Dragunov_SVU
+https://en.wikipedia.org/wiki/AS_Val_and_VSS_Vintorez
 ...
 https://en.wikipedia.org/wiki/Small_arms_trade
 https://en.wikipedia.org/wiki/
