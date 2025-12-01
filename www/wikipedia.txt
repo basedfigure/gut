@@ -241,7 +241,9 @@ phys:		  physical exercise, sport, training,
 prod:		  side, product, byproduct,
 miss:		  ranges between ambiguous, arbitrary, contested, wrong,
 act:		  activity, sport, action,
-wood:		  wood, pusher
+wood:		  wood, material, pusher,
+dev:		  granularity, development, maintenance, branch,
+know:		  seed, knowledge, structure
 }
 
 {
@@ -394,23 +396,27 @@ https://en.wikipedia.org/wiki/Plumber
 }
 
 
-{ Disciplines, techniques & proficiencies (self):
+{ Disciplines, techniques & proficiencies (self):  dev
 mov:  https://en.wikipedia.org/wiki/Not_invented_here
-https://en.wikipedia.org/wiki/Hacking
 https://en.wikipedia.org/wiki/Heuristic
+https://en.wikipedia.org/wiki/Hacking
 https://en.wikipedia.org/wiki/Mnemonic
+https://en.wikipedia.org/wiki/Creative_problem-solving
 https://en.wikipedia.org/wiki/Research_and_development
 https://en.wikipedia.org/wiki/Mastery_learning
 https://en.wikipedia.org/wiki/Subject-matter_expert
-...
-https://en.wikipedia.org/wiki/Creative_problem-solving
+exp:
+https://en.wikipedia.org/wiki/Tourism
 }
 
-{ Disciplines, techniques & tactics, by product (mass):
+{ Disciplines, techniques & tactics, by product (mass):  
 https://en.wikipedia.org/wiki/Information_warfare
+https://en.wikipedia.org/wiki/Telephone_game
 prod:
 https://en.wikipedia.org/wiki/Misinformation
 https://en.wikipedia.org/wiki/Disinformation
+psy:
+https://en.wikipedia.org/wiki/Mass_psychogenic_illness
 }
 
 { Disciplines & professions (historic):
@@ -502,7 +508,12 @@ https://en.wikipedia.org/wiki/Procedural_programming
 https://en.wikipedia.org/wiki/Functional_programming
 https://en.wikipedia.org/wiki/Object-oriented_programming
 https://en.wikipedia.org/wiki/Data-oriented_design
+https://en.wikipedia.org/wiki/Visual_programming_language
 tech:
+https://en.wikipedia.org/wiki/Debugging
+https://en.wikipedia.org/wiki/Library_(computing)
+https://en.wikipedia.org/wiki/Rapid_application_development
+https://en.wikipedia.org/wiki/WYSIWYG
 https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
 bark:
 https://en.wikipedia.org/wiki/Software_metric
@@ -510,11 +521,6 @@ https://en.wikipedia.org/wiki/Code_bloat
 https://en.wikipedia.org/wiki/Coupling_(computer_programming)
 https://en.wikipedia.org/wiki/Scope_creep
 https://en.wikipedia.org/wiki/Software_bloat
-,
-https://en.wikipedia.org/wiki/Library_(computing)
-https://en.wikipedia.org/wiki/WYSIWYG
-https://en.wikipedia.org/wiki/Rapid_application_development
-https://en.wikipedia.org/wiki/Visual_programming_language
 foss:
 https://en.wikipedia.org/wiki/Open_source
 https://en.wikipedia.org/wiki/Free_software
@@ -1870,10 +1876,10 @@ carm
 To-do: neuroscience, neurology
 
 
-{ Training & education, by ability, knowledge (intellect):  stud,inst
+{ Training & education, by ability, knowledge (intellect):  stud,know,dev
 }
 
-{ Training & education techniques, by system, role (school):  stud,inst
+{ Training & education techniques, by system, role (school):  stud,inst,know
 }
 
 
@@ -3055,8 +3061,6 @@ https://en.wikipedia.org/wiki/Wiretapping
 https://en.wikipedia.org/wiki/Jargon
 https://en.wikipedia.org/wiki/Constitution#Codified_constitution
 https://en.wikipedia.org/wiki/Testimony
-https://en.wikipedia.org/wiki/Debugging
-https://en.wikipedia.org/wiki/Telephone_game
 https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)
 https://en.wikipedia.org/wiki/Cheek_(rapper)_discography
 https://en.wikipedia.org/wiki/Deaf-mute
@@ -3622,7 +3626,6 @@ https://en.wikipedia.org/wiki/Dungeon_crawl
 https://en.wikipedia.org/wiki/Personality
 https://en.wikipedia.org/wiki/Editorial
 https://en.wikipedia.org/wiki/Hypnosis
-https://en.wikipedia.org/wiki/Mass_psychogenic_illness
 https://en.wikipedia.org/wiki/Salvation
 https://en.wikipedia.org/wiki/Constitution_of_Pakistan
 https://en.wikipedia.org/wiki/Code_of_conduct
@@ -4046,7 +4049,6 @@ https://en.wikipedia.org/wiki/Shelf_life
 https://en.wikipedia.org/wiki/Pocket_PC
 https://en.wikipedia.org/wiki/Minimalist_program
 
-https://en.wikipedia.org/wiki/Tourism
 https://en.wikipedia.org/wiki/Paracetamol/metoclopramide
 
 https://en.wikipedia.org/wiki/Superimposition
@@ -4121,6 +4123,8 @@ https://en.wikipedia.org/wiki/Tero_Puha
 https://en.wikipedia.org/wiki/Pelit
 https://en.wikipedia.org/wiki/MikroBitti
 https://en.wikipedia.org/wiki/C-lehti
+
+https://en.wikipedia.org/wiki/Botulinum_toxin
 }
 
 {
