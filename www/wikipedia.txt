@@ -282,6 +282,11 @@ https://en.wikipedia.org/wiki/Litmus_test_(politics)
 }
 
 
+
+
+1.0. Humans:
+
+
 { Humans, evolution & genetics, by origin, feature, survival (universal):
 bio:
 https://en.wikipedia.org/wiki/DNA
@@ -323,11 +328,17 @@ https://en.wikipedia.org/wiki/Fetal_position
 }
 
 { Humans, cognition, psyche & emotions, by structure, sense, stimuli (brain)
-https://en.wikipedia.org/wiki/Autobiographical_memory     " iirc,   trained chimpanzees may do memorization, sequencing better because their brains have less noise due to this type of memory lacking "
 https://en.wikipedia.org/wiki/Emotion
 https://en.wikipedia.org/wiki/Fear
 https://en.wikipedia.org/wiki/Happiness
 https://en.wikipedia.org/wiki/Sadness
+https://en.wikipedia.org/wiki/Intellect			
+^- " as we trip through the void,  thought follows as a natural secondary response, further removed from its stimuli, both of which are in constant retraining & calibration "
+
+https://en.wikipedia.org/wiki/Autobiographical_memory     
+" iirc,   trained chimpanzees may do memorization, sequencing better because their brains have less noise due to this type of memory lacking "
+
+https://en.wikipedia.org/wiki/Morale
 }
 
 { Humans, evolution, survival & practices (legacy):  bush,hunt,lure,agri,garb,veg,meat
@@ -340,6 +351,8 @@ https://en.wikipedia.org/wiki/Neurobiology_of_Learning_and_Memory
 }
 
 To-do:  dinosaurs
+
+
 
 { Language, communication, interactions (data, transient):
 https://en.wikipedia.org/wiki/Logic 		
@@ -369,6 +382,19 @@ https://en.wikipedia.org/wiki/Network
 Related shortcuts:  bark
 ...
 }
+
+{ Languages by written & spoken systems:
+rune:
+https://en.wikipedia.org/wiki/Anglo-Saxon_runes
+lang:
+https://en.wikipedia.org/wiki/Sanskrit
+https://en.wikipedia.org/wiki/Latin
+https://en.wikipedia.org/wiki/Old_English_Latin_alphabet
+https://en.wikipedia.org/wiki/Old_English
+https://en.wikipedia.org/wiki/English_language
+}
+
+
 
 { Disciplines, skills & expertise, by product (action):
 https://en.wikipedia.org/wiki/Cooking
@@ -619,7 +645,7 @@ https://en.wikipedia.org/wiki/Indie_Game:_The_Movie
 corp:  -v
 }
 
-{ Software, reverse engineering & modding (hacks):
+{ Software, reverse engineering & modding (cracks):
 }
 
 { Sofware, machine learning & artificial intelligence (simulation):  ai, sim
@@ -1236,10 +1262,8 @@ https://en.wikipedia.org/wiki/Free_Pascal
 https://en.wikipedia.org/wiki/User_interface
 https://en.wikipedia.org/wiki/User_interface_design
 den:
-
 https://en.wikipedia.org/wiki/Shelf_(storage)
 https://en.wikipedia.org/wiki/Desk
-
 https://en.wikipedia.org/wiki/Houseplant				" The dead 1s, to be cremated "
 https://en.wikipedia.org/wiki/Bed
 https://en.wikipedia.org/wiki/Mug					" 8 "
@@ -1255,9 +1279,16 @@ https://en.wikipedia.org/wiki/Computer_speakers
 https://en.wikipedia.org/wiki/Loudspeaker
 https://en.wikipedia.org/wiki/Smartphone
 https://en.wikipedia.org/wiki/Television
+https://en.wikipedia.org/wiki/PlayStation_(console)			" 2 og's "
+https://en.wikipedia.org/wiki/PlayStation_2
+https://en.wikipedia.org/wiki/Xbox_(console)
+https://en.wikipedia.org/wiki/GameCube
 https://en.wikipedia.org/wiki/Statue					" eagle with left wing snapped, turtle "
 https://en.wikipedia.org/wiki/Chessboard				" marble, metal pieces "
 https://en.wikipedia.org/wiki/Skateboard
+gift:
+https://en.wikipedia.org/wiki/PlayStation_4				" both fr.. "
+https://en.wikipedia.org/wiki/PlayStation_5				" bro "
 want:
 https://en.wikipedia.org/wiki/Kimono
 https://en.wikipedia.org/wiki/Bō
@@ -1328,6 +1359,10 @@ https://en.wikipedia.org/wiki/Enhanced_interrogation_techniques
 }
 
 { Populations, world views, codes & ethics, by virtue, domain (affect):
+wait:
+https://en.wikipedia.org/wiki/Morality
+https://en.wikipedia.org/wiki/Moral
+https://en.wikipedia.org/wiki/Ethics
 }
 
 
@@ -1692,6 +1727,7 @@ https://en.wikipedia.org/wiki/Remote_controlled_weapon_station
 { Arms & armory - motorized heavy weapons (manned):
 https://en.wikipedia.org/wiki/Armoured_fighting_vehicle
 https://en.wikipedia.org/wiki/Tank
+https://en.wikipedia.org/wiki/Military_aviation
 https://en.wikipedia.org/wiki/Air_superiority_fighter
 https://en.wikipedia.org/wiki/Fighter_aircraft
 https://en.wikipedia.org/wiki/Military_aircraft
@@ -2769,8 +2805,6 @@ https://en.wikipedia.org/wiki/All_roads_lead_to_Rome
 https://en.wikipedia.org/wiki/Milliarium_Aureum
 https://en.wikipedia.org/wiki/Gladius_(video_game)
 https://en.wikipedia.org/wiki/Alms
-https://en.wikipedia.org/wiki/Old_English
-https://en.wikipedia.org/wiki/English_language
 https://en.wikipedia.org/wiki/Analog
 https://en.wikipedia.org/wiki/Proverb_(disambiguation)
 https://en.wikipedia.org/wiki/Antisemitism
