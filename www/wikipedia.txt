@@ -135,7 +135,7 @@ cig:		  tobacco,
 myst:		  mystery,
 beef:		  philosophy, tribalism, flesh & bones,
 curr:  		  currency,
-cult:		  cultist, occultist, philosophic/religious/spiritual,
+cult:		  cultic, occultic, philosophic/religious/spiritual, fandom,
 exo:		  culture (arts, history, legacy), training, exoticism,
 arm:		  weapon, shield etc,
 mass:		  majority group,    embryonic, doomerism, surveillance, abundance,   flock,
@@ -160,9 +160,9 @@ old:		  very old,
 game:		  game theory, causality,
 war:		  conflict, wars,
 solo:		  solitude, individualistic,
-play:		  hobby, work,
 den:		  objects, loot,
 mind:		  brain, mentality,
+play:		  hobby, work,
 job:		  work, hobby,
 take:		  hot,
 rip:		  piece out,
@@ -246,11 +246,14 @@ dev:		  granularity, development, maintenance, branch,
 know:		  seed, knowledge, structure,
 way:		  technical, style, stylistic,
 bat:		  man, bat, slammer,
-icy:		  cold, freezing, iced out
+icy:		  cold, freezing, iced out,
+rule:		  regulatory, principled, lawfulness,
+hate:		  upsetting, troglodytic, corruptive, extremifying
 }
 
 {
 Jumpcuts:	  "old,new,bad,good,fame",
+Greatest:	  "ost"
 }
 
 
@@ -271,12 +274,11 @@ https://en.wikipedia.org/wiki/Self-limiting
 https://en.wikipedia.org/wiki/Self-realization
 https://en.wikipedia.org/wiki/Freudian_slip
 
-
+tech:
 https://en.wikipedia.org/wiki/Disk_formatting
+
+rand:
 https://en.wikipedia.org/wiki/Moore's_law
-https://en.wikipedia.org/wiki/Internet_culture
-https://en.wikipedia.org/wiki/Committee
-https://en.wikipedia.org/wiki/Community
 https://en.wikipedia.org/wiki/Obscurities
 https://en.wikipedia.org/wiki/Obscure
 https://en.wikipedia.org/wiki/Obscurantism
@@ -1117,6 +1119,7 @@ https://en.wikipedia.org/wiki/Conventional_sex
 ...
 }
 
+
 { Populations, life, environment & experiences, by system, traits, properties (solo, al):
 https://en.wikipedia.org/wiki/Aleksi
 https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy)
@@ -1172,6 +1175,7 @@ https://en.wikipedia.org/wiki/Macaroni
 https://en.wikipedia.org/wiki/Potato
 https://en.wikipedia.org/wiki/Lentil
 https://en.wikipedia.org/wiki/Rye_bread
+https://en.wikipedia.org/wiki/Coconut_milk
 slug:
 https://en.wikipedia.org/wiki/Water
 https://en.wikipedia.org/wiki/Milk
@@ -1208,7 +1212,11 @@ https://en.wikipedia.org/wiki/Footwear
   https://en.wikipedia.org/wiki/Boot
 turf:
 https://en.wikipedia.org/wiki/Uusimaa
-https://en.wikipedia.org/wiki/Porvoo					" current "
+https://en.wikipedia.org/wiki/Porvoo
+
+     " current ", " kevätlaakso pitäs tasottaa niiku ne tasotti sen metän,  ja niin että ne oppis rakentamaan vähemmän psykopaateille suunnattuja taloja   v neposet ",  " kumit kärryistä puhki vähintään ",
+     " pesäpallo ottelu kevarilaisten kanssa ainaki  v käärmeet "
+
 https://en.wikipedia.org/wiki/Kymenlaakso
 https://en.wikipedia.org/wiki/Iitti
 https://en.wikipedia.org/wiki/Kausala
@@ -1217,19 +1225,25 @@ https://en.wikipedia.org/wiki/House
 https://en.wikipedia.org/wiki/Hermit    				" since a 12 yo "
 https://en.wikipedia.org/wiki/Kindergarten
 https://en.wikipedia.org/wiki/Primary_school
-https://en.wikipedia.org/wiki/Secondary_school
-https://en.wikipedia.org/wiki/Conscription
+https://en.wikipedia.org/wiki/Secondary_school	
+
+     " in hs i skipped classes, while i played tekken in the break room.   got kicked out during the fourth year, for just skipping it home.  i like street fighter more anyway "
+
+utti:  https://en.wikipedia.org/wiki/Conscription			" military intelligence sort of,   very chill "
+https://en.wikipedia.org/wiki/Vocational_school				" finished this joint, and started despising conventional schooling as a result "
 https://en.wikipedia.org/wiki/Renting
 https://en.wikipedia.org/wiki/Apartment
 https://en.wikipedia.org/wiki/Anchorite					" hc, balancer"
 https://en.wikipedia.org/wiki/AAA_(video_game_industry)			" good xp, too serious "
   https://en.wikipedia.org/wiki/Remedy_Entertainment
-https://en.wikipedia.org/wiki/Unemployment
+  ^-" my only 7 months of work experience out of 34y of existing on this rock.   tech art and computers graphics, which i've done since 2006.   still the best skills for me to stay mentally productive "
+
+https://en.wikipedia.org/wiki/Unemployment				" most of my life.   first 24y.   10y since last one "
 bank:
 https://en.wikipedia.org/wiki/Poverty
 https://en.wikipedia.org/wiki/Homelessness
 https://en.wikipedia.org/wiki/Welfare_state
-https://en.wikipedia.org/wiki/Unemployment_benefits
+https://en.wikipedia.org/wiki/Unemployment_benefits			" lived at home for 28y, so i just lived without money "
 https://en.wikipedia.org/wiki/Medical_billing				" köyhät,  kyykyssä "
 https://en.wikipedia.org/wiki/Driver's_license
 stat:
@@ -1238,10 +1252,12 @@ Glossary_of_video_game_terms#Kill-death_ratio 				" irl = 0 (active, passive) "
 play:
 https://en.wikipedia.org/wiki/Hobby
 https://en.wikipedia.org/wiki/Film
+  https://en.wikipedia.org/wiki/Moomin_(1990_TV_series)			favs
+  https://en.wikipedia.org/wiki/Ghost_in_the_Shell
 https://en.wikipedia.org/wiki/Reading
 https://en.wikipedia.org/wiki/Writing
 https://en.wikipedia.org/wiki/Gameplay					" c64, nes, psx .. :P "
-  https://en.wikipedia.org/wiki/Donkey_Kong_Country			favs
+  https://en.wikipedia.org/wiki/Donkey_Kong_Country			favs, "ost"
   https://en.wikipedia.org/wiki/Donkey_Kong_Country_2
   https://en.wikipedia.org/wiki/Donkey_Kong_Country_3
   https://en.wikipedia.org/wiki/Metal_Slug
@@ -1275,6 +1291,7 @@ https://en.wikipedia.org/wiki/Computer-generated_imagery
 https://en.wikipedia.org/wiki/Free_Pascal
   https://en.wikipedia.org/wiki/Inline_assembler
 https://en.wikipedia.org/wiki/Lazarus_(software)
+https://en.wikipedia.org/wiki/Linux
 https://en.wikipedia.org/wiki/User_interface
 https://en.wikipedia.org/wiki/User_interface_design
 den:
@@ -1283,7 +1300,7 @@ https://en.wikipedia.org/wiki/Desk
 https://en.wikipedia.org/wiki/Houseplant				" The dead 1s, to be cremated "
 https://en.wikipedia.org/wiki/Bed
 https://en.wikipedia.org/wiki/Mug					" 8 "
-
+glass
 https://en.wikipedia.org/wiki/Vacuum_flask
 https://en.wikipedia.org/wiki/Dice					" chessex d6, d10 "
 https://en.wikipedia.org/wiki/Desktop_computer
@@ -1296,10 +1313,12 @@ https://en.wikipedia.org/wiki/Computer_speakers
 https://en.wikipedia.org/wiki/Loudspeaker
 https://en.wikipedia.org/wiki/Smartphone
 https://en.wikipedia.org/wiki/Television
-https://en.wikipedia.org/wiki/PlayStation_(console)			" 2 og's "
+https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System	" eu "
+https://en.wikipedia.org/wiki/PlayStation_(console)			" 2 og:s "
 https://en.wikipedia.org/wiki/PlayStation_2
 https://en.wikipedia.org/wiki/Xbox_(console)
 https://en.wikipedia.org/wiki/GameCube
+https://en.wikipedia.org/wiki/Nintendo_Switch
 https://en.wikipedia.org/wiki/Statue					" eagle with left wing snapped, turtle "
 https://en.wikipedia.org/wiki/Chessboard				" marble, metal pieces "
 https://en.wikipedia.org/wiki/Skateboard				" best art goes to my deck "
@@ -1329,7 +1348,7 @@ https://en.wikipedia.org/wiki/Bokken
 https://en.wikipedia.org/wiki/Tameshigiri
 https://en.wikipedia.org/wiki/Makiwara
 https://en.wikipedia.org/wiki/Crash_test_dummy
-,
+work:
 https://en.wikipedia.org/wiki/Last_words    				" no qualms - lie beyond your masters "
 take:
 https://en.wikipedia.org/wiki/Advocacy_of_suicide
@@ -1358,7 +1377,7 @@ rare:
 https://en.wikipedia.org/wiki/Global_catastrophic_risk
 }
 
-{ Populations, activities, work & hazards, by state, measure, sector (effect):
+{ Populations, activities, work & hazards, by state, measure, sector,  case (effect):
 proj:
 https://en.wikipedia.org/wiki/Ripple_effect
 https://en.wikipedia.org/wiki/Neglect
@@ -1373,6 +1392,9 @@ https://en.wikipedia.org/wiki/Manslaughter
 https://en.wikipedia.org/wiki/Murder
 https://en.wikipedia.org/wiki/Proxy_murder
 https://en.wikipedia.org/wiki/Enhanced_interrogation_techniques
+https://en.wikipedia.org/wiki/School_shooting
+  https://en.wikipedia.org/wiki/Columbine_High_School_massacre
+  https://en.wikipedia.org/wiki/Jokela_school_shooting
 }
 
 { Populations, world views, codes & ethics, by virtue, domain (affect):
@@ -1380,6 +1402,19 @@ wait:
 https://en.wikipedia.org/wiki/Morality
 https://en.wikipedia.org/wiki/Moral
 https://en.wikipedia.org/wiki/Ethics
+}
+
+
+{ Populations, internet communities & subcultures, by type, website,  member(s) (portals):
+https://en.wikipedia.org/wiki/Internet_culture
+https://en.wikipedia.org/wiki/Intranet
+https://en.wikipedia.org/wiki/Community
+https://en.wikipedia.org/wiki/Committee
+https://en.wikipedia.org/wiki/Etiquette_in_technology
+cult:
+https://en.wikipedia.org/wiki/Furry_fandom
+hate:
+https://en.wikipedia.org/wiki/Incel
 }
 
 
@@ -1442,6 +1477,8 @@ https://en.wikipedia.org/wiki/Bureau
 { Statecraft, government, military orders & areas, by type, practice, faction:
 type:
 https://en.wikipedia.org/wiki/Counterterrorism
+rule:
+https://en.wikipedia.org/wiki/Martial_law
 air:
 https://en.wikipedia.org/wiki/Military_aviation
 https://en.wikipedia.org/wiki/Air_superiority_fighter
@@ -3136,7 +3173,6 @@ https://en.wikipedia.org/wiki/Dumbing_down
 https://en.wikipedia.org/wiki/Principle
 https://en.wikipedia.org/wiki/Optical_disc_packaging#Jewel_case
 https://en.wikipedia.org/wiki/Minix
-https://en.wikipedia.org/wiki/Etiquette_in_technology
 
 https://en.wikipedia.org/wiki/Area_of_operations
 https://en.wikipedia.org/wiki/Resident_Evil
@@ -3210,7 +3246,6 @@ https://en.wikipedia.org/wiki/List_of_earth_deities
 https://en.wikipedia.org/wiki/Mother_goddess
 https://en.wikipedia.org/wiki/Battle_of_Stalingrad
 https://en.wikipedia.org/wiki/Russian_Revolution
-https://en.wikipedia.org/wiki/Martial_law
 https://en.wikipedia.org/wiki/Zip_line
 https://en.wikipedia.org/wiki/Keep_Your_Enemies_Close
 https://en.wikipedia.org/wiki/List_of_states_with_nuclear_weapons
@@ -3397,7 +3432,6 @@ https://en.wikipedia.org/wiki/Eiffel_Tower
 https://en.wikipedia.org/wiki/Royal_family
 https://en.wikipedia.org/wiki/Cyrtanthus
 https://en.wikipedia.org/wiki/Rose
-https://en.wikipedia.org/wiki/Axl_Rose
 https://en.wikipedia.org/wiki/International_Game_Developers_Association
 https://en.wikipedia.org/wiki/Interactive_media
 https://en.wikipedia.org/wiki/PC_game
@@ -4184,6 +4218,8 @@ https://en.wikipedia.org/wiki/Visigoths
 
 https://en.wikipedia.org/wiki/Westworld_(film)
 https://en.wikipedia.org/wiki/Meltdown_(Red_Dwarf)
+
+https://en.wikipedia.org/wiki/Principality
 }
 
 {
@@ -4469,6 +4505,7 @@ https://en.wikipedia.org/wiki/Unity_(game_engine)
 https://en.wikipedia.org/wiki/Spatial_(platform)
 
 bark:
+https://en.wikipedia.org/wiki/Welcome
 https://en.wikipedia.org/wiki/Finnish_profanity#Paska
 https://en.wikipedia.org/wiki/Finnish_profanity#vittu
 https://en.wikipedia.org/wiki/Finnish_profanity#Runkata
@@ -4478,9 +4515,11 @@ https://en.wikipedia.org/wiki/Finnish_profanity#Perkele
 slur:
 https://en.wikipedia.org/wiki/Mongoloid
 https://en.wikipedia.org/wiki/Nigger
+https://en.wikipedia.org/wiki/Prostitution#whore
 }
 
 pit:
+https://en.wikipedia.org/wiki/Anders_Behring_Breivik
 https://en.wikipedia.org/wiki/Sergey_Lavrov
 https://en.wikipedia.org/wiki/Vladimir_Putin 
 https://en.wikipedia.org/wiki/Joseph_Stalin
