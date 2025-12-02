@@ -245,11 +245,12 @@ wood:		  material, pusher,
 dev:		  granularity, development, maintenance, branch,
 know:		  seed, knowledge, structure,
 way:		  technical, style, stylistic,
-bat:		  man, bat, slammer
+bat:		  man, bat, slammer,
+icy:		  cold, freezing, iced out
 }
 
 {
-Jumpcuts:	  "old,new,fame",
+Jumpcuts:	  "old,new,bad,good,fame",
 }
 
 
@@ -427,7 +428,7 @@ https://en.wikipedia.org/wiki/Plumber
 }
 
 
-{ Disciplines, techniques & proficiencies (self):  dev
+{ Disciplines, techniques & proficiencies (selves):  dev
 mov:  https://en.wikipedia.org/wiki/Not_invented_here
 https://en.wikipedia.org/wiki/Heuristic
 https://en.wikipedia.org/wiki/Hacking
@@ -938,6 +939,8 @@ https://en.wikipedia.org/wiki/Dummy_corporation
 }
 
 { Populations, historical eras & ages, by country, place, faction (legacy):
+icy:
+https://en.wikipedia.org/wiki/Ice_age
 "old":
 https://en.wikipedia.org/wiki/Mesopotamia
 https://en.wikipedia.org/wiki/Babylonia
@@ -1271,6 +1274,7 @@ https://en.wikipedia.org/wiki/Minimalism_(computing)
 https://en.wikipedia.org/wiki/Computer-generated_imagery
 https://en.wikipedia.org/wiki/Free_Pascal
   https://en.wikipedia.org/wiki/Inline_assembler
+https://en.wikipedia.org/wiki/Lazarus_(software)
 https://en.wikipedia.org/wiki/User_interface
 https://en.wikipedia.org/wiki/User_interface_design
 den:
@@ -1279,6 +1283,7 @@ https://en.wikipedia.org/wiki/Desk
 https://en.wikipedia.org/wiki/Houseplant				" The dead 1s, to be cremated "
 https://en.wikipedia.org/wiki/Bed
 https://en.wikipedia.org/wiki/Mug					" 8 "
+
 https://en.wikipedia.org/wiki/Vacuum_flask
 https://en.wikipedia.org/wiki/Dice					" chessex d6, d10 "
 https://en.wikipedia.org/wiki/Desktop_computer
@@ -1421,6 +1426,12 @@ https://en.wikipedia.org/wiki/Tradecraft
 https://en.wikipedia.org/wiki/Espionage
 https://en.wikipedia.org/wiki/Cyber_espionage
 https://en.wikipedia.org/wiki/Counterintelligence
+https://en.wikipedia.org/wiki/Clandestine_operation
+https://en.wikipedia.org/wiki/Clandestine_human_intelligence
+https://en.wikipedia.org/wiki/Clandestine_HUMINT_and_covert_action
+https://en.wikipedia.org/wiki/Clandestine_HUMINT_operational_techniques
+
+https://en.wikipedia.org/wiki/Clandestine_detention_center_(Argentina)
 }
 
 { Statecraft, government institutions & services, by practice, type (common):  gov
@@ -1620,8 +1631,8 @@ https://en.wikipedia.org/wiki/Iran
 }
 
 { Statecraft (Iraqi):  irq,gov
-https://en.wikipedia.org/wiki/Iraq
 "old"
+https://en.wikipedia.org/wiki/Iraq
 }
 
 { Statecraft (Japanese):  jap,gov
@@ -3405,14 +3416,8 @@ https://en.wikipedia.org/wiki/Diplomatic_vehicle_registration_plate
 https://en.wikipedia.org/wiki/Anti-establishment
 https://en.wikipedia.org/wiki/Establishment_Clause
 https://en.wikipedia.org/wiki/Blackboard
-https://en.wikipedia.org/wiki/Clandestine_operation
-https://en.wikipedia.org/wiki/Clandestine_human_intelligence
-https://en.wikipedia.org/wiki/Clandestine_detention_center_(Argentina)
-https://en.wikipedia.org/wiki/Clandestine_HUMINT_and_covert_action
-https://en.wikipedia.org/wiki/Clandestine_HUMINT_operational_techniques
 https://en.wikipedia.org/wiki/Warp_drive
 https://en.wikipedia.org/wiki/Starship
-https://en.wikipedia.org/wiki/Ice_age
 https://en.wikipedia.org/wiki/Ice_Age_(franchise)
 https://en.wikipedia.org/wiki/Finding_Nemo
 https://en.wikipedia.org/wiki/Glacial_period
@@ -4111,7 +4116,7 @@ https://en.wikipedia.org/wiki/Rent_regulation
 https://en.wikipedia.org/wiki/Rent-seeking
 https://en.wikipedia.org/wiki/Economic_rent
 
-https://en.wikipedia.org/wiki/The_Hitchhiker'ss_Guide_to_the_Galaxy
+https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy
 https://en.wikipedia.org/wiki/Neptune
 https://en.wikipedia.org/wiki/Rebreather
 https://en.wikipedia.org/wiki/Geostrategy
@@ -4176,6 +4181,9 @@ https://en.wikipedia.org/wiki/Botulinum_toxin
 
 https://en.wikipedia.org/wiki/Sundial_(weapon)
 https://en.wikipedia.org/wiki/Visigoths
+
+https://en.wikipedia.org/wiki/Westworld_(film)
+https://en.wikipedia.org/wiki/Meltdown_(Red_Dwarf)
 }
 
 {
@@ -4237,7 +4245,9 @@ https://en.wikipedia.org/wiki/Axl_Rose
 https://en.wikipedia.org/wiki/Alexander_Brandon
 https://en.wikipedia.org/wiki/Casey_Muratori
 https://en.wikipedia.org/wiki/Sam_Lake
-https://en.wikipedia.org/wiki/Jaana_Pelkonen           
+https://en.wikipedia.org/wiki/Jaana_Pelkonen
+https://en.wikipedia.org/wiki/Stan_Lee
+https://en.wikipedia.org/wiki/Todd_McFarlane
                                         
 born:
        https://en.wikipedia.org/wiki/Jesus
@@ -4397,39 +4407,48 @@ born:
 ...
 }
 
-{ Hall of Fame for masterpieces of artistic greatness & recognition:  fame
+{ Hall of Fame for masterpieces of artistic greatness & recognition:  fame,bad,good
 https://en.wikipedia.org/wiki/Masterpiece
 film:
 1977:  https://en.wikipedia.org/wiki/Darth_Vader
 1980:  https://en.wikipedia.org/wiki/Yoda
        https://en.wikipedia.org/wiki/Palpatine
 1999:  https://en.wikipedia.org/wiki/Darth_Maul
-art:
+toon, art:
 1928:  https://en.wikipedia.org/wiki/Mickey_Mouse
        https://en.wikipedia.org/wiki/Minnie_Mouse
 1932:  https://en.wikipedia.org/wiki/Goofy
 1934:  https://en.wikipedia.org/wiki/Donald_Duck
 1947:  https://en.wikipedia.org/wiki/Scrooge_McDuck
+1939:  https://en.wikipedia.org/wiki/Batman
+1962:  https://en.wikipedia.org/wiki/Spider-Man
+1974:  https://en.wikipedia.org/wiki/Wolverine_(character)
 1978:  https://en.wikipedia.org/wiki/Garfield
 1981:  https://en.wikipedia.org/wiki/Donkey_Kong_(character)
        https://en.wikipedia.org/wiki/Mario
+1982:  https://en.wikipedia.org/wiki/Snake_Eyes_(G.I._Joe)
+1983:  https://en.wikipedia.org/wiki/Luigi_(character)
 1984:  https://en.wikipedia.org/wiki/Splinter_(Teenage_Mutant_Ninja_Turtles)
        https://en.wikipedia.org/wiki/Leonardo_(Teenage_Mutant_Ninja_Turtles)
        https://en.wikipedia.org/wiki/Donatello_(Teenage_Mutant_Ninja_Turtles)
        https://en.wikipedia.org/wiki/Raphael_(Teenage_Mutant_Ninja_Turtles)
        https://en.wikipedia.org/wiki/Michelangelo_(Teenage_Mutant_Ninja_Turtles)
        https://en.wikipedia.org/wiki/Shredder_(Teenage_Mutant_Ninja_Turtles)
-1987:  https://en.wikipedia.org/wiki/Krang
+       https://en.wikipedia.org/wiki/Storm_Shadow_(G.I._Joe)
+1985:  https://en.wikipedia.org/wiki/Princess_Peach
+1986:  https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)
+       https://en.wikipedia.org/wiki/Princess_Zelda
+1987:  https://en.wikipedia.org/wiki/Ryu_(Street_Fighter)
+       https://en.wikipedia.org/wiki/Krang
        https://en.wikipedia.org/wiki/Bart_Simpson
        https://en.wikipedia.org/wiki/Homer_Simpson
        https://en.wikipedia.org/wiki/Marge_Simpson
        https://en.wikipedia.org/wiki/Lisa_Simpson
        https://en.wikipedia.org/wiki/Maggie_Simpson
-1983:  https://en.wikipedia.org/wiki/Luigi_(character)
-1985:  https://en.wikipedia.org/wiki/Princess_Peach
-1986:  https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)
-       https://en.wikipedia.org/wiki/Princess_Zelda
+1988:  https://en.wikipedia.org/wiki/Ryu_Hayabusa
 1992:  https://en.wikipedia.org/wiki/Wario
+       https://en.wikipedia.org/wiki/Spawn_(character)
+1994:  https://en.wikipedia.org/wiki/Akuma_(Street_Fighter)
 1995:  https://en.wikipedia.org/wiki/Motoko_Kusanagi
 1997:  https://en.wikipedia.org/wiki/Cloud_Strife
        https://en.wikipedia.org/wiki/Tifa_Lockhart
