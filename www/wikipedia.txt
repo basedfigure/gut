@@ -55,7 +55,7 @@ Arbitrary = ( mon,gol ),
 
 {
 Categories:	  - Search by: ctrl-f,
-sys:		  System, cogs, prominence, path, all,
+sys:		  System, cogs, prominence, path, all, qi,
 data:		  type, id,
 list:		  name, version,
 holy:		  scriptura,
@@ -110,9 +110,12 @@ hw:		  hardware, electronics,
 cpu:		  central processing unit,
 ram:		  random-access memory,
 gpu:		  graphics processing unit,
-plug:		  plug-in,
-fw:		  framework,
 app:		  application,
+ui:		  textual, user interface, graphical,
+lib:		  library, framework,
+www:		  world wide web, site,
+api:		  protocol, application programming interface,
+plug:		  plug-in,
 mw:		  middleware,
 card:		  card game,
 pawn:		  board game,
@@ -242,6 +245,7 @@ prod:		  side, product, byproduct,
 miss:		  ranges between ambiguous, arbitrary, contested, wrong,
 act:		  activity, sport, action,
 wood:		  material, pusher,
+snow:		  white, slush, yellow,
 dev:		  granularity, development, maintenance, branch,
 know:		  seed, knowledge, structure,
 way:		  technical, style, stylistic,
@@ -250,7 +254,8 @@ icy:		  cold, freezing, iced out,
 rule:		  regulatory, principled, lawfulness,
 hate:		  upsetting, troglodytic, corruptive, extremifying,
 scar:		  scary, maddening, terrifying, scarring,
-nuke:		  missile, nuclear, warhead
+nuke:		  missile, nuclear, warhead,
+poli:		  politics, necropolis, heliopolis,
 }
 
 {
@@ -511,7 +516,7 @@ https://en.wikipedia.org/wiki/System_administrator
 https://en.wikipedia.org/wiki/Software_architect
 }
 
-{ Software, programming techniques & technologies (universal):
+{ Software, programming, techniques & technologies (universal):
 Related shortcuts:  cpu, ram, gpu
 ,
 foss:
@@ -573,7 +578,7 @@ ip:   https://en.wikipedia.org/wiki/Proprietary_software
 beef: https://en.wikipedia.org/wiki/Editor_war
 }
 
-{ Software, applications & technologies, by purpose (legacy, modern):
+{ Software, applications & technologies, by purpose, name (legacy, modern):
 os:
 https://en.wikipedia.org/wiki/Unix
 https://en.wikipedia.org/wiki/Workbench_(AmigaOS)
@@ -583,6 +588,9 @@ https://en.wikipedia.org/wiki/Windows_95
 https://en.wikipedia.org/wiki/Windows_2000
 https://en.wikipedia.org/wiki/Windows_XP
 https://en.wikipedia.org/wiki/MacOS
+api:
+https://en.wikipedia.org/wiki/OpenGL
+https://en.wikipedia.org/wiki/WebGL
 3d:
 list:  https://en.wikipedia.org/wiki/List_of_3D_modeling_software
 https://en.wikipedia.org/wiki/3D_modeling
@@ -602,7 +610,6 @@ https://en.wikipedia.org/wiki/Git
 https://en.wikipedia.org/wiki/Fossil_(software)
 ide:
 https://en.wikipedia.org/wiki/Lazarus_(software)
-ed:
 plug:
 https://en.wikipedia.org/wiki/SyFlex
 lib:
@@ -1024,6 +1031,7 @@ https://en.wikipedia.org/wiki/Utopia
 https://en.wikipedia.org/wiki/Dystopia
 https://en.wikipedia.org/wiki/Counterculture
 https://en.wikipedia.org/wiki/Parallel_society
+https://en.wikipedia.org/wiki/Anti-establishment
 ...
 https://en.wikipedia.org/wiki/Sociology_of_religion
 https://en.wikipedia.org/wiki/Satanic_panic
@@ -1256,18 +1264,19 @@ https://en.wikipedia.org/wiki/Gameplay					hardware,
   https://en.wikipedia.org/wiki/Donkey_Kong_Country_2
   https://en.wikipedia.org/wiki/Donkey_Kong_Country_3
   https://en.wikipedia.org/wiki/Metal_Slug
+  https://en.wikipedia.org/wiki/Fallout_2
   https://en.wikipedia.org/wiki/Final_Fantasy_Tactics
   https://en.wikipedia.org/wiki/Final_Fantasy_VII
   https://en.wikipedia.org/wiki/Final_Fantasy_VIII
   https://en.wikipedia.org/wiki/Final_Fantasy_IX
   https://en.wikipedia.org/wiki/Final_Fantasy_X
-  https://en.wikipedia.org/wiki/Fallout_2
   https://en.wikipedia.org/wiki/Guilty_Gear
   https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)
   https://en.wikipedia.org/wiki/Street_Fighter_Alpha_3
   https://en.wikipedia.org/wiki/Star_Ocean:_The_Second_Story
   https://en.wikipedia.org/wiki/Suikoden_II
   https://en.wikipedia.org/wiki/Planescape:_Torment
+  https://en.wikipedia.org/wiki/The_Sims_(video_game)
   https://en.wikipedia.org/wiki/Deus_Ex_(video_game)
   https://en.wikipedia.org/wiki/Baldur's_Gate_II:_Shadows_of_Amn
   https://en.wikipedia.org/wiki/Vagrant_Story
@@ -1277,6 +1286,7 @@ https://en.wikipedia.org/wiki/Gameplay					hardware,
   https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind
   https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell
   https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)
+  https://en.wikipedia.org/wiki/The_Sims_2
 https://en.wikipedia.org/wiki/Role-playing_game
   https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)   	fav,
 https://en.wikipedia.org/wiki/Music
@@ -1372,6 +1382,13 @@ rare:
 https://en.wikipedia.org/wiki/Global_catastrophic_risk
 }
 
+{ Populations, world views, codes & ethics, by virtue, domain (affect):
+wait:
+https://en.wikipedia.org/wiki/Morality
+https://en.wikipedia.org/wiki/Moral
+https://en.wikipedia.org/wiki/Ethics
+}
+
 { Populations, activities, work & hazards, by state, measure, sector,  case (effect):
 proj:
 https://en.wikipedia.org/wiki/Ripple_effect
@@ -1383,6 +1400,9 @@ https://en.wikipedia.org/wiki/Pollution
 job:
 https://en.wikipedia.org/wiki/Crunch_(video_games)
 ban:
+https://en.wikipedia.org/wiki/Sexual_assault
+https://en.wikipedia.org/wiki/Rape
+  https://en.wikipedia.org/wiki/Rape_statistics
 https://en.wikipedia.org/wiki/Manslaughter
 https://en.wikipedia.org/wiki/Murder
 https://en.wikipedia.org/wiki/Proxy_murder
@@ -1392,24 +1412,25 @@ https://en.wikipedia.org/wiki/School_shooting
   https://en.wikipedia.org/wiki/Jokela_school_shooting
 }
 
-{ Populations, world views, codes & ethics, by virtue, domain (affect):
-wait:
-https://en.wikipedia.org/wiki/Morality
-https://en.wikipedia.org/wiki/Moral
-https://en.wikipedia.org/wiki/Ethics
-}
-
-
 { Populations, internet communities & subcultures, by type, website,  member(s) (portals):
 https://en.wikipedia.org/wiki/Internet_culture
-https://en.wikipedia.org/wiki/Intranet
 https://en.wikipedia.org/wiki/Community
 https://en.wikipedia.org/wiki/Committee
 https://en.wikipedia.org/wiki/Etiquette_in_technology
+type:
+https://en.wikipedia.org/wiki/Intranet
+https://en.wikipedia.org/wiki/Home_page
+ui:
+https://en.wikipedia.org/wiki/Web_design
+www:
+https://en.wikipedia.org/wiki/4chan
+https://en.wikipedia.org/wiki/Ylilauta
 cult:
 https://en.wikipedia.org/wiki/Furry_fandom
 hate:
 https://en.wikipedia.org/wiki/Incel
+scar, ban:
+https://en.wikipedia.org/wiki/Child_pornography
 }
 
 
@@ -1768,7 +1789,9 @@ https://en.wikipedia.org/wiki/SOPMOD
 { Arms & armory - WMD, chemical and bio weapons (platforms):
 https://en.wikipedia.org/wiki/Mutual_assured_destruction
 https://en.wikipedia.org/wiki/Weapon_of_mass_destruction
+nuke:
 https://en.wikipedia.org/wiki/Nuclear_weapon
+https://en.wikipedia.org/wiki/Sundial_(weapon)
 }
 
 { Arms & armory - ballistic heavy weapons, by reach (platforms):
@@ -2072,7 +2095,7 @@ https://en.wikipedia.org/wiki/Running
 https://en.wikipedia.org/wiki/Sprint_(running)
 }
 
-{ Sports & training, by physicality, goal (team):
+{ Sports & training, by goal, physicality (team):
 ball:
 https://en.wikipedia.org/wiki/Pétanque
 https://en.wikipedia.org/wiki/Slam_Dunk_Contest
@@ -2272,6 +2295,10 @@ https://en.wikipedia.org/wiki/Hadith
 
 { Philosophical fields & wisdom, by semantic, virtue (universal):
 https://en.wikipedia.org/wiki/Philosophy
+east:
+https://en.wikipedia.org/wiki/Qi
+https://en.wikipedia.org/wiki/Yin_and_yang
+west:
 https://en.wikipedia.org/wiki/Everything
 https://en.wikipedia.org/wiki/Nothing
 https://en.wikipedia.org/wiki/Nihilism
@@ -2511,9 +2538,6 @@ https://en.wikipedia.org/wiki/The_Sellswords
 https://en.wikipedia.org/wiki/The_Marshall_Mathers_LP
 https://en.wikipedia.org/wiki/Martial_arts
 https://en.wikipedia.org/wiki/Sport_industry
-https://en.wikipedia.org/wiki/Rape_statistics
-https://en.wikipedia.org/wiki/Rape
-https://en.wikipedia.org/wiki/Sexual_assault
 https://en.wikipedia.org/wiki/Sexual_assault_in_the_United_States_military
 https://en.wikipedia.org/wiki/Sexual_assault_of_LGBTQ_persons
 https://en.wikipedia.org/wiki/Asexual_reproduction
@@ -3442,7 +3466,6 @@ https://en.wikipedia.org/wiki/Inference
 https://en.wikipedia.org/wiki/Vehicle_registration_plate
 https://en.wikipedia.org/wiki/CD_player
 https://en.wikipedia.org/wiki/Diplomatic_vehicle_registration_plate
-https://en.wikipedia.org/wiki/Anti-establishment
 https://en.wikipedia.org/wiki/Establishment_Clause
 https://en.wikipedia.org/wiki/Blackboard
 https://en.wikipedia.org/wiki/Warp_drive
@@ -4208,7 +4231,6 @@ https://en.wikipedia.org/wiki/C-lehti
 
 https://en.wikipedia.org/wiki/Botulinum_toxin
 
-https://en.wikipedia.org/wiki/Sundial_(weapon)
 https://en.wikipedia.org/wiki/Visigoths
 
 https://en.wikipedia.org/wiki/Westworld_(film)
@@ -4218,6 +4240,22 @@ https://en.wikipedia.org/wiki/Principality
 
 https://en.wikipedia.org/wiki/Statue
 https://en.wikipedia.org/wiki/Satisfaction
+
+https://en.wikipedia.org/wiki/KISS_principle
+https://en.wikipedia.org/wiki/Sect
+https://en.wikipedia.org/wiki/Natural_selection
+https://en.wikipedia.org/wiki/Profiteering
+https://en.wikipedia.org/wiki/Waffen-SS
+https://en.wikipedia.org/wiki/Kamikaze
+https://en.wikipedia.org/wiki/Pearl_Harbor_(film)
+https://en.wikipedia.org/wiki/Telephone_slamming
+https://en.wikipedia.org/wiki/Zeitgeist
+https://en.wikipedia.org/wiki/Mossy_Oak
+https://en.wikipedia.org/wiki/Salt_mining
+https://en.wikipedia.org/wiki/Yin_and_yang
+https://en.wikipedia.org/wiki/Qi
+https://en.wikipedia.org/wiki/Jason_D._Anderson
+https://en.wikipedia.org/wiki/Leonard_Boyarsky
 }
 
 {
