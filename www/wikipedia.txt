@@ -248,12 +248,15 @@ way:		  technical, style, stylistic,
 bat:		  man, bat, slammer,
 icy:		  cold, freezing, iced out,
 rule:		  regulatory, principled, lawfulness,
-hate:		  upsetting, troglodytic, corruptive, extremifying
+hate:		  upsetting, troglodytic, corruptive, extremifying,
+scar:		  scary, maddening, terrifying, scarring,
+nuke:		  missile, nuclear, warhead
 }
 
 {
 Jumpcuts:	  "old,new,bad,good,fame",
-Greatest:	  "ost"
+Greatest:	  "ost",
+Ziplines:	  bark{ hark: " dark ", larp }
 }
 
 
@@ -690,8 +693,9 @@ https://en.wikipedia.org/wiki/Lottery_machine
 
 { Entertainment, games & interactive media productions:  aaa,saas,vr,scam
 https://en.wikipedia.org/wiki/AAA_(video_game_industry)
-jap:
+jap, uk:
 https://en.wikipedia.org/wiki/Donkey_Kong_Country
+jap:
 https://en.wikipedia.org/wiki/Star_Ocean:_The_Second_Story
 https://en.wikipedia.org/wiki/Final_Fantasy_IV
 https://en.wikipedia.org/wiki/Final_Fantasy_V
@@ -701,6 +705,8 @@ https://en.wikipedia.org/wiki/Final_Fantasy_VII
 https://en.wikipedia.org/wiki/Final_Fantasy_VIII
 https://en.wikipedia.org/wiki/Final_Fantasy_IX
 https://en.wikipedia.org/wiki/Final_Fantasy_X
+usa:
+https://en.wikipedia.org/wiki/Full_Spectrum_Warrior
 ...
 https://en.wikipedia.org/wiki/Asset_flip
 }
@@ -1120,12 +1126,12 @@ https://en.wikipedia.org/wiki/Conventional_sex
 }
 
 
-{ Populations, life, environment & experiences, by system, traits, properties (solo, al):
+{ Populations, life, environment & experiences, by system, traits, properties (solo, al):  hark
 https://en.wikipedia.org/wiki/Aleksi
 https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy)
 https://en.wikipedia.org/wiki/Solitude
 https://en.wikipedia.org/wiki/Solidarity
-https://en.wikipedia.org/wiki/Crying					" since 1992 "
+https://en.wikipedia.org/wiki/Crying					90's,
 https://en.wikipedia.org/wiki/Laughter
 https://en.wikipedia.org/wiki/Evil_laughter
 https://en.wikipedia.org/wiki/Finland
@@ -1133,14 +1139,13 @@ https://en.wikipedia.org/wiki/Finnish_language
 9999:
 https://en.wikipedia.org/wiki/Sensei
 mind:
-https://en.wikipedia.org/wiki/Sleep					" too much or little gives me brain fog, headaches "
+https://en.wikipedia.org/wiki/Sleep					zzz,
 https://en.wikipedia.org/wiki/Nap
 https://en.wikipedia.org/wiki/He_(pronoun)
-https://en.wikipedia.org/wiki/Asociality				
-  ^- " i've gotten used to talking, but it still feels like a parallel universe to transition from a convo to my cloistered bubble,  i used to force it both ways too, but it traumatizes me "
+https://en.wikipedia.org/wiki/Asociality				walk1,
 https://en.wikipedia.org/wiki/Minimalism
-https://en.wikipedia.org/wiki/Neurosis					" volume control "
-https://en.wikipedia.org/wiki/Mental_disorder    			" meds are not cutting it, refusal to pay or use "
+https://en.wikipedia.org/wiki/Neurosis					signal,
+https://en.wikipedia.org/wiki/Mental_disorder    			pilled,
 https://en.wikipedia.org/wiki/Depression_(mood)
 https://en.wikipedia.org/wiki/Autism
   https://en.wikipedia.org/wiki/Maze
@@ -1148,8 +1153,7 @@ https://en.wikipedia.org/wiki/Autism
 https://en.wikipedia.org/wiki/Dissociative_disorder
 https://en.wikipedia.org/wiki/Catatonia
 https://en.wikipedia.org/wiki/Migraine				 
-https://en.wikipedia.org/wiki/Cluster_headache
-  ^- " got a tightened nerve around my scapula that i have to loosen for hours on end to alleviate these "
+https://en.wikipedia.org/wiki/Cluster_headache				nerve,
 https://en.wikipedia.org/wiki/Asexuality
 https://en.wikipedia.org/wiki/Asexual_flag
 https://en.wikipedia.org/wiki/Suicidal_ideation
@@ -1161,7 +1165,7 @@ https://en.wikipedia.org/wiki/Walking
   https://en.wikipedia.org/wiki/Mode_of_transport
 https://en.wikipedia.org/wiki/Penis
 https://en.wikipedia.org/wiki/Autoeroticism
-https://en.wikipedia.org/wiki/Sexual_intercourse			" count to 6 "
+https://en.wikipedia.org/wiki/Sexual_intercourse			hole,
 https://en.wikipedia.org/wiki/Atrophy
 https://en.wikipedia.org/wiki/Pattern_hair_loss
 phys:
@@ -1179,12 +1183,12 @@ https://en.wikipedia.org/wiki/Coconut_milk
 slug:
 https://en.wikipedia.org/wiki/Water
 https://en.wikipedia.org/wiki/Milk
-https://en.wikipedia.org/wiki/Coffee					" caffeine withdrawal (puke) "
+https://en.wikipedia.org/wiki/Coffee					puke,
 https://en.wikipedia.org/wiki/Juice
 https://en.wikipedia.org/wiki/Soft_drink
 eat:
-https://en.wikipedia.org/wiki/Paracetamol				" taking both .. "
-https://en.wikipedia.org/wiki/Ibuprofen					" cures persistent headaches, even with my extreme resistance "
+https://en.wikipedia.org/wiki/Paracetamol				cure,
+https://en.wikipedia.org/wiki/Ibuprofen					2,
 https://en.wikipedia.org/wiki/Candy
 wear:
 https://en.wikipedia.org/wiki/Headgear
@@ -1212,43 +1216,34 @@ https://en.wikipedia.org/wiki/Footwear
   https://en.wikipedia.org/wiki/Boot
 turf:
 https://en.wikipedia.org/wiki/Uusimaa
-https://en.wikipedia.org/wiki/Porvoo
-
-     " current ", " kevätlaakso pitäs tasottaa niiku ne tasotti sen metän,  ja niin että ne oppis rakentamaan vähemmän psykopaateille suunnattuja taloja   v neposet ",  " kumit kärryistä puhki vähintään ",
-     " pesäpallo ottelu kevarilaisten kanssa ainaki  v käärmeet "
-
+https://en.wikipedia.org/wiki/Porvoo    				zip1,
 https://en.wikipedia.org/wiki/Kymenlaakso
 https://en.wikipedia.org/wiki/Iitti
 https://en.wikipedia.org/wiki/Kausala
 path:
 https://en.wikipedia.org/wiki/House
-https://en.wikipedia.org/wiki/Hermit    				" since a 12 yo "
+https://en.wikipedia.org/wiki/Hermit    				alone,
 https://en.wikipedia.org/wiki/Kindergarten
 https://en.wikipedia.org/wiki/Primary_school
-https://en.wikipedia.org/wiki/Secondary_school	
-
-     " in hs i skipped classes, while i played tekken in the break room.   got kicked out during the fourth year, for just skipping it home.  i like street fighter more anyway "
-
-utti:  https://en.wikipedia.org/wiki/Conscription			" military intelligence sort of,   very chill "
-https://en.wikipedia.org/wiki/Vocational_school				" finished this joint, and started despising conventional schooling as a result "
+https://en.wikipedia.org/wiki/Secondary_school				hs,
+https://en.wikipedia.org/wiki/Conscription				utti,
+https://en.wikipedia.org/wiki/Vocational_school				edu,
 https://en.wikipedia.org/wiki/Renting
 https://en.wikipedia.org/wiki/Apartment
-https://en.wikipedia.org/wiki/Anchorite					" hc, balancer"
-https://en.wikipedia.org/wiki/AAA_(video_game_industry)			" good xp, too serious "
-  https://en.wikipedia.org/wiki/Remedy_Entertainment
-  ^-" my only 7 months of work experience out of 34y of existing on this rock.   tech art and computers graphics, which i've done since 2006.   still the best skills for me to stay mentally productive "
-
-https://en.wikipedia.org/wiki/Unemployment				" most of my life.   first 24y.   10y since last one "
+https://en.wikipedia.org/wiki/Anchorite					hc,
+https://en.wikipedia.org/wiki/AAA_(video_game_industry)			xp,
+  https://en.wikipedia.org/wiki/Remedy_Entertainment			job1,
+https://en.wikipedia.org/wiki/Unemployment				not1,
 bank:
 https://en.wikipedia.org/wiki/Poverty
 https://en.wikipedia.org/wiki/Homelessness
 https://en.wikipedia.org/wiki/Welfare_state
-https://en.wikipedia.org/wiki/Unemployment_benefits			" lived at home for 28y, so i just lived without money "
-https://en.wikipedia.org/wiki/Medical_billing				" köyhät,  kyykyssä "
+https://en.wikipedia.org/wiki/Unemployment_benefits			claw,
+https://en.wikipedia.org/wiki/Medical_billing				dying here,
 https://en.wikipedia.org/wiki/Driver's_license
 stat:
-https://en.wikipedia.org/wiki/Traffic_collision				" car vs muh skin "
-Glossary_of_video_game_terms#Kill-death_ratio 				" irl = 0 (active, passive) "
+https://en.wikipedia.org/wiki/Traffic_collision				ouch,
+Glossary_of_video_game_terms#Kill-death_ratio 				k/d, 0,
 play:
 https://en.wikipedia.org/wiki/Hobby
 https://en.wikipedia.org/wiki/Film
@@ -1256,7 +1251,7 @@ https://en.wikipedia.org/wiki/Film
   https://en.wikipedia.org/wiki/Ghost_in_the_Shell
 https://en.wikipedia.org/wiki/Reading
 https://en.wikipedia.org/wiki/Writing
-https://en.wikipedia.org/wiki/Gameplay					" c64, nes, psx .. :P "
+https://en.wikipedia.org/wiki/Gameplay					hardware,
   https://en.wikipedia.org/wiki/Donkey_Kong_Country			favs, "ost"
   https://en.wikipedia.org/wiki/Donkey_Kong_Country_2
   https://en.wikipedia.org/wiki/Donkey_Kong_Country_3
@@ -1283,7 +1278,7 @@ https://en.wikipedia.org/wiki/Gameplay					" c64, nes, psx .. :P "
   https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell
   https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)
 https://en.wikipedia.org/wiki/Role-playing_game
-  https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)   	fav
+  https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)   	fav,
 https://en.wikipedia.org/wiki/Music
 https://en.wikipedia.org/wiki/Computer
 https://en.wikipedia.org/wiki/Minimalism_(computing)
@@ -1297,40 +1292,40 @@ https://en.wikipedia.org/wiki/User_interface_design
 den:
 https://en.wikipedia.org/wiki/Shelf_(storage)
 https://en.wikipedia.org/wiki/Desk
-https://en.wikipedia.org/wiki/Houseplant				" The dead 1s, to be cremated "
+https://en.wikipedia.org/wiki/Houseplant				pots,
 https://en.wikipedia.org/wiki/Bed
 https://en.wikipedia.org/wiki/Mug					" 8 "
 glass
 https://en.wikipedia.org/wiki/Vacuum_flask
-https://en.wikipedia.org/wiki/Dice					" chessex d6, d10 "
+https://en.wikipedia.org/wiki/Dice					dice,
 https://en.wikipedia.org/wiki/Desktop_computer
 https://en.wikipedia.org/wiki/Keyboard
 https://en.wikipedia.org/wiki/Computer_mouse
 https://en.wikipedia.org/wiki/Laptop
-https://en.wikipedia.org/wiki/ThinkPad					" x220, t495 (touch screens) "
-https://en.wikipedia.org/wiki/Computer_monitor				" The dying 1, 2 stored "
+https://en.wikipedia.org/wiki/ThinkPad					pads,
+https://en.wikipedia.org/wiki/Computer_monitor				views,
 https://en.wikipedia.org/wiki/Computer_speakers
 https://en.wikipedia.org/wiki/Loudspeaker
 https://en.wikipedia.org/wiki/Smartphone
 https://en.wikipedia.org/wiki/Television
-https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System	" eu "
-https://en.wikipedia.org/wiki/PlayStation_(console)			" 2 og:s "
+https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System	eu,
+https://en.wikipedia.org/wiki/PlayStation_(console)			og2,
 https://en.wikipedia.org/wiki/PlayStation_2
 https://en.wikipedia.org/wiki/Xbox_(console)
 https://en.wikipedia.org/wiki/GameCube
 https://en.wikipedia.org/wiki/Nintendo_Switch
-https://en.wikipedia.org/wiki/Statue					" eagle with left wing snapped, turtle "
-https://en.wikipedia.org/wiki/Chessboard				" marble, metal pieces "
-https://en.wikipedia.org/wiki/Skateboard				" best art goes to my deck "
+https://en.wikipedia.org/wiki/Figurine					fig,
+https://en.wikipedia.org/wiki/Chessboard				piece,
+https://en.wikipedia.org/wiki/Skateboard				wood,
 gift:
-https://en.wikipedia.org/wiki/PlayStation_4				" both fr.. "
-https://en.wikipedia.org/wiki/PlayStation_5				" bro "
+https://en.wikipedia.org/wiki/PlayStation_4				by,
+https://en.wikipedia.org/wiki/PlayStation_5				bro,
 want:
 https://en.wikipedia.org/wiki/Kimono
 https://en.wikipedia.org/wiki/Bō
 https://en.wikipedia.org/wiki/Quarterstaff
 https://en.wikipedia.org/wiki/Nunchaku
-https://en.wikipedia.org/wiki/Japanese_sword				" joka kodin sankari "
+https://en.wikipedia.org/wiki/Japanese_sword				swing,
 https://en.wikipedia.org/wiki/Tanto
 https://en.wikipedia.org/wiki/Katana
 https://en.wikipedia.org/wiki/Wakizashi
@@ -1348,18 +1343,16 @@ https://en.wikipedia.org/wiki/Bokken
 https://en.wikipedia.org/wiki/Tameshigiri
 https://en.wikipedia.org/wiki/Makiwara
 https://en.wikipedia.org/wiki/Crash_test_dummy
-work:
-https://en.wikipedia.org/wiki/Last_words    				" no qualms - lie beyond your masters "
 take:
 https://en.wikipedia.org/wiki/Advocacy_of_suicide
-https://en.wikipedia.org/wiki/Assisted_suicide				" let the christians summon and fight their own demons "
-https://en.wikipedia.org/wiki/Euthanasia				" shed your corporeal form    mortal "
+https://en.wikipedia.org/wiki/Assisted_suicide				fight,
+https://en.wikipedia.org/wiki/Euthanasia				mortal,
 rip:
-https://en.wikipedia.org/wiki/Suicide					" dunno,  an option "
+https://en.wikipedia.org/wiki/Suicide					dunno,
 https://en.wikipedia.org/wiki/Seppuku
 https://en.wikipedia.org/wiki/Cremation
 ...
-https://en.wikipedia.org/wiki/Bullying					" just school, by random people "
+https://en.wikipedia.org/wiki/Bullying					bully,
   https://en.wikipedia.org/wiki/Hostility
 https://en.wikipedia.org/wiki/Lie
   https://en.wikipedia.org/wiki/Confidence
@@ -1368,6 +1361,8 @@ https://en.wikipedia.org/wiki/Social_death
 https://en.wikipedia.org/wiki/Starvation
   https://en.wikipedia.org/wiki/Food
 https://en.wikipedia.org/wiki/Running
+work:
+https://en.wikipedia.org/wiki/Last_words    				last,
 }
 
 
@@ -4220,6 +4215,9 @@ https://en.wikipedia.org/wiki/Westworld_(film)
 https://en.wikipedia.org/wiki/Meltdown_(Red_Dwarf)
 
 https://en.wikipedia.org/wiki/Principality
+
+https://en.wikipedia.org/wiki/Statue
+https://en.wikipedia.org/wiki/Satisfaction
 }
 
 {
@@ -4498,6 +4496,146 @@ toon, art:
        https://en.wikipedia.org/wiki/The_Boss_(Metal_Gear)
 ...
 }
+
+
+
+Barks & comments:  hark
+{
+90's:
+" since 1992 "
+
+zzz:
+" too much or little gives me brain fog, headaches "
+
+walk1:
+" i've gotten used to talking,    but it still feels like a parallel universe to 
+  transition from a convo to my cloistered bubble,  i used to force it both ways 
+  too, but it traumatizes me "
+
+signal:
+" volume control "
+
+pilled:
+" meds are not cutting it ",
+" refusal to pay or use "
+
+nerve: 
+" got a tightened nerve around my scapula that i have to loosen for hours on end 
+  to alleviate these "
+
+hole:
+" count to 6 "
+
+puke:
+" caffeine withdrawal "
+
+cure, 2:
+" taking both .. ",
+" cures persistent headaches, even with my extreme resistance "
+
+zip1:
+" current ",
+
+" kevätlaakso pitäs tasottaa niiku ne tasotti sen metän,   ja niin että ne oppis 
+  rakentamaan vähemmän psykopaateille suunnattuja taloja   v neposet ",
+" kumit kärryistä puhki vähintään ",
+" pesäpallo ottelu kevarilaisten kanssa ainaki   v käärmeet "
+
+alone:
+" since a 12 yo "
+
+hs:
+" in hs i skipped classes, while i played tekken in the break room.   got kicked 
+  out during the fourth year, for just skipping it home.  i like street fighter 
+  more anyway "
+
+utti:
+" military intelligence sort of,   very chill "
+
+edu:
+" finished this joint, and started despising conventional schooling as a result 
+"
+
+hc:
+" hc ",
+" balancer "
+
+xp:
+" good xp ",
+" too serious "
+
+job1:
+" my only 7 months of work experience out of 34y of existing on this rock ",
+" tech art and computers graphics, which i've done since 2006 ", 
+" still the best skills for me to stay mentally productive "
+
+not1:
+" most of my life.   first 24y.   10y since last one "
+
+claw:
+" lived at home for 28y, so i just lived without money "
+
+dying here:
+" köyhät,  kyykyssä "
+
+ouch:
+" car vs muh skin "
+
+k/d, 0:
+" 0 (irl, active, passive) "
+
+hardware:
+" c64, nes, psx .. :P "
+
+ash:
+" The dead 1s, to be cremated "
+
+dice:
+" chessex d6, d10 "
+
+pads:
+" x220, t495 (touch screens) "
+
+views:
+" The dying 1, 2 stored "
+
+og2:
+" 2 og:s "
+
+fig:
+" eagle with left wing snapped ",
+" turtle "
+
+piece:
+" marble, metal pieces "
+
+wood:
+" best art goes to my deck "
+
+by, bro:
+" both fr.. ",
+" bro "
+
+swing:
+" joka kodin sankari "
+
+fight:
+" let the christians summon and fight their own demons "
+
+mortal:
+" shed your corporeal form    mortal "
+
+dunno:
+" dunno,  an option "
+
+bully:
+" just school, by random people "
+
+last:
+" no qualms - lie beyond your masters "
+}
+
+
 
 {
 corp:
