@@ -107,9 +107,12 @@ lang:		  language (natural, code, slang, encoded, script),
 bark:		  bark, hark,
 prj:		  project, living, maturing,
 hw:		  hardware, electronics,
+ware:		  goods, supplies, services,
 cpu:		  central processing unit,
 ram:		  random-access memory,
 gpu:		  graphics processing unit,
+pc:		  personal, home computer, 
+os:		  operating system,
 app:		  application,
 ui:		  textual, user interface, graphical,
 lib:		  library, framework,
@@ -256,6 +259,9 @@ hate:		  upsetting, troglodytic, corruptive, extremifying,
 scar:		  scary, maddening, terrifying, scarring,
 nuke:		  missile, nuclear, warhead,
 poli:		  politics, necropolis, heliopolis,
+ost:		  official soundtrack,
+peer:		  social approximation, friendlies,
+myst:		  unknown, obscure, mysterious, conspiratorial,
 }
 
 {
@@ -303,12 +309,14 @@ https://en.wikipedia.org/wiki/Litmus_test_(politics)
 { Humans, evolution & genetics, by origin, feature, survival (universal):
 bio:
 https://en.wikipedia.org/wiki/DNA
+https://en.wikipedia.org/wiki/RNA
 https://en.wikipedia.org/wiki/Human_evolution
 https://en.wikipedia.org/wiki/Child
 https://en.wikipedia.org/wiki/Girl
 https://en.wikipedia.org/wiki/Boy
 https://en.wikipedia.org/wiki/Woman
 https://en.wikipedia.org/wiki/Man
+https://en.wikipedia.org/wiki/Lineage_(evolution)
 root:
 https://en.wikipedia.org/wiki/Multiracial_people
 https://en.wikipedia.org/wiki/List_of_ethnic_groups_of_Africa
@@ -498,11 +506,15 @@ usa:
 https://en.wikipedia.org/wiki/Bell_Labs
 https://en.wikipedia.org/wiki/3dfx
 
-Electronics & hardware technologies (legacy):  hw...
+Electronics & hardware technology products & tools (legacy):  hw...
 https://en.wikipedia.org/wiki/Punched_card
 https://en.wikipedia.org/wiki/Punched_card_input/output
+pc:
+https://en.wikipedia.org/wiki/Commodore_64
 
 Electronics & hardware disciplines:
+https://en.wikipedia.org/wiki/Electronic_engineering
+https://en.wikipedia.org/wiki/Microelectronics
 https://en.wikipedia.org/wiki/Hardware_architect
 ...
 }
@@ -578,30 +590,34 @@ ip:   https://en.wikipedia.org/wiki/Proprietary_software
 beef: https://en.wikipedia.org/wiki/Editor_war
 }
 
-{ Software, applications & technologies, by purpose, name (legacy, modern):
+{ Software, base applications & technologies, by purpose, name (legacy, modern):
+bare:
+https://en.wikipedia.org/wiki/Machine_code
+https://en.wikipedia.org/wiki/Assembly_language
+lang:
+https://en.wikipedia.org/wiki/Pascal_(programming_language)
+https://en.wikipedia.org/wiki/Object_Pascal
+https://en.wikipedia.org/wiki/Free_Pascal
+https://en.wikipedia.org/wiki/C_(programming_language)
+net:
+https://en.wikipedia.org/wiki/HTTP
+https://en.wikipedia.org/wiki/RSS
 os:
 https://en.wikipedia.org/wiki/Unix
-https://en.wikipedia.org/wiki/Workbench_(AmigaOS)
 https://en.wikipedia.org/wiki/MS-DOS
+https://en.wikipedia.org/wiki/Workbench_(AmigaOS)
+https://en.wikipedia.org/wiki/NeXTSTEP
 https://en.wikipedia.org/wiki/Linux
+https://en.wikipedia.org/wiki/NetBSD
+https://en.wikipedia.org/wiki/FreeBSD
+https://en.wikipedia.org/wiki/OpenBSD
 https://en.wikipedia.org/wiki/Windows_95
 https://en.wikipedia.org/wiki/Windows_2000
 https://en.wikipedia.org/wiki/Windows_XP
 https://en.wikipedia.org/wiki/MacOS
-api:
-https://en.wikipedia.org/wiki/OpenGL
-https://en.wikipedia.org/wiki/WebGL
-3d:
-list:  https://en.wikipedia.org/wiki/List_of_3D_modeling_software
-https://en.wikipedia.org/wiki/3D_modeling
-https://en.wikipedia.org/wiki/PowerAnimator
-https://en.wikipedia.org/wiki/Electric_Image_Animation_System
-https://en.wikipedia.org/wiki/Bryce_(software)
-https://en.wikipedia.org/wiki/Autodesk_Softimage
-https://en.wikipedia.org/wiki/Blender_(software)
-https://en.wikipedia.org/wiki/Autodesk_Maya
-https://en.wikipedia.org/wiki/ZBrush
-https://en.wikipedia.org/wiki/Modo_(software)
+wm, de:
+https://en.wikipedia.org/wiki/GNUstep
+https://en.wikipedia.org/wiki/Window_Maker
 util:
 https://en.wikipedia.org/wiki/Daemon_Tools
 prj:
@@ -622,24 +638,12 @@ corp:
 https://en.wikipedia.org/wiki/Microsoft_Windows
 https://en.wikipedia.org/wiki/Apple_Inc.
 https://en.wikipedia.org/wiki/Software_as_a_service
+https://en.wikipedia.org/wiki/Perforce
 }
 
-{ Software technologies & tools, by purpose (legacy):
+{ Software base technologies & tools, by purpose, name (legacy):
 net:
 https://en.wikipedia.org/wiki/Gopher_(protocol)
-}
-
-{ Software technologies & tools (modern):
-bare:
-https://en.wikipedia.org/wiki/Machine_code
-https://en.wikipedia.org/wiki/Assembly_language
-lang:
-https://en.wikipedia.org/wiki/Pascal_(programming_language)
-https://en.wikipedia.org/wiki/Object_Pascal
-https://en.wikipedia.org/wiki/Free_Pascal
-https://en.wikipedia.org/wiki/C_(programming_language)
-https://en.wikipedia.org/wiki/HTTP
-https://en.wikipedia.org/wiki/RSS
 }
 
 { Software systems, networks & web development (internet):
@@ -656,6 +660,20 @@ https://en.wikipedia.org/wiki/PHP
 https://en.wikipedia.org/wiki/Demoscene
 https://en.wikipedia.org/wiki/Demogroup
 https://en.wikipedia.org/wiki/Indie_game
+api:
+https://en.wikipedia.org/wiki/OpenGL
+https://en.wikipedia.org/wiki/WebGL
+3d:
+list:  https://en.wikipedia.org/wiki/List_of_3D_modeling_software
+https://en.wikipedia.org/wiki/3D_modeling
+https://en.wikipedia.org/wiki/PowerAnimator
+https://en.wikipedia.org/wiki/Electric_Image_Animation_System
+https://en.wikipedia.org/wiki/Bryce_(software)
+https://en.wikipedia.org/wiki/Autodesk_Softimage
+https://en.wikipedia.org/wiki/Blender_(software)
+https://en.wikipedia.org/wiki/Autodesk_Maya
+https://en.wikipedia.org/wiki/ZBrush
+https://en.wikipedia.org/wiki/Modo_(software)
 app:
 https://en.wikipedia.org/wiki/Godot_(game_engine)
 tech:
@@ -921,12 +939,15 @@ curr:  https://en.wikipedia.org/wiki/Finnish_markka
 }
 
 
-{ Law, order & recordkeeping, by rights & freedoms, group (legacy):
+{ Law, order & recordkeeping, by rights & freedoms, rule, party (lineage):
+free:
 https://en.wikipedia.org/wiki/Human_rights
 https://en.wikipedia.org/wiki/International_human_rights_law
-https://en.wikipedia.org/wiki/Social_order
-https://en.wikipedia.org/wiki/History_of_the_legal_profession
 https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights
+rule:
+https://en.wikipedia.org/wiki/Social_order
+body:
+https://en.wikipedia.org/wiki/History_of_the_legal_profession
 https://en.wikipedia.org/wiki/Abortion-rights_movement
 }
 
@@ -940,6 +961,8 @@ https://en.wikipedia.org/wiki/Legal_person
 https://en.wikipedia.org/wiki/Attorney_at_law
 rule:
 https://en.wikipedia.org/wiki/De_jure
+ware:
+https://en.wikipedia.org/wiki/Consumer_protection
 arm:
 https://en.wikipedia.org/wiki/Firearms_license
 https://en.wikipedia.org/wiki/Overview_of_gun_laws_by_nation
@@ -1383,10 +1406,13 @@ https://en.wikipedia.org/wiki/Global_catastrophic_risk
 }
 
 { Populations, world views, codes & ethics, by virtue, domain (affect):
-wait:
 https://en.wikipedia.org/wiki/Morality
 https://en.wikipedia.org/wiki/Moral
 https://en.wikipedia.org/wiki/Ethics
+work:
+https://en.wikipedia.org/wiki/Work_ethic
+peer, pro:
+https://en.wikipedia.org/wiki/Old_boy_network
 }
 
 { Populations, activities, work & hazards, by state, measure, sector,  case (effect):
@@ -1452,6 +1478,7 @@ https://en.wikipedia.org/wiki/Patriotism
 https://en.wikipedia.org/wiki/Neutral_country
 https://en.wikipedia.org/wiki/Statelessness
 https://en.wikipedia.org/wiki/Universal_basic_income
+https://en.wikipedia.org/wiki/Continuity_of_government
 }
 
 { Statecraft, political systems & ideologies, by era, rule, system:
@@ -1574,10 +1601,14 @@ https://en.wikipedia.org/wiki/Sauli_Niinistö
 https://en.wikipedia.org/wiki/Alexander_Stubb
 }
 
-{ Statecraft & internal affairs, by issue, role: -
+{ Statecraft & internal affairs, by role, issue:
+https://en.wikipedia.org/wiki/Shadow_cabinet
+myst:
+https://en.wikipedia.org/wiki/Shadow_government_(conspiracy_theory)
 { 
 
-{ Statecraft & foreign affairs, by issue, role: -
+{ Statecraft & foreign affairs, by role, issue:
+https://en.wikipedia.org/wiki/Government-in-exile
 }
 
 { Statecraft, armed conflicts & strategies, by campaign, scenario, territory:
@@ -2241,6 +2272,7 @@ https://en.wikipedia.org/wiki/Heaven
 myth:
 https://en.wikipedia.org/wiki/Phoenix_(mythology)
 https://en.wikipedia.org/wiki/Centaur
+https://en.wikipedia.org/wiki/Gaia
 https://en.wikipedia.org/wiki/Daimon
 https://en.wikipedia.org/wiki/Demon
 https://en.wikipedia.org/wiki/Oni
@@ -3285,12 +3317,6 @@ https://en.wikipedia.org/wiki/List_of_Nokia_products
 https://en.wikipedia.org/wiki/ThinkPad
 https://en.wikipedia.org/wiki/Nvidia
 https://en.wikipedia.org/wiki/AMD
-https://en.wikipedia.org/wiki/OpenBSD
-https://en.wikipedia.org/wiki/FreeBSD
-https://en.wikipedia.org/wiki/NetBSD
-https://en.wikipedia.org/wiki/NeXTSTEP
-https://en.wikipedia.org/wiki/GNUstep
-https://en.wikipedia.org/wiki/Window_Maker
 https://en.wikipedia.org/wiki/Berkeley_Software_Distribution
 https://en.wikipedia.org/wiki/7-Zip
 https://en.wikipedia.org/wiki/Gaia_hypothesis
@@ -4252,10 +4278,15 @@ https://en.wikipedia.org/wiki/Telephone_slamming
 https://en.wikipedia.org/wiki/Zeitgeist
 https://en.wikipedia.org/wiki/Mossy_Oak
 https://en.wikipedia.org/wiki/Salt_mining
-https://en.wikipedia.org/wiki/Yin_and_yang
-https://en.wikipedia.org/wiki/Qi
 https://en.wikipedia.org/wiki/Jason_D._Anderson
 https://en.wikipedia.org/wiki/Leonard_Boyarsky
+
+https://en.wikipedia.org/wiki/Deep_state_conspiracy_theory_in_the_United_States
+https://en.wikipedia.org/wiki/Deep_state_in_Turkey
+https://en.wikipedia.org/wiki/Smoke-filled_room
+https://en.wikipedia.org/wiki/United_States_federal_government_continuity_of_operations
+https://en.wikipedia.org/wiki/Hardware_register
+https://en.wikipedia.org/wiki/Electronic_engineering
 }
 
 {
@@ -4577,7 +4608,7 @@ zip1:
 " kevätlaakso pitäs tasottaa niiku ne tasotti sen metän,   ja niin että ne oppis 
   rakentamaan vähemmän psykopaateille suunnattuja taloja   v neposet ",
 " kumit kärryistä puhki vähintään ",
-" pesäpallo ottelu kevarilaisten kanssa ainaki   v käärmeet "
+" pesäpallo ottelu kevarilaisten kanssa ainaki   v kärmekset "
 
 alone:
 " since a 12 yo "
