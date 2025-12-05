@@ -48,6 +48,37 @@ e on Linux.
 }
 
 
+
+{ TOC:				Code:
+{*---Table of Contents--------------------*}
+     0.0. The Verse		meta
+     1.0. Humans		pop
+     2.0. Language		lang
+     3.0. Work			act
+     4.0. Computers		hw,port
+     5.0. Software		code
+     6.0. Machines		mech	
+     7.0. Wares			ware
+     8.0. Economy		curr
+     9.0. Law			rule
+    10.0. Populations		civ
+    11.0. Governments		gov
+    12.0. Arms			arm
+    13.0. Science		hard,soft
+    14.0. Mathematics		math
+    15.0. Brain			cogs,dev
+    16.0. Exploration		find
+    17.0. Literature		text
+    18.0. Figure		fig,phys
+    19.0. Strategics		dev,luck
+    20.0. Artworks		art
+    21.0. Religion		soul
+    22.0. Philosophy		qi
+{*----------------------------------------*}
+}
+
+
+
 { Denotation syntax,  by symbol, whitespace:
 Jumpcut   = "old",
 Comment   = " surrounded by whitespaces ",
@@ -61,7 +92,7 @@ Greatest:	  "ost",
 Ziplines:	  bark{ hark: " dark ", larp }
 }
 
-{ Classes:  	  Search by: ctrl-f,
+{ Classes:  	  Search by:  paint text, ctrl-f,
 sys:		  System, cogs, prominence, path, all, qi,
 data:		  type, id,
 list:		  name, version,
@@ -95,7 +126,7 @@ kid:		  4 children,
 ip:		  intellectual property (brand),
 tcg:		  trading card game,
 foss:		  free software; ip,
-fig:		  brain & matter, prophet, virtual,
+fig:		  brain & matter, prophet, virtual, silhouette,
 corp:		  incorporated, industry,
 math:		  mathematics, intrinsics,
 stat:		  statistics,
@@ -107,7 +138,7 @@ al:		  alien,
 vis:		  vision, imaging,
 cig:		  tobacco,
 beef:		  philosophy, tribalism, flesh & bones,
-curr:  		  currency,
+curr:  		  currency, money,
 cult:		  cultic, occultic, philosophic/religious/spiritual, fandom,
 exo:		  culture (arts, history, legacy), training, exoticism,
 arm:		  weapon, shield etc,
@@ -121,7 +152,7 @@ fam:		  family,
 pro:		  professional, career,
 pit:		  crawlspace, 9th circle, spikes,
 hero:		  hero,
-anti:		  antihero,
+anti:		  antihero, irreligious,
 net:		  internet, portal, server, community, network,
 fun:		  happiness,
 sad:		  sadness,
@@ -139,7 +170,7 @@ job:		  work, hobby,
 take:		  hot,
 rip:		  piece out,
 body:		  human, corpse, condition, full, piece,
-meta:		  metadata, status quo, reality,
+meta:		  metadata, reality, status quo,
 real:		  physical, existence,
 deep:		  space, science,
 race:		  space race,
@@ -205,8 +236,8 @@ hunt:		  spear, bow, arrow, game,
 lure:		  pond, rod, dynamite,
 camp:		  outdoors, camping, outpost,
 agri:		  farming, animal husbandry,
-meat:		  butchery,
-veg:		  vegetation, plants, foliage,
+meat:		  butchery, food,   soy,
+veg:		  vegetation, soy, plants,
 ide:		  integrated development environment,
 jest:		  jester, court, joke,
 bank:		  money, finances,
@@ -251,7 +282,18 @@ film:		  photograph, camera, reel,
 tv:		  episode, broadcast, show,
 saas:		  software as services, closed-source software,
 line:		  lineage,
-dog:		  line, best, breed
+dog:		  line, best, breed,
+slow:		  roll, deep,
+mod:		  make, model, build,
+base:		  partially based,
+port:		  handheld device, smart device,
+luck:		  odds, strike,
+true:		  pure,
+find:		  explorative
+cogs:		  brain, cognition,
+fire:		  ignition, flame, heat,
+text:		  script, document, book,
+soul:		  spirit, based, vitality
 }
 
 { Continents:
@@ -301,38 +343,94 @@ pzo: 		  Paizo
 }
 
 
-// Draft editing:
-{
-tech:
-https://en.wikipedia.org/wiki/Radio_broadcasting
 
-psy:
-https://en.wikipedia.org/wiki/Self-control
-https://en.wikipedia.org/wiki/Emotional_self-regulation
-https://en.wikipedia.org/wiki/Self-regulated_learning
-https://en.wikipedia.org/wiki/Self-regulation_theory
-https://en.wikipedia.org/wiki/Industry_self-regulation
-https://en.wikipedia.org/wiki/Self-regulatory_organization
-https://en.wikipedia.org/wiki/Self-limiting
-https://en.wikipedia.org/wiki/Self-realization
-https://en.wikipedia.org/wiki/Freudian_slip
 
-tech:
-https://en.wikipedia.org/wiki/Disk_formatting
 
-rand:
-https://en.wikipedia.org/wiki/Moore's_law
-https://en.wikipedia.org/wiki/Obscurities
-https://en.wikipedia.org/wiki/Obscure
-https://en.wikipedia.org/wiki/Obscurantism
-https://en.wikipedia.org/wiki/Security_through_obscurity
-https://en.wikipedia.org/wiki/Litmus_test_(politics)
+{ 0.0. The Verse:  meta}
+
+
+
+
+
+{ The Universe, galaxies & systems, by ulteriority, research (life):  deep
+https://en.wikipedia.org/wiki/Multiverse
+https://en.wikipedia.org/wiki/Universe
+turf:
+https://en.wikipedia.org/wiki/Milky_Way
+https://en.wikipedia.org/wiki/Sun
+https://en.wikipedia.org/wiki/Moon
+https://en.wikipedia.org/wiki/Earth
+star:
+https://en.wikipedia.org/wiki/Proxima_Centauri
+hood:
+https://en.wikipedia.org/wiki/Andromeda_Galaxy
+evo:
+https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System
+https://en.wikipedia.org/wiki/Interacting_galaxy#Galaxy_collision
+https://en.wikipedia.org/wiki/Interplanetary_medium
+proj:
+https://en.wikipedia.org/wiki/Future_of_Earth
+rip:
+https://en.wikipedia.org/wiki/Heat_death_of_the_universe
+}
+
+{ Nature, geography, materials & weather, by conditions (life):
+atmo:
+https://en.wikipedia.org/wiki/Weather
+https://en.wikipedia.org/wiki/Summer
+https://en.wikipedia.org/wiki/Winter
+https://en.wikipedia.org/wiki/Rain
+https://en.wikipedia.org/wiki/Sunlight
+https://en.wikipedia.org/wiki/Snowflake
+https://en.wikipedia.org/wiki/Slush
+mat:
+https://en.wikipedia.org/wiki/Fossil_fuel
+}
+
+{ Nature, geography & plants, by family, species, scale (life):  love
+sys:
+https://en.wikipedia.org/wiki/Aquatic_ecosystem
+https://en.wikipedia.org/wiki/Parasitism
+part:
+https://en.wikipedia.org/wiki/Plant
+https://en.wikipedia.org/wiki/Parasitic_plant
+https://en.wikipedia.org/wiki/Phytoplankton
+ https://en.wikipedia.org/wiki/Parasites_of_phytoplankton
+}
+
+{ Nature, geography & animals, by family, species (life):  love
+https://en.wikipedia.org/wiki/Animal
+https://en.wikipedia.org/wiki/Species
+https://en.wikipedia.org/wiki/Taxonomy
+https://en.wikipedia.org/wiki/Taxonomic_rank
+https://en.wikipedia.org/wiki/Herbivore
+body:
+https://en.wikipedia.org/wiki/Body_plan
+https://en.wikipedia.org/wiki/Claw
+bug:
+https://en.wikipedia.org/wiki/Parasitic_ant
+dog:
+https://en.wikipedia.org/wiki/Wolf
+https://en.wikipedia.org/wiki/Dog
+ https://en.wikipedia.org/wiki/Dalmatian_dog
+ https://en.wikipedia.org/wiki/Golden_Retriever
+bird:
+https://en.wikipedia.org/wiki/Owl
+hoof:
+https://en.wikipedia.org/wiki/Artiodactyl
+https://en.wikipedia.org/wiki/Camel
+https://en.wikipedia.org/wiki/Dromedary
+https://en.wikipedia.org/wiki/North_African_elephant
 }
 
 
 
 
-// 1.0. Humans:
+
+{ 1.0. Humans:  pop}
+
+
+
 
 
 { Humans, evolution & genetics, by origin, feature, survival (universal):  evo
@@ -406,15 +504,23 @@ To-do:  dinosaurs
 
 
 
-// 2.0. Language:
 
 
-{ Language, communication, interactions (data, transient):
-https://en.wikipedia.org/wiki/Logic 		
+
+{ 2.0. Language:  lang}
+
+
+
+
+
+
+{ Language, communication & interactions (data, transient):
+https://en.wikipedia.org/wiki/Logic 	
+https://en.wikipedia.org/wiki/Ritual	
 https://en.wikipedia.org/wiki/Knowledge
-https://en.wikipedia.org/wiki/Abstract_and_concrete
 https://en.wikipedia.org/wiki/Corporeal
 https://en.wikipedia.org/wiki/Appearance
+https://en.wikipedia.org/wiki/Abstract_and_concrete
 }
 
 { Language, communication & interactions, by party, form (universal):
@@ -464,7 +570,15 @@ https://en.wiktionary.org/wiki/nex
 }
 
 
-// 3.0. Work:
+
+
+
+
+{ 3.0. Work:  act}
+
+
+
+
 
 
 { Disciplines, skills & expertise, by product (action):
@@ -529,7 +643,15 @@ https://en.wikipedia.org/wiki/Peasant
 }
 
 
-// 4.0. Computers:
+
+
+
+{ 4.0. Computers:  pc,port}
+
+
+
+
+
 
 { Electronics & hardware technologies (universal):  hw
 https://en.wikipedia.org/wiki/Electronics
@@ -576,7 +698,15 @@ https://en.wikipedia.org/wiki/Hardware_architect
 }
 
 
-// 5.0. Software:
+
+
+
+{ 5.0. Software:  code,dev} 
+
+
+
+
+
 
 { Software, programming techniques & disciplines:
 https://simple.wikipedia.org/wiki/Software_developer
@@ -658,9 +788,6 @@ https://en.wikipedia.org/wiki/Pascal_(programming_language)
 https://en.wikipedia.org/wiki/Object_Pascal
 https://en.wikipedia.org/wiki/Free_Pascal
 https://en.wikipedia.org/wiki/C_(programming_language)
-net:
-https://en.wikipedia.org/wiki/HTTP
-https://en.wikipedia.org/wiki/RSS
 os:
 https://en.wikipedia.org/wiki/Unix
 https://en.wikipedia.org/wiki/MS-DOS
@@ -670,6 +797,7 @@ https://en.wikipedia.org/wiki/Linux
 https://en.wikipedia.org/wiki/NetBSD
 https://en.wikipedia.org/wiki/FreeBSD
 https://en.wikipedia.org/wiki/OpenBSD
+https://en.wikipedia.org/wiki/Microsoft_Windows
 https://en.wikipedia.org/wiki/Windows_95
 https://en.wikipedia.org/wiki/Windows_2000
 https://en.wikipedia.org/wiki/Windows_XP
@@ -692,21 +820,23 @@ https://en.wikipedia.org/wiki/Zlib_License
 plat:
 https://en.wikipedia.org/wiki/GitHub
 corp:
-https://en.wikipedia.org/wiki/Microsoft_Windows
-https://en.wikipedia.org/wiki/Apple_Inc.
 https://en.wikipedia.org/wiki/Software_as_a_service
+https://en.wikipedia.org/wiki/Microsoft
+https://en.wikipedia.org/wiki/Apple_Inc.
 https://en.wikipedia.org/wiki/Perforce
-}
-
-{ Software base technologies & tools, by purpose, name (legacy):
-net:
-https://en.wikipedia.org/wiki/Gopher_(protocol)
+https://en.wikipedia.org/wiki/Unity_(game_engine)
+ https://en.wikipedia.org/wiki/Spatial_(platform)
 }
 
 { Software systems, networks & web development (internet):
 tech:
 https://en.wikipedia.org/wiki/Internet
 https://en.wikipedia.org/wiki/Web_server
+https://en.wikipedia.org/wiki/Private_server
+https://en.wikipedia.org/wiki/HTTP
+https://en.wikipedia.org/wiki/RSS
+...
+https://en.wikipedia.org/wiki/Gopher_(protocol)
 meta:
 https://en.wikipedia.org/wiki/Data_mining
 lang:
@@ -720,6 +850,7 @@ https://en.wikipedia.org/wiki/Indie_game
 api:
 https://en.wikipedia.org/wiki/OpenGL
 https://en.wikipedia.org/wiki/WebGL
+https://en.wikipedia.org/wiki/Verse_protocol
 3d:
 list:  https://en.wikipedia.org/wiki/List_of_3D_modeling_software
 https://en.wikipedia.org/wiki/3D_modeling
@@ -742,6 +873,7 @@ corp:  -v
 }
 
 { Software, reverse engineering & modding (cracks):
+https://en.wikipedia.org/wiki/Hex_editor
 app:
 https://en.wikipedia.org/wiki/Ghidra
 }
@@ -760,6 +892,14 @@ https://en.wikipedia.org/wiki/Spotify
 net:
 https://en.wikipedia.org/wiki/Discord
 }
+
+
+
+
+
+{ 6.0. Machines:  mech}
+
+
 
 
 
@@ -784,6 +924,18 @@ https://en.wikipedia.org/wiki/Clockwork
 https://en.wikipedia.org/wiki/Gear_train
 https://en.wikipedia.org/wiki/Lottery_machine
 }
+
+
+
+
+
+
+{ 7.0. Wares:  ware}
+
+
+
+
+
 
 { Entertainment, games & interactive media productions:  aaa,saas,vr,scam
 https://en.wikipedia.org/wiki/AAA_(video_game_industry)
@@ -816,6 +968,14 @@ https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
 https://en.wikipedia.org/wiki/The_Last_Samurai
 usa, tv:
 https://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series)		"hoff"
+https://en.wikipedia.org/wiki/The_Simpsons
+https://en.wikipedia.org/wiki/Beavis_and_Butt-Head
+https://en.wikipedia.org/wiki/King_of_the_Hill
+https://en.wikipedia.org/wiki/South_Park
+ https://en.wikipedia.org/wiki/Good_Times_with_Weapons
+ https://en.wikipedia.org/wiki/Make_Love,_Not_Warcraft
+https://en.wikipedia.org/wiki/Futurama
+https://en.wikipedia.org/wiki/Family_Guy
 uk, tv:
 https://en.wikipedia.org/wiki/Spooks_(TV_series)
 jap:
@@ -926,78 +1086,6 @@ https://en.wikipedia.org/wiki/Wearable_art
 }
 
 
-{ The Universe, galaxies & systems, by ulteriority, research (life):  deep
-https://en.wikipedia.org/wiki/Multiverse
-https://en.wikipedia.org/wiki/Universe
-turf:
-https://en.wikipedia.org/wiki/Milky_Way
-https://en.wikipedia.org/wiki/Sun
-https://en.wikipedia.org/wiki/Moon
-https://en.wikipedia.org/wiki/Earth
-star:
-https://en.wikipedia.org/wiki/Proxima_Centauri
-hood:
-https://en.wikipedia.org/wiki/Andromeda_Galaxy
-evo:
-https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System
-https://en.wikipedia.org/wiki/Interacting_galaxy#Galaxy_collision
-https://en.wikipedia.org/wiki/Interplanetary_medium
-proj:
-https://en.wikipedia.org/wiki/Future_of_Earth
-rip:
-https://en.wikipedia.org/wiki/Heat_death_of_the_universe
-}
-
-{ Nature, geography, materials & weather, by conditions (life):
-atmo:
-https://en.wikipedia.org/wiki/Weather
-https://en.wikipedia.org/wiki/Summer
-https://en.wikipedia.org/wiki/Winter
-https://en.wikipedia.org/wiki/Rain
-https://en.wikipedia.org/wiki/Sunlight
-https://en.wikipedia.org/wiki/Snowflake
-https://en.wikipedia.org/wiki/Slush
-mat:
-https://en.wikipedia.org/wiki/Fossil_fuel
-}
-
-{ Nature, geography & plants, by family, species, scale (life):  love
-sys:
-https://en.wikipedia.org/wiki/Aquatic_ecosystem
-https://en.wikipedia.org/wiki/Parasitism
-part:
-https://en.wikipedia.org/wiki/Plant
-https://en.wikipedia.org/wiki/Parasitic_plant
-https://en.wikipedia.org/wiki/Phytoplankton
- https://en.wikipedia.org/wiki/Parasites_of_phytoplankton
-}
-
-{ Nature, geography & animals, by family, species (life):  love
-https://en.wikipedia.org/wiki/Animal
-https://en.wikipedia.org/wiki/Species
-https://en.wikipedia.org/wiki/Taxonomy
-https://en.wikipedia.org/wiki/Taxonomic_rank
-https://en.wikipedia.org/wiki/Herbivore
-body:
-https://en.wikipedia.org/wiki/Body_plan
-https://en.wikipedia.org/wiki/Claw
-bug:
-https://en.wikipedia.org/wiki/Parasitic_ant
-dog:
-https://en.wikipedia.org/wiki/Wolf
-https://en.wikipedia.org/wiki/Dog
- https://en.wikipedia.org/wiki/Dalmatian_dog
- https://en.wikipedia.org/wiki/Golden_Retriever
-bird:
-https://en.wikipedia.org/wiki/Owl
-hoof:
-https://en.wikipedia.org/wiki/Artiodactyl
-https://en.wikipedia.org/wiki/Camel
-https://en.wikipedia.org/wiki/Dromedary
-https://en.wikipedia.org/wiki/North_African_elephant
-}
-
-
 { Geographical areas, countries & territories, by continent, zone:  next
 https://en.wikipedia.org/wiki/Africa
 https://en.wikipedia.org/wiki/Oceania
@@ -1027,6 +1115,16 @@ https://en.wikipedia.org/wiki/Zoning
 }
 
 
+
+
+
+{ 8.0. Economy:  curr}
+
+
+
+
+
+
 { Economics, banking & trade (universal):
 https://en.wikipedia.org/wiki/Currency
 https://en.wikipedia.org/wiki/Bank
@@ -1052,6 +1150,16 @@ https://en.wikipedia.org/wiki/Banking_in_the_United_States
 { Economics, banking & trade (historic):
 curr:  https://en.wikipedia.org/wiki/Finnish_markka
 }
+
+
+
+
+
+{ 9.0. Law:  rule}
+
+
+
+
 
 
 { Law, order & recordkeeping, by rights & freedoms, rule, party (lineage):
@@ -1090,6 +1198,16 @@ https://en.wikipedia.org/wiki/Embezzlement
 https://en.wikipedia.org/wiki/Intention_(criminal_law)
 https://en.wikipedia.org/wiki/Dummy_corporation
 }
+
+
+
+
+
+{ 10.0. Populations:  civ}
+
+
+
+
 
 { Populations, historical eras & ages, by country, place, faction (legacy):
 icy:
@@ -1213,6 +1331,8 @@ https://en.wikipedia.org/wiki/Monogamy
 https://en.wikipedia.org/wiki/Polygamy
 https://en.wikipedia.org/wiki/Mother
 https://en.wikipedia.org/wiki/Father
+https://en.wikipedia.org/wiki/Sister
+https://en.wikipedia.org/wiki/Brother
 https://en.wikipedia.org/wiki/Marriage
 https://en.wikipedia.org/wiki/Wife
 https://en.wikipedia.org/wiki/Husband
@@ -1411,6 +1531,7 @@ https://en.wikipedia.org/wiki/Gameplay					hardware,
   https://en.wikipedia.org/wiki/Final_Fantasy_VIII
   https://en.wikipedia.org/wiki/Final_Fantasy_IX
   https://en.wikipedia.org/wiki/Final_Fantasy_X
+  https://en.wikipedia.org/wiki/Ultima_Online				" outlands "
   https://en.wikipedia.org/wiki/Guilty_Gear
   https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)
   https://en.wikipedia.org/wiki/Street_Fighter_Alpha_3
@@ -1468,7 +1589,7 @@ https://en.wikipedia.org/wiki/Nintendo_Switch
 https://en.wikipedia.org/wiki/Figurine					fig,
 https://en.wikipedia.org/wiki/Skateboard				wood,
 
-book:  "punk",2e,2, "pf",1e, "role",2e, "shadow",3e
+book:  "punk",2e,2, "pf",1e, "role",2e, "shadow",3e ...
 
 gift:
 https://en.wikipedia.org/wiki/Chessboard				pieces,
@@ -1584,7 +1705,16 @@ https://en.wikipedia.org/wiki/Child_pornography
 }
 
 
-{ Statecraft (universal):
+
+
+
+{ 11.0. Governments:  gov}
+
+
+
+
+
+{ Statecraft (machinery):  poli
 https://en.wikipedia.org/wiki/Statecraft
 https://en.wikipedia.org/wiki/Independence
 https://en.wikipedia.org/wiki/Constitutional_law
@@ -1603,6 +1733,7 @@ https://en.wikipedia.org/wiki/Neutral_country
 https://en.wikipedia.org/wiki/Statelessness
 https://en.wikipedia.org/wiki/Universal_basic_income
 https://en.wikipedia.org/wiki/Continuity_of_government
+https://en.wikipedia.org/wiki/List_of_forms_of_government
 }
 
 { Statecraft, political systems & ideologies, by era, rule, system:
@@ -1979,6 +2110,18 @@ https://en.wikipedia.org/wiki/Ukraine
 https://en.wikipedia.org/wiki/Security_Service_of_Ukraine
 }
 
+
+
+
+
+
+{ 12.0. Arms:  arm}
+
+
+
+
+
+
 { Arms & armory - weapon designs, systems & loadouts, by party, type:
 fig:
 https://en.wikipedia.org/wiki/Mikhail_Kalashnikov
@@ -2092,61 +2235,13 @@ https://en.wikipedia.org/wiki/Pauldron
 }
 
 
-{ Biomedical science, research & practices, by stage, severity (modern):  hard
-life:
-https://en.wikipedia.org/wiki/Childbirth
-med:
-https://en.wikipedia.org/wiki/Dissection
-https://en.wikipedia.org/wiki/Organ_transplantation
-deal:
-https://en.wikipedia.org/wiki/Organ_trade
-}
-
-{ Biomedical science, physical trauma & disability by part, organ, injury:  hard
-body:
-https://en.wikipedia.org/wiki/Tetraplegia
-tool:
-https://en.wikipedia.org/wiki/Wheelchair
-}
-
-{ Biomedical science, conditions, symptoms & diseases, by system, scope:  hard, soft
-bio:
-https://en.wikipedia.org/wiki/Stress_(biology)
-sick:
-https://en.wikipedia.org/wiki/Parasitic_disease
-https://en.wikipedia.org/wiki/Diabetes
- https://en.wikipedia.org/wiki/Diabetes_medication
-rip:
-https://en.wikipedia.org/wiki/Cancer
-}
 
 
-{ Nautical mapping, exploration & sailing, by measure, mission (modern):  aqua
-}
 
-{ Nautical mapping, exploration & sailing, by measure, mission (historic):  aqua
-https://en.wikipedia.org/wiki/Galleon
-https://en.wikipedia.org/wiki/Warship
-}
+{ 13.0. Science:  hard,soft}
 
 
-{ To-do: Deep sea ...
-}
 
-{ Deep space technologies, research & knowledge, by measure, plan, mission: deep
-comm:
-https://en.wikipedia.org/wiki/Deep_Space_Network_(disambiguation)
-race:
-https://en.wikipedia.org/wiki/International_Space_Station
-https://en.wikipedia.org/wiki/Assembly_of_the_International_Space_Station
-https://en.wikipedia.org/wiki/
-European_contribution_to_the_International_Space_Station
-deep:
-https://en.wikipedia.org/wiki/Interplanetary_spaceflight
-...
-https://en.wikipedia.org/wiki/Interplanetary_contamination
-https://en.wikipedia.org/wiki/Interplanetary_Internet
-}
 
 
 { Scientific fields, techniques & knowledge, by objectivity:  hard, soft
@@ -2183,6 +2278,52 @@ https://en.wikipedia.org/wiki/Theoretical_physics
 https://en.wikipedia.org/wiki/Experimental_physics
 }
 
+{ Hardware, science research & institutions, by figure:
+}
+
+
+{ Software, science research & institutions, by figure:
+}
+
+{ Biomedical science, research & practices, by stage, severity (modern):  hard
+life:
+https://en.wikipedia.org/wiki/Childbirth
+med:
+https://en.wikipedia.org/wiki/Dissection
+https://en.wikipedia.org/wiki/Organ_transplantation
+deal:
+https://en.wikipedia.org/wiki/Organ_trade
+}
+
+{ Biomedical science, physical trauma & disability by part, organ, injury:  hard
+body:
+https://en.wikipedia.org/wiki/Tetraplegia
+tool:
+https://en.wikipedia.org/wiki/Wheelchair
+}
+
+{ Biomedical science, conditions, symptoms & diseases, by system, scope:  hard, soft
+bio:
+https://en.wikipedia.org/wiki/Stress_(biology)
+sick:
+https://en.wikipedia.org/wiki/Parasitic_disease
+https://en.wikipedia.org/wiki/Diabetes
+ https://en.wikipedia.org/wiki/Diabetes_medication
+rip:
+https://en.wikipedia.org/wiki/Cancer
+}
+
+To-do: neuroscience, neurology
+
+
+
+
+
+{ 14.0. Mathematics:  math}
+
+
+
+
 
 { Mathematical areas, techniques & knowledge:  hard,math
 https://en.wikipedia.org/wiki/Mathematics
@@ -2190,9 +2331,11 @@ https://en.wikipedia.org/wiki/Mathematical_proof
 https://en.wikipedia.org/wiki/Algorithm
 tech:
 https://en.wikipedia.org/wiki/Dice_notation
+https://en.wikipedia.org/wiki/Conway's_Game_of_Life
 know:
 https://en.wikipedia.org/wiki/Matrix_(mathematics)
 https://en.wikipedia.org/wiki/Eventually_(mathematics)
+...
 carm
 }
 
@@ -2200,15 +2343,15 @@ carm
 https://en.wikipedia.org/wiki/Bisector_(music)
 }
 
-{ Hardware, science research & institutions, by figure: - 
-}
 
 
-{ Software, science research & institutions, by figure:
-}
 
 
-To-do: neuroscience, neurology
+{ 15.0. Brain:  cogs,dev}
+
+
+
+
 
 
 { Training & education, by ability, knowledge (intellect):  stud,know,dev
@@ -2223,7 +2366,6 @@ https://en.wikipedia.org/wiki/Labor_relations
 https://en.wikipedia.org/wiki/Brinkmanship
 https://en.wikipedia.org/wiki/Escalation_of_commitment
 }
-
 
 { Psychology, human thinking & behavior, by ability, trait (academics):  soft
 https://en.wikipedia.org/wiki/Psychology
@@ -2269,7 +2411,7 @@ https://en.wikipedia.org/wiki/Occupational_burnout
 }
 
 
-{ Linquistics, language & writing systems (alphabet):
+{ Linquistics, language & writing systems (...):
 https://en.wikipedia.org/wiki/Language
 https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Alphabet
@@ -2285,11 +2427,54 @@ https://en.wikipedia.org/wiki/Japanese_honorifics
 https://en.wikipedia.org/wiki/Linguistics
 }
 
-To-do:  poetry ...
 
 
 
-{ Books, literature & fiction, figure(s), opus(es) (author):
+
+{ 16.0. Exploration:  find}
+
+
+
+
+
+{ Nautical mapping, exploration & sailing, by measure, mission (modern):  aqua
+}
+
+{ Nautical mapping, exploration & sailing, by measure, mission (historic):  aqua
+https://en.wikipedia.org/wiki/Galleon
+https://en.wikipedia.org/wiki/Warship
+}
+
+
+{ To-do: Deep sea ...
+}
+
+{ Deep space technologies, research & knowledge, by measure, plan, mission: deep
+comm:
+https://en.wikipedia.org/wiki/Deep_Space_Network_(disambiguation)
+race:
+https://en.wikipedia.org/wiki/International_Space_Station
+https://en.wikipedia.org/wiki/Assembly_of_the_International_Space_Station
+https://en.wikipedia.org/wiki/
+European_contribution_to_the_International_Space_Station
+deep:
+https://en.wikipedia.org/wiki/Interplanetary_spaceflight
+...
+https://en.wikipedia.org/wiki/Interplanetary_contamination
+https://en.wikipedia.org/wiki/Interplanetary_Internet
+}
+
+
+
+
+
+{17.0. Literature:  text}
+
+
+
+
+
+{ Books, literature & fiction, by figure(s), opus(es) (author):
 kid:
 https://en.wikipedia.org/wiki/Lewis_Carroll
  https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland
@@ -2306,6 +2491,18 @@ https://en.wikipedia.org/wiki/Parasites_in_fiction
 far:
 https://en.wikipedia.org/wiki/Grey_alien
 }
+
+To-do:  poetry ...
+
+
+
+
+
+{ 18.0. Figure:  fig,phys}
+
+
+
+
 
 { Sports, events & competitions, by size: -
 https://en.wikipedia.org/wiki/Olympic_Games
@@ -2340,6 +2537,9 @@ arm:
 https://en.wikipedia.org/wiki/Tantojutsu
 https://en.wikipedia.org/wiki/Historical_European_martial_arts
 }
+
+
+{ 19.0. Strategics:  dev,luck}
 
 
 { Games - social & analog, by type, product: - card,tcg,pawn,sim,bet
@@ -2386,6 +2586,15 @@ https://en.wikipedia.org/wiki/Pathfinder_Roleplaying_Game			"pf",
 fanpro:
 https://en.wikipedia.org/wiki/Shadowrun						"shadow"
 }
+
+
+
+
+
+{ 20.0. Artworks:  art}
+
+
+
 
 
 { Artistic formats, symbolism & cultural phenomena (mediums):
@@ -2444,6 +2653,16 @@ https://en.wikipedia.org/wiki/Jean_Sibelius
 https://en.wikipedia.org/wiki/David_Wilde
 }
 
+
+
+
+
+{ 21.0. Religion:  soul}
+
+
+
+
+
 { Religious schools & theology, by system, mythology (legacy):  meta,real
 https://en.wikipedia.org/wiki/Religion
 https://en.wikipedia.org/wiki/Faith
@@ -2452,6 +2671,7 @@ https://en.wikipedia.org/wiki/Sin
 https://en.wikipedia.org/wiki/Legend
 https://en.wikipedia.org/wiki/Myth#Mythology
 https://en.wikipedia.org/wiki/Animism
+https://en.wikipedia.org/wiki/Theism
 https://en.wikipedia.org/wiki/Polytheism
 https://en.wikipedia.org/wiki/Monotheism
 https://en.wikipedia.org/wiki/Meta-religion
@@ -2528,7 +2748,16 @@ https://en.wikipedia.org/wiki/Hadith
 }
 
 
-{ Philosophical fields & wisdom, by disposition, virtue (semantic):  
+
+
+
+{ 22.0. Philosophy:  qi}
+
+
+
+
+
+{ Philosophical fields & wisdom, by disposition, virtue (semantic):  slow
 https://en.wikipedia.org/wiki/Philosophy
 https://en.wikipedia.org/wiki/Human_nature
 https://en.wikipedia.org/wiki/Everything
@@ -2542,13 +2771,19 @@ https://en.wikipedia.org/wiki/Apoliticism
 https://en.wikipedia.org/wiki/Empiricism
 https://en.wikipedia.org/wiki/Positivism
 https://en.wikipedia.org/wiki/Nihilism
+https://en.wikipedia.org/wiki/Gnosticism
+ https://en.wikipedia.org/wiki/Demiurge
+anti:
+https://en.wikipedia.org/wiki/Irreligion
 https://en.wikipedia.org/wiki/Atheism
+https://en.wikipedia.org/wiki/Agnosticism
+}
 
-{ Philosophical fields & wisdom, by scholar(s), works:
+{ Philosophical fields & wisdom, by scholar(s), works:  slow
 https://en.wikipedia.org/wiki/Martin_Heidegger
 }
 
-{ Metaphysical fields & theology (transcendent):
+{ Metaphysical fields & theology (transcendent):  slow
 https://en.wikipedia.org/wiki/Metaphysics
 }
 
@@ -2712,7 +2947,6 @@ https://en.wikipedia.org/wiki/ActiveX
 https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library
 https://en.wikipedia.org/wiki/Misanthropic_Division
 https://en.wikipedia.org/wiki/White_Room_(disambiguation)
-https://en.wikipedia.org/wiki/Theism
 https://en.wikipedia.org/wiki/Secularity
 https://en.wikipedia.org/wiki/ABI
 https://en.wikipedia.org/wiki/API
@@ -3311,7 +3545,6 @@ https://en.wikipedia.org/wiki/Divine_intervention
 https://en.wikipedia.org/wiki/Divine_embodiment
 https://en.wikipedia.org/wiki/Agriculture
 https://en.wikipedia.org/wiki/Meditation
-https://en.wikipedia.org/wiki/Ritual
 https://en.wikipedia.org/wiki/Theory_of_forms
 https://en.wikipedia.org/wiki/Henosis
 https://en.wikipedia.org/wiki/Neoplatonism
@@ -4310,7 +4543,6 @@ https://en.wikipedia.org/wiki/Hunter_Jaegers
 https://en.wikipedia.org/wiki/Fanaticism
 https://en.wikipedia.org/wiki/Religious_fanaticism
 https://en.wikipedia.org/wiki/Compensatory_afforestation
-https://en.wikipedia.org/wiki/Agnosticism
 https://en.wikipedia.org/wiki/Compensatory_education
 https://en.wikipedia.org/wiki/Compensatory_tracking_task
 https://en.wikipedia.org/wiki/Compensatory_growth_(organ)
@@ -4518,6 +4750,8 @@ https://en.wikipedia.org/wiki/Systemic
 https://en.wikipedia.org/wiki/List_of_Shadowrun_books
 https://en.wikipedia.org/wiki/Shadowrun
 https://en.wikipedia.org/wiki/John_Ratcliffe
+
+https://en.wikipedia.org/wiki/Igloo
 }
 
 {
@@ -4956,10 +5190,38 @@ last:
 
 
 
+// Draft editing:
 {
-corp:
-https://en.wikipedia.org/wiki/Unity_(game_engine)
-https://en.wikipedia.org/wiki/Spatial_(platform)
+tech:
+https://en.wikipedia.org/wiki/Radio_broadcasting
+
+psy:
+https://en.wikipedia.org/wiki/Self-control
+https://en.wikipedia.org/wiki/Emotional_self-regulation
+https://en.wikipedia.org/wiki/Self-regulated_learning
+https://en.wikipedia.org/wiki/Self-regulation_theory
+https://en.wikipedia.org/wiki/Industry_self-regulation
+https://en.wikipedia.org/wiki/Self-regulatory_organization
+https://en.wikipedia.org/wiki/Self-limiting
+https://en.wikipedia.org/wiki/Self-realization
+https://en.wikipedia.org/wiki/Freudian_slip
+
+tech:
+https://en.wikipedia.org/wiki/Disk_formatting
+
+rand:
+https://en.wikipedia.org/wiki/Moore's_law
+https://en.wikipedia.org/wiki/Obscurities
+https://en.wikipedia.org/wiki/Obscure
+https://en.wikipedia.org/wiki/Obscurantism
+https://en.wikipedia.org/wiki/Security_through_obscurity
+https://en.wikipedia.org/wiki/Litmus_test_(politics)
+}
+
+
+
+{
+
 
 bark:
 https://en.wikipedia.org/wiki/Welcome
@@ -4982,3 +5244,4 @@ https://en.wikipedia.org/wiki/Sergey_Lavrov
 https://en.wikipedia.org/wiki/Vladimir_Putin 
 https://en.wikipedia.org/wiki/Joseph_Stalin
 https://en.wikipedia.org/wiki/Adolf_Hitler
+}
