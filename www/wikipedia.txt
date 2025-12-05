@@ -41,70 +41,34 @@ sic editor, and even so with a highly fitted modal editor, like Vim.
 Notes:
 Splitting would make the file searching less useful and text collapse controls w
 ould be intensive when cranked manually.
+
+To get back to last place you were editing, do an undo/redo, after scrolling, or
+edit different parts in something like KOrganizer's note taking system, if you'r
+e on Linux.
 }
 
 
-// Denotation syntax,  by symbol, whitespace:
-{
+{ Denotation syntax,  by symbol, whitespace:
 Jumpcut   = "old",
 Comment   = " surrounded by whitespaces ",
 Arbitrary = ( mon,gol ),
 ...	  = to be continued, or not, split
 }
 
+{ Lists & recipes:
+Jumpcuts:	  "old,new,bad,good,fame,next",
+Greatest:	  "ost",
+Ziplines:	  bark{ hark: " dark ", larp }
+}
 
-{
-Categories:	  - Search by: ctrl-f,
+{ Classes:  	  Search by: ctrl-f,
 sys:		  System, cogs, prominence, path, all, qi,
 data:		  type, id,
 list:		  name, version,
-holy:		  scriptura,
+holy:		  scriptura, nexi,
 code:             garb, moral, stat
-}
 
-{
-Continents:
-afr:		  Africa,
-as:		  Asia,
-eur:		  Europe,
-na:		  North America,
-sa:		  South America,
-oce:		  Oceania,
-an:		  Antarctica
-}
-
-{
-Countries:	  gov,
-afg:		  Afghanistan,
-usa:		  United States of America,
-chi:		  China,
-cub:		  Cuba,
-uk:		  United Kingdom,
-fin:		  Finland,
-fra:		  France,
-ind:		  India,
-isr:		  Israel,
-ira:		  Iran,
-irq:		  Iraq,
-jap:		  Japan,
-mol:		  Moldova,
-mor:		  Morocco,
-nk:		  North Korea,
-nor:		  Norway,
-pak:		  Pakistan,
-pol:		  Poland,
-rom:		  Romania,
-rus:		  Russia, ussr,
-sk:		  South Korea,
-sri:		  Sri Lanka,
-swe:		  Sweden, Finnish Swedes,
-syr:		  Syria,
-tnz:		  Tanzania,
-ukr:		  Ukraine
-}
-
-{
-Classifications:  - Search by: ctrl-f,
+{ Keycards:       by uniques, world map
 lang:		  language (natural, code, slang, encoded, script),
 bark:		  bark, hark,
 prj:		  project, living, maturing,
@@ -126,6 +90,8 @@ card:		  card game,
 pawn:		  board game,
 sim:		  simulation (skirmish, ai),
 rpg:		  roleplaying game,
+epic:		  novel,
+kid:		  4 children,
 ip:		  intellectual property (brand),
 tcg:		  trading card game,
 foss:		  free software; ip,
@@ -147,7 +113,6 @@ exo:		  culture (arts, history, legacy), training, exoticism,
 arm:		  weapon, shield etc,
 mass:		  majority group,    embryonic, doomerism, surveillance, abundance,   flock,
 gov:		  government,
-popo:		  police,
 fan:		  fantasy,
 gear:		  prototypes for "if someone makes the wrong move types",
 tact:		  tactical placement, deployment,border patrol,ambush,in/exfil,
@@ -157,7 +122,7 @@ pro:		  professional, career,
 pit:		  crawlspace, 9th circle, spikes,
 hero:		  hero,
 anti:		  antihero,
-net:		  internet, portal, community, network,
+net:		  internet, portal, server, community, network,
 fun:		  happiness,
 sad:		  sadness,
 drug:		  meds, pharmaceuticals, substances,
@@ -169,11 +134,11 @@ war:		  conflict, wars,
 solo:		  solitude, individualistic, alone,
 den:		  objects, loot,
 mind:		  brain, mentality,
-play:		  hobby, work,
+play:		  hobby, work, instrument, music,
 job:		  work, hobby,
 take:		  hot,
 rip:		  piece out,
-body:		  human, corpse, condition, full,
+body:		  human, corpse, condition, full, piece,
 meta:		  metadata, status quo, reality,
 real:		  physical, existence,
 deep:		  space, science,
@@ -194,7 +159,7 @@ eat:		  chow down,
 mag:		  magazine, academic journal,
 toon:		  cartoon, comic, strip,
 mob:		  criminal org, act,
-crew:		  pirates, yarr!
+crew:		  onboard, pirates, yarr!
 cell:		  terrorist org, act,
 dead:		  extinct or near,
 ban:		  banned, outlawed,
@@ -205,7 +170,7 @@ civ:		  foundation, civilization,
 sect:		  sector(s),
 root:		  ethnicities, natives,
 pre:		  prehistoric,
-face:		  head honcho, mastermind,
+face:		  fixer, head honcho, mastermind,
 irl:		  in real life,
 9999:		  over 9000,
 want:		  gimme, plz,
@@ -218,7 +183,7 @@ plot:		  design, story, narrative,
 fav:		  "favs",
 tech:		  technique, technology, demonstrative,
 sex:		  magic,
-love:		  rainbows, unicorns,
+love:		  rainbows, unicorns, heavenly,
 life:		  y'all,
 exp:		  immersive, experience, experiment, clinical,
 stud:		  study, student,
@@ -226,7 +191,7 @@ inst:		  institution,
 law:		  law enforcement, authority,
 far:		  far future, hard & soft scifi,
 wait:		  here,
-bare:		  metal, hardware,
+bare:		  circuitry, metal, hardware,
 evo:		  evolution,
 mat:		  material, organic, synthetic,
 sick:		  sickness, illness, disease,
@@ -265,16 +230,75 @@ ost:		  official soundtrack,
 peer:		  social approximation, friendlies,
 myst:		  unknown, obscure, mysterious, conspiratorial,
 west:		  ism,
-east:		  " may the force be with you "
+east:		  " may the force be with you ",
 gun:		  " lots o' guns " - neo,
+soul:		  live music, house of mirrors, jazz,
+ecto:		  plasm, supernatural,
+kit:		  set, components,
+digi:		  digital,
+virt:		  virtual,
+bug:		  insect, software defect,
+plan:		  floor, mapping, blueprint,
+xxx:		  adult entertainment,
+room:		  interior, zone, hvac,
+mail:		  letter, email,
+med:		  medical operation, surgery,
+deal:		  trading, market, exchange,
+part:		  of a whole, piece,
+book:		  binding, pages, covers,
+copy:		  dupe, press, repro,
+film:		  photograph, camera, reel,
+tv:		  episode, broadcast, show,
+saas:		  software as services, closed-source software,
+line:		  lineage,
+dog:		  line, best, breed
 }
 
-{
-Jumpcuts:	  "old,new,bad,good,fame",
-Greatest:	  "ost",
-Ziplines:	  bark{ hark: " dark ", larp }
+{ Continents:
+afr:		  Africa,
+as:		  Asia,
+eur:		  Europe,
+na:		  North America,
+sa:		  South America,
+oce:		  Oceania,
+an:		  Antarctica
 }
 
+{ Countries:	  gov,
+afg:		  Afghanistan,
+usa:		  United States of America,
+chi:		  China,
+cub:		  Cuba,
+uk:		  United Kingdom,
+fin:		  Finland,
+fra:		  France,
+ind:		  India,
+isr:		  Israel,
+ira:		  Iran,
+irq:		  Iraq,
+jap:		  Japan,
+mol:		  Moldova,
+mor:		  Morocco,
+nk:		  North Korea,
+nor:		  Norway,
+pak:		  Pakistan,
+pol:		  Poland,
+rom:		  Romania,
+rus:		  Russia, ussr,
+sk:		  South Korea,
+sri:		  Sri Lanka,
+swe:		  Sweden, Finnish Swedes,
+syr:		  Syria,
+tnz:		  Tanzania,
+ukr:		  Ukraine
+}
+
+{ Companies:      inc,
+tsr:		  Tactical Studies Rules,
+ice:		  Iron Crown Enterprises,
+rtg:		  R. Talsorian Games,
+pzo: 		  Paizo
+}
 
 
 // Draft editing:
@@ -308,10 +332,10 @@ https://en.wikipedia.org/wiki/Litmus_test_(politics)
 
 
 
-1.0. Humans:
+// 1.0. Humans:
 
 
-{ Humans, evolution & genetics, by origin, feature, survival (universal):
+{ Humans, evolution & genetics, by origin, feature, survival (universal):  evo
 bio:
 https://en.wikipedia.org/wiki/DNA
 https://en.wikipedia.org/wiki/RNA
@@ -342,6 +366,8 @@ https://en.wikipedia.org/wiki/Pacific_Islander
 https://en.wikipedia.org/wiki/Caribbean_people
 pre, dead:  
 https://en.wikipedia.org/wiki/Neanderthal
+evo:
+https://en.wikipedia.org/wiki/Parasite-stress_theory
 
 { Humans, biology, anatomy & organs by system, part, function (life):
 https://en.wikipedia.org/wiki/Cell_(biology)
@@ -380,7 +406,7 @@ To-do:  dinosaurs
 
 
 
-2.0. Language:
+// 2.0. Language:
 
 
 { Language, communication, interactions (data, transient):
@@ -430,6 +456,15 @@ https://en.wikipedia.org/wiki/Old_Swedish
 https://en.wikipedia.org/wiki/Swedish_language
 }
 
+{ Language wiktionaries & words, by alphabet, read (lexicon):
+https://en.wikipedia.org/wiki/Vocabulary
+n:
+https://en.wiktionary.org/wiki/next
+https://en.wiktionary.org/wiki/nex
+}
+
+
+// 3.0. Work:
 
 
 { Disciplines, skills & expertise, by product (action):
@@ -447,13 +482,14 @@ https://en.wikipedia.org/wiki/Police
 https://en.wikipedia.org/wiki/Medical_doctor
 https://en.wikipedia.org/wiki/Doctor
 https://en.wikipedia.org/wiki/Dentist
+https://en.wikipedia.org/wiki/Rag-and-bone_man
+https://en.wikipedia.org/wiki/Waste_collector
 https://en.wikipedia.org/wiki/Intellectual
 https://en.wikipedia.org/wiki/Historian
 https://en.wikipedia.org/wiki/Librarian
 https://en.wikipedia.org/wiki/Bureaucrat
+https://en.wikipedia.org/wiki/Postmaster
 https://en.wikipedia.org/wiki/Quartermaster
-https://en.wikipedia.org/wiki/Rag-and-bone_man
-https://en.wikipedia.org/wiki/Waste_collector
 https://en.wikipedia.org/wiki/Professor
 https://en.wikipedia.org/wiki/Neuroscientist
 https://en.wikipedia.org/wiki/Handyman
@@ -461,7 +497,7 @@ https://en.wikipedia.org/wiki/Plumber
 }
 
 
-{ Disciplines, techniques & proficiencies (selves):  dev
+{ Disciplines, techniques & proficiencies, by way (selves):  dev
 mov:  https://en.wikipedia.org/wiki/Not_invented_here
 https://en.wikipedia.org/wiki/Heuristic
 https://en.wikipedia.org/wiki/Hacking
@@ -472,6 +508,8 @@ https://en.wikipedia.org/wiki/Mastery_learning
 https://en.wikipedia.org/wiki/Subject-matter_expert
 exp:
 https://en.wikipedia.org/wiki/Tourism
+mail:
+https://en.wikipedia.org/wiki/Bisects_and_splits
 }
 
 { Disciplines, techniques & tactics, by product (mass):  
@@ -491,7 +529,10 @@ https://en.wikipedia.org/wiki/Peasant
 }
 
 
+// 4.0. Computers:
+
 { Electronics & hardware technologies (universal):  hw
+https://en.wikipedia.org/wiki/Electronics
 https://en.wikipedia.org/wiki/Low_technology
 https://en.wikipedia.org/wiki/High-_and_low-level
 https://en.wikipedia.org/wiki/Electronic_circuit
@@ -534,6 +575,8 @@ https://en.wikipedia.org/wiki/Hardware_architect
 ...
 }
 
+
+// 5.0. Software:
 
 { Software, programming techniques & disciplines:
 https://simple.wikipedia.org/wiki/Software_developer
@@ -579,6 +622,7 @@ https://en.wikipedia.org/wiki/Object-oriented_programming
 https://en.wikipedia.org/wiki/Data-oriented_design
 https://en.wikipedia.org/wiki/Visual_programming_language
 way:
+https://en.wikipedia.org/wiki/Camel_case
 https://en.wikipedia.org/wiki/Hungarian_notation
 tech:
 https://en.wikipedia.org/wiki/Debugging
@@ -698,6 +742,8 @@ corp:  -v
 }
 
 { Software, reverse engineering & modding (cracks):
+app:
+https://en.wikipedia.org/wiki/Ghidra
 }
 
 { Sofware, machine learning & artificial intelligence (simulation):  ai,sim
@@ -707,6 +753,14 @@ https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence
 corp:
 https://en.wikipedia.org/wiki/ChatGPT
 }
+
+{ Software, commercial applications & services (proprietary):  corp,saas
+play:
+https://en.wikipedia.org/wiki/Spotify
+net:
+https://en.wikipedia.org/wiki/Discord
+}
+
 
 
 { Robotics & automation technologies (universal):
@@ -719,10 +773,11 @@ https://en.wikipedia.org/wiki/Boston_Dynamics
 https://en.wikipedia.org/wiki/Logistics
 }
 
-{ To-do: automotive...
+{ Automotive industry & motorized carriages, by design, part (modern):
+https://en.wikipedia.org/wiki/List_of_auto_parts
 }
 
-{ Machines, mechanical devices & systems (universal):
+{ Machines, mechanical devices & systems (classical):
 https://en.wikipedia.org/wiki/Machine
 https://en.wikipedia.org/wiki/Mechanical_engineering
 https://en.wikipedia.org/wiki/Clockwork
@@ -750,7 +805,7 @@ https://en.wikipedia.org/wiki/Full_Spectrum_Warrior
 https://en.wikipedia.org/wiki/Asset_flip
 }
 
-{ Entertainment, multimedia & film productions (pop culture):
+{ Entertainment, film & television & multimedia productions (pop culture):
 usa:
 https://en.wikipedia.org/wiki/Citizen_Kane
 https://en.wikipedia.org/wiki/Star_Wars
@@ -759,8 +814,15 @@ https://en.wikipedia.org/wiki/Independence_Day_(1996_film)
 https://en.wikipedia.org/wiki/The_Fifth_Element
 https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
 https://en.wikipedia.org/wiki/The_Last_Samurai
+usa, tv:
+https://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series)		"hoff"
+uk, tv:
+https://en.wikipedia.org/wiki/Spooks_(TV_series)
 jap:
 https://en.wikipedia.org/wiki/Harakiri_(1962_film)
+sk:
+https://en.wikipedia.org/wiki/Oldboy_(2003_film)
+https://en.wikipedia.org/wiki/Parasite_(2019_film)
 }
 
 { Entertainment, multimedia & art house productions, by format, country (mixed):
@@ -784,8 +846,9 @@ https://en.wikipedia.org/wiki/Julmahuvi
 ad:  https://en.wikipedia.org/wiki/Kari_Grandi
 }
 
-{ Entertainment, audio & music productions, by genre, artist(s), song (pop culture):
-band:
+{ Entertainment, audio & music productions, by genre, artist(s), song (pop culture):  band
+https://en.wikipedia.org/wiki/Heavy_metal_music
+  https://en.wikipedia.org/wiki/Black_Sabbath
 https://en.wikipedia.org/wiki/Hip-hop
   https://en.wikipedia.org/wiki/Wu-Tang_Clan
   https://en.wikipedia.org/wiki/Fintelligens
@@ -793,23 +856,38 @@ https://en.wikipedia.org/wiki/Hip-hop
 https://en.wikipedia.org/wiki/Gangsta_rap
   https://en.wikipedia.org/wiki/N.W.A
   https://en.wikipedia.org/wiki/Fuck_tha_Police
+https://en.wikipedia.org/wiki/Punk_rock
+  https://en.wikipedia.org/wiki/NOFX
+  https://en.wikipedia.org/wiki/Good_Riddance_(band)
+  https://en.wikipedia.org/wiki/Lagwagon
+  https://fi.wikipedia.org/wiki/Juustopäät
+  https://en.wikipedia.org/wiki/Get_Dead
+https://en.wikipedia.org/wiki/Extreme_metal
+https://en.wikipedia.org/wiki/Black_metal
+  https://en.wikipedia.org/wiki/Mayhem_(band)
+  https://en.wikipedia.org/wiki/Gorgoroth
 https://en.wikipedia.org/wiki/Emo
-solo:
+  https://en.wikipedia.org/wiki/Jimmy_Eat_World
+https://en.wikipedia.org/wiki/Jazz
+  https://en.wikipedia.org/wiki/Living_Soul
 }
 
-{ Tools, wares, compounds & usage, by type, sector, price (universal):  prod,digi
+{ Tools, wares, compounds & usage, by type, sector, price (industrial):  prod,digi
 ware:
 https://en.wikipedia.org/wiki/Vase
 https://en.wikipedia.org/wiki/Kitchenware
+https://en.wikipedia.org/wiki/Kit_(components)
 tool:
 https://en.wikipedia.org/wiki/Kitchen_knife
+film:
+https://en.wikipedia.org/wiki/Gum_printing
 vis:
 https://en.wikipedia.org/wiki/Binoculars
 https://en.wikipedia.org/wiki/Night_vision
 https://en.wikipedia.org/wiki/Night-vision_device
 corp:
 https://en.wikipedia.org/wiki/Pharmaceutical_industry
-https://en.wikipedia.org/wiki/Pornography
+xxx:  https://en.wikipedia.org/wiki/Pornography
 sex:
 https://en.wikipedia.org/wiki/Dildo
 https://en.wikipedia.org/wiki/Vibrator_(sex_toy)
@@ -825,6 +903,7 @@ https://en.wikipedia.org/wiki/Cuban_cigar
 narc:
 https://en.wikipedia.org/wiki/Heroin
 https://en.wikipedia.org/wiki/Cocaine
+https://en.wikipedia.org/wiki/Phencyclidine
 }
 
 { Clothes, wears & fashion, by piece, fit, style (design, era):
@@ -882,23 +961,44 @@ mat:
 https://en.wikipedia.org/wiki/Fossil_fuel
 }
 
-{ Nature, geography & animals, by family, species (life):
+{ Nature, geography & plants, by family, species, scale (life):  love
+sys:
+https://en.wikipedia.org/wiki/Aquatic_ecosystem
+https://en.wikipedia.org/wiki/Parasitism
+part:
+https://en.wikipedia.org/wiki/Plant
+https://en.wikipedia.org/wiki/Parasitic_plant
+https://en.wikipedia.org/wiki/Phytoplankton
+ https://en.wikipedia.org/wiki/Parasites_of_phytoplankton
+}
+
+{ Nature, geography & animals, by family, species (life):  love
+https://en.wikipedia.org/wiki/Animal
 https://en.wikipedia.org/wiki/Species
 https://en.wikipedia.org/wiki/Taxonomy
 https://en.wikipedia.org/wiki/Taxonomic_rank
 https://en.wikipedia.org/wiki/Herbivore
+body:
+https://en.wikipedia.org/wiki/Body_plan
+https://en.wikipedia.org/wiki/Claw
+bug:
+https://en.wikipedia.org/wiki/Parasitic_ant
+dog:
+https://en.wikipedia.org/wiki/Wolf
+https://en.wikipedia.org/wiki/Dog
+ https://en.wikipedia.org/wiki/Dalmatian_dog
+ https://en.wikipedia.org/wiki/Golden_Retriever
 bird:
 https://en.wikipedia.org/wiki/Owl
 hoof:
+https://en.wikipedia.org/wiki/Artiodactyl
+https://en.wikipedia.org/wiki/Camel
+https://en.wikipedia.org/wiki/Dromedary
 https://en.wikipedia.org/wiki/North_African_elephant
 }
 
-{ Nature, geography & plants, by family, species (life):
-https://en.wikipedia.org/wiki/Plant
-}
 
-
-{ Geographical areas, countries & territories, by continent, zone:
+{ Geographical areas, countries & territories, by continent, zone:  next
 https://en.wikipedia.org/wiki/Africa
 https://en.wikipedia.org/wiki/Oceania
 }
@@ -1062,6 +1162,7 @@ https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning
 civ:
 https://en.wikipedia.org/wiki/Citizenship
 sect:
+https://en.wikipedia.org/wiki/Manufacturing
 https://en.wikipedia.org/wiki/Import
 https://en.wikipedia.org/wiki/Export
 poli:
@@ -1300,7 +1401,7 @@ https://en.wikipedia.org/wiki/Film
 https://en.wikipedia.org/wiki/Reading
 https://en.wikipedia.org/wiki/Writing
 https://en.wikipedia.org/wiki/Gameplay					hardware,
-  https://en.wikipedia.org/wiki/Donkey_Kong_Country			favs, "ost"
+  https://en.wikipedia.org/wiki/Donkey_Kong_Country			favs, "ost",
   https://en.wikipedia.org/wiki/Donkey_Kong_Country_2
   https://en.wikipedia.org/wiki/Donkey_Kong_Country_3
   https://en.wikipedia.org/wiki/Metal_Slug
@@ -1344,7 +1445,7 @@ https://en.wikipedia.org/wiki/Shelf_(storage)
 https://en.wikipedia.org/wiki/Desk
 https://en.wikipedia.org/wiki/Houseplant				pots,
 https://en.wikipedia.org/wiki/Bed
-https://en.wikipedia.org/wiki/Mug					" 8 "
+https://en.wikipedia.org/wiki/Mug					" 8 ",
 glass
 https://en.wikipedia.org/wiki/Vacuum_flask
 https://en.wikipedia.org/wiki/Dice					dice,
@@ -1366,6 +1467,9 @@ https://en.wikipedia.org/wiki/GameCube
 https://en.wikipedia.org/wiki/Nintendo_Switch
 https://en.wikipedia.org/wiki/Figurine					fig,
 https://en.wikipedia.org/wiki/Skateboard				wood,
+
+book:  "punk",2e,2, "pf",1e, "role",2e, "shadow",3e
+
 gift:
 https://en.wikipedia.org/wiki/Chessboard				pieces,
 https://en.wikipedia.org/wiki/PlayStation_4				by,
@@ -1460,6 +1564,7 @@ https://en.wikipedia.org/wiki/Internet_culture
 https://en.wikipedia.org/wiki/Community
 https://en.wikipedia.org/wiki/Committee
 https://en.wikipedia.org/wiki/Etiquette_in_technology
+https://en.wikipedia.org/wiki/Wiki_rabbit_hole
 type:
 https://en.wikipedia.org/wiki/Intranet
 https://en.wikipedia.org/wiki/Home_page
@@ -1519,8 +1624,8 @@ https://en.wikipedia.org/wiki/Red_Scare
 }
 
 { Statecraft, security & intelligence services, by type, practice (espionage):
-https://en.wikipedia.org/wiki/Tradecraft
 https://en.wikipedia.org/wiki/Espionage
+https://en.wikipedia.org/wiki/Tradecraft
 https://en.wikipedia.org/wiki/Cyber_espionage
 https://en.wikipedia.org/wiki/Counterintelligence
 https://en.wikipedia.org/wiki/Clandestine_operation
@@ -1627,6 +1732,8 @@ https://en.wikipedia.org/wiki/Kim_Jong_Un
 https://en.wikipedia.org/wiki/Shadow_cabinet
 myst:
 https://en.wikipedia.org/wiki/Shadow_government_(conspiracy_theory)
+usa:
+https://en.wikipedia.org/wiki/Spygate_(conspiracy_theory)	"don"
 { 
 
 { Statecraft & foreign affairs, by role, issue:
@@ -1662,10 +1769,12 @@ https://en.wikipedia.org/wiki/United_States_Armed_Forces
 https://en.wikipedia.org/wiki/United_States_Intelligence_Community
 usmc:  https://en.wikipedia.org/wiki/United_States_Marine_Corps
 navy:  https://en.wikipedia.org/wiki/United_States_Navy
+usaf:  https://en.wikipedia.org/wiki/United_States_Air_Force
 jsoc:  https://en.wikipedia.org/wiki/Joint_Special_Operations_Command
 cia:   
 https://en.wikipedia.org/wiki/Central_Intelligence_Agency
 https://en.wikipedia.org/wiki/Director_of_the_Central_Intelligence_Agency
+https://en.wikipedia.org/wiki/Directorate_of_Operations_(CIA)
 sac:   https://en.wikipedia.org/wiki/Special_Activities_Center
 nsa:   https://en.wikipedia.org/wiki/National_Security_Agency
 list:  https://en.wikipedia.org/wiki/World_Leaders
@@ -1870,8 +1979,12 @@ https://en.wikipedia.org/wiki/Ukraine
 https://en.wikipedia.org/wiki/Security_Service_of_Ukraine
 }
 
-{ Arms & armory - weapon systems & , by type, party:
+{ Arms & armory - weapon designs, systems & loadouts, by party, type:
+fig:
+https://en.wikipedia.org/wiki/Mikhail_Kalashnikov
+corp:
 https://en.wikipedia.org/wiki/Kalashnikov_Concern
+kit:
 https://en.wikipedia.org/wiki/SOPMOD
 }
 
@@ -1918,10 +2031,10 @@ https://en.wikipedia.org/wiki/RPG-7
 https://en.wikipedia.org/wiki/Small_arms_and_light_weapons
 https://en.wikipedia.org/wiki/Firearm
 https://en.wikipedia.org/wiki/Short-barrelled_shotgun
-ger:
-https://en.wikipedia.org/wiki/Heckler_&_Koch_MP5
 uk:
 https://en.wikipedia.org/wiki/Accuracy_International_AWM
+ger:
+https://en.wikipedia.org/wiki/Heckler_&_Koch_MP5
 ussr, rus:
 https://en.wikipedia.org/wiki/Kalashnikov_rifle
 https://en.wikipedia.org/wiki/AK-47
@@ -1979,9 +2092,14 @@ https://en.wikipedia.org/wiki/Pauldron
 }
 
 
-{ Biomedical science, research & practices, by stage (modern):  hard
+{ Biomedical science, research & practices, by stage, severity (modern):  hard
 life:
 https://en.wikipedia.org/wiki/Childbirth
+med:
+https://en.wikipedia.org/wiki/Dissection
+https://en.wikipedia.org/wiki/Organ_transplantation
+deal:
+https://en.wikipedia.org/wiki/Organ_trade
 }
 
 { Biomedical science, physical trauma & disability by part, organ, injury:  hard
@@ -1995,9 +2113,9 @@ https://en.wikipedia.org/wiki/Wheelchair
 bio:
 https://en.wikipedia.org/wiki/Stress_(biology)
 sick:
+https://en.wikipedia.org/wiki/Parasitic_disease
 https://en.wikipedia.org/wiki/Diabetes
-drug:
-https://en.wikipedia.org/wiki/Diabetes_medication
+ https://en.wikipedia.org/wiki/Diabetes_medication
 rip:
 https://en.wikipedia.org/wiki/Cancer
 }
@@ -2078,6 +2196,9 @@ https://en.wikipedia.org/wiki/Eventually_(mathematics)
 carm
 }
 
+{ Musical analysis, instrumentation & compositional theory (classical):  play
+https://en.wikipedia.org/wiki/Bisector_(music)
+}
 
 { Hardware, science research & institutions, by figure: - 
 }
@@ -2132,6 +2253,7 @@ https://en.wikipedia.org/wiki/Depression_(mood)
 https://en.wikipedia.org/wiki/Major_depressive_disorder
 https://en.wikipedia.org/wiki/Dyslexia
 https://en.wikipedia.org/wiki/Autism
+ https://en.wikipedia.org/wiki/Executive_dysfunction
 https://en.wikipedia.org/wiki/Misophonia
 https://en.wikipedia.org/wiki/Catatonia
 ...
@@ -2168,14 +2290,19 @@ To-do:  poetry ...
 
 
 { Books, literature & fiction, figure(s), opus(es) (author):
+kid:
+https://en.wikipedia.org/wiki/Lewis_Carroll
+ https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland
 epic:
 https://en.wikipedia.org/wiki/Herman_Melville
-https://en.wikipedia.org/wiki/Moby-Dick
+ https://en.wikipedia.org/wiki/Moby-Dick
 rpg:  
 https://en.wikipedia.org/wiki/Gary_Gygax
 fan:  
 https://en.wikipedia.org/wiki/Terry_Pratchett
-https://en.wikipedia.org/wiki/Discworld
+ https://en.wikipedia.org/wiki/Discworld
+bio:
+https://en.wikipedia.org/wiki/Parasites_in_fiction
 far:
 https://en.wikipedia.org/wiki/Grey_alien
 }
@@ -2242,7 +2369,7 @@ net:
 https://en.wikipedia.org/wiki/Polycount
 }
 
-{ Games - immersive role-playing design & literature:  rpg,sim
+{ Games - immersive role-playing design & literature, by inc, product:  rpg,sim
 tsr:
 https://en.wikipedia.org/wiki/TSR,_Inc.
 https://en.wikipedia.org/wiki/Dungeons_&_Dragons
@@ -2250,10 +2377,14 @@ https://en.wikipedia.org/wiki/Editions_of_Dungeons_&_Dragons#Advanced_Dungeons_&
 https://en.wikipedia.org/wiki/DragonQuest
 ice:
 https://en.wikipedia.org/wiki/Iron_Crown_Enterprises
-https://en.wikipedia.org/wiki/Rolemaster
+https://en.wikipedia.org/wiki/Rolemaster					"role"
 rtg:
 https://en.wikipedia.org/wiki/R._Talsorian_Games
-https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)
+https://en.wikipedia.org/wiki/Cyberpunk_(role-playing_game)			"punk",
+pzo:
+https://en.wikipedia.org/wiki/Pathfinder_Roleplaying_Game			"pf",
+fanpro:
+https://en.wikipedia.org/wiki/Shadowrun						"shadow"
 }
 
 
@@ -2313,7 +2444,6 @@ https://en.wikipedia.org/wiki/Jean_Sibelius
 https://en.wikipedia.org/wiki/David_Wilde
 }
 
-
 { Religious schools & theology, by system, mythology (legacy):  meta,real
 https://en.wikipedia.org/wiki/Religion
 https://en.wikipedia.org/wiki/Faith
@@ -2348,6 +2478,7 @@ https://en.wikipedia.org/wiki/Oni
 https://en.wikipedia.org/wiki/Devil
 cult:
 https://en.wikipedia.org/wiki/Cult
+
 pit:
 https://en.wikipedia.org/wiki/Inferno_(Dante)
 }
@@ -2753,7 +2884,6 @@ https://en.wikipedia.org/wiki/Finno-Ugric_languages
 https://en.wikipedia.org/wiki/Uralic_languages
 https://en.wikipedia.org/wiki/Etymology
 https://en.wikipedia.org/wiki/List_of_domesticated_animals
-https://en.wikipedia.org/wiki/Animal
 https://en.wikipedia.org/wiki/Homosexual_behavior_in_animals
 https://en.wikipedia.org/wiki/Cowboy
 https://en.wikipedia.org/wiki/Region
@@ -3372,8 +3502,6 @@ https://en.wikipedia.org/wiki/Zip_line
 https://en.wikipedia.org/wiki/Keep_Your_Enemies_Close
 https://en.wikipedia.org/wiki/List_of_states_with_nuclear_weapons
 https://en.wikipedia.org/wiki/Military_science
-https://en.wikipedia.org/wiki/Mikhail_Kalashnikov
-https://en.wikipedia.org/wiki/AK-74
 https://en.wikipedia.org/wiki/Chronology
 https://en.wikipedia.org/wiki/Occupational_hazard
 https://en.wikipedia.org/wiki/Scientist
@@ -4051,7 +4179,6 @@ https://en.wikipedia.org/wiki/Canada
 https://en.wikipedia.org/wiki/Permafrost
 https://en.wikipedia.org/wiki/Sperm
 https://en.wikipedia.org/wiki/Sperm_whale
-https://en.wikipedia.org/wiki/Wiki_rabbit_hole
 https://en.wikipedia.org/wiki/Data_and_information_visualization
 https://en.wikipedia.org/wiki/Infographic
 https://en.wikipedia.org/wiki/Attention_span
@@ -4354,14 +4481,14 @@ https://en.wikipedia.org/wiki/United_States_federal_government_continuity_of_ope
 https://en.wikipedia.org/wiki/Hardware_register
 https://en.wikipedia.org/wiki/Electronic_engineering
 
-https://en.wikipedia.org/wiki/Self-tiling_tile_set
+https://en.wikipedia.org/wiki/Self-tiling_tile_set
+
 https://en.wikipedia.org/wiki/Jiminy_Cricket
 https://en.wikipedia.org/wiki/Golden_triangle_(mathematics)
 https://en.wikipedia.org/wiki/Golden_triangle_(universities)
 https://en.wikipedia.org/wiki/Golden_ratio
 https://en.wikipedia.org/wiki/Golden-section_search
 https://en.wikipedia.org/wiki/Gold_standard
-https://en.wikipedia.org/wiki/Golden_Retriever
 https://en.wikipedia.org/wiki/Golden_State_Warriors
 https://en.wikipedia.org/wiki/Fibonacci_search_technique
 https://en.wikipedia.org/wiki/Fibonacci_sequence
@@ -4374,6 +4501,23 @@ https://en.wikipedia.org/wiki/Reptilian_humanoid
 https://en.wikipedia.org/wiki/Tahrif
 https://en.wikipedia.org/wiki/Fitra
 https://en.wikipedia.org/wiki/Muhammad_in_Islam
+
+https://en.wikipedia.org/wiki/God_in_Islam
+https://en.wikipedia.org/wiki/John_the_Apostle
+https://en.wikipedia.org/wiki/Ismailism
+https://en.wikipedia.org/wiki/Egyptian_language
+https://en.wikipedia.org/wiki/Fitra
+https://en.wikipedia.org/wiki/Logos
+https://en.wikipedia.org/wiki/Old_Boys
+https://en.wikipedia.org/wiki/Earthworm
+https://en.wikipedia.org/wiki/Bisection_(software_engineering)
+https://en.wikipedia.org/wiki/Bisector_(music)
+https://en.wikipedia.org/wiki/Lowest_common_denominator
+https://en.wikipedia.org/wiki/Lowest_common_ancestor
+https://en.wikipedia.org/wiki/Systemic
+https://en.wikipedia.org/wiki/List_of_Shadowrun_books
+https://en.wikipedia.org/wiki/Shadowrun
+https://en.wikipedia.org/wiki/John_Ratcliffe
 }
 
 {
@@ -4423,7 +4567,6 @@ https://en.wikipedia.org/wiki/Marja-Liisa_Kirvesniemi
 https://en.wikipedia.org/wiki/Eddie_Van_Halen
 https://en.wikipedia.org/wiki/Eddie_Murphy
 https://en.wikipedia.org/wiki/Jim_Carrey
-https://en.wikipedia.org/wiki/David_Hasselhoff
 https://en.wikipedia.org/wiki/Christopher_Lloyd
 https://en.wikipedia.org/wiki/Robert_Zemeckis
 https://en.wikipedia.org/wiki/Michael_J._Fox
@@ -4442,6 +4585,7 @@ https://en.wikipedia.org/wiki/Keanu_Reeves
 https://en.wikipedia.org/wiki/Sam_Altman
 https://en.wikipedia.org/wiki/Mark_Zuckerberg
 https://en.wikipedia.org/wiki/Mikael_Agricola
+https://en.wikipedia.org/wiki/Ronnie_James_Dio
                                         
 born:
        https://en.wikipedia.org/wiki/Jesus
@@ -4511,6 +4655,7 @@ born:
 1944:  https://en.wikipedia.org/wiki/George_Lucas
 1945:  https://en.wikipedia.org/wiki/Edwin_Catmull
 1946:  https://en.wikipedia.org/wiki/Sylvester_Stallone
+       https://en.wikipedia.org/wiki/Donald_Trump		"don"
 1947:  https://en.wikipedia.org/wiki/Arnold_Schwarzenegger
 1948:  https://en.wikipedia.org/wiki/Samuel_L._Jackson
        https://en.wikipedia.org/wiki/Terry_Pratchett
@@ -4519,6 +4664,7 @@ born:
 1952:  https://en.wikipedia.org/wiki/Yoshitaka_Amano
        https://en.wikipedia.org/wiki/Shigeru_Miyamoto
        https://en.wikipedia.org/wiki/Liam_Neeson
+       https://en.wikipedia.org/wiki/David_Hasselhoff		"hoff"
 1953:  https://en.wikipedia.org/wiki/Pierce_Brosnan
        https://en.wikipedia.org/wiki/James_Bond
        https://en.wikipedia.org/wiki/Richard_Stallman
