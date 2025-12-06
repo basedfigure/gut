@@ -263,7 +263,7 @@ myst:		  unknown, obscure, mysterious, conspiratorial,
 west:		  ism,
 east:		  " may the force be with you ",
 gun:		  " lots o' guns " - neo,
-soul:		  live music, house of mirrors, jazz,
+soul:		  live music, based, house of mirrors, jazz,
 ecto:		  plasm, supernatural,
 kit:		  set, components,
 digi:		  digital,
@@ -286,14 +286,14 @@ dog:		  line, best, breed,
 slow:		  roll, deep,
 mod:		  make, model, build,
 base:		  partially based,
-port:		  handheld device, smart device,
+port:		  portable handheld smart device,
 luck:		  odds, strike,
 true:		  pure,
 find:		  explorative
 cogs:		  brain, cognition,
 fire:		  ignition, flame, heat,
 text:		  script, document, book,
-soul:		  spirit, based, vitality
+sign:		  signature, handiwork
 }
 
 { Continents:
@@ -788,6 +788,7 @@ https://en.wikipedia.org/wiki/Pascal_(programming_language)
 https://en.wikipedia.org/wiki/Object_Pascal
 https://en.wikipedia.org/wiki/Free_Pascal
 https://en.wikipedia.org/wiki/C_(programming_language)
+https://en.wikipedia.org/wiki/Brainfuck
 os:
 https://en.wikipedia.org/wiki/Unix
 https://en.wikipedia.org/wiki/MS-DOS
