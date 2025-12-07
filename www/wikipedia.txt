@@ -55,7 +55,7 @@ e on Linux.
      1.0. Humans		pop
      2.0. Language		lang
      3.0. Work			act
-     4.0. Computers		hw,port
+     4.0. Computers		pc,port
      5.0. Software		code
      6.0. Machines		mech	
      7.0. Wares			ware
@@ -289,11 +289,13 @@ base:		  partially based,
 port:		  portable handheld smart device,
 luck:		  odds, strike,
 true:		  pure,
-find:		  explorative
+lie:		  chaos,
+find:		  explorative,
 cogs:		  brain, cognition,
 fire:		  ignition, flame, heat,
 text:		  script, document, book,
-sign:		  signature, handiwork
+sign:		  signature, handiwork,
+alko:		  alcohol, finnish joint
 }
 
 { Continents:
@@ -988,12 +990,12 @@ https://en.wikipedia.org/wiki/Parasite_(2019_film)
 
 { Entertainment, multimedia & art house productions, by format, country (mixed):
 2d:
+https://en.wikipedia.org/wiki/The_Sword_in_the_Stone_(1963_film)
 https://en.wikipedia.org/wiki/Akira_(1988_film)
 https://en.wikipedia.org/wiki/Ninja_Scroll
 https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)
 https://en.wikipedia.org/wiki/Berserk_(1997_TV_series)
 https://en.wikipedia.org/wiki/Digimon
-https://en.wikipedia.org/wiki/The_Sword_in_the_Stone_(1963_film)
 ost:
 https://en.wikipedia.org/wiki/Pokémon_Theme
 https://en.wikipedia.org/wiki/Gotta_Catch_'Em_All
@@ -1053,7 +1055,12 @@ sex:
 https://en.wikipedia.org/wiki/Dildo
 https://en.wikipedia.org/wiki/Vibrator_(sex_toy)
 https://en.wikipedia.org/wiki/Nipple_clamp
+tox, alko:
+https://en.wikipedia.org/wiki/Alko
+https://en.wikipedia.org/wiki/Jägermeister
+https://en.wikipedia.org/wiki/Koskenkorva_Viina
 drug:
+https://en.wikipedia.org/wiki/Alcohol_(drug)
 https://en.wikipedia.org/wiki/Cannabis_(drug)
 tox, cig:
 https://en.wikipedia.org/wiki/Pollutant
@@ -4753,6 +4760,12 @@ https://en.wikipedia.org/wiki/Shadowrun
 https://en.wikipedia.org/wiki/John_Ratcliffe
 
 https://en.wikipedia.org/wiki/Igloo
+
+https://en.wikipedia.org/wiki/Machicolation
+https://en.wikipedia.org/wiki/Murder_hole
+https://en.wikipedia.org/wiki/Pinniped
+https://en.wikipedia.org/wiki/Seal_(mechanical)
+https://en.wikipedia.org/wiki/Seal
 }
 
 {
