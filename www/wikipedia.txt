@@ -64,12 +64,12 @@ e on Linux.
     10.0. Populations		civ
     11.0. Governments		gov
     12.0. Arms			arm
-    13.0. Science		hard,soft
+    13.0. Sciences		hard,soft
     14.0. Mathematics		math
     15.0. Brain			cogs,dev
     16.0. Exploration		find
     17.0. Literature		text
-    18.0. Figure		fig,phys
+    18.0. Sports		fig,phys
     19.0. Strategics		dev,luck
     20.0. Artworks		art
     21.0. Religion		soul
@@ -96,7 +96,7 @@ Ziplines:	  bark{ hark: " dark ", larp }
 sys:		  System, cogs, prominence, path, all, qi,
 data:		  type, id,
 list:		  name, version,
-holy:		  scriptura, nexi,
+holy:		  scriptura, nexi, pray,
 code:             garb, moral, stat
 
 { Keycards:       by uniques, world map
@@ -144,6 +144,7 @@ exo:		  culture (arts, history, legacy), training, exoticism,
 arm:		  weapon, shield etc,
 mass:		  majority group,    embryonic, doomerism, surveillance, abundance,   flock,
 gov:		  government,
+geo:		  area, geographical, soil, territory,
 fan:		  fantasy,
 gear:		  prototypes for "if someone makes the wrong move types",
 tact:		  tactical placement, deployment,border patrol,ambush,in/exfil,
@@ -295,10 +296,13 @@ cogs:		  brain, cognition,
 fire:		  ignition, flame, heat,
 text:		  script, document, book,
 sign:		  signature, handiwork,
-alko:		  alcohol, finnish joint
+alc:		  alcohol, finnish joint,
+bay:		  docks, sea port,
+deco:		  decoration, ornamental, swag,
+time:		  less, seasonal, periodical, intervallic
 }
 
-{ Continents:
+{ Continents:	  geo,
 afr:		  Africa,
 as:		  Asia,
 eur:		  Europe,
@@ -310,12 +314,15 @@ an:		  Antarctica
 
 { Countries:	  gov,
 afg:		  Afghanistan,
+alg:		  Algeria,
 usa:		  United States of America,
+ben:              Benin,
 chi:		  China,
 cub:		  Cuba,
 uk:		  United Kingdom,
 fin:		  Finland,
 fra:		  France,
+ger:		  Germany,
 ind:		  India,
 isr:		  Israel,
 ira:		  Iran,
@@ -323,6 +330,7 @@ irq:		  Iraq,
 jap:		  Japan,
 mol:		  Moldova,
 mor:		  Morocco,
+mya:		  Myanmar,
 nk:		  North Korea,
 nor:		  Norway,
 pak:		  Pakistan,
@@ -376,11 +384,13 @@ rip:
 https://en.wikipedia.org/wiki/Heat_death_of_the_universe
 }
 
-{ Nature, geography, materials & weather, by conditions (life):
+{ Nature, geography, materials & weather, by conditions (life):  geo
 atmo:
 https://en.wikipedia.org/wiki/Weather
 https://en.wikipedia.org/wiki/Summer
+https://en.wikipedia.org/wiki/Autumn
 https://en.wikipedia.org/wiki/Winter
+https://en.wikipedia.org/wiki/Bora_(wind)	
 https://en.wikipedia.org/wiki/Rain
 https://en.wikipedia.org/wiki/Sunlight
 https://en.wikipedia.org/wiki/Snowflake
@@ -409,6 +419,7 @@ https://en.wikipedia.org/wiki/Herbivore
 body:
 https://en.wikipedia.org/wiki/Body_plan
 https://en.wikipedia.org/wiki/Claw
+https://en.wikipedia.org/wiki/Paw
 bug:
 https://en.wikipedia.org/wiki/Parasitic_ant
 dog:
@@ -416,6 +427,9 @@ https://en.wikipedia.org/wiki/Wolf
 https://en.wikipedia.org/wiki/Dog
  https://en.wikipedia.org/wiki/Dalmatian_dog
  https://en.wikipedia.org/wiki/Golden_Retriever
+https://en.wikipedia.org/wiki/Tiger
+https://en.wikipedia.org/wiki/Cat
+https://en.wikipedia.org/wiki/Bear
 bird:
 https://en.wikipedia.org/wiki/Owl
 hoof:
@@ -1042,6 +1056,8 @@ https://en.wikipedia.org/wiki/Kitchenware
 https://en.wikipedia.org/wiki/Kit_(components)
 tool:
 https://en.wikipedia.org/wiki/Kitchen_knife
+https://en.wikipedia.org/wiki/Chainsaw
+ https://en.wikipedia.org/wiki/Chainsaw_safety_features
 film:
 https://en.wikipedia.org/wiki/Gum_printing
 vis:
@@ -1055,10 +1071,13 @@ sex:
 https://en.wikipedia.org/wiki/Dildo
 https://en.wikipedia.org/wiki/Vibrator_(sex_toy)
 https://en.wikipedia.org/wiki/Nipple_clamp
-tox, alko:
-https://en.wikipedia.org/wiki/Alko
+tox, alc:
 https://en.wikipedia.org/wiki/Jägermeister
 https://en.wikipedia.org/wiki/Koskenkorva_Viina
+
+corp:
+https://en.wikipedia.org/wiki/Alko
+https://en.wikipedia.org/wiki/Systembolaget
 drug:
 https://en.wikipedia.org/wiki/Alcohol_(drug)
 https://en.wikipedia.org/wiki/Cannabis_(drug)
@@ -1077,10 +1096,12 @@ https://en.wikipedia.org/wiki/Phencyclidine
 { Clothes, wears & fashion, by piece, fit, style (design, era):
 head:
 https://en.wikipedia.org/wiki/Balaclava_(clothing)
+top:
+https://en.wikipedia.org/wiki/Trench_coat
+https://en.wikipedia.org/wiki/Cuff
 hand:
 https://en.wikipedia.org/wiki/Glove
-arm:
-https://en.wikipedia.org/wiki/Cuff
+https://en.wikipedia.org/wiki/Mitten
 leg:
 https://en.wikipedia.org/wiki/Trousers
 foot:
@@ -1094,7 +1115,7 @@ https://en.wikipedia.org/wiki/Wearable_art
 }
 
 
-{ Geographical areas, countries & territories, by continent, zone:  next
+{ Geographical areas, countries & territories, by continent, zone:
 https://en.wikipedia.org/wiki/Africa
 https://en.wikipedia.org/wiki/Oceania
 }
@@ -1113,7 +1134,7 @@ https://en.wikipedia.org/wiki/Library_of_Alexandria
 }
 
 
-{ Building, urban planning & architecture, by country, era: -
+{ Building, urban planning & architecture, by country, era:
 https://en.wikipedia.org/wiki/Moroccan_architecture
 }
 
@@ -1229,8 +1250,6 @@ https://en.wikipedia.org/wiki/Pre-industrial_society
 usa:
 https://en.wikipedia.org/wiki/European_colonization_of_the_Americas
 https://en.wikipedia.org/wiki/Colonial_history_of_the_United_States
-bur:
-https://en.wikipedia.org/wiki/Burmese_people
 jap:
 https://en.wikipedia.org/wiki/History_of_Japan
 https://en.wikipedia.org/wiki/Edo_period
@@ -1252,20 +1271,30 @@ rad:
 https://en.wikipedia.org/wiki/Nuclear_reactor
 camp:
 https://en.wikipedia.org/wiki/Refugee_camp
+bay:
+https://en.wikipedia.org/wiki/Port_of_Novorossiysk
+ https://en.wikipedia.org/wiki/KSK_(grain_terminal)
 }
 
 { Populations, settlements, by country, state ... (citizenship):  all,gov
 root:
 https://en.wikipedia.org/wiki/Stateless_nation
+geo:
+https://en.wikipedia.org/wiki/Southeast_Asia
 usa:
 https://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States
 https://en.wikipedia.org/wiki/Citizenship_of_the_United_States
 https://en.wikipedia.org/wiki/Alaska
 https://en.wikipedia.org/wiki/Hawaii
 https://en.wikipedia.org/wiki/Phoenix,_Arizona
+bur:
+https://en.wikipedia.org/wiki/Burmese_people
 uk:
 https://en.wikipedia.org/wiki/British_people
 fin:
+https://en.wikipedia.org/wiki/Sweden_Finnish
+https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland
+https://en.wikipedia.org/wiki/Finnish_Americans
 https://en.wikipedia.org/wiki/Helsinki
 jap:
 https://en.wikipedia.org/wiki/Hiroshima
@@ -1277,9 +1306,12 @@ https://en.wikipedia.org/wiki/Moscow
 https://en.wikipedia.org/wiki/Saint_Petersburg
 }
 
-{ Populations, structures, spaces & living quarters by type, object:
+{ Populations, structures, spaces, living quarters, by type, object:
 room:
 https://en.wikipedia.org/wiki/Sauna
+deco:
+https://en.wikipedia.org/wiki/Painting
+https://en.wikipedia.org/wiki/Christmas_tree
 hvac:
 https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning
 }
@@ -1329,7 +1361,7 @@ crew:
 https://en.wikipedia.org/wiki/Piracy
 cell:
 https://en.wikipedia.org/wiki/Terrorism
-https://en.wikipedia.org/wiki/November_2015_Paris_attacks#Bataclan_theatre_massacre
+https://en.wikipedia.org/wiki/November_2015_Paris_attacks
 https://en.wikipedia.org/wiki/Paris_attacks_trial
 }
 
@@ -1360,6 +1392,13 @@ sad:
 https://en.wikipedia.org/wiki/Cremation
 https://en.wikipedia.org/wiki/Funeral
 https://en.wikipedia.org/wiki/Burial_at_sea
+}
+
+
+{ Populations, festivities & holidays, by tradition, culture (cultural)
+time:
+https://en.wikipedia.org/wiki/Christmas
+https://en.wikipedia.org/wiki/Hanukkah
 }
 
 
@@ -1398,7 +1437,6 @@ https://en.wikipedia.org/wiki/LGBTQ_people
 act:
 https://en.wikipedia.org/wiki/Autoeroticism
 https://en.wikipedia.org/wiki/Conventional_sex
-...
 }
 
 
@@ -1626,11 +1664,10 @@ https://en.wikipedia.org/wiki/Bokken
 https://en.wikipedia.org/wiki/Tameshigiri
 https://en.wikipedia.org/wiki/Makiwara
 https://en.wikipedia.org/wiki/Crash_test_dummy
-take:
+take, rip:
 https://en.wikipedia.org/wiki/Advocacy_of_suicide
 https://en.wikipedia.org/wiki/Assisted_suicide				fight,
 https://en.wikipedia.org/wiki/Euthanasia				mortal,
-rip:
 https://en.wikipedia.org/wiki/Suicide					dunno,
 https://en.wikipedia.org/wiki/Seppuku
 https://en.wikipedia.org/wiki/Cremation
@@ -1688,7 +1725,7 @@ https://en.wikipedia.org/wiki/School_shooting
   https://en.wikipedia.org/wiki/Jokela_school_shooting
 }
 
-{ Populations, internet communities & subcultures, by type, website,  member(s) (portals):  ui,net
+{ Populations, internet communities & subcultures, by type, website,  member(s) (portals):  art,ui,net
 https://en.wikipedia.org/wiki/Internet_culture
 https://en.wikipedia.org/wiki/Community
 https://en.wikipedia.org/wiki/Committee
@@ -1744,6 +1781,7 @@ https://en.wikipedia.org/wiki/Continuity_of_government
 https://en.wikipedia.org/wiki/List_of_forms_of_government
 }
 
+
 { Statecraft, political systems & ideologies, by era, rule, system:
 https://en.wikipedia.org/wiki/Modernity
 https://en.wikipedia.org/wiki/Democracy
@@ -1762,7 +1800,8 @@ https://en.wikipedia.org/wiki/Decommunization
 https://en.wikipedia.org/wiki/Red_Scare
 }
 
-{ Statecraft, security & intelligence services, by type, practice (espionage):
+
+{ Statecraft, security & intelligence services, by type, practice (espionage):  spy,tact
 https://en.wikipedia.org/wiki/Espionage
 https://en.wikipedia.org/wiki/Tradecraft
 https://en.wikipedia.org/wiki/Cyber_espionage
@@ -1775,12 +1814,14 @@ https://en.wikipedia.org/wiki/Clandestine_HUMINT_operational_techniques
 https://en.wikipedia.org/wiki/Clandestine_detention_center_(Argentina)
 }
 
+
 { Statecraft, government institutions & services, by practice, type (common):  gov
 https://en.wikipedia.org/wiki/Institute
 https://en.wikipedia.org/wiki/Bureau
 }
 
-{ Statecraft, government, military orders & areas, by type, practice, faction:
+
+{ Statecraft, government, military orders & areas, by type, practice, faction:  mil
 type:
 https://en.wikipedia.org/wiki/Counterterrorism
 rule:
@@ -1788,15 +1829,16 @@ https://en.wikipedia.org/wiki/Martial_law
 air:
 https://en.wikipedia.org/wiki/Military_aviation
 https://en.wikipedia.org/wiki/Air_superiority_fighter
-para:
-https://en.wikipedia.org/wiki/Paratrooper
 area:
 https://en.wikipedia.org/wiki/Barracks
 https://en.wikipedia.org/wiki/Proving_ground
 https://en.wikipedia.org/wiki/Kill_house
+unit:
+https://en.wikipedia.org/wiki/Paratrooper
 }
 
-{ Statecraft & world leaders, by country, order:
+
+{ Statecraft & world leaders, by country, order:  gov
 usa:
 https://en.wikipedia.org/wiki/George_Washington
 https://en.wikipedia.org/wiki/John_Adams
@@ -1862,9 +1904,23 @@ https://en.wikipedia.org/wiki/Martti_Ahtisaari
 https://en.wikipedia.org/wiki/Tarja_Halonen
 https://en.wikipedia.org/wiki/Sauli_Niinistö
 https://en.wikipedia.org/wiki/Alexander_Stubb
+ger:
+https://en.wikipedia.org/wiki/Conrad_III_of_Germany
+https://en.wikipedia.org/wiki/Friedrich_Ebert
+ https://en.wikipedia.org/wiki/Hans_Luther
+ https://en.wikipedia.org/wiki/Walter_Simons
+https://en.wikipedia.org/wiki/Paul_von_Hindenburg
+https://en.wikipedia.org/wiki/Adolf_Hitler
+https://en.wikipedia.org/wiki/Karl_Dönitz
 nk:
 https://en.wikipedia.org/wiki/Kim_Jong_Il
 https://en.wikipedia.org/wiki/Kim_Jong_Un
+rus, ussr:
+https://en.wikipedia.org/wiki/Joseph_Stalin
+https://en.wikipedia.org/wiki/Boris_Yeltsin
+https://en.wikipedia.org/wiki/Vladimir_Putin			"vlad"
+https://en.wikipedia.org/wiki/Dmitry_Medvedev
+ https://en.wikipedia.org/wiki/Sergey_Lavrov
 }
 
 { Statecraft & internal affairs, by role, issue:
@@ -1873,7 +1929,7 @@ myst:
 https://en.wikipedia.org/wiki/Shadow_government_(conspiracy_theory)
 usa:
 https://en.wikipedia.org/wiki/Spygate_(conspiracy_theory)	"don"
-{ 
+}
 
 { Statecraft & foreign affairs, by role, issue:
 https://en.wikipedia.org/wiki/Government-in-exile
@@ -1885,18 +1941,20 @@ https://en.wikipedia.org/wiki/World_War_I
 https://en.wikipedia.org/wiki/World_War_II
 https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war
 https://en.wikipedia.org/wiki/Timeline_of_the_Gaza_war
+rare:  https://en.wikipedia.org/wiki/World_War_III
+scen:
+https://en.wikipedia.org/wiki/2025_Beninese_coup_attempt
 area:
 https://en.wikipedia.org/wiki/Gaza_Strip
 game:
 https://en.wikipedia.org/wiki/Hobbesian_trap
-rare:
-https://en.wikipedia.org/wiki/World_War_III
 }
 
 
 { Statecraft (Afghan):  afg,gov
 https://en.wikipedia.org/wiki/Afghanistan
 }
+
 
 { Statecraft (American):  usa,gov
 https://en.wikipedia.org/wiki/United_States
@@ -1922,6 +1980,12 @@ https://en.wikipedia.org/wiki/American_Finnish
 https://en.wikipedia.org/wiki/American_imperialism
 }
 
+
+{ Statecraft (Algerian):  alg,gov
+https://en.wikipedia.org/wiki/Algeria
+}
+
+
 { Statecraft (Chinese):  chi,gov
 https://en.wikipedia.org/wiki/China
 mil:
@@ -1933,15 +1997,24 @@ https://en.wikipedia.org/wiki/Chinese_espionage_in_the_United_States
 https://en.wikipedia.org/wiki/Chinese_espionage_in_Hawaii
 }
 
+
+{ Statecraft (Beninese): ben,gov
+https://en.wikipedia.org/wiki/Benin
+https://en.wikipedia.org/wiki/Benin_Armed_Forces
+}
+
+
 { Statecraft (Cuban):  cub,gov
 https://en.wikipedia.org/wiki/Cuba
 }
+
 
 { Statecraft, figures (British):  uk,gov
 https://en.wikipedia.org/wiki/United_Kingdom
 https://en.wikipedia.org/wiki/Special_Air_Service
 https://en.wikipedia.org/wiki/MI6
 }
+
 
 { Statecraft (Finnish):  fin,gov
 https://en.wikipedia.org/wiki/Finland
@@ -1956,15 +2029,27 @@ utjr:  https://en.wikipedia.org/wiki/Utti_Jaeger_Regiment
 supo:  https://en.wikipedia.org/wiki/Finnish_Security_and_Intelligence_Service
 https://en.wikipedia.org/wiki/Finnish_Defence_Intelligence_Agency
 https://en.wikipedia.org/wiki/Police_Rapid_Response_Unit_(Finland)
-...
-https://en.wikipedia.org/wiki/Sweden_Finnish
-https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland
-https://en.wikipedia.org/wiki/Finnish_Americans
 }
+
 
 { Statecraft (French):  fra,gov
 https://en.wikipedia.org/wiki/France
+mil:
+https://en.wikipedia.org/wiki/French_Armed_Forces
+https://en.wikipedia.org/wiki/GIGN
 }
+
+
+{ Statecraft (German):  ger,gov 
+https://en.wikipedia.org/wiki/Germany
+https://en.wikipedia.org/wiki/List_of_presidents_of_Germany
+https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Germany
+mil:
+https://en.wikipedia.org/wiki/German_Army
+https://en.wikipedia.org/wiki/Bundeswehr
+https://en.wikipedia.org/wiki/German_special_forces
+}
+
 
 { Statecraft (Georgian):  grg,gov
 https://en.wikipedia.org/wiki/Georgia_(country)
@@ -1973,9 +2058,11 @@ https://en.wikipedia.org/wiki/Defence_Forces_of_Georgia
 https://en.wikipedia.org/wiki/Georgian_Special_Operations_Command
 }
 
+
 { Statecraft (Indian):  ind,gov
 https://en.wikipedia.org/wiki/India
 }
+
 
 { Statecraft (Israeli):  isr,gov
 https://en.wikipedia.org/wiki/Israel
@@ -1985,11 +2072,13 @@ shin:  https://en.wikipedia.org/wiki/Shin_Bet
 moss:  https://en.wikipedia.org/wiki/Mossad
 }
 
+
 { Statecraft (Iranian):  ira,gov
 https://en.wikipedia.org/wiki/Iran
 mil:
 https://en.wikipedia.org/wiki/Islamic_Republic_of_Iran_Armed_Forces
 }
+
 
 { Statecraft (Iraqi):  irq,gov
 "old"
@@ -1998,11 +2087,13 @@ mil:
 https://en.wikipedia.org/wiki/Iraqi_Ground_Forces
 }
 
+
 { Statecraft (Japanese):  jap,gov
 https://en.wikipedia.org/wiki/Japan
 mil:
 https://en.wikipedia.org/wiki/Special_Forces_Group_(Japan)
 }
+
 
 { Statecraft (Moldovan):  mol,gov
 https://en.wikipedia.org/wiki/Moldova
@@ -2012,9 +2103,16 @@ https://en.wikipedia.org/wiki/Armed_Forces_of_the_Republic_of_Moldova
 https://en.wikipedia.org/wiki/Treaty_on_Conventional_Armed_Forces_in_Europe
 }
 
+
 { Statecraft (Moroccan):  mor,gov
 https://en.wikipedia.org/wiki/Morocco
 }
+
+
+{ Statecraft (Burmese):  mya,gov
+https://en.wikipedia.org/wiki/Myanmar
+}
+
 
 { Statecraft (North Korean): nk,gov
 https://en.wikipedia.org/wiki/North_Korea
@@ -2023,9 +2121,11 @@ mil:
 https://en.wikipedia.org/wiki/Korean_People's_Army_Special_Operations_Forces
 }
 
+
 { Statecraft (Mongolian):  mon,gov
 https://en.wikipedia.org/wiki/Mongolia
 }
+
 
 { Statecraft (Norwegian):  nor,gov
 https://en.wikipedia.org/wiki/Norway
@@ -2035,9 +2135,13 @@ https://en.wikipedia.org/wiki/Forsvarets_Spesialkommando
 https://en.wikipedia.org/wiki/Forsvarets_spesialstyrker
 }
 
+
 { Statecraft (Pakistani):  pak,gov
 https://en.wikipedia.org/wiki/Pakistan
+mil:
+https://en.wikipedia.org/wiki/Special_Service_Group
 }
+
 
 { Statecraft (Polish):  pol,gov
 https://en.wikipedia.org/wiki/Poland
@@ -2046,11 +2150,13 @@ https://en.wikipedia.org/wiki/Polish_Armed_Forces
 https://en.wikipedia.org/wiki/GROM_Military_Unit
 }
 
+
 { Statecraft (Romanian):  rom,gov
 https://en.wikipedia.org/wiki/Romania
 old:
 https://en.wikipedia.org/wiki/Romani_people
 }
+
 
 { Statecraft (Russian):  rus,gov
 https://en.wikipedia.org/wiki/Russia
@@ -2058,27 +2164,32 @@ https://en.wikipedia.org/wiki/Constitution_of_Russia
 https://en.wikipedia.org/wiki/List_of_leaders_of_Russia
 https://en.wikipedia.org/wiki/List_of_heads_of_government_of_Russia
 https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Russia
-https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union
 https://en.wikipedia.org/wiki/List_of_presidents_of_Russia
 https://en.wikipedia.org/wiki/List_of_Russian_monarchs
 https://en.wikipedia.org/wiki/Premier_of_the_Soviet_Union
 mil:
 https://en.wikipedia.org/wiki/Russian_Armed_Forces
 gru:  https://en.wikipedia.org/wiki/Spetsnaz_GRU
+sso:  https://en.wikipedia.org/wiki/Special_Operations_Forces_(Russia)
+spy,
 fsb:  https://en.wikipedia.org/wiki/Federal_Security_Service
 ...
 https://en.wikipedia.org/wiki/Russians_in_Finland
-https://en.wikipedia.org/wiki/Karelia
 https://en.wikipedia.org/wiki/Russian_imperialism
+ https://en.wikipedia.org/wiki/Karelia
 }
+
 
 { Statecraft (Russian, historic):  old, ussr,gov
 old:  https://en.wikipedia.org/wiki/Russian_Empire
-mil:
-https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic
 https://en.wikipedia.org/wiki/Soviet_Union
+https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union
+https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic
+mil:
+spy:
 kgb:  https://en.wikipedia.org/wiki/KGB
 }
+
 
 { Statecraft (South Korean):  sk,gov
 https://en.wikipedia.org/wiki/South_Korea
@@ -2092,11 +2203,13 @@ https://en.wikipedia.org/wiki/Special_Forces_Brigades_of_the_Republic_of_Korea_A
 https://en.wikipedia.org/wiki/Republic_of_Korea_Army_Special_Warfare_Command
 }
 
+
 { Statecraft (Sri Lankan):  sri,gov
 https://en.wikipedia.org/wiki/Sri_Lanka
 ...
 https://en.wikipedia.org/wiki/List_of_assassinations_of_the_Sri_Lankan_civil_war
 }
+
 
 { Statecraft (Swedish):  swe,gov
 https://en.wikipedia.org/wiki/Sweden
@@ -2105,13 +2218,16 @@ https://en.wikipedia.org/wiki/Swedish_Security_Service
 https://en.wikipedia.org/wiki/Swedish_nuclear_weapons_program
 }
 
+
 { Statectaft (Syrian):  syr,gov
 https://en.wikipedia.org/wiki/Syria
 }
 
+
 { Statecraft (Tanzanian):  tnz,gov
 https://en.wikipedia.org/wiki/Tanzania
 }
+
 
 { Statecraft (Ukrainian):  ukr,gov
 https://en.wikipedia.org/wiki/Ukraine
@@ -2246,7 +2362,7 @@ https://en.wikipedia.org/wiki/Pauldron
 
 
 
-{ 13.0. Science:  hard,soft}
+{ 13.0. Sciences:  hard,soft}
 
 
 
@@ -2506,7 +2622,7 @@ To-do:  poetry ...
 
 
 
-{ 18.0. Figure:  fig,phys}
+{ 18.0. Sports:  fig,phys}
 
 
 
@@ -2711,9 +2827,10 @@ pit:
 https://en.wikipedia.org/wiki/Inferno_(Dante)
 }
 
-{ Religious schools & theology, by figure(s), group(s):
+{ Religious schools & theology, by figure(s), group(s):  fig
 fig:
 https://en.wikipedia.org/wiki/Jesus
+ https://en.wikipedia.org/wiki/Nativity_of_Jesus
 https://en.wikipedia.org/wiki/Pope
 
 https://en.wikipedia.org/wiki/Muhammad
@@ -2735,12 +2852,13 @@ cult:
 https://en.wikipedia.org/wiki/Satanism
 }
 
-{ Religious schools & theology, by system, tradition (cultural):
+{ Religious schools & theology, by system, tradition (cultural):  soul,act
 https://en.wikipedia.org/wiki/Cultural_system
 https://en.wikipedia.org/wiki/Baptism
 https://en.wikipedia.org/wiki/Liturgy
 https://en.wikipedia.org/wiki/Prayer
 https://en.wikipedia.org/wiki/Worship
+https://en.wikipedia.org/wiki/Alms
 holy:
 https://en.wikipedia.org/wiki/Religious_text
 https://en.wikipedia.org/wiki/Torah
@@ -3364,7 +3482,6 @@ https://en.wikipedia.org/wiki/Intentionality
 https://en.wikipedia.org/wiki/All_roads_lead_to_Rome
 https://en.wikipedia.org/wiki/Milliarium_Aureum
 https://en.wikipedia.org/wiki/Gladius_(video_game)
-https://en.wikipedia.org/wiki/Alms
 https://en.wikipedia.org/wiki/Analog
 https://en.wikipedia.org/wiki/Proverb_(disambiguation)
 https://en.wikipedia.org/wiki/Antisemitism
@@ -3779,7 +3896,6 @@ https://en.wikipedia.org/wiki/Cultural_memory
 https://en.wikipedia.org/wiki/Cotard's_syndrome
 https://en.wikipedia.org/wiki/Overlord
 https://en.wikipedia.org/wiki/Feudalism_in_England
-https://en.wikipedia.org/wiki/Alms
 https://en.wikipedia.org/wiki/Suckless.org
 https://en.wikipedia.org/wiki/Russian_Venture_Company
 https://en.wikipedia.org/wiki/Artisan
@@ -4148,7 +4264,6 @@ https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind
 https://en.wikipedia.org/wiki/Stonehenge
 https://en.wikipedia.org/wiki/Conan_O'Brien
 https://en.wikipedia.org/wiki/Conan_the_Barbarian
-https://en.wikipedia.org/wiki/H._P._Lovecraft
 https://en.wikipedia.org/wiki/Cthulhu_Mythos_anthology
 https://en.wikipedia.org/wiki/Eckhart_Tolle
 https://en.wikipedia.org/wiki/Darkness
@@ -4863,6 +4978,7 @@ born:
 1874:  https://en.wikipedia.org/wiki/Winston_Churchill
 1879:  https://en.wikipedia.org/wiki/Albert_Einstein
 1889:  https://en.wikipedia.org/wiki/Charlie_Chaplin
+1890:  https://en.wikipedia.org/wiki/H._P._Lovecraft
 1895:  https://en.wikipedia.org/wiki/Babe_Ruth
 1900:  https://en.wikipedia.org/wiki/Queen_Elizabeth_The_Queen_Mother
        https://en.wikipedia.org/wiki/Urho_Kekkonen
@@ -5254,8 +5370,4 @@ https://en.wikipedia.org/wiki/Prostitution#whore
 
 pit:
 https://en.wikipedia.org/wiki/Anders_Behring_Breivik
-https://en.wikipedia.org/wiki/Sergey_Lavrov
-https://en.wikipedia.org/wiki/Vladimir_Putin 
-https://en.wikipedia.org/wiki/Joseph_Stalin
-https://en.wikipedia.org/wiki/Adolf_Hitler
 }
