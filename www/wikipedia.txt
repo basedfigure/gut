@@ -264,7 +264,7 @@ myst:		  unknown, obscure, mysterious, conspiratorial,
 west:		  ism,
 east:		  " may the force be with you ",
 gun:		  " lots o' guns " - neo,
-soul:		  live music, based, house of mirrors, jazz,
+soul:		  zen, live music, based, house of mirrors, jazz,
 ecto:		  plasm, supernatural,
 kit:		  set, components,
 digi:		  digital,
@@ -1238,7 +1238,7 @@ https://en.wikipedia.org/wiki/Dummy_corporation
 
 
 
-{ Populations, historical eras & ages, by country, place, faction (legacy):
+{ Populations, historical eras & ages, by country, place, faction (legacy):  all
 icy:
 https://en.wikipedia.org/wiki/Ice_age
 "old":
@@ -1250,6 +1250,10 @@ https://en.wikipedia.org/wiki/Pre-industrial_society
 usa:
 https://en.wikipedia.org/wiki/European_colonization_of_the_Americas
 https://en.wikipedia.org/wiki/Colonial_history_of_the_United_States
+fin:
+https://fi.wikipedia.org/wiki/Suomi-neito
+https://en.wikipedia.org/wiki/Finnish_Maiden
+https://en.wikipedia.org/wiki/Finnish_Maiden#/media/File:Suomineito_(Isto).jpg
 jap:
 https://en.wikipedia.org/wiki/History_of_Japan
 https://en.wikipedia.org/wiki/Edo_period
