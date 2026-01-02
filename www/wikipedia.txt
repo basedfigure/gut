@@ -299,7 +299,8 @@ sign:		  signature, handiwork,
 alc:		  alcohol, finnish joint,
 bay:		  docks, sea port,
 deco:		  decoration, ornamental, swag,
-time:		  less, seasonal, periodical, intervallic
+time:		  less, seasonal, periodical, intervallic,
+bias:		  modernity, divide & conquer
 }
 
 { Continents:	  geo,
@@ -1310,7 +1311,7 @@ https://en.wikipedia.org/wiki/Moscow
 https://en.wikipedia.org/wiki/Saint_Petersburg
 }
 
-{ Populations, structures, spaces, living quarters, by type, object:
+{ Populations, structures, spaces & living quarters, by type, object:
 room:
 https://en.wikipedia.org/wiki/Sauna
 deco:
@@ -1321,6 +1322,9 @@ https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning
 }
 
 { Populations, citizenry, cultures & trade, by sector, balance, design (modern):
+bias:
+https://en.wikipedia.org/wiki/Bias
+https://en.wikipedia.org/wiki/Favoritism
 civ:
 https://en.wikipedia.org/wiki/Citizenship
 sect:
@@ -4715,7 +4719,6 @@ https://en.wikipedia.org/wiki/Wearable_technology
 https://en.wikipedia.org/wiki/Wearable_computer
 https://en.wikipedia.org/wiki/Ring_of_Fire
 https://en.wikipedia.org/wiki/Woodcock
-https://en.wikipedia.org/wiki/Favoritism
 https://en.wikipedia.org/wiki/Bias
 https://en.wikipedia.org/wiki/Stereotype
 https://en.wikipedia.org/wiki/Metastereotype
