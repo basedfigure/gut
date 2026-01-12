@@ -1,17 +1,24 @@
 { Git: https://github.com/basedfigure/gut
 By: zlib (c) 2025 Aleksi 'bf' Koivisto
 
-Portal to:	  https://en.wikipedia.org/
-High five:	  https://en.wikipedia.org/wiki/Big_Boss_(Metal_Gear)
+Portal to:  en.wikipedia.org/
+High five:  en.wikipedia.org/wiki/Big_Boss_(Metal_Gear)
 
-Techniques used:  Hard to soft analysis, accessibility, preservation, creativity
-                  , randomness by occurrence
+Techniques used:
+Hard to soft analysis, accessibility, preservation, creativity, 
+randomness by occurrence
 
-Say:		  "Naked thought", "Stay a while and read", "Word 4 hire", "Down 
-                  this beast!", "Split into pieces", "Scatter",
-Sayeth:		  " The brain dump ", " Lineage ", " Alone "
+Say:
+"Naked thought", "Stay a while and read", "Word 4 hire", "Down this beast!",
+"Split into pieces", "Scatter", "Scuffed"
 
-Font used:	  Less Perfect DOS, monospace,
+Sayeth:
+" The brain dump ", " Lineage ", " Alone ",  "Clean up"
+
+Font used:  Less Perfect DOS, monospace
+
+Expanded entries in (directory):  wiki
+
 
 Tools & usage (rough,wip):
 This handcranked database is tools agnostic,  but is designed for Sage and Punk!
@@ -1932,11 +1939,12 @@ https://en.wikipedia.org/wiki/Dmitry_Medvedev
 }
 
 { Statecraft & internal affairs, by role, issue:
-https://en.wikipedia.org/wiki/Shadow_cabinet
+en.wikipedia.org/wiki/Shadow_cabinet
 myst:
-https://en.wikipedia.org/wiki/Shadow_government_(conspiracy_theory)
+en.wikipedia.org/wiki/Shadow_government_(conspiracy_theory)
 usa:
-https://en.wikipedia.org/wiki/Spygate_(conspiracy_theory)	"don"
+en.wikipedia.org/wiki/Central_Intelligence_Agency_Office_of_Inspector_General
+en.wikipedia.org/wiki/Spygate_(conspiracy_theory)		"don"
 }
 
 { Statecraft & foreign affairs, by role, issue:
@@ -1965,27 +1973,29 @@ https://en.wikipedia.org/wiki/Afghanistan
 
 
 { Statecraft (American):  usa,gov
-https://en.wikipedia.org/wiki/United_States
-https://en.wikipedia.org/wiki/Constitution_of_the_United_States
-https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution
-https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population
-https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States
-https://en.wikipedia.org/wiki/United_States_Armed_Forces
-https://en.wikipedia.org/wiki/United_States_Intelligence_Community
-usmc:  https://en.wikipedia.org/wiki/United_States_Marine_Corps
-navy:  https://en.wikipedia.org/wiki/United_States_Navy
-usaf:  https://en.wikipedia.org/wiki/United_States_Air_Force
-jsoc:  https://en.wikipedia.org/wiki/Joint_Special_Operations_Command
-cia:   
-https://en.wikipedia.org/wiki/Central_Intelligence_Agency
-https://en.wikipedia.org/wiki/Director_of_the_Central_Intelligence_Agency
-https://en.wikipedia.org/wiki/Directorate_of_Operations_(CIA)
-sac:   https://en.wikipedia.org/wiki/Special_Activities_Center
-nsa:   https://en.wikipedia.org/wiki/National_Security_Agency
-list:  https://en.wikipedia.org/wiki/World_Leaders
+en.wikipedia.org/wiki/United_States
+en.wikipedia.org/wiki/Constitution_of_the_United_States
+en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution
+en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population
+en.wikipedia.org/wiki/List_of_presidents_of_the_United_States
+en.wikipedia.org/wiki/United_States_Armed_Forces
+en.wikipedia.org/wiki/United_States_Intelligence_Community
+usmc:  en.wikipedia.org/wiki/United_States_Marine_Corps
+navy:  en.wikipedia.org/wiki/United_States_Navy
+usaf:  en.wikipedia.org/wiki/United_States_Air_Force
+jsoc:  en.wikipedia.org/wiki/Joint_Special_Operations_Command
+oss:   en.wikipedia.org/wiki/Office_of_Strategic_Services
+cia:  .txt
+en.wikipedia.org/wiki/Central_Intelligence_Agency
+en.wikipedia.org/wiki/Director_of_the_Central_Intelligence_Agency
+en.wikipedia.org/wiki/Directorate_of_Operations_(CIA)
+sac:   en.wikipedia.org/wiki/Special_Activities_Center
+nsa:   en.wikipedia.org/wiki/National_Security_Agency
+list:  en.wikipedia.org/wiki/World_Leaders
 ...
-https://en.wikipedia.org/wiki/American_Finnish
-https://en.wikipedia.org/wiki/American_imperialism
+en.wikipedia.org/wiki/American_Finnish
+en.wikipedia.org/wiki/American_imperialism
+en.wikipedia.org/wiki/CIA_drug_trafficking_allegations
 }
 
 
@@ -4879,7 +4889,6 @@ https://en.wikipedia.org/wiki/Lowest_common_ancestor
 https://en.wikipedia.org/wiki/Systemic
 https://en.wikipedia.org/wiki/List_of_Shadowrun_books
 https://en.wikipedia.org/wiki/Shadowrun
-https://en.wikipedia.org/wiki/John_Ratcliffe
 
 https://en.wikipedia.org/wiki/Igloo
 
