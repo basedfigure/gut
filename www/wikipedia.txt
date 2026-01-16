@@ -17,7 +17,7 @@ Sayeth:
 
 Font used:  Less Perfect DOS, monospace
 
-Expanded entries in (directory):  wiki
+Expanded entries in (directory):  /wiki
 
 
 Tools & usage (rough,wip):
@@ -2821,10 +2821,6 @@ sys:
 https://en.wikipedia.org/wiki/Goddess
 https://en.wikipedia.org/wiki/Soul
 https://en.wikipedia.org/wiki/God
-stud:
-https://en.wikipedia.org/wiki/Apostle
-https://en.wikipedia.org/wiki/Disciple
-https://en.wikipedia.org/wiki/Pilgrimage
 rip:
 https://en.wikipedia.org/wiki/Reincarnation
 https://en.wikipedia.org/wiki/Salvation
@@ -2837,7 +2833,8 @@ https://en.wikipedia.org/wiki/Jinn
 https://en.wikipedia.org/wiki/Daimon
 https://en.wikipedia.org/wiki/Demon
 https://en.wikipedia.org/wiki/Oni
-https://en.wikipedia.org/wiki/Devil
+https://en.wikipedia.org/wiki/Satan
+ https://en.wikipedia.org/wiki/Devil
 cult:
 https://en.wikipedia.org/wiki/Cult
 
@@ -2852,6 +2849,9 @@ https://en.wikipedia.org/wiki/Jesus
 https://en.wikipedia.org/wiki/Pope
 
 https://en.wikipedia.org/wiki/Muhammad
+stud:
+https://en.wikipedia.org/wiki/Apostle
+https://en.wikipedia.org/wiki/Disciple
 sys:
 https://en.wikipedia.org/wiki/Ethnic_religion
 https://en.wikipedia.org/wiki/Folk_religion
@@ -2877,6 +2877,7 @@ https://en.wikipedia.org/wiki/Liturgy
 https://en.wikipedia.org/wiki/Prayer
 https://en.wikipedia.org/wiki/Worship
 https://en.wikipedia.org/wiki/Alms
+https://en.wikipedia.org/wiki/Pilgrimage
 holy:
 https://en.wikipedia.org/wiki/Religious_text
 https://en.wikipedia.org/wiki/Torah
@@ -2888,6 +2889,8 @@ https://en.wikipedia.org/wiki/New_Testament
 https://en.wikipedia.org/wiki/Bible
 https://en.wikipedia.org/wiki/Quran
 https://en.wikipedia.org/wiki/Hadith
+code:
+https://en.wikipedia.org/wiki/Church_(building)
 ...
 }
 
@@ -3110,7 +3113,7 @@ https://en.wikipedia.org/wiki/Clip_font
 https://en.wikipedia.org/wiki/Depth
 https://en.wikipedia.org/wiki/Breadth-first_search
 https://en.wikipedia.org/wiki/Industrial_Light_&_Magic
-https://en.wikipedia.org/wiki/Wētā_Workshop
+https://en.wikipedia.org/wiki/Weta_Workshop
 https://en.wikipedia.org/wiki/Love_potion
 https://en.wikipedia.org/wiki/Euthanasia_trials
 https://en.wikipedia.org/wiki/Kalashnikov_Concern
@@ -4897,6 +4900,106 @@ https://en.wikipedia.org/wiki/Murder_hole
 https://en.wikipedia.org/wiki/Pinniped
 https://en.wikipedia.org/wiki/Seal_(mechanical)
 https://en.wikipedia.org/wiki/Seal
+
+https://en.wikipedia.org/wiki/Comma-separated_values
+https://en.wikipedia.org/wiki/Tenchu:_Dark_Secret
+https://en.wikipedia.org/wiki/OpenAI
+https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_-_Bloodlines
+
+https://en.wikipedia.org/wiki/Gung_ho
+https://en.wikipedia.org/wiki/Yusuke_Naora
+https://en.wikipedia.org/wiki/User_space_and_kernel_space
+https://en.wikipedia.org/wiki/PlayStation_2_technical_specifications
+https://en.wikipedia.org/wiki/Broadband
+https://en.wikipedia.org/wiki/Optical_storage
+https://en.wikipedia.org/wiki/Finnish_Maiden
+https://en.wikipedia.org/wiki/Mother_Svea
+https://fi.wikipedia.org/wiki/P._E._Svinhufvud
+https://en.wikipedia.org/wiki/Hero's_journey
+https://en.wikipedia.org/wiki/Bible_Adventures
+https://en.wikipedia.org/wiki/Hilt
+https://en.wikipedia.org/wiki/Robin_Hood_the_Role_Playing_Campaign
+https://en.wikipedia.org/wiki/Castlevania_III:_Dracula's_Curse
+https://en.wikipedia.org/wiki/The_Last_Blade
+https://en.wikipedia.org/wiki/Well-being
+https://en.wikipedia.org/wiki/Partisan_(military)
+https://en.wikipedia.org/wiki/Levenshtein_distance
+https://en.wikipedia.org/wiki/Music_tracker
+https://en.wikipedia.org/wiki/Index_fund
+https://en.wikipedia.org/wiki/Haiku_(operating_system)
+https://en.wikipedia.org/wiki/Renoise
+https://en.wikipedia.org/wiki/Alvar_Aalto
+https://en.wikipedia.org/wiki/Secure_Hash_Algorithms
+https://en.wikipedia.org/wiki/Sun_Microsystems
+https://en.wikipedia.org/wiki/Berkeley_RISC
+https://en.wikipedia.org/wiki/VLSI_Project
+https://en.wikipedia.org/wiki/Reduced_instruction_set_computer
+https://en.wikipedia.org/wiki/Instruction_set_architecture#SIMD_instruction
+https://en.wikipedia.org/wiki/MIPS_architecture
+https://en.wikipedia.org/wiki/Curses_(programming_library)
+https://en.wikipedia.org/wiki/Approximant
+https://en.wikipedia.org/wiki/Approximation
+https://en.wikipedia.org/wiki/Power_broker
+https://en.wikipedia.org/wiki/Showstopper_(dance_competition)
+https://en.wikipedia.org/wiki/Nuclear_weapons_and_Israel
+https://en.wikipedia.org/wiki/Full_spectrum_deterrence
+https://en.wikipedia.org/wiki/Curriculum_vitae
+https://en.wikipedia.org/wiki/Curation
+https://en.wikipedia.org/wiki/Video_game
+https://en.wikipedia.org/wiki/Debian
+https://en.wikipedia.org/wiki/Permadeath
+https://en.wikipedia.org/wiki/Game_over
+https://en.wikipedia.org/wiki/Saved_game
+https://en.wikipedia.org/wiki/Fantasy_video_game_console
+https://en.wikipedia.org/wiki/Nonconformist_(Protestantism)
+https://en.wikipedia.org/wiki/Linus_Sebastian
+https://en.wikipedia.org/wiki/List_of_Dragon_Ball_video_games
+https://en.wikipedia.org/wiki/Robert_E._Howard
+https://en.wikipedia.org/wiki/Handwashing_in_Judaism
+https://en.wikipedia.org/wiki/German_military_administration_in_occupied_France_during_World_War_II
+https://en.wikipedia.org/wiki/List_of_current_heads_of_state_and_government
+https://en.wikipedia.org/wiki/Bengal
+https://en.wikipedia.org/wiki/ECOWAS_Standby_Force
+https://en.wikipedia.org/wiki/Blue-collar_worker
+https://en.wikipedia.org/wiki/White-collar_worker
+https://en.wikipedia.org/wiki/Grey-collar
+https://en.wikipedia.org/wiki/Vocational_school
+https://en.wikipedia.org/wiki/History_of_technology
+https://en.wikipedia.org/wiki/Career_and_technical_education
+https://en.wikipedia.org/wiki/Technician
+https://en.wikipedia.org/wiki/Frank_Gehry
+https://en.wikipedia.org/wiki/Soul_jazz
+https://en.wikipedia.org/wiki/Lock_picking#Warded_pick
+https://en.wikipedia.org/wiki/Warded_lock
+https://en.wikipedia.org/wiki/Cognitive_flexibility#Set_shifting
+https://en.wikipedia.org/wiki/International_Covenant_on_Civil_and_Political_Rights
+https://en.wikipedia.org/wiki/Freedom_of_religion
+https://en.wikipedia.org/wiki/Freedom_to_roam
+https://en.wikipedia.org/wiki/Everyman
+https://en.wikipedia.org/wiki/The_Roots
+https://en.wikipedia.org/wiki/Texture_mapping_unit
+https://en.wikipedia.org/wiki/Power_of_two
+https://en.wikipedia.org/wiki/Codex_Sassoon_1053
+https://en.wikipedia.org/wiki/List_of_common_display_resolutions
+https://en.wikipedia.org/wiki/Kasa_(hat)
+https://en.wikipedia.org/wiki/Dungeon_crawl
+https://en.wikipedia.org/wiki/Roguelike
+https://en.wikipedia.org/wiki/Smart_device
+https://en.wikipedia.org/wiki/Griefer
+https://en.wikipedia.org/wiki/Strategic_Simulations
+https://en.wikipedia.org/wiki/Automata_theory
+https://en.wikipedia.org/wiki/Versed_(poetry_collection)
+https://en.wikipedia.org/wiki/Automaton
+https://en.wikipedia.org/wiki/Verse_(poetry)
+https://en.wikipedia.org/wiki/Dragon_Ball_GT:_Final_Bout
+https://en.wikipedia.org/wiki/Machicolation
+https://en.wikipedia.org/wiki/Blank_verse
+https://en.wikipedia.org/wiki/Free_verse
+https://en.wikipedia.org/wiki/Verse
+https://en.wikipedia.org/wiki/Private_server
+https://en.wikipedia.org/wiki/Nexi
+
+
 }
 
 {
