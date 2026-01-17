@@ -349,6 +349,7 @@ sk:		  South Korea,
 sri:		  Sri Lanka,
 swe:		  Sweden, Finnish Swedes,
 syr:		  Syria,
+sl:		  Somaliland,
 tnz:		  Tanzania,
 ukr:		  Ukraine
 }
@@ -2244,6 +2245,15 @@ https://en.wikipedia.org/wiki/Syria
 
 { Statecraft (Tanzanian):  tnz,gov
 https://en.wikipedia.org/wiki/Tanzania
+}
+
+
+{ Statecraft (Somalilander):  som,gov
+https://en.wikipedia.org/wiki/Somaliland
+...
+https://en.wikipedia.org/wiki/Somaliland_shilling
+https://en.wikipedia.org/wiki/Telecommunications_in_Somaliland
+https://en.wikipedia.org/wiki/List_of_states_with_limited_recognition
 }
 
 
@@ -4913,7 +4923,8 @@ https://en.wikipedia.org/wiki/PlayStation_2_technical_specifications
 https://en.wikipedia.org/wiki/Broadband
 https://en.wikipedia.org/wiki/Optical_storage
 https://en.wikipedia.org/wiki/Finnish_Maiden
-https://en.wikipedia.org/wiki/Mother_Svea
+https://en.wikipedia.org/wiki/Mother_Svea
+
 https://fi.wikipedia.org/wiki/P._E._Svinhufvud
 https://en.wikipedia.org/wiki/Hero's_journey
 https://en.wikipedia.org/wiki/Bible_Adventures
