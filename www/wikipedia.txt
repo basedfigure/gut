@@ -327,6 +327,8 @@ usa:		  United States of America,
 ben:              Benin,
 chi:		  China,
 cub:		  Cuba,
+den:              Denmark,
+est:		  Estonia,
 uk:		  United Kingdom,
 fin:		  Finland,
 fra:		  France,
@@ -1953,6 +1955,8 @@ https://en.wikipedia.org/wiki/Government-in-exile
 }
 
 { Statecraft, armed conflicts & strategies, by campaign, scenario, territory:
+era:
+https://en.wikipedia.org/wiki/Military_history_of_Denmark
 war:
 https://en.wikipedia.org/wiki/World_War_I
 https://en.wikipedia.org/wiki/World_War_II
@@ -2028,7 +2032,24 @@ https://en.wikipedia.org/wiki/Cuba
 }
 
 
-{ Statecraft, figures (British):  uk,gov
+{ Statecraft (Danish):  den,gov
+https://en.wikipedia.org/wiki/Denmark
+https://en.wikipedia.org/wiki/Danish_Defence
+https://en.wikipedia.org/wiki/Jaeger_Corps_(Denmark)
+}
+
+
+{ Statecraft (Estonian):  est,gov
+https://en.wikipedia.org/wiki/Estonia
+https://en.wikipedia.org/wiki/Estonian_Defence_Forces
+https://en.wikipedia.org/wiki/Estonian_Land_Forces
+https://en.wikipedia.org/wiki/Estonian_Special_Operations_Force
+team:
+https://en.wikipedia.org/wiki/Estonia_national_football_team
+}
+
+
+{ Statecraft (British):  uk,gov
 https://en.wikipedia.org/wiki/United_Kingdom
 https://en.wikipedia.org/wiki/Special_Air_Service
 https://en.wikipedia.org/wiki/MI6
@@ -4924,7 +4945,6 @@ https://en.wikipedia.org/wiki/Broadband
 https://en.wikipedia.org/wiki/Optical_storage
 https://en.wikipedia.org/wiki/Finnish_Maiden
 https://en.wikipedia.org/wiki/Mother_Svea
-
 https://fi.wikipedia.org/wiki/P._E._Svinhufvud
 https://en.wikipedia.org/wiki/Hero's_journey
 https://en.wikipedia.org/wiki/Bible_Adventures
@@ -5132,6 +5152,7 @@ born:
 1931:  https://en.wikipedia.org/wiki/Leonard_Nimoy
 1934:  https://en.wikipedia.org/wiki/Niklaus_Wirth
        https://en.wikipedia.org/wiki/Carl_Sagan
+       https://en.wikipedia.org/wiki/Judi_Dench
 1937:  https://en.wikipedia.org/wiki/Hunter_S._Thompson
        https://en.wikipedia.org/wiki/Jack_Nicholson
 1938:  https://en.wikipedia.org/wiki/Gary_Gygax
@@ -5161,6 +5182,8 @@ born:
        https://en.wikipedia.org/wiki/David_Hasselhoff		"hoff"
 1953:  https://en.wikipedia.org/wiki/Pierce_Brosnan
        https://en.wikipedia.org/wiki/James_Bond
+       https://en.wikipedia.org/wiki/M_(James_Bond)
+       https://en.wikipedia.org/wiki/Q_(James_Bond)
        https://en.wikipedia.org/wiki/Richard_Stallman
 1954:  https://en.wikipedia.org/wiki/Izo_Hashimoto
        https://en.wikipedia.org/wiki/Mike_Pondsmith
