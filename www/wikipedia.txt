@@ -325,6 +325,7 @@ afg:		  Afghanistan,
 alg:		  Algeria,
 usa:		  United States of America,
 ben:              Benin,
+can:		  Canada,
 chi:		  China,
 cub:		  Cuba,
 den:              Denmark,
@@ -2000,12 +2001,24 @@ list:  en.wikipedia.org/wiki/World_Leaders
 ...
 en.wikipedia.org/wiki/American_Finnish
 en.wikipedia.org/wiki/American_imperialism
-en.wikipedia.org/wiki/CIA_drug_trafficking_allegations
 }
 
 
 { Statecraft (Algerian):  alg,gov
 https://en.wikipedia.org/wiki/Algeria
+}
+
+
+{ Statecraft (Canadian):  can,gov
+https://en.wikipedia.org/wiki/Canadians
+care:
+https://en.wikipedia.org/wiki/Canadian_Dental_Care_Plan
+mil:
+https://en.wikipedia.org/wiki/Canadian_Armed_Forces
+https://en.wikipedia.org/wiki/Canadian_Special_Operations_Forces_Command
+spy:
+https://en.wikipedia.org/wiki/Intelligence_services_in_Canada
+https://en.wikipedia.org/wiki/Canadian_Intelligence_Corps
 }
 
 
@@ -2041,11 +2054,14 @@ https://en.wikipedia.org/wiki/Jaeger_Corps_(Denmark)
 
 { Statecraft (Estonian):  est,gov
 https://en.wikipedia.org/wiki/Estonia
+poli:
+https://en.wikipedia.org/wiki/Foreign_relations_of_Estonia
+mil:
 https://en.wikipedia.org/wiki/Estonian_Defence_Forces
 https://en.wikipedia.org/wiki/Estonian_Land_Forces
 https://en.wikipedia.org/wiki/Estonian_Special_Operations_Force
-team:
-https://en.wikipedia.org/wiki/Estonia_national_football_team
+pop:
+https://en.wikipedia.org/wiki/Estonian_Swedes
 }
 
 
@@ -2677,8 +2693,11 @@ To-do:  poetry ...
 
 
 
-{ Sports, events & competitions, by size: -
+{ Sports, events, competitions & teams, by size, sport: -
 https://en.wikipedia.org/wiki/Olympic_Games
+team:
+https://en.wikipedia.org/wiki/Estonia_national_football_team
+https://en.wikipedia.org/wiki/Estonian_Badminton_Federation
 }
 
 { Sports & training, by physicality, goal (solo):
@@ -2704,6 +2723,7 @@ https://en.wikipedia.org/wiki/Snowboarding
 { Martial arts & combat sports training, by system, arm:  exo
 https://en.wikipedia.org/wiki/Karate
 https://en.wikipedia.org/wiki/Judo
+https://en.wikipedia.org/wiki/Kendo
 https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu
 https://en.wikipedia.org/wiki/Boxing
 arm:
@@ -5030,7 +5050,9 @@ https://en.wikipedia.org/wiki/Verse
 https://en.wikipedia.org/wiki/Private_server
 https://en.wikipedia.org/wiki/Nexi
 
-
+https://en.wikipedia.org/wiki/Unincorporated_area
+https://en.wikipedia.org/wiki/Puppeteer
+To-do (card):  https://en.wikipedia.org/wiki/Aquiline_nose
 }
 
 {
