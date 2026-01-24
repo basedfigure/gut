@@ -2,6 +2,7 @@ CIA:  sak
 https://en.wikipedia.org/wiki/George_Bush_Center_for_Intelligence
 https://en.wikipedia.org/wiki/Langley,_Virginia
 past:
+https://en.wikipedia.org/wiki/CIA_activities_in_Japan
 en.wikipedia.org/wiki/CIA_activities_in_Iran
 myst:
 en.wikipedia.org/wiki/CIA_drug_trafficking_allegations
