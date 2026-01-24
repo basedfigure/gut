@@ -63,7 +63,7 @@ e on Linux.
      2.0. Language		lang
      3.0. Work			act
      4.0. Computers		pc,port
-     5.0. Software		code
+     5.0. Software		code,dev
      6.0. Machines		mech	
      7.0. Wares			ware
      8.0. Economy		curr
@@ -439,6 +439,7 @@ https://en.wikipedia.org/wiki/Wolf
 https://en.wikipedia.org/wiki/Dog
  https://en.wikipedia.org/wiki/Dalmatian_dog
  https://en.wikipedia.org/wiki/Golden_Retriever
+ https://en.wikipedia.org/wiki/Jack_Russell_Terrier
 https://en.wikipedia.org/wiki/Tiger
 https://en.wikipedia.org/wiki/Cat
 https://en.wikipedia.org/wiki/Bear
@@ -765,6 +766,7 @@ https://en.wikipedia.org/wiki/Utility_software
 https://en.wikipedia.org/wiki/Middleware
 https://en.wikipedia.org/wiki/Middleware_(distributed_applications)
 https://en.wikipedia.org/wiki/Emulator
+https://en.wikipedia.org/wiki/Internationalization_and_localization
 data:
 https://en.wikipedia.org/wiki/Heap_(data_structure)
 https://en.wikipedia.org/wiki/Data_type
@@ -1371,6 +1373,7 @@ https://en.wikipedia.org/wiki/Ghetto
 
 { Populations - criminal & terrorist organizations, by faction, sector, case:
 face:
+https://en.wikipedia.org/wiki/Yoshio_Kodama
 https://en.wikipedia.org/wiki/Larry_Hoover
 mob:
 https://en.wikipedia.org/wiki/Bloods
@@ -1957,6 +1960,7 @@ https://en.wikipedia.org/wiki/Government-in-exile
 
 { Statecraft, armed conflicts & strategies, by campaign, scenario, territory:
 era:
+https://en.wikipedia.org/wiki/List_of_wars_involving_Japan
 https://en.wikipedia.org/wiki/Military_history_of_Denmark
 war:
 https://en.wikipedia.org/wiki/World_War_I
@@ -1965,7 +1969,8 @@ https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war
 https://en.wikipedia.org/wiki/Timeline_of_the_Gaza_war
 rare:  https://en.wikipedia.org/wiki/World_War_III
 scen:
-https://en.wikipedia.org/wiki/2025_Beninese_coup_attempt
+jap:  https://en.wikipedia.org/wiki/Russo-Japanese_War
+afr:  https://en.wikipedia.org/wiki/2025_Beninese_coup_attempt
 area:
 https://en.wikipedia.org/wiki/Gaza_Strip
 game:
@@ -2147,7 +2152,14 @@ https://en.wikipedia.org/wiki/Iraqi_Ground_Forces
 { Statecraft (Japanese):  jap,gov
 https://en.wikipedia.org/wiki/Japan
 mil:
+https://en.wikipedia.org/wiki/Kempeitai
+https://en.wikipedia.org/wiki/Japan_Self-Defense_Forces
 https://en.wikipedia.org/wiki/Special_Forces_Group_(Japan)
+spy:
+https://en.wikipedia.org/wiki/Public_Security_Intelligence_Agency
+https://en.wikipedia.org/wiki/Defense_Intelligence_Headquarters
+https://en.wikipedia.org/wiki/Cabinet_Intelligence_and_Research_Office
+https://en.wikipedia.org/wiki/Fleet_Intelligence_Command
 }
 
 
