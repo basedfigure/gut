@@ -496,15 +496,19 @@ https://en.wikipedia.org/wiki/Neanderthal
 evo:
 https://en.wikipedia.org/wiki/Parasite-stress_theory
 
+
 { Humans, biology, anatomy & organs by system, part, function (life):
 https://en.wikipedia.org/wiki/Cell_(biology)
 https://en.wikipedia.org/wiki/Human_body
 https://en.wikipedia.org/wiki/Biological_system
 https://en.wikipedia.org/wiki/Organ_system
 https://en.wikipedia.org/wiki/Organ_(biology)
+body:
+https://en.wikipedia.org/wiki/Aquiline_nose
 pose:
 https://en.wikipedia.org/wiki/Fetal_position 
 }
+
 
 { Humans, cognition, psyche & emotions, by structure, sense, stimuli (brain)
 https://en.wikipedia.org/wiki/Emotion
@@ -520,14 +524,17 @@ https://en.wikipedia.org/wiki/Autobiographical_memory
 https://en.wikipedia.org/wiki/Morale
 }
 
+
 { Humans, evolution, survival & practices (legacy):  bush,hunt,lure,agri,garb,veg,meat
 https://en.wikipedia.org/wiki/Fishing
 }
+
 
 { Humans, evolution & neurobiology, by study (brain):
 mag:
 https://en.wikipedia.org/wiki/Neurobiology_of_Learning_and_Memory
 }
+
 
 To-do:  dinosaurs
 
@@ -1135,11 +1142,8 @@ https://en.wikipedia.org/wiki/Oceania
 }
 
 { Geographical areas, sites & monuments, by country (modern): -
-spa:
-https://en.wikipedia.org/wiki/Spain
-cub:
-https://en.wikipedia.org/wiki/Cuba
-https://en.wikipedia.org/wiki/Havana
+usa:
+https://en.wikipedia.org/wiki/The_Pentagon
 }
 
 { Geographical areas, sites & monuments, by country (historic):
@@ -1958,21 +1962,28 @@ en.wikipedia.org/wiki/Spygate_(conspiracy_theory)		"don"
 https://en.wikipedia.org/wiki/Government-in-exile
 }
 
-{ Statecraft, armed conflicts & strategies, by campaign, scenario, territory:
+{ Statecraft, strategies & armed conflicts, by campaign, scenario, territory:
 era:
 https://en.wikipedia.org/wiki/List_of_wars_involving_Japan
 https://en.wikipedia.org/wiki/Military_history_of_Denmark
-war:
+
+glob:
 https://en.wikipedia.org/wiki/World_War_I
 https://en.wikipedia.org/wiki/World_War_II
 https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war
 https://en.wikipedia.org/wiki/Timeline_of_the_Gaza_war
 rare:  https://en.wikipedia.org/wiki/World_War_III
+
 scen:
-jap:  https://en.wikipedia.org/wiki/Russo-Japanese_War
-afr:  https://en.wikipedia.org/wiki/2025_Beninese_coup_attempt
-area:
+afr:
+https://en.wikipedia.org/wiki/2025_Beninese_coup_attempt
+den:
+https://en.wikipedia.org/wiki/Greenland_crisis
+gaza:
 https://en.wikipedia.org/wiki/Gaza_Strip
+jap:
+https://en.wikipedia.org/wiki/Russo-Japanese_War
+
 game:
 https://en.wikipedia.org/wiki/Hobbesian_trap
 }
@@ -2057,6 +2068,12 @@ https://en.wikipedia.org/wiki/Jaeger_Corps_(Denmark)
 }
 
 
+{ Statecraft (Greenlander):  den,gov
+https://en.wikipedia.org/wiki/Greenland
+https://en.wikipedia.org/wiki/Greenlanders
+}
+
+
 { Statecraft (Estonian):  est,gov
 https://en.wikipedia.org/wiki/Estonia
 poli:
@@ -2090,6 +2107,11 @@ utjr:  https://en.wikipedia.org/wiki/Utti_Jaeger_Regiment
 supo:  https://en.wikipedia.org/wiki/Finnish_Security_and_Intelligence_Service
 https://en.wikipedia.org/wiki/Finnish_Defence_Intelligence_Agency
 https://en.wikipedia.org/wiki/Police_Rapid_Response_Unit_(Finland)
+}
+
+
+{ Statecraft (Åland):  fin,gov 
+https://en.wikipedia.org/wiki/Åland
 }
 
 
@@ -5064,7 +5086,21 @@ https://en.wikipedia.org/wiki/Nexi
 
 https://en.wikipedia.org/wiki/Unincorporated_area
 https://en.wikipedia.org/wiki/Puppeteer
-To-do (card):  https://en.wikipedia.org/wiki/Aquiline_nose
+
+https://en.wikipedia.org/wiki/Central_Intelligence_Group
+https://en.wikipedia.org/wiki/Strategic_Services_Unit
+https://en.wikipedia.org/wiki/Flag_of_Hong_Kong
+https://en.wikipedia.org/wiki/Self-destructive_behavior
+https://en.wikipedia.org/wiki/Night_City_(Cyberpunk_2020)
+https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster
+https://en.wikipedia.org/wiki/XPaint
+https://en.wikipedia.org/wiki/Vaporware
+https://en.wikipedia.org/wiki/Competition_law
+https://en.wikipedia.org/wiki/Spain
+https://en.wikipedia.org/wiki/Cuba
+https://en.wikipedia.org/wiki/Havana
+
+:dump
 }
 
 {
@@ -5131,7 +5167,6 @@ https://en.wikipedia.org/wiki/Todd_McFarlane
 https://en.wikipedia.org/wiki/Keanu_Reeves
 https://en.wikipedia.org/wiki/Sam_Altman
 https://en.wikipedia.org/wiki/Mark_Zuckerberg
-https://en.wikipedia.org/wiki/Mikael_Agricola
 https://en.wikipedia.org/wiki/Ronnie_James_Dio
                                         
 born:
@@ -5140,6 +5175,7 @@ born:
 1157:  https://en.wikipedia.org/wiki/Richard_I_of_England
 1451:  https://en.wikipedia.org/wiki/Christopher_Columbus
 1452:  https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+1510:  https://en.wikipedia.org/wiki/Mikael_Agricola		"cola"
 1564:  https://en.wikipedia.org/wiki/William_Shakespeare
 1706:  https://en.wikipedia.org/wiki/Benjamin_Franklin
 1728:  https://en.wikipedia.org/wiki/James_Cook
