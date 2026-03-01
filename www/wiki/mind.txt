@@ -2,3 +2,7 @@ MIND:
 
 sick:
 https://en.wikipedia.org/wiki/Schizophrenia 
+
+psy:
+https://en.wikipedia.org/wiki/Classic_autism
+https://en.wikipedia.org/wiki/Intellectual_disability
