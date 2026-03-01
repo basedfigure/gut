@@ -2110,7 +2110,7 @@ https://en.wikipedia.org/wiki/Police_Rapid_Response_Unit_(Finland)
 }
 
 
-{ Statecraft (Åland):  fin,gov 
+{ Statecraft (Ålander):  fin,gov 
 https://en.wikipedia.org/wiki/Åland
 }
 
@@ -2976,6 +2976,7 @@ https://en.wikipedia.org/wiki/Quran
 https://en.wikipedia.org/wiki/Hadith
 code:
 https://en.wikipedia.org/wiki/Church_(building)
+https://en.wikipedia.org/wiki/Mosque
 ...
 }
 
@@ -5088,7 +5089,11 @@ https://en.wikipedia.org/wiki/Unincorporated_area
 https://en.wikipedia.org/wiki/Puppeteer
 
 https://en.wikipedia.org/wiki/Central_Intelligence_Group
-https://en.wikipedia.org/wiki/Strategic_Services_Unit
+https://en.wikipedia.org/wiki/Strategic_Services_Unit
+
+
+
+
 https://en.wikipedia.org/wiki/Flag_of_Hong_Kong
 https://en.wikipedia.org/wiki/Self-destructive_behavior
 https://en.wikipedia.org/wiki/Night_City_(Cyberpunk_2020)
