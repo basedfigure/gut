@@ -2938,6 +2938,7 @@ stud:
 https://en.wikipedia.org/wiki/Apostle
 https://en.wikipedia.org/wiki/Disciple
 sys:
+https://en.wikipedia.org/wiki/Indigenous_religion
 https://en.wikipedia.org/wiki/Ethnic_religion
 https://en.wikipedia.org/wiki/Folk_religion
 https://en.wikipedia.org/wiki/Major_religious_groups
@@ -2948,10 +2949,28 @@ https://en.wikipedia.org/wiki/Hinduism
 https://en.wikipedia.org/wiki/Taoism
 https://en.wikipedia.org/wiki/Buddhism
 https://en.wikipedia.org/wiki/Christianity
+https://en.wikipedia.org/wiki/Catholic_Church
+https://en.wikipedia.org/wiki/Eastern_Orthodox_Church
+https://en.wikipedia.org/wiki/Oriental_Orthodoxy
+https://en.wikipedia.org/wiki/Protestantism
+https://en.wikipedia.org/wiki/Jehovah's_Witnesses
+https://en.wikipedia.org/wiki/Judaism
+https://en.wikipedia.org/wiki/Orthodox_Judaism
+https://en.wikipedia.org/wiki/Hasidic_Judaism
+https://en.wikipedia.org/wiki/Conservative_Judaism
+https://en.wikipedia.org/wiki/Reform_Judaism
+https://en.wikipedia.org/wiki/Karaite_Judaism
+https://en.wikipedia.org/wiki/Sikhism
+https://en.wikipedia.org/wiki/Jainism
+https://en.wikipedia.org/wiki/Shinto
+https://en.wikipedia.org/wiki/Zoroastrianism
+https://en.wikipedia.org/wiki/Confucianism
+https://en.wikipedia.org/wiki/African_traditional_religions
 https://en.wikipedia.org/wiki/Islam
 folk:
 https://en.wikipedia.org/wiki/Mongolian_shamanism
-cult:  
+cult:
+https://en.wikipedia.org/wiki/Wicca
 https://en.wikipedia.org/wiki/Satanism
 }
 
